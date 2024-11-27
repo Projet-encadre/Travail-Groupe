@@ -1,0 +1,7 @@
+table {
+    display: none;
+}
+
+table.active {
+    display: table;
+}

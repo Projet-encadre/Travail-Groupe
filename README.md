@@ -1,6 +1,6 @@
 # Travail-Groupe
 
-Membres de notre groupe : CHEN Dingding(P3), WANG Xiaobo(INALCO)
+Membres de notre groupe : CHENG Dingding(P3), WANG Xiaobo(INALCO)
 
 Le lien de chaque membre : 
 https://github.com/Xiaobo33
