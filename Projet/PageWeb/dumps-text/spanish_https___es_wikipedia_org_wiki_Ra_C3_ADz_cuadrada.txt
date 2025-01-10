@@ -1,0 +1,3062 @@
+   #[1]alternate [2]Wikipedia (es) [3]Canal Atom de Wikipedia
+
+   [4]Ir al contenido
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Navegación
+     * [5]Portada
+     * [6]Portal de la comunidad
+     * [7]Actualidad
+     * [8]Cambios recientes
+     * [9]Páginas nuevas
+     * [10]Página aleatoria
+     * [11]Ayuda
+     * [12]Notificar un error
+
+   [13]Wikipedia La enciclopedia libre
+   [14]Buscar
+   ____________________
+   (BUTTON) Buscar
+
+   [ ] Apariencia
+
+     * [15]Donaciones
+     * [16]Crear una cuenta
+     * [17]Acceder
+
+   [ ] Herramientas personales
+     * [18]Donaciones
+     * [19]Crear una cuenta
+     * [20]Acceder
+
+   Páginas para editores desconectados [21]más información
+     * [22]Contribuciones
+     * [23]Discusión
+
+Contenidos
+
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+     * [24]Inicio
+     * [25]1 Historia
+       (BUTTON) Alternar subsección Historia
+          + [26]1.1 Símbolo de la raíz cuadrada
+            '"`UNIQ--postMath-00000011-QINU`"'
+     * [27]2 Función raíz cuadrada
+       (BUTTON) Alternar subsección Función raíz cuadrada
+          + [28]2.1 Propiedades generales
+          + [29]2.2 Irracionalidad de las raíces cuadradas
+          + [30]2.3 Radicales jerarquizados cuadrados
+          + [31]2.4 Fracciones continuas
+          + [32]2.5 Aproximaciones enteras
+     * [33]3 Extensión de la función raíz cuadrada
+       (BUTTON) Alternar subsección Extensión de la función raíz cuadrada
+          + [34]3.1 La raíz cuadrada de un número complejo
+               o [35]3.1.1 Raíz cuadrada de un número imaginario
+               o [36]3.1.2 Raíz cuadrada principal de un número complejo
+               o [37]3.1.3 Fórmula algebraica
+               o [38]3.1.4 Notas
+          + [39]3.2 Raíces cuadradas en los cuaterniones
+          + [40]3.3 Raíz cuadrada de matrices
+          + [41]3.4 Raíz cuadrada en cuerpo finito
+     * [42]4 Cálculo de raíces cuadradas
+       (BUTTON) Alternar subsección Cálculo de raíces cuadradas
+          + [43]4.1 Algoritmo
+          + [44]4.2 Utilizando logaritmos
+          + [45]4.3 Algoritmos para máquinas
+     * [46]5 Construcción geométrica de la raíz cuadrada
+       (BUTTON) Alternar subsección Construcción geométrica de la raíz
+       cuadrada
+          + [47]5.1 Pasos a seguir para la construcción geométrica
+          + [48]5.2 Demostración de que OH es igual a la raíz cuadrada de
+            OB
+     * [49]6 Raíces cuadradas útiles
+       (BUTTON) Alternar subsección Raíces cuadradas útiles
+          + [50]6.1 Raíz cuadrada de 2
+          + [51]6.2 Raíz cuadrada de 3
+          + [52]6.3 Raíz cuadrada de 5
+     * [53]7 Usos y casos
+     * [54]8 Véase también
+     * [55]9 Referencias
+       (BUTTON) Alternar subsección Referencias
+          + [56]9.1 Notas
+          + [57]9.2 Bibliografía
+     * [58]10 Enlaces externos
+
+   [ ] Cambiar a la tabla de contenidos
+
+Raíz cuadrada
+
+   [ ] 97 idiomas
+     * [59]Afrikaans
+     * [60]العربية
+     * [61]Asturianu
+     * [62]Azərbaycanca
+     * [63]Башҡортса
+     * [64]Bikol Central
+     * [65]Беларуская
+     * [66]Беларуская (тарашкевіца)
+     * [67]Български
+     * [68]বাংলা
+     * [69]Brezhoneg
+     * [70]Bosanski
+     * [71]Català
+     * [72]کوردی
+     * [73]Čeština
+     * [74]Чӑвашла
+     * [75]Cymraeg
+     * [76]Dansk
+     * [77]Deutsch
+     * [78]Ελληνικά
+     * [79]English
+     * [80]Esperanto
+     * [81]Eesti
+     * [82]Euskara
+     * [83]فارسی
+     * [84]Suomi
+     * [85]Føroyskt
+     * [86]Français
+     * [87]Furlan
+     * [88]贛語
+     * [89]Kriyòl gwiyannen
+     * [90]Galego
+     * [91]ગુજરાતી
+     * [92]עברית
+     * [93]हिन्दी
+     * [94]Hrvatski
+     * [95]Magyar
+     * [96]Հայերեն
+     * [97]Bahasa Indonesia
+     * [98]Ido
+     * [99]Íslenska
+     * [100]Italiano
+     * [101]日本語
+     * [102]Patois
+     * [103]ქართული
+     * [104]Қазақша
+     * [105]ಕನ್ನಡ
+     * [106]한국어
+     * [107]Кыргызча
+     * [108]Latina
+     * [109]Lingua Franca Nova
+     * [110]Lombard
+     * [111]ລາວ
+     * [112]Lietuvių
+     * [113]Latviešu
+     * [114]Македонски
+     * [115]മലയാളം
+     * [116]मराठी
+     * [117]Bahasa Melayu
+     * [118]Malti
+     * [119]မြန်မာဘာသာ
+     * [120]नेपाली
+     * [121]नेपाल भाषा
+     * [122]Nederlands
+     * [123]Norsk nynorsk
+     * [124]Norsk bokmål
+     * [125]Occitan
+     * [126]Oromoo
+     * [127]ਪੰਜਾਬੀ
+     * [128]Polski
+     * [129]Português
+     * [130]Română
+     * [131]Русский
+     * [132]Sicilianu
+     * [133]Srpskohrvatski / српскохрватски
+     * [134]Simple English
+     * [135]Slovenščina
+     * [136]Shqip
+     * [137]Српски / srpski
+     * [138]Sunda
+     * [139]Svenska
+     * [140]Kiswahili
+     * [141]தமிழ்
+     * [142]తెలుగు
+     * [143]Tagalog
+     * [144]Türkçe
+     * [145]Українська
+     * [146]اردو
+     * [147]Oʻzbekcha / ўзбекча
+     * [148]Tiếng Việt
+     * [149]Winaray
+     * [150]吴语
+     * [151]ייִדיש
+     * [152]Yorùbá
+     * [153]中文
+     * [154]閩南語 / Bân-lâm-gú
+     * [155]粵語
+
+   [156]Editar enlaces
+
+     * [157]Artículo
+     * [158]Discusión
+
+   [ ] español
+
+     * [159]Leer
+     * [160]Ver código fuente
+     * [161]Ver historial
+
+   [ ] Herramientas
+   Herramientas
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Acciones
+     * [162]Leer
+     * [163]Ver código fuente
+     * [164]Ver historial
+
+   General
+     * [165]Lo que enlaza aquí
+     * [166]Cambios en enlazadas
+     * [167]Subir archivo
+     * [168]Páginas especiales
+     * [169]Enlace permanente
+     * [170]Información de la página
+     * [171]Citar esta página
+     * [172]Obtener URL acortado
+     * [173]Descargar código QR
+
+   Imprimir/exportar
+     * [174]Crear un libro
+     * [175]Descargar como PDF
+     * [176]Versión para imprimir
+
+   En otros proyectos
+     * [177]Wikimedia Commons
+     * [178]Elemento de Wikidata
+
+   Apariencia
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   De Wikipedia, la enciclopedia libre
+   [179][220px-Racine_carr%C3%A9e_bleue.svg.png] Expresión matemática de
+   "Raíz cuadrada de x".
+
+   En [180]matemáticas, la raíz cuadrada de un número
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x} es aquel número
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>y</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle y}</annotation>
+   </semantics> :MATH]
+   {\displaystyle y} que [181]al ser multiplicado por sí mismo da como
+   resultado el valor
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x} , es decir, cumple la ecuación
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>y</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+   <mi>x</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle y^{2}=x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle y^{2}=x} .^[182][1]​ Se corresponde con la
+   [183]radicación de índice 2 o, equivalentemente, con la
+   [184]potenciación de exponente 1/2.
+   Como toda raíz par de un real positivo tiene dos raíces opuestas entre
+   sí, la denotada se establece según la notación específica consensuada.
+   Así, cualquier número real no negativo
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x} tiene una raíz cuadrada positiva única o raíz
+   cuadrada principal^[185][2]​ denotada como
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}} donde
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mspace width="thickmathspace" /> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+   {\;}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {\;}}} es el símbolo raíz y
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x} es el radicando. La notación habitual para referir a
+   la raíz negativa es
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>−</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle -{\sqrt
+   {x}}}</annotation> </semantics> :MATH]
+   {\displaystyle -{\sqrt {x}}} y para la positiva,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}} ; para ambas,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>±</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \pm
+   {\sqrt {x}}}</annotation> </semantics> :MATH]
+   {\displaystyle \pm {\sqrt {x}}} o bien
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>∓</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \mp
+   {\sqrt {x}}}</annotation> </semantics> :MATH]
+   {\displaystyle \mp {\sqrt {x}}} según el orden requerido.
+
+   El concepto puede extenderse a cualquier [186]anillo algebraico, así es
+   posible definir la raíz cuadrada de un número real negativo o la raíz
+   cuadrada de algunas [187]matrices. En los [188]números cuaterniónicos,
+   los números reales negativos admiten un número infinito de raíces
+   cuadradas, sin embargo el resto de cuaterniones diferentes de cero
+   admiten solo dos raíces cuadradas. En el anillo no conmutativo de las
+   funciones reales de variable real con la adición y la composición de
+   funciones si fºf = g, se puede plantear que f es la "raíz cuadrada" de
+   g.^[189][3]​
+
+Historia
+
+   Las raíces cuadradas son expresiones matemáticas que surgieron al
+   plantear diversos problemas geométricos como la longitud de la diagonal
+   de un cuadrado. El [190]Papiro de Ahmes datado hacia 1650 a. C., que
+   copia textos más antiguos, muestra cómo los egipcios extraían raíces
+   cuadradas.^[191][4]​
+
+   En la [192]antigua India, el conocimiento de aspectos teóricos y
+   aplicados del cuadrado y la raíz cuadrada fue, al menos, tan antiguo
+   como los [193]Sulba Sutras, fechados entre el 500 y el 300 a. C. Un
+   método para encontrar muy buenas aproximaciones a las raíces cuadradas
+   de 2 y 3 es dado en el [194]Baudhayana Sulba Sutra.^[195][5]​
+   [196]Aryabhata (476-550) en su tratado [197]Aryabhatiya (sección 2.4),
+   dio un método para encontrar la raíz cuadrada de números con varios
+   dígitos.
+
+   Los [198]babilonios [199]aproximaban raíces cuadradas haciendo cálculos
+   mediante la [200]media aritmética reiteradamente. En términos modernos,
+   se trata de construir una sucesión
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>,</mo> <msub>
+   <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mo>,</mo> <msub> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msub> <mo>,</mo> <msub> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msub> <mo>,</mo>
+   <mo>…</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   a_{0},a_{1},a_{2},a_{3},\dots }</annotation> </semantics> :MATH]
+   {\displaystyle a_{0},a_{1},a_{2},a_{3},\dots } dada por:^[201][6]​
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <msub> <mi>a</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow>
+     </msub> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn>
+     <mn>2</mn> </mfrac> </mrow> <mrow> <mo>(</mo> <mrow> <msub>
+     <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+     <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>a</mi> <msub>
+     <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+     </mfrac> </mrow> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mstyle>
+     </mrow> <annotation encoding="application/x-tex">{\displaystyle
+     a_{n+1}={\frac {1}{2}}\left(a_{n}+{\frac
+     {a}{a_{n}}}\right).}</annotation> </semantics> :MATH]
+     {\displaystyle a_{n+1}={\frac {1}{2}}\left(a_{n}+{\frac
+     {a}{a_{n}}}\right).}
+
+   Puede demostrarse que esta [202]sucesión matemática converge de manera
+   que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+   stretchy="false">→</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+   <mi>a</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle a_{n}\to {\sqrt
+   {a}}}</annotation> </semantics> :MATH]
+   {\displaystyle a_{n}\to {\sqrt {a}}} (como valor inicial
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   a_{0}}</annotation> </semantics> :MATH]
+   {\displaystyle a_{0}} puede tomarse con buena aproximación el entero
+   más cercano al valor de la raíz cuadrada). Las raíces cuadradas fueron
+   uno de los primeros desarrollos de las matemáticas, siendo
+   particularmente investigadas durante el [203]periodo pitagórico, cuando
+   el descubrimiento de que la [204]raíz cuadrada de 2 era [205]irracional
+   ([206]inconmensurable) o no expresable como cociente alguno, lo que
+   supuso un hito en la matemática de la época.
+
+   Inicialmente se demostró la utilidad de la raíz cuadrada para la
+   resolución de problemas [207]trigonométricos y [208]geométricos, como
+   el cálculo de la longitud de la diagonal de un cuadrado o el
+   [209]teorema de Pitágoras. Posteriormente ganó utilidad para operar con
+   polinomios y resolver ecuaciones de [210]segundo grado o superior, y
+   son en la actualidad una de las herramientas matemáticas más
+   elementales.
+
+   [211]David Eugene Smith, en [212]History of Mathematics, dice acerca de
+   la situación existente:
+
+   "En Europa esos métodos (para encontrar el cuadrado y la raíz cuadrada)
+   no aparecieron antes de [213]Cataneo (1546). Él dio el método de
+   [214]Ariabhata para determinar la raíz cuadrada".^[215][7]​
+
+   [216]Pietro Antonio Cataldi calculó en 1613 la raíz cuadrada
+   aproximando por [217]fracciones continuas, como aparece en la obra
+   común [218]Historia de la matemática de [219]Julio Rey Pastor y
+   [220]José Babini.
+
+   Posteriormente, se fue ampliando la [221]definición de raíz cuadrada.
+   Varios matemáticos vieron la necesidad de idear números que
+   representasen la raíz cuadrada de [222]números reales [223]negativos
+   para poder resolver todas las ecuaciones de segundo grado, pero no fue
+   sino hasta 1777 cuando el matemático suizo [224]Leonhard Euler
+   simbolizó la raíz cuadrada de –1 con la letra i. La generalización de
+   la función raíz cuadrada de los números negativos da lugar al concepto
+   de los [225]números imaginarios y al [226]cuerpo de los [227]números
+   complejos, algo necesario para que cualquier [228]polinomio tenga todas
+   sus raíces ([229]teorema fundamental del álgebra).^[230][8]​ La
+   [231]diagonalización de [232]matrices también permite el cálculo rápido
+   de la raíz de una matriz.
+
+Símbolo de la raíz cuadrada
+[MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle displaystyle="true"
+scriptlevel="0"> <mo stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD">
+<msqrt> <mtext> </mtext> </msqrt> </mrow> <mo stretchy="false">)</mo>
+</mstyle> </mrow> <annotation encoding="application/x-tex">{\displaystyle
+({\sqrt {\ }})}</annotation> </semantics> :MATH]
+{\displaystyle ({\sqrt {\ }})}
+
+   En occidente a principios del siglo XIII [233]Juan Hispalense,
+   integrante de la incipiente [234]escuela de traductores de Toledo,
+   tradujo al latín y español obras de astrónomos y matemáticos árabes:
+   [235]Albumasar, [236]Al-Kindi, [237]Al-Battani y [238]Thábit ibn Qurra
+   incorporando el signo " ? " como símbolo para la utilización de la
+   raíz. También utilizará " ? " [239]Leonardo de Pisa en su obra
+   "Practica Geometriae".
+
+   El actual símbolo de la raíz cuadrada
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mtext> </mtext> </msqrt> </mrow> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle ({\sqrt {\
+   }})}</annotation> </semantics> :MATH]
+   {\displaystyle ({\sqrt {\ }})} fue introducido en 1525 por el
+   matemático [240]Christoph Rudolff para representar esta
+   operación,^[241][9]​^[242][10]​ que aparece en su libro [243]Coss, el
+   primer tratado de álgebra escrito en [244]alemán vulgar. El signo no es
+   más que una forma estilizada de la letra [245]r [246]minúscula para
+   hacerla más elegante^[[247]cita requerida], alargándola con un trazo
+   horizontal, hasta adoptar el aspecto actual, que representa la palabra
+   [248]latina radix, que significa [249]raíz.
+
+Función raíz cuadrada
+
+   [250][300px-Square_root_0_25.svg.png] La gráfica de la función
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+   <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle f(x)={\sqrt
+   {x}}}</annotation> </semantics> :MATH]
+   {\displaystyle f(x)={\sqrt {x}}} es una semi[251]parábola con
+   [252]directriz vertical.
+
+   La raíz cuadrada permite definir una [253]función real cuyo
+   [254]dominio e [255]imagen es el conjunto
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow> <mo>[</mo> <mrow>
+   <mn>0</mn> <mo>,</mo> <mi mathvariant="normal">∞</mi> </mrow>
+   <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \left[0,\infty
+   \right)}</annotation> </semantics> :MATH]
+   {\displaystyle \left[0,\infty \right)} (el conjunto de todos los
+   números reales no negativos). Para cada [256]número real x esta función
+   se define como el único número no negativo y que elevado al cuadrado es
+   igual a x. Consiste en hallar el número del que se conoce su cuadrado.
+   La función raíz cuadrada de x se expresa de la siguiente manera:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+     stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+     <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi>
+     </msqrt> </mrow> </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle f(x)={\sqrt
+     {x}}}</annotation> </semantics> :MATH]
+     {\displaystyle f(x)={\sqrt {x}}}
+
+   Usualmente la raíz cuadrada de un número entero no es un número
+   racional a menos que el número entero sea un [257]cuadrado perfecto,
+   como por ejemplo:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+     <msqrt> <mn>16</mn> </msqrt> </mrow> <mo>=</mo> <mn>4</mn>
+     <mo>,</mo> <mspace width="1em" /> <mrow class="MJX-TeXAtom-ORD">
+     <msqrt> <mn>64</mn> </msqrt> </mrow> <mo>=</mo> <mn>8</mn>
+     <mo>,</mo> <mspace width="1em" /> <mrow class="MJX-TeXAtom-ORD">
+     <msqrt> <mn>144</mn> </msqrt> </mrow> <mo>=</mo> <mn>12</mn>
+     </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle {\sqrt {16}}=4,\quad
+     {\sqrt {64}}=8,\quad {\sqrt {144}}=12}</annotation> </semantics>
+     :MATH]
+     {\displaystyle {\sqrt {16}}=4,\quad {\sqrt {64}}=8,\quad {\sqrt
+     {144}}=12}
+
+   ya que:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mn>16</mn> <mo>=</mo>
+     <mn>4</mn> <mo>×</mo> <mn>4</mn> <mo>=</mo> <msup> <mn>4</mn> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>,</mo>
+     <mspace width="1em" /> <mn>64</mn> <mo>=</mo> <mn>8</mn> <mo>×</mo>
+     <mn>8</mn> <mo>=</mo> <msup> <mn>8</mn> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>,</mo>
+     <mspace width="1em" /> <mn>144</mn> <mo>=</mo> <mn>12</mn>
+     <mo>×</mo> <mn>12</mn> <mo>=</mo> <msup> <mn>12</mn> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mstyle>
+     </mrow> <annotation encoding="application/x-tex">{\displaystyle
+     16=4\times 4=4^{2},\quad 64=8\times 8=8^{2},\quad 144=12\times
+     12=12^{2}}</annotation> </semantics> :MATH]
+     {\displaystyle 16=4\times 4=4^{2},\quad 64=8\times 8=8^{2},\quad
+     144=12\times 12=12^{2}}
+
+   La [258]función raíz cuadrada, en general, transforma [259]números
+   racionales en [260]números algebraicos;
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}} es racional [261]si y sólo si x es un
+   número racional que puede escribirse como [262]fracción de dos
+   [263]cuadrados perfectos. Si el denominador es
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mn>1</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+   <mn>1</mn> <mspace width="thinmathspace" /> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   1^{2}=1\,}</annotation> </semantics> :MATH]
+   {\displaystyle 1^{2}=1\,} , entonces se trata de un [264]número
+   natural. Sin embargo,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>2</mn> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {2}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {2}}} es [265]irracional.
+
+   El descubrimiento de que la raíz cuadrada de muchos números era un
+   [266]número irracional se atribuye a los [267]pitagóricos. Los
+   babilonios y egipcios ya disponían de medios de estimar numéricamente
+   la raíz cuadrada, pero su interés parece haber sido eminentemente
+   práctico, por lo que no parecen existir referencias sobre la naturaleza
+   de la raíz cuadrada y el problema de si esta podía ser expresada como
+   cociente de dos números enteros.
+
+   La interpretación geométrica es que la función raíz cuadrada transforma
+   la [268]superficie de un [269]cuadrado en la [270]longitud de su lado.
+
+Propiedades generales
+
+   [271][150px-Funci%C3%B3n_Continua_044.svg.png] Gráfica de la ecuación:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>y</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+   <mi>x</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle y^{2}=x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle y^{2}=x} o también
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>y</mi> <mo>=</mo> <mo>±</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle y=\pm {\sqrt
+   {x}}}</annotation> </semantics> :MATH]
+   {\displaystyle y=\pm {\sqrt {x}}} (como [272]función multivaluada).
+
+   Las siguientes propiedades de la raíz cuadrada son válidas para todos
+   los [273]números reales no negativos x, y:
+
+   Raíz n-ésima del radicando:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow>
+   </msup> <mo>=</mo> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+   <msup> <mi>n</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn>
+   </mrow> </msup> </mrow> </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt[{n}]{x}}=x^{\frac
+   {1}{n}}=x^{n^{-1}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}=x^{\frac {1}{n}}=x^{n^{-1}}}
+
+   Propiedad de productos de raíces:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> <mi>y</mi> </msqrt>
+          </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mi>x</mi> </msqrt> </mrow> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mi>y</mi> </msqrt> </mrow> <mspace width="2em" /> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mfrac> <mi>x</mi> <mi>y</mi>
+          </mfrac> </msqrt> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <msqrt> <mi>x</mi> </msqrt>
+          <msqrt> <mi>y</mi> </msqrt> </mfrac> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+          {xy}}={\sqrt {x}}{\sqrt {y}}\qquad {\sqrt {\frac {x}{y}}}={\frac
+          {\sqrt {x}}{\sqrt {y}}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {xy}}={\sqrt {x}}{\sqrt {y}}\qquad {\sqrt
+          {\frac {x}{y}}}={\frac {\sqrt {x}}{\sqrt {y}}}}
+
+   Con notación exponencial:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+          <mo>=</mo> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> </msup>
+          <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt {x}}=x^{\frac
+          {1}{2}}.}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {x}}=x^{\frac {1}{2}}.}
+
+   y también la equivalencia:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </msqrt>
+          </mrow> <mo>=</mo> <mrow> <mo>|</mo> <mi>x</mi> <mo>|</mo>
+          </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow>
+          <mo>{</mo> <mtable columnalign="left left" rowspacing=".2em"
+          columnspacing="1em" displaystyle="false"> <mtr> <mtd> <mi>x</mi>
+          <mo>,</mo> </mtd> <mtd> <mrow class="MJX-TeXAtom-ORD">
+          <mtext>si </mtext> </mrow> <mi>x</mi> <mo>≥</mo> <mn>0</mn>
+          </mtd> </mtr> <mtr> <mtd> <mo>−</mo> <mi>x</mi> <mo>,</mo>
+          </mtd> <mtd> <mrow class="MJX-TeXAtom-ORD"> <mtext>si </mtext>
+          </mrow> <mi>x</mi> <mo><</mo> <mn>0</mn> </mtd> </mtr> </mtable>
+          <mo fence="true" stretchy="true" symmetric="true"></mo> </mrow>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt
+          {x^{2}}}=\left|x\right|={\begin{cases}x,&{\text{si }}x\geq
+          0\\-x,&{\text{si }}x<0\end{cases}}}</annotation> </semantics>
+          :MATH]
+          {\displaystyle {\sqrt
+          {x^{2}}}=\left|x\right|={\begin{cases}x,&{\text{si }}x\geq
+          0\\-x,&{\text{si }}x<0\end{cases}}} donde
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          x}</annotation> </semantics> :MATH]
+          {\displaystyle x} es un número real.
+
+   Suponga que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x} y
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} son números reales cumpliendo la ecuación
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+   <mi>a</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x^{2}=a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x^{2}=a} y se desea encontrar
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x} .
+
+   Un error muy común es «tomar la raíz cuadrada» y deducir que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>a</mi> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   x={\sqrt {a}}}</annotation> </semantics> :MATH]
+   {\displaystyle x={\sqrt {a}}} . Esto es incorrecto, porque la raíz
+   cuadrada de
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   x^{2}}</annotation> </semantics> :MATH]
+   {\displaystyle x^{2}} no es
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x} , sino su [274]valor absoluto,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mo
+   stretchy="false">|</mo> </mrow> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   |x|}</annotation> </semantics> :MATH]
+   {\displaystyle |x|} , de acuerdo a la regla descrita anteriormente.
+
+   Entonces todo lo que se puede concluir es que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow> <mo>|</mo> <mi>x</mi>
+   <mo>|</mo> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+   <mi>a</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \left|x\right|={\sqrt
+   {a}}}</annotation> </semantics> :MATH]
+   {\displaystyle \left|x\right|={\sqrt {a}}} , o equivalentemente
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>=</mo> <mo>±</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>a</mi> </msqrt> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x=\pm {\sqrt
+   {a}}}</annotation> </semantics> :MATH]
+   {\displaystyle x=\pm {\sqrt {a}}} . Esta doble posibilidad para
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x} se debe a que la función valor absoluto no es una
+   función inyectiva, por lo que puede haber dos elementos diferentes del
+   dominio,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   x_{1}}</annotation> </semantics> :MATH]
+   {\displaystyle x_{1}} y
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   x_{2}}</annotation> </semantics> :MATH]
+   {\displaystyle x_{2}} , con una misma imagen. En este caso, la imagen
+   es
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>a</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {a}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {a}}} , y los elementos del dominio a los que les
+   corresponde dicha imagen son
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>a</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {a}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {a}}} y
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>−</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>a</mi> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle -{\sqrt
+   {a}}}</annotation> </semantics> :MATH]
+   {\displaystyle -{\sqrt {a}}} .
+
+   La función
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}} es continua para todos los números no
+   negativos
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x} y [275]derivable para todos los números positivos
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x} (no es derivable para
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>=</mo> <mn>0</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x=0}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x=0} ya que la [276]pendiente de la [277]tangente ahí es
+   [278]infinita). Su derivada está dada por:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>f</mi>
+          <mo>′</mo> </msup> <mo stretchy="false">(</mo> <mi>x</mi> <mo
+          stretchy="false">)</mo> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow> <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt>
+          </mrow> </mrow> </mfrac> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle f'(x)={\frac
+          {1}{2{\sqrt {x}}}}}</annotation> </semantics> :MATH]
+          {\displaystyle f'(x)={\frac {1}{2{\sqrt {x}}}}}
+
+   La [279]serie de Taylor de
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> <mo>+</mo> <mn>1</mn> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+   {x+1}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {x+1}}} en torno a x = 0 y convergente para |x| ≤
+   1 se puede encontrar usando el [280]teorema del binomio:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> <mo>+</mo>
+          <mn>1</mn> </msqrt> </mrow> <mo>=</mo> <munderover> <mo>∑</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>=</mo> <mn>0</mn>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">∞</mi> </mrow> </munderover> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mrow class="MJX-TeXAtom-OPEN">
+          <mo maxsize="2.047em" minsize="2.047em">(</mo> </mrow> <mfrac
+          linethickness="0"> <mrow> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn> </mrow>
+          <mi>n</mi> </mfrac> <mrow class="MJX-TeXAtom-CLOSE"> <mo
+          maxsize="2.047em" minsize="2.047em">)</mo> </mrow> </mrow>
+          </mrow> <mspace width="thinmathspace" /> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+          <munderover> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> <mo>=</mo> <mn>0</mn> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">∞</mi> </mrow>
+          </munderover> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mo
+          stretchy="false">(</mo> <mo>−</mo> <mn>1</mn> <msup> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> </mrow> </msup> <mo stretchy="false">(</mo>
+          <mn>2</mn> <mi>n</mi> <mo stretchy="false">)</mo> <mo>!</mo>
+          </mrow> <mrow> <mo stretchy="false">(</mo> <mn>1</mn> <mo>−</mo>
+          <mn>2</mn> <mi>n</mi> <mo stretchy="false">)</mo> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo>!</mo> <msup> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mo stretchy="false">(</mo> <msup>
+          <mn>4</mn> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </msup> <mo stretchy="false">)</mo> </mrow> </mfrac> </mrow>
+          <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          </mrow> </msup> <mo>=</mo> <mn>1</mn> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac>
+          </mrow> <mi>x</mi> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mn>1</mn> <mn>8</mn> </mfrac> </mrow> <msup> <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn>
+          <mn>16</mn> </mfrac> </mrow> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> <mo>−</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>5</mn> <mn>128</mn>
+          </mfrac> </mrow> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup> <mo>+</mo>
+          <mo>…</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt {x+1}}=\sum
+          _{n=0}^{\infty }{\binom {1/2}{n}}\,x^{n}=\sum _{n=0}^{\infty
+          }{\frac {(-1)^{n}(2n)!}{(1-2n)(n!)^{2}(4^{n})}}x^{n}=1+{\frac
+          {1}{2}}x-{\frac {1}{8}}x^{2}+{\frac {1}{16}}x^{3}-{\frac
+          {5}{128}}x^{4}+\dots }</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {x+1}}=\sum _{n=0}^{\infty }{\binom
+          {1/2}{n}}\,x^{n}=\sum _{n=0}^{\infty }{\frac
+          {(-1)^{n}(2n)!}{(1-2n)(n!)^{2}(4^{n})}}x^{n}=1+{\frac
+          {1}{2}}x-{\frac {1}{8}}x^{2}+{\frac {1}{16}}x^{3}-{\frac
+          {5}{128}}x^{4}+\dots }
+
+   En [281]cálculo, cuando se prueba que la función raíz cuadrada es
+   [282]continua o [283]derivable, o cuando se calculan ciertos
+   [284]límites, es muy útil el multiplicar y dividir por el [285]número
+   conjugado:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+          <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>y</mi>
+          </msqrt> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mrow> <mi>x</mi> <mo>−</mo> <mi>y</mi> </mrow> <mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt>
+          </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mi>y</mi> </msqrt> </mrow> </mrow> </mfrac> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\sqrt {x}}-{\sqrt {y}}={\frac {x-y}{{\sqrt {x}}+{\sqrt
+          {y}}}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {x}}-{\sqrt {y}}={\frac {x-y}{{\sqrt
+          {x}}+{\sqrt {y}}}}}
+
+   y es válida para todos los números no negativos x e y que no sean ambos
+   cero.
+
+Irracionalidad de las raíces cuadradas
+
+   Una propiedad importante de la raíz cuadrada de los [286]números
+   enteros es que, si estos no son [287]cuadrados perfectos, sus raíces
+   son siempre [288]números irracionales, que son números no expresables
+   como el [289]cociente de dos números enteros. Es decir, la raíz
+   cuadrada de un número entero siempre será entero o irracional, nunca un
+   número racional no entero.
+
+   Cualquier número entero puede ser expresado como el producto de una
+   serie de [290]factores primos elevados a diversos [291]exponentes. De
+   ser todos pares, las propiedades de la [292]potenciación permiten
+   reducir la raíz a un [293]número natural. Solo si uno o más de los
+   factores tiene un exponente impar la raíz no es natural.
+
+   Si
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>n</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {n}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {n}}} fuera racional se debería poder expresar
+   como
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mstyle displaystyle="false" scriptlevel="0"> <mfrac> <mi>p</mi>
+   <mi>q</mi> </mfrac> </mstyle> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\tfrac
+   {p}{q}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\tfrac {p}{q}}} con p, q enteros y primos entre sí.
+   Elevando al cuadrado ambas partes se obtiene que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mstyle displaystyle="false" scriptlevel="0">
+   <mfrac> <msup> <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <msup> <mi>q</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>2</mn> </mrow> </msup> </mfrac> </mstyle> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n={\tfrac
+   {p^{2}}{q^{2}}}}</annotation> </semantics> :MATH]
+   {\displaystyle n={\tfrac {p^{2}}{q^{2}}}} , lo que es [294]absurdo,
+   pues a un lado queda al menos un factor primo con exponente impar
+   mientras que, al otro lado de la igualdad, tanto
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>p</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   p^{2}}</annotation> </semantics> :MATH]
+   {\displaystyle p^{2}} como
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>q</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   q^{2}}</annotation> </semantics> :MATH]
+   {\displaystyle q^{2}} se expresan en función de producto de primos
+   elevados a exponentes necesariamente pares.
+
+   Por una reducción al absurdo llegaron los pitagóricos a la demostración
+   de la irracionalidad de la [295]raíz cuadrada de 2, atribuida a
+   [296]Hipaso de Metaponto, un discípulo de [297]Pitágoras. La idea,
+   contraria a lo esperado en la matemática de entonces, supuso la
+   denominada crisis de los inconmensurables de la [298]filosofía
+   pitagórica.
+
+   No obstante, es exactamente la longitud de la [299]diagonal de un
+   [300]cuadrado cuyo lado mide 1, siendo fácil la construcción gráfica de
+   la raíz. Por ello buena parte de la matemática helénica se centró en la
+   geometría aplicada como forma de calcular gráficamente valores como
+   ese. [301]Teodoro de Cirene llegó a la [302]espiral que lleva su
+   nombre, que permite representar gráficamente cualquier raíz, y
+   posteriormente [303]Euclides llegó a un método más general.
+
+Radicales jerarquizados cuadrados
+
+   Artículo principal: [304]Radical jerarquizado
+
+   En diferentes contextos se utilizan radicales de la forma
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>A</mi> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>B</mi> </msqrt> </mrow>
+          </msqrt> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt {A+{\sqrt
+          {B}}}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {A+{\sqrt {B}}}}}
+
+   que en algunos casos puede ser escritos en la forma
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mrow
+                class="MJX-TeXAtom-ORD"> <msqrt> <mi>A</mi> <mo>+</mo>
+                <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+                <mi>B</mi> </msqrt> </mrow> </msqrt> </mrow> <mo>=</mo>
+                <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt>
+                </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+                <mi>y</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle {\sqrt
+                {A+2{\sqrt {B}}}}={\sqrt {x}}+{\sqrt {y}}}</annotation>
+                </semantics> :MATH]
+                {\displaystyle {\sqrt {A+2{\sqrt {B}}}}={\sqrt {x}}+{\sqrt
+                {y}}}
+
+   lo que es factible si solo si x + y = A, xy = B .^[305][11]​^[306][12]​
+   Las expresiones anteriores se denominan radicales jerarquizados.
+
+   La identidad
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo> <mn>2</mn>
+   </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 2={\sqrt
+   {2+2}}}</annotation> </semantics> :MATH]
+   {\displaystyle 2={\sqrt {2+2}}} implica que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo> <mn>2</mn>
+   </msqrt> </mrow> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 2={\sqrt {2+{\sqrt
+   {2+2}}}}}</annotation> </semantics> :MATH]
+   {\displaystyle 2={\sqrt {2+{\sqrt {2+2}}}}} , y por repeticiones
+   sucesivas:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mn>2</mn> <mo>=</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo> <mo>⋯</mo>
+     </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow>
+     </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle 2={\sqrt {2+{\sqrt
+     {2+{\sqrt {2+{\sqrt {2+\cdots }}}}}}}}}</annotation> </semantics>
+     :MATH]
+     {\displaystyle 2={\sqrt {2+{\sqrt {2+{\sqrt {2+{\sqrt {2+\cdots
+     }}}}}}}}}
+
+   Por razones análogas se obtiene:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mn>3</mn> <mo>=</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>6</mn> <mo>+</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>6</mn> <mo>+</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>6</mn> <mo>+</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>6</mn> <mo>+</mo> <mo>⋯</mo>
+     </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow>
+     </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle 3={\sqrt {6+{\sqrt
+     {6+{\sqrt {6+{\sqrt {6+\cdots }}}}}}}}}</annotation> </semantics>
+     :MATH]
+     {\displaystyle 3={\sqrt {6+{\sqrt {6+{\sqrt {6+{\sqrt {6+\cdots
+     }}}}}}}}} ;
+
+   o que
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mn>4</mn> <mo>=</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>12</mn> <mo>+</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>12</mn> <mo>+</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>12</mn> <mo>+</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mn>12</mn> <mo>+</mo> <mo>⋯</mo>
+     </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow>
+     </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle 4={\sqrt {12+{\sqrt
+     {12+{\sqrt {12+{\sqrt {12+\cdots }}}}}}}}}</annotation> </semantics>
+     :MATH]
+     {\displaystyle 4={\sqrt {12+{\sqrt {12+{\sqrt {12+{\sqrt {12+\cdots
+     }}}}}}}}} ;
+
+   En general, si r es una entidad estrictamente superior a uno, entonces:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mi>r</mi> <mo>=</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mi>r</mi> <mo
+     stretchy="false">(</mo> <mi>r</mi> <mo>−</mo> <mn>1</mn> <mo
+     stretchy="false">)</mo> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD">
+     <msqrt> <mi>r</mi> <mo stretchy="false">(</mo> <mi>r</mi> <mo>−</mo>
+     <mn>1</mn> <mo stretchy="false">)</mo> <mo>+</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mi>r</mi> <mo
+     stretchy="false">(</mo> <mi>r</mi> <mo>−</mo> <mn>1</mn> <mo
+     stretchy="false">)</mo> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD">
+     <msqrt> <mi>r</mi> <mo stretchy="false">(</mo> <mi>r</mi> <mo>−</mo>
+     <mn>1</mn> <mo stretchy="false">)</mo> <mo>+</mo> <mo>⋯</mo>
+     </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow>
+     </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle r={\sqrt {r(r-1)+{\sqrt
+     {r(r-1)+{\sqrt {r(r-1)+{\sqrt {r(r-1)+\cdots }}}}}}}}}</annotation>
+     </semantics> :MATH]
+     {\displaystyle r={\sqrt {r(r-1)+{\sqrt {r(r-1)+{\sqrt {r(r-1)+{\sqrt
+     {r(r-1)+\cdots }}}}}}}}}
+
+   Esta forma de expresar números mediante la repetición sucesiva de
+   números contenidos dentro de raíces cuadradas puede tener diversas
+   aplicaciones como la resolución de algunos tipos de ecuación o la
+   expresión de algunos números famosos como el [307]número áureo o el
+   [308]número pi.^[309][13]​
+
+Fracciones continuas
+
+   Artículo principal: [310]Fracción continua
+
+   Uno de los resultados más interesantes del estudio de números
+   irracionales como fracciones continuas fue obtenido por el matemático
+   francés [311]Joseph-Louis Lagrange cerca de 1780. Lagrange descubrió
+   que la raíz cuadrada de cualquier número entero positivo no cuadrado se
+   puede representar por una fracción continua periódica, es decir, donde
+   ocurre cierto patrón de dígitos repetidamente en los
+   [312]denominadores. En un sentido estas raíces cuadradas son números
+   irracionales mucho más simples, porque pueden ser representadas con un
+   patrón de dígitos de repetición simple.
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>11</mn> </msqrt> </mrow>
+          <mo>=</mo> <mn>3</mn> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mrow> <mpadded width="0" height="8.6pt" depth="3pt">
+          <mrow /> </mpadded> <mstyle displaystyle="false"
+          scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          </mrow> </mstyle> </mrow> <mrow> <mpadded width="0"
+          height="8.6pt" depth="3pt"> <mrow /> </mpadded> <mstyle
+          displaystyle="false" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mpadded width="0"
+          height="8.6pt" depth="3pt"> <mrow /> </mpadded> <mstyle
+          displaystyle="false" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </mstyle> </mrow>
+          <mrow> <mpadded width="0" height="8.6pt" depth="3pt"> <mrow />
+          </mpadded> <mstyle displaystyle="false" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>6</mn> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mpadded width="0"
+          height="8.6pt" depth="3pt"> <mrow /> </mpadded> <mstyle
+          displaystyle="false" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </mstyle> </mrow>
+          <mrow> <mpadded width="0" height="8.6pt" depth="3pt"> <mrow />
+          </mpadded> <mstyle displaystyle="false" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mpadded width="0"
+          height="8.6pt" depth="3pt"> <mrow /> </mpadded> <mstyle
+          displaystyle="false" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </mstyle> </mrow>
+          <mrow> <mpadded width="0" height="8.6pt" depth="3pt"> <mrow />
+          </mpadded> <mstyle displaystyle="false" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>6</mn> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mpadded width="0"
+          height="8.6pt" depth="3pt"> <mrow /> </mpadded> <mstyle
+          displaystyle="false" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </mstyle> </mrow>
+          <mrow> <mpadded width="0" height="8.6pt" depth="3pt"> <mrow />
+          </mpadded> <mstyle displaystyle="false" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>⋱</mo> </mrow> </mstyle> </mrow>
+          </mfrac> </mrow> </mrow> </mstyle> </mrow> </mfrac> </mrow>
+          </mrow> </mstyle> </mrow> </mfrac> </mrow> </mrow> </mstyle>
+          </mrow> </mfrac> </mrow> </mrow> </mstyle> </mrow> </mfrac>
+          </mrow> <mspace width="thinmathspace" /> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+          {11}}=3+{\cfrac {1}{3+{\cfrac {1}{6+{\cfrac {1}{3+{\cfrac
+          {1}{6+{\cfrac {1}{\ddots }}}}}}}}}}\,}</annotation> </semantics>
+          :MATH]
+          {\displaystyle {\sqrt {11}}=3+{\cfrac {1}{3+{\cfrac
+          {1}{6+{\cfrac {1}{3+{\cfrac {1}{6+{\cfrac {1}{\ddots
+          }}}}}}}}}}\,}
+
+Aproximaciones enteras
+
+   La aproximación de raíces cuadradas a números enteros es común en
+   ciertos problemas matemáticos, como la [313]criba de Eratóstenes que
+   aproxima en sus cálculos la raíz cuadrada al mayor entero tal que su
+   cuadrado sea menor que el valor de la raíz. Las aproximaciones pueden
+   ser por defecto — usando la [314]función piso — o por exceso — usando
+   la [315]función techo—. Las primeras, dadas por defecto son las
+   siguientes:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 1 2 3 4 5 6 7 8 9 10 ... 15 16 17 ... 24 25 26 27 28
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo fence="false"
+   stretchy="false">⌊</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+   <mi>n</mi> </msqrt> </mrow> <mo fence="false" stretchy="false">⌋</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \lfloor {\sqrt {n}}\rfloor
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \lfloor {\sqrt {n}}\rfloor } 1 1 1 2 2 2 2 2 3 3 ... 3 4
+   4 ... 4 5 5 5 5
+
+   Una observación de los primeros términos pone de manifiesto que en la
+   construcción de esta tabla, se salta sucesivamente un incremento de
+   manera regular. Más precisamente, el cero es repetido una vez, el 1
+   tres veces, el 2 cinco veces, el 3 siete veces, el 4 nueve veces, etc.
+   El número de veces que el entero n se repite es el n-ésimo entero
+   [316]impar. La demostración reside sobre la identidad siguiente, del
+   tipo [317]diferencia finita:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+          <mi>a</mi> <mo>+</mo> <mn>1</mn> <msup> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mo>−</mo> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+          <mn>2</mn> <mi>a</mi> <mo>+</mo> <mn>1</mn> <mspace
+          width="thinmathspace" /> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          (a+1)^{2}-a^{2}=2a+1\,}</annotation> </semantics> :MATH]
+          {\displaystyle (a+1)^{2}-a^{2}=2a+1\,}
+
+Extensión de la función raíz cuadrada
+
+La raíz cuadrada de un número complejo
+
+   [318][220px-Complex_sqrt_leaf1.jpg] Raíz cuadrada
+   compleja.[319][220px-Complex_sqrt_leaf2.jpg] Segunda hoja de la raíz
+   cuadrada compleja.[320][220px-Riemann_surface_sqrt.jpg] Usando la
+   [321]superficie de Riemann de la raíz cuadrada, se puede ver como
+   encajan las dos hojas.
+
+   El cuadrado de cualquier número real positivo es positivo, y el
+   cuadrado de 0 es 0. Por lo tanto, ningún número negativo puede tener
+   una raíz cuadrada en los números reales. Sin embargo, es posible
+   trabajar con un sistema más grande de números, llamados los
+   [322]números complejos, que contienen soluciones a la raíz cuadrada de
+   cualquier número real negativo (e incluso de cualquier número
+   complejo).^[323][14]​ Los números complejos pueden construirse
+   definiendo un nuevo número abstracto, denotado por i (a veces j,
+   especialmente en el contexto de la [324]electricidad) y llamado
+   [325]unidad imaginaria, que satisface que i^2 = -1. Utilizando esta
+   notación podemos pensar en i como la raíz cuadrada de −1, pero notamos
+   que también tenemos (-i)^2= i^2 = -1, así que (−i) es también una raíz
+   cuadrada de −1. En general, si x es cualquier [326]número real
+   positivo, entonces en la raíz cuadrada principal de −x se cumple la
+   siguiente igualdad:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+     <msqrt> <mo>−</mo> <mi>x</mi> </msqrt> </mrow> <mo>=</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mo>−</mo> <mn>1</mn> </msqrt>
+     </mrow> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt>
+     </mrow> <mo>=</mo> <mo>±</mo> <mi>i</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+     </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle {\sqrt {-x}}={\sqrt
+     {-1}}{\sqrt {x}}=\pm i{\sqrt {x}}}</annotation> </semantics> :MATH]
+     {\displaystyle {\sqrt {-x}}={\sqrt {-1}}{\sqrt {x}}=\pm i{\sqrt
+     {x}}}
+
+   es decir, la raíz cuadrada de un número negativo es, necesariamente, un
+   número imaginario.^[327][15]​ Para cada número complejo diferente a
+   cero
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>z</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle z}</annotation>
+   </semantics> :MATH]
+   {\displaystyle z} , existen exactamente dos números
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>w</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle w}</annotation>
+   </semantics> :MATH]
+   {\displaystyle w} tales que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>w</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+   <mi>z</mi> <mspace width="thinmathspace" /> <mspace
+   width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle w^{2}=z\,\!}</annotation>
+   </semantics> :MATH]
+   {\displaystyle w^{2}=z\,\!} .
+
+Raíz cuadrada de un número imaginario
+
+   Si se desea encontrar la raíz de un número imaginario es posible
+   demostrar la igualdad
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+     <msqrt> <mo>±</mo> <mi>i</mi> <mi>x</mi> </msqrt> </mrow> <mo>=</mo>
+     <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mfrac> <mi>x</mi> <mn>2</mn>
+     </mfrac> </msqrt> </mrow> <mo>±</mo> <mi>i</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <msqrt> <mfrac> <mi>x</mi> <mn>2</mn>
+     </mfrac> </msqrt> </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle {\sqrt {\pm ix}}={\sqrt
+     {\frac {x}{2}}}\pm i{\sqrt {\frac {x}{2}}}.}</annotation>
+     </semantics> :MATH]
+     {\displaystyle {\sqrt {\pm ix}}={\sqrt {\frac {x}{2}}}\pm i{\sqrt
+     {\frac {x}{2}}}.}
+
+   Por ejemplo, las raíces cuadradas de
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>i</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+   </semantics> :MATH]
+   {\displaystyle i} son:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>i</mi> </msqrt> </mrow>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msqrt>
+          <mn>2</mn> </msqrt> <mn>2</mn> </mfrac> </mrow> <mo
+          stretchy="false">(</mo> <mn>1</mn> <mo>+</mo> <mi>i</mi> <mo
+          stretchy="false">)</mo> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt {i}}={\frac
+          {\sqrt {2}}{2}}(1+i).}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {i}}={\frac {\sqrt {2}}{2}}(1+i).}
+
+   y
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>−</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>i</mi> </msqrt> </mrow>
+          <mo>=</mo> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <msqrt> <mn>2</mn> </msqrt> <mn>2</mn> </mfrac> </mrow> <mo
+          stretchy="false">(</mo> <mn>1</mn> <mo>+</mo> <mi>i</mi> <mo
+          stretchy="false">)</mo> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle -{\sqrt {i}}=-{\frac
+          {\sqrt {2}}{2}}(1+i).}</annotation> </semantics> :MATH]
+          {\displaystyle -{\sqrt {i}}=-{\frac {\sqrt {2}}{2}}(1+i).}
+
+Raíz cuadrada principal de un número complejo
+
+   La definición general de
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>z</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {z}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {z}}} está introduciendo el siguiente [328]punto
+   de ramificación: si
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>z</mi> <mo>=</mo> <mi>r</mi>
+   <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> <mi>φ</mi>
+   </mrow> </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle z=re^{i\varphi
+   }}</annotation> </semantics> :MATH]
+   {\displaystyle z=re^{i\varphi }} es representado en [329]coordenadas
+   polares con −π < φ ≤ π, después fijamos el valor principal a:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>z</mi> </msqrt> </mrow>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>r</mi>
+          <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi>
+          <mi>φ</mi> </mrow> </msup> </msqrt> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>r</mi> </msqrt> </mrow>
+          <mspace width="thinmathspace" /> <msup> <mi>e</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>i</mi> <mi>φ</mi>
+          </mrow> <mn>2</mn> </mfrac> </mrow> </msup> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+          {z}}={\sqrt {re^{i\varphi }}}={\sqrt {r}}\,e^{i\varphi \over
+          2}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {z}}={\sqrt {re^{i\varphi }}}={\sqrt
+          {r}}\,e^{i\varphi \over 2}}
+
+   Así definido, la función de la raíz es [330]holomorfa en todas partes
+   excepto en los números reales no positivos, donde no es incluso
+   [331]continua. La antedicha [332]serie de Taylor para
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>1</mn> <mo>+</mo> <mi>x</mi> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+   {1+x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {1+x}}} sigue siendo válida para el resto de los
+   números complejos x con |x| < 1.
+
+   También puede representarse en forma de [333]funciones trigonométricas,
+   utilizando la [334]fórmula de Moivre. Si
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>z</mi> <mo>=</mo> <mi>r</mi>
+   <mo stretchy="false">(</mo> <mi>cos</mi> <mo>⁡</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>φ</mi> </mrow> <mo>+</mo> <mi>i</mi>
+   <mi>sin</mi> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>φ</mi>
+   </mrow> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle z=r(\cos {\varphi }+i\sin
+   {\varphi })}</annotation> </semantics> :MATH]
+   {\displaystyle z=r(\cos {\varphi }+i\sin {\varphi })} entonces hay
+   exactamente dos raíces cuadradas; la primera es:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>z</mi> </msqrt> </mrow>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>r</mi>
+          </msqrt> </mrow> <mrow> <mo>(</mo> <mrow> <mi>cos</mi>
+          <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>φ</mi>
+          <mn>2</mn> </mfrac> </mrow> <mo>+</mo> <mi>i</mi> <mi>sin</mi>
+          <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>φ</mi>
+          <mn>2</mn> </mfrac> </mrow> </mrow> <mo>)</mo> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\sqrt {z}}={\sqrt {r}}\left(\cos {\frac {\varphi }{2}}+i\sin
+          {\frac {\varphi }{2}}\right)}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {z}}={\sqrt {r}}\left(\cos {\frac {\varphi
+          }{2}}+i\sin {\frac {\varphi }{2}}\right)}
+
+   y para la otra raíz se usa el argumento φ/2 + π, siendo el módulo el
+   mismo.^[335][16]​
+
+Fórmula algebraica
+
+   En general, para un [336]número complejo expresado en [337]forma
+   cartesiana, por medio de estas fórmulas se obtiene la raíz cuadrada
+   principal:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>z</mi> </msqrt> </mrow>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mfrac> <mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo>
+          </mrow> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mo>+</mo> <mi>Re</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>z</mi> <mo
+          stretchy="false">)</mo> </mrow> <mn>2</mn> </mfrac> </msqrt>
+          </mrow> <mo>+</mo> <mi>i</mi> <mtext> </mtext> <mi>sgn</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>Im</mi> <mo>⁡</mo>
+          <mo stretchy="false">(</mo> <mi>z</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">)</mo>
+          <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mfrac>
+          <mrow> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mo>−</mo> <mi>Re</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mi>z</mi> <mo stretchy="false">)</mo> </mrow> <mn>2</mn>
+          </mfrac> </msqrt> </mrow> <mo>,</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+          {z}}={\sqrt {\frac {|z|+\operatorname {Re} (z)}{2}}}+i\
+          \operatorname {sgn}(\operatorname {Im} (z))\ {\sqrt {\frac
+          {|z|-\operatorname {Re} (z)}{2}}},}</annotation> </semantics>
+          :MATH]
+          {\displaystyle {\sqrt {z}}={\sqrt {\frac {|z|+\operatorname {Re}
+          (z)}{2}}}+i\ \operatorname {sgn}(\operatorname {Im} (z))\ {\sqrt
+          {\frac {|z|-\operatorname {Re} (z)}{2}}},}
+
+   donde |z| es el [338]valor absoluto o módulo del número complejo, y el
+   signo de la parte imaginaria de la raíz coincide con el signo de la
+   parte imaginaria del radicando (ver [339]función signo (sgn)).
+
+   La otra raíz cuadrada se obtiene simplemente de multiplicar −1 por la
+   raíz cuadrada principal, ambas raíces pueden ser escritas como
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>±</mo> <mrow>
+          <mo>(</mo> <mrow> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mfrac>
+          <mrow> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mo>+</mo> <mi>Re</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mi>z</mi> <mo stretchy="false">)</mo> </mrow> <mn>2</mn>
+          </mfrac> </msqrt> </mrow> <mo>+</mo> <mi>i</mi> <mtext> </mtext>
+          <mi>sgn</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>Im</mi>
+          <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>z</mi> <mo
+          stretchy="false">)</mo> <mo stretchy="false">)</mo>
+          <mtext> </mtext> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mfrac>
+          <mrow> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mo>−</mo> <mi>Re</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mi>z</mi> <mo stretchy="false">)</mo> </mrow> <mn>2</mn>
+          </mfrac> </msqrt> </mrow> </mrow> <mo>)</mo> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \pm \left({\sqrt {\frac {|z|+\operatorname {Re} (z)}{2}}}+i\
+          \operatorname {sgn}(\operatorname {Im} (z))\ {\sqrt {\frac
+          {|z|-\operatorname {Re} (z)}{2}}}\right)}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \pm \left({\sqrt {\frac {|z|+\operatorname {Re}
+          (z)}{2}}}+i\ \operatorname {sgn}(\operatorname {Im} (z))\ {\sqrt
+          {\frac {|z|-\operatorname {Re} (z)}{2}}}\right)}
+
+   Esta fórmula puede ser usada para hallar las raíces de una ecuación (no
+   algebraica) con coeficientes en ℂ.^[340][17]​^[[341]cita requerida]
+
+Notas
+
+   Observe que debido a la naturaleza discontinua de la función de la raíz
+   cuadrada en el [342]plano complejo, la ley
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>z</mi> <mi>w</mi> </msqrt> </mrow> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>z</mi> </msqrt> </mrow> <mo>⋅</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>w</mi> </msqrt> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {zw}}={\sqrt
+   {z}}\cdot {\sqrt {w}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {zw}}={\sqrt {z}}\cdot {\sqrt {w}}} es en general
+   falsa, y tiene toda potencia en un conjunto determinado. Es incorrecto,
+   si se asume que esta ley es la base de varias [343]demostraciones
+   inválidas, por ejemplo el demostrar que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>−</mo> <mn>1</mn> <mo>=</mo>
+   <mn>1</mn> <mspace width="thinmathspace" /> <mspace
+   width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle -1=1\,\!}</annotation>
+   </semantics> :MATH]
+   {\displaystyle -1=1\,\!} :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>−</mo> <mn>1</mn>
+          <mo>=</mo> <mi>i</mi> <mo>⋅</mo> <mi>i</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mo>−</mo> <mn>1</mn> </msqrt>
+          </mrow> <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mo>−</mo> <mn>1</mn> </msqrt> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mo>−</mo> <mn>1</mn>
+          <mo>⋅</mo> <mo stretchy="false">(</mo> <mo>−</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> </msqrt> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> </msqrt> </mrow>
+          <mo>=</mo> <mo>±</mo> <mn>1</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle -1=i\cdot i={\sqrt
+          {-1}}\cdot {\sqrt {-1}}={\sqrt {-1\cdot (-1)}}={\sqrt {1}}=\pm
+          1}</annotation> </semantics> :MATH]
+          {\displaystyle -1=i\cdot i={\sqrt {-1}}\cdot {\sqrt {-1}}={\sqrt
+          {-1\cdot (-1)}}={\sqrt {1}}=\pm 1}
+
+   Donde la tercera igualdad tiene que ser vista como:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> </msqrt> </mrow>
+          <mo>=</mo> <mn>1</mn> <mo stretchy="false">⟶</mo> <mspace
+          width="1em" /> <mn>1</mn> <mo>⋅</mo> <mn>1</mn> <mo>=</mo>
+          <msup> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>=</mo> <mn>1</mn> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+          {1}}=1\longrightarrow \quad 1\cdot 1=1^{2}=1}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\sqrt {1}}=1\longrightarrow \quad 1\cdot
+          1=1^{2}=1}
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> </msqrt> </mrow>
+          <mo>=</mo> <mo>−</mo> <mn>1</mn> <mo stretchy="false">⟶</mo>
+          <mspace width="1em" /> <mo stretchy="false">(</mo> <mo>−</mo>
+          <mn>1</mn> <mo stretchy="false">)</mo> <mo>⋅</mo> <mo
+          stretchy="false">(</mo> <mo>−</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo>=</mo> <mo stretchy="false">(</mo>
+          <mo>−</mo> <mn>1</mn> <msup> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+          <mn>1</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt
+          {1}}=-1\longrightarrow \quad (-1)\cdot
+          (-1)=(-1)^{2}=1}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {1}}=-1\longrightarrow \quad (-1)\cdot
+          (-1)=(-1)^{2}=1}
+
+   Al no considerarse, normalmente las dos ramas de la función raíz
+   cuadrada, puede inducir a errores en la consideración de esta
+   operación.
+
+Raíces cuadradas en los cuaterniones
+
+   Con los números complejos está asegurado que solo existe un número
+   finito de raíces enésimas de la unidad. Así por ejemplo -1 tiene solo
+   dos raíces complejas i e −i. Sin embargo, en los [344]números
+   cuaterniónicos
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">H</mi> </mrow> </mstyle> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \scriptstyle
+   \mathbb {H} }</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle \mathbb {H} } hay un número infinito de
+   raíces cuadradas de -1: de hecho el conjunto de soluciones forma una
+   [345]esfera en el espacio tridimensional. Para ver esto, sea q = a + bi
+   + cj + dk un cuaternión, y supóngase que su cuadrado es −1. En términos
+   de a, b, c y d esa asunción implica que
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>−</mo>
+          <mo stretchy="false">(</mo> <msup> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>+</mo> <msup> <mi>d</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+          stretchy="false">)</mo> <mo>=</mo> <mo>−</mo> <mn>1</mn>
+          <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          a^{2}-(b^{2}+c^{2}+d^{2})=-1,}</annotation> </semantics> :MATH]
+          {\displaystyle a^{2}-(b^{2}+c^{2}+d^{2})=-1,}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>a</mi>
+          <mi>b</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          2ab=0,}</annotation> </semantics> :MATH]
+          {\displaystyle 2ab=0,}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>a</mi>
+          <mi>c</mi> <mo>=</mo> <mn>0</mn> <mo>,</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          2ac=0,}</annotation> </semantics> :MATH]
+          {\displaystyle 2ac=0,}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>a</mi>
+          <mi>d</mi> <mo>=</mo> <mn>0.</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 2ad=0.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle 2ad=0.}
+
+   Este conjunto de ecuaciones reales tiene infinitas soluciones. Para
+   satisfacer las últimas tres ecuaciones debe tenerse que a = 0 o bien b
+   = c = d = 0, sin embargo, esta última [346]posibilidad no puede darse
+   ya que al ser a un número real la primera ecuación implicaría que
+   a^2 = −1, pero eso es imposible para un número real. Por tanto a = 0 y
+   b^2 + c^2 + d^2 = 1. En otras palabras. Nótese que solo un
+   [347]cuaternión que sea igual a un número real negativo puede tener un
+   número infinito de raíces cuadradas. Todos los demás tienen solo dos
+   raíces (o en el caso del 0 una única raíz). Dado un número
+   cuaterniónico
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>+</mo> <msub>
+   <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <mi>i</mi> <mo>+</mo> <msub> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mn>2</mn> </mrow> </msub> <mi>j</mi> <mo>+</mo> <msub> <mi>a</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msub> <mi>k</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   a_{0}+a_{1}i+a_{2}j+a_{3}k}</annotation> </semantics> :MATH]
+   {\displaystyle a_{0}+a_{1}i+a_{2}j+a_{3}k} (que no sea un real
+   negativo) sus dos raíces cuaterniónicas son:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mo>±</mo> <msub> <mi>b</mi>
+     <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>+</mo>
+     <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msub> <mi>a</mi>
+     <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mi>i</mi>
+     <mo>+</mo> <msub> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+     <mn>2</mn> </mrow> </msub> <mi>j</mi> <mo>+</mo> <msub> <mi>a</mi>
+     <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msub> <mi>k</mi>
+     </mrow> <mrow> <mn>2</mn> <msub> <mi>b</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mrow> </mfrac>
+     </mrow> <mo>,</mo> <mspace width="2em" /> <msub> <mi>b</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> <mo>=</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <mfrac> <msqrt> <mn>2</mn> </msqrt>
+     <mn>2</mn> </mfrac> </mrow> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+     <msub> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow>
+     </msub> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <msubsup>
+     <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msubsup> <mo>+</mo>
+     <msubsup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+     </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msubsup>
+     <mo>+</mo> <msubsup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+     <mn>2</mn> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+     </msubsup> <mo>+</mo> <msubsup> <mi>a</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msubsup> </msqrt>
+     </mrow> </msqrt> </mrow> </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle \pm b_{0}+{\frac
+     {a_{1}i+a_{2}j+a_{3}k}{2b_{0}}},\qquad b_{0}={\frac {\sqrt
+     {2}}{2}}{\sqrt {a_{0}+{\sqrt
+     {a_{0}^{2}+a_{1}^{2}+a_{2}^{2}+a_{3}^{2}}}}}}</annotation>
+     </semantics> :MATH]
+     {\displaystyle \pm b_{0}+{\frac
+     {a_{1}i+a_{2}j+a_{3}k}{2b_{0}}},\qquad b_{0}={\frac {\sqrt
+     {2}}{2}}{\sqrt {a_{0}+{\sqrt
+     {a_{0}^{2}+a_{1}^{2}+a_{2}^{2}+a_{3}^{2}}}}}}
+
+   Lo anterior implica que la ecuación:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <msubsup> <mi>z</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <mi>q</mi> </mrow> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>2</mn> <mi>n</mi> </mrow> </msubsup>
+     <mo>=</mo> <mn>1</mn> <mo>,</mo> <mspace width="2em" /> <msub>
+     <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>q</mi> </mrow> </msub>
+     <mo>∈</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+     mathvariant="double-struck">H</mi> </mrow> <mo>,</mo> <mi>n</mi>
+     <mo>∈</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+     mathvariant="double-struck">N</mi> </mrow> <mo>.</mo> </mstyle>
+     </mrow> <annotation encoding="application/x-tex">{\displaystyle
+     z_{q}^{2n}=1,\qquad z_{q}\in \mathbb {H} ,n\in \mathbb {N}
+     .}</annotation> </semantics> :MATH]
+     {\displaystyle z_{q}^{2n}=1,\qquad z_{q}\in \mathbb {H} ,n\in
+     \mathbb {N} .}
+
+   tiene infinitas soluciones, situadas sobre la esfera unidad.
+
+Raíz cuadrada de matrices
+
+   Artículo principal: [348]Raíz cuadrada de una matriz
+
+   La existencia de un [349]producto de matrices permite definir la raíz
+   cuadrada de una [350]matriz como aquella matriz B que multiplicada por
+   sí misma da la original A, es decir, B^2=A luego B=√A.
+
+Raíz cuadrada en cuerpo finito
+
+     * Primero definamos los cuadrados, por [351]ejemplo en F[7] el
+       conjunto de los restos enteros módulo 7, {0, 1, 2, 3, 4, 5, 6}. El
+       signo = significa congruencia.^[352][18]​ No todos los números de
+       F[7] tienen.
+     * 1^2 = 1; 2^2 = 4; 3^2 = 2; 4^2 = 2; 5^2 = 4; 6^2= 1; 0^2 = 0.
+
+     * Diremos que a es la raíz cuadrada de b si a^2 = b; se denota
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>=</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <msqrt> <mi>b</mi> </msqrt> </mrow>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle a={\sqrt
+       {b}}}</annotation> </semantics> :MATH]
+       {\displaystyle a={\sqrt {b}}} .
+
+     * de la lista anterior se ve que
+
+    1.
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mn>1</mn> </msqrt> </mrow> <mo>=</mo> <mn>1</mn> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       {\sqrt {1}}=1}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {1}}=1} ;
+    2.
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mn>1</mn> </msqrt> </mrow> <mo>=</mo> <mn>6</mn> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       {\sqrt {1}}=6}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {1}}=6}
+    3.
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mn>2</mn> </msqrt> </mrow> <mo>=</mo> <mn>3</mn> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       {\sqrt {2}}=3}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {2}}=3} ;
+    4.
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mn>2</mn> </msqrt> </mrow> <mo>=</mo> <mn>4</mn> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       {\sqrt {2}}=4}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {2}}=4} ;
+    5.
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mn>4</mn> </msqrt> </mrow> <mo>=</mo> <mn>2</mn> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       {\sqrt {4}}=2}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {4}}=2} ;
+    6.
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mn>4</mn> </msqrt> </mrow> <mo>=</mo> <mn>5</mn> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       {\sqrt {4}}=5}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {4}}=5} ;
+
+Cálculo de raíces cuadradas
+
+   Artículo principal: [353]Cálculo de la raíz cuadrada
+   [354][300px-Partes_de_la_Raiz_Cuadrada.PNG]
+
+   Hoy en día existen muchos métodos para calcular la raíz cuadrada,
+   habiendo algunos aptos para el cálculo manual y otros mejor adaptados
+   al cálculo automático.
+
+Algoritmo
+
+   Cuando vamos a realizar la raíz cuadrada con su [355]método de
+   resolución usual podemos ver las partes en las que se divide, aunque
+   las esenciales de ésta no tienen por qué aparecer o ser usadas
+   solamente en la operación para ser [356]calculada la raíz cuadrada.
+   Según esta imagen, podemos ver que las partes de las que se compone;
+   son:
+    1. Radical: es el símbolo que indica que es una raíz cuadrada.
+    2. Radicando o cantidad subradical: es el número del que se obtiene la
+       raíz cuadrada.
+    3. Raíz: es propiamente la raíz cuadrada del radicando.
+    4. Renglones auxiliares: nos ayudarán a resolver la raíz cuadrada.
+    5. Resto: es el número final del proceso para resolver la raíz
+       cuadrada.
+
+Utilizando logaritmos
+
+   Se simplifica el cálculo utilizando [357]logaritmos y sus
+   [358]propiedades empleando las [359]tablas de logaritmos o [360]reglas
+   de cálculo.
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mspace
+                width="negativethinmathspace" /> <mspace
+                width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD">
+                <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn> </mrow> </mroot> </mrow> <mo>=</mo>
+                <mi>antilog</mi> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD">
+                <mfrac> <mrow> <mi>log</mi> <mo>⁡</mo> <mo
+                stretchy="false">(</mo> <mi>x</mi> <mo
+                stretchy="false">)</mo> </mrow> <mn>2</mn> </mfrac>
+                </mrow> <mspace width="thinmathspace" /> </mstyle> </mrow>
+                <annotation encoding="application/x-tex">{\displaystyle
+                \!\,{\sqrt[{2}]{x}}=\operatorname {antilog} {\frac
+                {\log(x)}{2}}\,}</annotation> </semantics> :MATH]
+                {\displaystyle \!\,{\sqrt[{2}]{x}}=\operatorname {antilog}
+                {\frac {\log(x)}{2}}\,}
+
+Algoritmos para máquinas
+
+   [361]Calculadoras, [362]hojas de cálculo y otros [363]softwares también
+   se usan con frecuencia para calcular raíces cuadradas. Los programas de
+   software ponen típicamente buenas rutinas en su ejecución para computar
+   la [364]función exponencial y el [365]logaritmo natural o
+   [366]logaritmo, computándose después la raíz cuadrada de x usando la
+   identidad:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+          <mo>=</mo> <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>2</mn>
+          </mfrac> </mrow> <mi>ln</mi> <mo>⁡</mo> <mi>x</mi> </mrow>
+          </msup> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt
+          {x}}=e^{{\frac {1}{2}}\ln x}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {x}}=e^{{\frac {1}{2}}\ln x}} o
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+          <mo>=</mo> <msup> <mn>10</mn> <mrow class="MJX-TeXAtom-ORD">
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>2</mn>
+          </mfrac> </mrow> <mi>log</mi> <mo>⁡</mo> <mi>x</mi> </mrow>
+          </msup> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt
+          {x}}=10^{{\frac {1}{2}}\log x}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {x}}=10^{{\frac {1}{2}}\log x}}
+
+Construcción geométrica de la raíz cuadrada
+
+   La raíz cuadrada de un número real se puede construir con regla y
+   compás. En sus [367]Elementos, [368]Euclides (300 AC) dio la
+   construcción de la [369]media geométrica de dos cantidades en sus
+   proposiciones II.14 y VI.13. Dado que la media geométrica de
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} y
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>b</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle b}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b} es
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>a</mi> <mi>b</mi> </msqrt> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+   {ab}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {ab}}} , uno puede construir
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>a</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {a}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {a}}} simplemente tomando
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>b</mi> <mo>=</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle b=1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b=1} .
+
+   La construcción también fue dada por [370]Descartes en su libro [371]La
+   Géométrie, vea la figura 2 en la [372]segunda página.
+
+   Otro método de construcción geométrica (para las raíces de números
+   naturales) usa [373]triángulos rectángulos e [374]inducción:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>1</mn> </msqrt> </mrow> <mo>=</mo> <mn>1</mn> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+   {1}}=1}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {1}}=1} puede, desde luego, ser construido, y una
+   vez que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}} ha sido construido, el triángulo con 1 y
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}} como catetos, tiene una [375]hipotenusa de
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> <mo>+</mo> <mn>1</mn> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+   {x+1}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {x+1}}} .
+
+Pasos a seguir para la construcción geométrica
+
+   [376][220px-Construction_racine_carree.png] AO = 1, OB = a, OH = x
+
+   Para "calcular" geométricamente la raíz cuadrada de un número real
+   dado, lo que se hace es una construcción, mediante regla y [377]compás,
+   de un segmento que mida la raíz cuadrada de la longitud de un segmento
+   original que tenga por longitud ese valor real dado.
+
+   Los pasos a seguir son los siguientes:
+    1. Trazamos un segmento
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>O</mi> <mi>B</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle OB\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle OB\,\!} de longitud
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>a</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle a\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle a\,\!} , es decir, de longitud igual al número del
+       cual queremos calcular su raíz cuadrada.
+    2. Extendemos el segmento
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>O</mi> <mi>B</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle OB\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle OB\,\!} en una unidad (según la longitud que hayamos
+       tomado como unidad) de modo que tengamos el [378]segmento
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>A</mi> <mi>B</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle AB\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle AB\,\!} de longitud
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>+</mo>
+       <mn>1</mn> <mspace width="thinmathspace" /> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle a+1\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle a+1\,\!} .
+    3. Trazamos un círculo que tenga como diámetro el segmento
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>A</mi> <mi>B</mi> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle AB\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle AB\!} .
+    4. En el punto
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>O</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle O\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle O\,\!} (que es donde empieza la extensión de
+       longitud 1) trazamos una línea perpendicular a
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>A</mi> <mi>B</mi> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle AB\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle AB\!} . Esta línea corta a la circunferencia en dos
+       puntos. Sea
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>H</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle H\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle H\,\!} cualquiera de esos puntos. Entonces, resulta
+       que el segmento
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>O</mi> <mi>H</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle OH\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle OH\,\!} tiene una longitud:
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>O</mi> <mi>H</mi>
+       <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>a</mi>
+       </msqrt> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle OH={\sqrt
+       {a}}}</annotation> </semantics> :MATH]
+       {\displaystyle OH={\sqrt {a}}} .
+
+   Esta construcción tiene su importancia en el estudio de los
+   [379]números constructibles.
+
+Demostración de que OH es igual a la raíz cuadrada de OB
+
+   Para demostrar esta igualdad, demostraremos que los triángulos
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> <mi>O</mi> <mi>H</mi>
+   <mspace width="thinmathspace" /> <mspace width="negativethinmathspace"
+   /> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle AOH\,\!}</annotation>
+   </semantics> :MATH]
+   {\displaystyle AOH\,\!} y
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>H</mi> <mi>O</mi> <mi>B</mi>
+   <mspace width="thinmathspace" /> <mspace width="negativethinmathspace"
+   /> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle HOB\,\!}</annotation>
+   </semantics> :MATH]
+   {\displaystyle HOB\,\!} son [380]triángulos semejantes:
+    1. El ángulo
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>H</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle H\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle H\,\!} es un ángulo recto (de 90º) ya que
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>A</mi> <mi>B</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle AB\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle AB\,\!} es la diagonal de un [381]arco capaz.
+    2. El segmento
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>O</mi> <mi>H</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle OH\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle OH\,\!} es perpendicular, por construcción, al
+       segmento
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>A</mi> <mi>B</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle AB\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle AB\,\!} . O sea que los dos ángulos con vértice en
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>O</mi> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle O\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle O\,\!} ,
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>B</mi> <mi>O</mi>
+       <mi>H</mi> <mspace width="thinmathspace" /> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle BOH\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle BOH\,\!} (el derecho en el diagrama) como
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>H</mi> <mi>O</mi>
+       <mi>A</mi> <mspace width="thinmathspace" /> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle HOA\,\!}</annotation>
+       </semantics> :MATH]
+       {\displaystyle HOA\,\!} (el izquierdo en el diagrama) son ángulos
+       rectos.
+    3. La suma de todos los ángulos de un triángulo es igual a 180º.
+
+   Ahora teniendo en cuenta todo esto construimos el siguiente sistema de
+   [382]ecuaciones:
+    1.
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mn>180</mn> <mo>=</mo>
+       <mn>90</mn> <mo>+</mo> <mi>B</mi> <mo>+</mo> <mo
+       stretchy="false">(</mo> <mn>90</mn> <mo>−</mo> <msub> <mi>H</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mo
+       stretchy="false">)</mo> <mspace width="thinmathspace" /> <mspace
+       width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle
+       180=90+B+(90-H_{i})\,\!}</annotation> </semantics> :MATH]
+       {\displaystyle 180=90+B+(90-H_{i})\,\!}
+    2.
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mn>180</mn> <mo>=</mo>
+       <mn>90</mn> <mo>+</mo> <mi>A</mi> <mo>+</mo> <msub> <mi>H</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mspace
+       width="thinmathspace" /> <mspace width="negativethinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle
+       180=90+A+H_{i}\,\!}</annotation> </semantics> :MATH]
+       {\displaystyle 180=90+A+H_{i}\,\!}
+
+   Donde
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>H</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mspace
+   width="thinmathspace" /> <mspace width="negativethinmathspace" />
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle H_{i}\,\!}</annotation>
+   </semantics> :MATH]
+   {\displaystyle H_{i}\,\!} es el ángulo superior del triángulo izquierdo
+   del cual desconocemos su abertura, las otras [383]letras representan
+   los otros ángulos que desconocemos y el ángulo
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>H</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>d</mi> </mrow> </msub> <mspace
+   width="thinmathspace" /> <mspace width="negativethinmathspace" />
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle H_{d}\,\!}</annotation>
+   </semantics> :MATH]
+   {\displaystyle H_{d}\,\!} se puede representar como la resta de
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>90</mn> <mo>−</mo> <msub>
+   <mi>H</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+   <mspace width="thinmathspace" /> <mspace width="negativethinmathspace"
+   /> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 90-H_{i}\,\!}</annotation>
+   </semantics> :MATH]
+   {\displaystyle 90-H_{i}\,\!} ya que 90º es el valor de
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>H</mi> <mspace
+   width="thinmathspace" /> <mspace width="negativethinmathspace" />
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle H\,\!}</annotation>
+   </semantics> :MATH]
+   {\displaystyle H\,\!} entero. Al resolver la primera ecuación vemos
+   que:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>180</mn> <mo>=</mo>
+          <mn>90</mn> <mo>+</mo> <mi>B</mi> <mo>+</mo> <mn>90</mn>
+          <mo>−</mo> <msub> <mi>H</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>i</mi> </mrow> </msub> <mspace width="thinmathspace" />
+          <mspace width="negativethinmathspace" /> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          180=90+B+90-H_{i}\,\!}</annotation> </semantics> :MATH]
+          {\displaystyle 180=90+B+90-H_{i}\,\!} ;
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <msub> <mi>H</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+                <mo>=</mo> <mi>B</mi> <mspace width="thinmathspace" />
+                <mspace width="negativethinmathspace" /> </mstyle> </mrow>
+                <annotation encoding="application/x-tex">{\displaystyle
+                H_{i}=B\,\!}</annotation> </semantics> :MATH]
+                {\displaystyle H_{i}=B\,\!} .
+
+   Con lo que ya demostramos que estos ángulos miden lo mismo y al
+   resolver el segundo:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>90</mn> <mo>=</mo>
+          <mi>A</mi> <mo>+</mo> <msub> <mi>H</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mspace
+          width="thinmathspace" /> <mspace width="negativethinmathspace"
+          /> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          90=A+H_{i}\,\!}</annotation> </semantics> :MATH]
+          {\displaystyle 90=A+H_{i}\,\!} ;
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mi>A</mi> <mo>=</mo>
+                <mn>90</mn> <mo>−</mo> <msub> <mi>H</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+                <mspace width="thinmathspace" /> <mspace
+                width="negativethinmathspace" /> </mstyle> </mrow>
+                <annotation encoding="application/x-tex">{\displaystyle
+                A=90-H_{i}\,\!}</annotation> </semantics> :MATH]
+                {\displaystyle A=90-H_{i}\,\!} .
+
+   Con lo que al ser
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>90</mn> <mo>−</mo> <msub>
+   <mi>H</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub>
+   <mo>=</mo> <msub> <mi>H</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>d</mi>
+   </mrow> </msub> <mspace width="thinmathspace" /> <mspace
+   width="negativethinmathspace" /> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   90-H_{i}=H_{d}\,\!}</annotation> </semantics> :MATH]
+   {\displaystyle 90-H_{i}=H_{d}\,\!} se saca que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> <mo>=</mo> <msub>
+   <mi>H</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>d</mi> </mrow> </msub>
+   <mspace width="thinmathspace" /> <mspace width="negativethinmathspace"
+   /> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle A=H_{d}\,\!}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A=H_{d}\,\!} y con esto queda demostrado que al medir
+   todos los [384]ángulos lo mismo son triángulos semejantes de manera
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> <msub> <mi>H</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <msub> <mi>O</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msub> <mspace
+   width="thinmathspace" /> <mspace width="negativethinmathspace" />
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   AH_{i}O_{i}\,\!}</annotation> </semantics> :MATH]
+   {\displaystyle AH_{i}O_{i}\,\!} ~
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>H</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>d</mi> </mrow> </msub> <mi>B</mi> <msub>
+   <mi>O</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>d</mi> </mrow> </msub>
+   <mspace width="thinmathspace" /> <mspace width="negativethinmathspace"
+   /> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   H_{d}BO_{d}\,\!}</annotation> </semantics> :MATH]
+   {\displaystyle H_{d}BO_{d}\,\!} . Al poseer esta semejante los lados de
+   los [385]triángulos tienen una proporcionalidad igual para los tres
+   lados tal que:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>O</mi> <mi>H</mi>
+          </mrow> <mn>1</mn> </mfrac> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>O</mi> <mi>B</mi>
+          </mrow> <mrow> <mi>O</mi> <mi>H</mi> </mrow> </mfrac> </mrow>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+          <mi>H</mi> <mi>B</mi> </mrow> <mrow> <mi>A</mi> <mi>H</mi>
+          </mrow> </mfrac> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac
+          {OH}{1}}={\frac {OB}{OH}}={\frac {HB}{AH}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\frac {OH}{1}}={\frac {OB}{OH}}={\frac
+          {HB}{AH}}}
+
+   Recordando que al construir geométricamente la raíz
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> <mi>O</mi> <mspace
+   width="thinmathspace" /> <mspace width="negativethinmathspace" />
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle AO\,\!}</annotation>
+   </semantics> :MATH]
+   {\displaystyle AO\,\!} siempre valía 1, con lo que tomando lo que nos
+   interesa desarrollamos:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>O</mi> <mi>H</mi>
+          </mrow> <mn>1</mn> </mfrac> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>O</mi> <mi>B</mi>
+          </mrow> <mrow> <mi>O</mi> <mi>H</mi> </mrow> </mfrac> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac
+          {OH}{1}}={\frac {OB}{OH}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {OH}{1}}={\frac {OB}{OH}}} ;
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mi>O</mi> <mi>B</mi>
+                <mo>=</mo> <mi>O</mi> <msup> <mi>H</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+                <mspace width="thinmathspace" /> <mspace
+                width="negativethinmathspace" /> </mstyle> </mrow>
+                <annotation encoding="application/x-tex">{\displaystyle
+                OB=OH^{2}\,\!}</annotation> </semantics> :MATH]
+                {\displaystyle OB=OH^{2}\,\!} ;
+
+                      [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD">
+                      <mstyle displaystyle="true" scriptlevel="0">
+                      <mi>O</mi> <mi>H</mi> <mo>=</mo> <mrow
+                      class="MJX-TeXAtom-ORD"> <msqrt> <mi>O</mi>
+                      <mi>B</mi> </msqrt> </mrow> </mstyle> </mrow>
+                      <annotation
+                      encoding="application/x-tex">{\displaystyle
+                      OH={\sqrt {OB}}}</annotation> </semantics> :MATH]
+                      {\displaystyle OH={\sqrt {OB}}} .
+
+   Quedando demostrada.
+
+Raíces cuadradas útiles
+
+   Artículo principal: [386]Anexo:Raíces cuadradas
+   [387][200px-Square_root_of_2_triangle.png] Raíz cuadrada de 2.
+
+Raíz cuadrada de 2
+
+   Artículo principal: [388]Raíz cuadrada de 2
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>=</mo> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mspace
+          width="thinmathspace" /> <mspace width="negativethinmathspace"
+          /> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          1^{2}+1^{2}=x^{2}\,\!}</annotation> </semantics> :MATH]
+          {\displaystyle 1^{2}+1^{2}=x^{2}\,\!}
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> </msqrt> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle x={\sqrt
+          {2}}}</annotation> </semantics> :MATH]
+          {\displaystyle x={\sqrt {2}}}
+
+   Probablemente, la raíz cuadrada de 2 fue el primer número irracional
+   descubierto, cuyo descubrimiento le costó la vida a un correligionario
+   de Pitágoras. El valor de este número con 10 cifras decimales por
+   truncamiento es 1,4142135623. Aparece como seno y [389]coseno de un
+   ángulo de 45 grados sexagesimales. Hay varias fórmulas de recurrencia
+   para hallar su valor aproximado. Una de ellas es el conocido método de
+   la tangente de Newton. Su irracionalidad ya lo habían demostrado los
+   griegos. Sin embargo, su fundamentación se le debe a los matemáticos
+   alemanes [390]Richard Dedekind y [391]Georg Cantor en el siglo XX. Por
+   supuesto, no viene a ser sino un límite igual que el de los números
+   irracionales
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>e</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle e}</annotation>
+   </semantics> :MATH]
+   {\displaystyle e} y
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>π</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \pi
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \pi } porque nadie puede escribir sus infinitas cifras;
+   pero basta con menos de 10 dígitos decimales para lo que hace la
+   ciencia y tecnología.
+
+Raíz cuadrada de 3
+
+   Artículo principal: [392]Raíz cuadrada de 3
+   [393][200px-Square_root_of_3_in_cube.svg.png] Mide raíz cuadrada de 3,
+   la diagonal de un cubo cuyas aristas miden 1.
+
+   La raíz cuadrada de 3:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>3</mn> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {3}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {3}}} , también conocida como constante de
+   Teodoro (por [394]Teodoro de Cirene), es geométricamente el valor de la
+   diagonal de un cubo cuyas aristas miden la unidad, pudiéndose demostrar
+   con el [395]teorema de Pitágoras. También es la hipotenusa de un
+   triángulo rectángulo construible cuyos catetos miden raíz cuadrada de 2
+   y la unidad respectivamente.
+
+   El valor de este número con 10 cifras decimales por truncamiento es
+   1,7320508075
+
+Raíz cuadrada de 5
+
+   Artículo principal: [396]Raíz cuadrada de 5
+
+   La raíz cuadrada de 5:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>5</mn> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {5}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {5}}} , aparece en la fórmula del [397]número
+   áureo, y es geométricamente la hipotenusa de un triángulo cuyos catetos
+   miden 1 y 2 respectivamente, comprobándose mediante el teorema de
+   Pitágoras. Su valor con 10 cifras decimales por truncamiento es
+   2,2360679774.
+
+Usos y casos
+
+     * La raíz cuadrada se usa para calcular la hipotenusa de un triángulo
+       rectángulo, conociendo los catetos. O uno de estos conociendo la
+       hipotenusa y el otro cateto.
+     * Para hallar el radio de un [398]círculo conociendo su área.
+     * En la detección de si un número entero positivo es primo; basta
+       considerar como divisores primos, aquellos números primos que son
+       menores que su raíz cuadrada, aproximada a unidades.
+     * Para hallar el tiempo en el movimiento uniforme acelerado sin
+       velocidad inicial.
+     * Para conocer cuántos [399]números impares iniciales, empezando
+       desde el 1, se han sumado; usando como dato un cuadrado perfecto.
+     * En una función cuadrática canónica, conociendo la ordenada, hallar
+       las correspondientes abscisas.
+     * Para calcular la diagonal de un cuadrado conociendo su área.
+     * Para calcular la media cuadrática de datos positivos.^[400][19]​
+     * Al calcular él área de un triángulo equilátero, donde interviene
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mn>3</mn> </msqrt> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\sqrt
+       {3}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {3}}}
+     * Al obtener el área de un tetraedro regular, en función de su
+       arista, se emplea
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mn>3</mn> </msqrt> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\sqrt
+       {3}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {3}}} ^[401][20]​
+     * Al obtener el volumen de un [402]tetraedro regular, en función de
+       su arista, se usa
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mn>2</mn> </msqrt> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\sqrt
+       {2}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {2}}}
+     * Para hallar la media proporcional c entre a y b. La altura de un
+       triángulo conociendo las proyecciones de los catetos sobre la
+       hipotenusa. La tangente a una circunferencia, conociendo la secante
+       y su parte externa.
+     * La
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mn>3</mn> </msqrt> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\sqrt
+       {3}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {3}}} se usa en ciertas razones
+       trigonométricas de un ángulo de 30º o 60º.
+     * La
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mn>2</mn> </msqrt> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\sqrt
+       {2}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {2}}} se emplea para definir el [403]seno y
+       coseno de un ángulo de 45º.^[404][21]​
+     * Al resolver una ecuación de segundo grado completa o de la forma
+       x^2 = a, se usa la raíz cuadrada; en el primer caso si el
+       determinante es negativo, y en la ecuación incompleta de segundo
+       grado si a es menor que cero, hay que hallar la raíz cuadrada de un
+       número negativo, que proporciona como raíces, dos números complejos
+       conjugados. En el caso de que se tenga una ecuación de segundo
+       grado con coeficientes complejos no reales, también se halla la
+       raíz cuadrada, pero las raíces de la ecuación cuadrática, en este
+       caso , no necesariamente, son conjugadas.^[405][22]​
+     * En el caso de resolver la ecuación cúbica reducida y^3 + py + q =
+       0, mediante la llamada [406]fórmula de Cardano, necesariamente hay
+       que hallar la raíz cuadrada de p^3/27 + q^2/4 = H; luego efectuar
+       las raíces cúbicas de -q/2 + H y de -q/2 -H.^[407][23]​
+
+Véase también
+
+     * [408]Cálculo de la raíz cuadrada
+     * [409]Cuadrado (álgebra)
+     * [410]Cuadrado perfecto
+     * [411]Fórmula de De Moivre
+     * [412]Función exponencial
+     * [413]Radicación
+     * [414]Raíz cuadrada de 2
+     * [415]Raíz cuadrada de 3
+     * [416]Raíz cuadrada de 5
+     * [417]Raíz cúbica
+     * [418]Raíz enésima de un número
+     * [419]Raíz de la unidad
+     * [420]Radical jerarquizado
+     * [421]Residuo cuadrático
+     * [422]Racionalización de radicales
+
+Referencias
+
+Notas
+
+    1. [423]↑ Álgebra moderna - Estructura y método. Dolciani y otros.
+       Publicaciones Cultural. México, México, 1986.
+    2. [424]↑ En libros traducidos del inglés para la editorial Pearson
+       impresos en México. Su uso era más general, para aplicarlo en
+       raíces enésimas.
+    3. [425]↑ Plausible generalización al caso de un anillo no conmutativo
+    4. [426]↑ Anglin, W.S. (1994). Mathematics: A Concise History and
+       Philosophy. Nueva York: Springer-Verlag, 1994.
+    5. [427]↑ [428]Joseph, 2000, cap. 8.
+    6. [429]↑ Boyer: Historia de la matemática
+    7. [430]↑ [431]Smith, 1925, p. 148.
+    8. [432]↑ Milton Donaire Peña. Formas y números. Editorial San Marcos,
+       Lima. [433]ISBN 978-612-45279-9-9
+    9. [434]↑ Boyer, Carl Benjamin (1992): Historia de la matemática
+       (pág. 360), traducido por Mariano Martínez Pérez. Madrid: Alianza
+       Editorial, 1992. [435]ISBN 84-206-8094-X e [436]ISBN 84-206-8186-5.
+   10. [437]↑ Ifrah, Georges (1997): Historia universal de las cifras
+       (pág. 1452). Madrid: Espasa-Calpe, 1997. [438]ISBN
+       978-84-239-9730-5 e [439]ISBN 84-239-9730-8.
+   11. [440]↑ Alencar Filho, Edgard de: Exercicios de Geometria Plana
+       [1986]
+   12. [441]↑ Bruño G. M.: Elementos de Geometría [1980]
+   13. [442]↑ Elementos de Geometría de Bruño, pp. 148, 149 y 150
+   14. [443]↑ Alfhors. Complex Analysis
+   15. [444]↑ Espinoza. Diccionario de matemáticas. [445]ISBN
+       84-8055-355-3.
+   16. [446]↑ Aplicación del Teorema de De Moivre. En Variable compleja
+       con aplicaciones de William R. Derrick [447]ISBN 968-7270-35-7
+   17. [448]↑ Alfhors: Variable complex
+   18. [449]↑ Fraleigh: Álgebra abstracta
+   19. [450]↑ Galdós. Aritmética
+   20. [451]↑ Formulario de Matemáticas «Cerebrito», Lima.
+   21. [452]↑ Resultados que aparecen en manuales de geometría y de
+       trigonometría o en textos universitarios de dichas disciplinas.
+   22. [453]↑ Alhfords. Complex Variable. Tokyo 1956
+   23. [454]↑ Adilson Gonçalvez. Introduçao à álgebra. Impa . Río de de
+       Janeiro , 1939
+
+Bibliografía
+
+     * Stewart, James (2006). Cálculo: Conceptos y contextos. México D.F.:
+       Thomson. [455]ISBN [456]ISBN 970-686-543-8 e ISBN 978-970-686-543-4
+       |isbn= incorrecto ([457]ayuda).
+     * Joseph, George Gheverghese (2000). [458]The crest of the peacock:
+       the non-European roots of mathematics (La cresta del pavo real:
+       Raíces no europeas de la matemática). Londres. [459]ISBN [460]ISBN
+       0-691-00659-8 e ISBN 978-0-691-00659-8 |isbn= incorrecto
+       ([461]ayuda).
+     * Smith, David Eugene (1925). History of Mathematics (vol 2) special
+       topics of elementary Mathematics (Historia de la matemática, vol 2,
+       asuntos especiales de la matemática elemental). Boston.
+       [462]ISBN [463]ISBN 0-486-20430-8 e ISBN 978-0-486-20430-7 |isbn=
+       incorrecto ([464]ayuda).
+     * Anglin, W.S. (Diciembre de 1994). Mathematics: A Concise History
+       and Philosophy (Matemática: Una historia y una filosofía concisas).
+       New York. [465]ISBN [466]ISBN 0-387-94280-7 e ISBN
+       978-0-387-94280-3 |isbn= incorrecto ([467]ayuda).
+
+Enlaces externos
+
+     * [468]Wikimedia Commons alberga una categoría multimedia sobre
+       [469]Raíz cuadrada.
+     * [470]Wikcionario tiene definiciones y otra información sobre
+       [471]raíz.
+     * Programa java para hallar la raíz cuadrada de números enteros con
+       muchísimas cifras decimales: [472][1]
+     * Web educativa para aprender a hallar la raíz cuadrada paso a paso:
+       [473][2]
+
+   [474]Control de autoridades
+     * Proyectos Wikimedia
+     * [475]Wd Datos: [476]Q134237
+     * [477]Commonscat Multimedia: [478]Square root / [479]Q134237
+     __________________________________________________________________
+
+     * Diccionarios y enciclopedias
+     * [480]Britannica: [481]url
+     * Ontologías
+     * Número IEV: [482]102-02-15
+
+     * [483]Wd Datos: [484]Q134237
+     * [485]Commonscat Multimedia: [486]Square root / [487]Q134237
+
+   Obtenido de
+   «[488]https://es.wikipedia.org/w/index.php?title=Raíz_cuadrada&oldid=15
+   9422512»
+   [489]Categorías:
+     * [490]Aritmética
+     * [491]Matemática elemental
+     * [492]Raíces
+     * [493]Operaciones unarias
+
+   Categorías ocultas:
+     * [494]Wikipedia:Páginas con enlaces mágicos de ISBN
+     * [495]Wikipedia:Artículos con pasajes que requieren referencias
+     * [496]Wikipedia:Páginas con ISBN incorrectos
+
+     * Esta página se editó por última vez el 13 abr 2024 a las 19:59.
+     * El texto está disponible bajo la [497]Licencia Creative Commons
+       Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas
+       adicionales. Al usar este sitio aceptas nuestros [498]términos de
+       uso y nuestra [499]política de privacidad.
+       Wikipedia® es una marca registrada de la [500]Fundación Wikimedia,
+       una organización sin ánimo de lucro.
+
+     * [501]Política de privacidad
+     * [502]Acerca de Wikipedia
+     * [503]Limitación de responsabilidad
+     * [504]Código de conducta
+     * [505]Desarrolladores
+     * [506]Estadísticas
+     * [507]Declaración de cookies
+     * [508]Versión para móviles
+
+     * [509]Wikimedia Foundation
+     * [510]Powered by MediaWiki
+
+Références
+
+   1. https://es.m.wikipedia.org/wiki/Raíz_cuadrada
+   2. https://es.wikipedia.org/w/rest.php/v1/search
+   3. https://es.wikipedia.org/w/index.php?title=Especial:CambiosRecientes&feed=atom
+   4. https://es.wikipedia.org/wiki/Raíz_cuadrada#bodyContent
+   5. https://es.wikipedia.org/wiki/Wikipedia:Portada
+   6. https://es.wikipedia.org/wiki/Portal:Comunidad
+   7. https://es.wikipedia.org/wiki/Portal:Actualidad
+   8. https://es.wikipedia.org/wiki/Especial:CambiosRecientes
+   9. https://es.wikipedia.org/wiki/Especial:PáginasNuevas
+  10. https://es.wikipedia.org/wiki/Especial:Aleatoria
+  11. https://es.wikipedia.org/wiki/Ayuda:Contenidos
+  12. https://es.wikipedia.org/wiki/Wikipedia:Informes_de_error
+  13. https://es.wikipedia.org/wiki/Wikipedia:Portada
+  14. https://es.wikipedia.org/wiki/Especial:Buscar
+  15. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wikipedia.org&uselang=es
+  16. https://es.wikipedia.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=Raíz+cuadrada
+  17. https://es.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Raíz+cuadrada
+  18. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wikipedia.org&uselang=es
+  19. https://es.wikipedia.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=Raíz+cuadrada
+  20. https://es.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Raíz+cuadrada
+  21. https://es.wikipedia.org/wiki/Ayuda:Introducción
+  22. https://es.wikipedia.org/wiki/Especial:MisContribuciones
+  23. https://es.wikipedia.org/wiki/Especial:MiDiscusión
+  24. https://es.wikipedia.org/wiki/Raíz_cuadrada
+  25. https://es.wikipedia.org/wiki/Raíz_cuadrada#Historia
+  26. https://es.wikipedia.org/wiki/Raíz_cuadrada#Símbolo_de_la_raíz_cuadrada_'"`UNIQ--postMath-00000011-QINU`"'
+  27. https://es.wikipedia.org/wiki/Raíz_cuadrada#Función_raíz_cuadrada
+  28. https://es.wikipedia.org/wiki/Raíz_cuadrada#Propiedades_generales
+  29. https://es.wikipedia.org/wiki/Raíz_cuadrada#Irracionalidad_de_las_raíces_cuadradas
+  30. https://es.wikipedia.org/wiki/Raíz_cuadrada#Radicales_jerarquizados_cuadrados
+  31. https://es.wikipedia.org/wiki/Raíz_cuadrada#Fracciones_continuas
+  32. https://es.wikipedia.org/wiki/Raíz_cuadrada#Aproximaciones_enteras
+  33. https://es.wikipedia.org/wiki/Raíz_cuadrada#Extensión_de_la_función_raíz_cuadrada
+  34. https://es.wikipedia.org/wiki/Raíz_cuadrada#La_raíz_cuadrada_de_un_número_complejo
+  35. https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_de_un_número_imaginario
+  36. https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_principal_de_un_número_complejo
+  37. https://es.wikipedia.org/wiki/Raíz_cuadrada#Fórmula_algebraica
+  38. https://es.wikipedia.org/wiki/Raíz_cuadrada#Notas
+  39. https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíces_cuadradas_en_los_cuaterniones
+  40. https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_de_matrices
+  41. https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_en_cuerpo_finito
+  42. https://es.wikipedia.org/wiki/Raíz_cuadrada#Cálculo_de_raíces_cuadradas
+  43. https://es.wikipedia.org/wiki/Raíz_cuadrada#Algoritmo
+  44. https://es.wikipedia.org/wiki/Raíz_cuadrada#Utilizando_logaritmos
+  45. https://es.wikipedia.org/wiki/Raíz_cuadrada#Algoritmos_para_máquinas
+  46. https://es.wikipedia.org/wiki/Raíz_cuadrada#Construcción_geométrica_de_la_raíz_cuadrada
+  47. https://es.wikipedia.org/wiki/Raíz_cuadrada#Pasos_a_seguir_para_la_construcción_geométrica
+  48. https://es.wikipedia.org/wiki/Raíz_cuadrada#Demostración_de_que_OH_es_igual_a_la_raíz_cuadrada_de_OB
+  49. https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíces_cuadradas_útiles
+  50. https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_de_2
+  51. https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_de_3
+  52. https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_de_5
+  53. https://es.wikipedia.org/wiki/Raíz_cuadrada#Usos_y_casos
+  54. https://es.wikipedia.org/wiki/Raíz_cuadrada#Véase_también
+  55. https://es.wikipedia.org/wiki/Raíz_cuadrada#Referencias
+  56. https://es.wikipedia.org/wiki/Raíz_cuadrada#Notas_2
+  57. https://es.wikipedia.org/wiki/Raíz_cuadrada#Bibliografía
+  58. https://es.wikipedia.org/wiki/Raíz_cuadrada#Enlaces_externos
+  59. https://af.wikipedia.org/wiki/Vierkantswortel
+  60. https://ar.wikipedia.org/wiki/جذر_تربيعي
+  61. https://ast.wikipedia.org/wiki/Raíz_cuadrada
+  62. https://az.wikipedia.org/wiki/Kvadrat_köklər
+  63. https://ba.wikipedia.org/wiki/Квадрат_тамыр
+  64. https://bcl.wikipedia.org/wiki/Kwadradong_gamot
+  65. https://be.wikipedia.org/wiki/Квадратны_корань
+  66. https://be-tarask.wikipedia.org/wiki/Квадратны_корань
+  67. https://bg.wikipedia.org/wiki/Квадратен_корен
+  68. https://bn.wikipedia.org/wiki/বর্গমূল
+  69. https://br.wikipedia.org/wiki/Gwrizienn_garrez
+  70. https://bs.wikipedia.org/wiki/Kvadratni_korijen
+  71. https://ca.wikipedia.org/wiki/Arrel_quadrada
+  72. https://ckb.wikipedia.org/wiki/ڕەگی_دووجا
+  73. https://cs.wikipedia.org/wiki/Druhá_odmocnina
+  74. https://cv.wikipedia.org/wiki/Тăваткалла_тымар
+  75. https://cy.wikipedia.org/wiki/Ail_isradd
+  76. https://da.wikipedia.org/wiki/Kvadratrod
+  77. https://de.wikipedia.org/wiki/Quadratwurzel
+  78. https://el.wikipedia.org/wiki/Τετραγωνική_ρίζα
+  79. https://en.wikipedia.org/wiki/Square_root
+  80. https://eo.wikipedia.org/wiki/Kvadrata_radiko
+  81. https://et.wikipedia.org/wiki/Ruutjuur
+  82. https://eu.wikipedia.org/wiki/Erro_karratu
+  83. https://fa.wikipedia.org/wiki/ریشه_دوم
+  84. https://fi.wikipedia.org/wiki/Neliöjuuri
+  85. https://fo.wikipedia.org/wiki/Kvadratrót
+  86. https://fr.wikipedia.org/wiki/Racine_carrée
+  87. https://fur.wikipedia.org/wiki/Lidrîs_cuadrade
+  88. https://gan.wikipedia.org/wiki/平方根
+  89. https://gcr.wikipedia.org/wiki/Rasin_di_roun_nonm
+  90. https://gl.wikipedia.org/wiki/Raíz_cadrada
+  91. https://gu.wikipedia.org/wiki/વર્ગમૂળ
+  92. https://he.wikipedia.org/wiki/שורש_ריבועי
+  93. https://hi.wikipedia.org/wiki/वर्गमूल
+  94. https://hr.wikipedia.org/wiki/Kvadratni_korijen
+  95. https://hu.wikipedia.org/wiki/Négyzetgyök
+  96. https://hy.wikipedia.org/wiki/Քառակուսի_արմատ
+  97. https://id.wikipedia.org/wiki/Akar_kuadrat
+  98. https://io.wikipedia.org/wiki/Quadratala_radiko
+  99. https://is.wikipedia.org/wiki/Ferningsrót
+ 100. https://it.wikipedia.org/wiki/Radice_quadrata
+ 101. https://ja.wikipedia.org/wiki/平方根
+ 102. https://jam.wikipedia.org/wiki/Skwier_ruut
+ 103. https://ka.wikipedia.org/wiki/კვადრატული_ფესვი
+ 104. https://kk.wikipedia.org/wiki/Квадраттық_түбір
+ 105. https://kn.wikipedia.org/wiki/ವರ್ಗಮೂಲ
+ 106. https://ko.wikipedia.org/wiki/제곱근
+ 107. https://ky.wikipedia.org/wiki/Арифметикалык_квадрат_тамыр
+ 108. https://la.wikipedia.org/wiki/Radix_quadrata
+ 109. https://lfn.wikipedia.org/wiki/Radis_cuadral
+ 110. https://lmo.wikipedia.org/wiki/Radis_quadrada
+ 111. https://lo.wikipedia.org/wiki/ຮາກສີ່ຫລ່ຽມ
+ 112. https://lt.wikipedia.org/wiki/Kvadratinė_šaknis
+ 113. https://lv.wikipedia.org/wiki/Kvadrātsakne
+ 114. https://mk.wikipedia.org/wiki/Квадратен_корен
+ 115. https://ml.wikipedia.org/wiki/വർഗ്ഗമൂലം
+ 116. https://mr.wikipedia.org/wiki/वर्गमूळ
+ 117. https://ms.wikipedia.org/wiki/Punca_kuasa_dua
+ 118. https://mt.wikipedia.org/wiki/Għerq_kwadru
+ 119. https://my.wikipedia.org/wiki/နှစ်ထပ်ကိန်းရင်း
+ 120. https://ne.wikipedia.org/wiki/वर्गमूल
+ 121. https://new.wikipedia.org/wiki/वर्गमूल
+ 122. https://nl.wikipedia.org/wiki/Vierkantswortel
+ 123. https://nn.wikipedia.org/wiki/Kvadratrot
+ 124. https://no.wikipedia.org/wiki/Kvadratrot
+ 125. https://oc.wikipedia.org/wiki/Raiç_carrada
+ 126. https://om.wikipedia.org/wiki/Caaroo_Kaaslamee
+ 127. https://pa.wikipedia.org/wiki/ਵਰਗ_ਮੂਲ
+ 128. https://pl.wikipedia.org/wiki/Pierwiastek_kwadratowy
+ 129. https://pt.wikipedia.org/wiki/Raiz_quadrada
+ 130. https://ro.wikipedia.org/wiki/Rădăcină_pătrată
+ 131. https://ru.wikipedia.org/wiki/Квадратный_корень
+ 132. https://scn.wikipedia.org/wiki/Radici_quatrata
+ 133. https://sh.wikipedia.org/wiki/Kvadratni_korijen
+ 134. https://simple.wikipedia.org/wiki/Square_root
+ 135. https://sl.wikipedia.org/wiki/Kvadratni_koren
+ 136. https://sq.wikipedia.org/wiki/Rrënja_katrore
+ 137. https://sr.wikipedia.org/wiki/Квадратни_корен
+ 138. https://su.wikipedia.org/wiki/Akar_kuadrat
+ 139. https://sv.wikipedia.org/wiki/Kvadratrot
+ 140. https://sw.wikipedia.org/wiki/Kipeuo_cha_pili
+ 141. https://ta.wikipedia.org/wiki/வர்க்கமூலம்
+ 142. https://te.wikipedia.org/wiki/వర్గమూలం
+ 143. https://tl.wikipedia.org/wiki/Pariugat
+ 144. https://tr.wikipedia.org/wiki/Karekök
+ 145. https://uk.wikipedia.org/wiki/Квадратний_корінь
+ 146. https://ur.wikipedia.org/wiki/جذر_المربع
+ 147. https://uz.wikipedia.org/wiki/Kvadrat_ildiz
+ 148. https://vi.wikipedia.org/wiki/Căn_bậc_hai
+ 149. https://war.wikipedia.org/wiki/Kwadrado_nga_gamot
+ 150. https://wuu.wikipedia.org/wiki/平方根
+ 151. https://yi.wikipedia.org/wiki/קוואדראט_ווארצל
+ 152. https://yo.wikipedia.org/wiki/Gbòngbò_alágbáraméjì
+ 153. https://zh.wikipedia.org/wiki/平方根
+ 154. https://zh-min-nan.wikipedia.org/wiki/Pêng-hong-kin
+ 155. https://zh-yue.wikipedia.org/wiki/開方根
+ 156. https://www.wikidata.org/wiki/Special:EntityPage/Q134237#sitelinks-wikipedia
+ 157. https://es.wikipedia.org/wiki/Raíz_cuadrada
+ 158. https://es.wikipedia.org/wiki/Discusión:Raíz_cuadrada
+ 159. https://es.wikipedia.org/wiki/Raíz_cuadrada
+ 160. https://es.wikipedia.org/w/index.php?title=Raíz_cuadrada&action=edit
+ 161. https://es.wikipedia.org/w/index.php?title=Raíz_cuadrada&action=history
+ 162. https://es.wikipedia.org/wiki/Raíz_cuadrada
+ 163. https://es.wikipedia.org/w/index.php?title=Raíz_cuadrada&action=edit
+ 164. https://es.wikipedia.org/w/index.php?title=Raíz_cuadrada&action=history
+ 165. https://es.wikipedia.org/wiki/Especial:LoQueEnlazaAquí/Raíz_cuadrada
+ 166. https://es.wikipedia.org/wiki/Especial:CambiosEnEnlazadas/Raíz_cuadrada
+ 167. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es
+ 168. https://es.wikipedia.org/wiki/Especial:PáginasEspeciales
+ 169. https://es.wikipedia.org/w/index.php?title=Raíz_cuadrada&oldid=159422512
+ 170. https://es.wikipedia.org/w/index.php?title=Raíz_cuadrada&action=info
+ 171. https://es.wikipedia.org/w/index.php?title=Especial:Citar&page=Raíz_cuadrada&id=159422512&wpFormIdentifier=titleform
+ 172. https://es.wikipedia.org/w/index.php?title=Especial:Acortador_de_URL&url=https://es.wikipedia.org/wiki/Ra%C3%ADz_cuadrada
+ 173. https://es.wikipedia.org/w/index.php?title=Especial:QrCode&url=https://es.wikipedia.org/wiki/Ra%C3%ADz_cuadrada
+ 174. https://es.wikipedia.org/w/index.php?title=Especial:Libro&bookcmd=book_creator&referer=Raíz+cuadrada
+ 175. https://es.wikipedia.org/w/index.php?title=Especial:DownloadAsPdf&page=Raíz_cuadrada&action=show-download-screen
+ 176. https://es.wikipedia.org/w/index.php?title=Raíz_cuadrada&printable=yes
+ 177. https://commons.wikimedia.org/wiki/Category:Square_root
+ 178. https://www.wikidata.org/wiki/Special:EntityPage/Q134237
+ 179. https://es.wikipedia.org/wiki/Archivo:Racine_carrée_bleue.svg
+ 180. https://es.wikipedia.org/wiki/Matemáticas
+ 181. https://es.wikipedia.org/wiki/Cuadrado_(álgebra)
+ 182. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-1
+ 183. https://es.wikipedia.org/wiki/Radicación
+ 184. https://es.wikipedia.org/wiki/Potenciación
+ 185. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-2
+ 186. https://es.wikipedia.org/wiki/Anillo_(matemática)
+ 187. https://es.wikipedia.org/wiki/Matriz_(matemáticas)
+ 188. https://es.wikipedia.org/wiki/Cuaternión
+ 189. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-3
+ 190. https://es.wikipedia.org/wiki/Papiro_de_Ahmes
+ 191. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-4
+ 192. https://es.wikipedia.org/wiki/Historia_de_la_India
+ 193. https://es.wikipedia.org/wiki/Sulba_Sutras
+ 194. https://es.wikipedia.org/wiki/Baudhayana_Sulba_Sutra
+ 195. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-5
+ 196. https://es.wikipedia.org/wiki/Aryabhata
+ 197. https://es.wikipedia.org/wiki/Aryabhatiya
+ 198. https://es.wikipedia.org/wiki/Babilonia
+ 199. https://es.wikipedia.org/wiki/Algoritmo_babilónico
+ 200. https://es.wikipedia.org/wiki/Media_aritmética
+ 201. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-6
+ 202. https://es.wikipedia.org/wiki/Sucesión_matemática
+ 203. https://es.wikipedia.org/wiki/Matemática_helénica
+ 204. https://es.wikipedia.org/wiki/Raíz_cuadrada_de_2
+ 205. https://es.wikipedia.org/wiki/Número_irracional
+ 206. https://es.wikipedia.org/wiki/Inconmensurable
+ 207. https://es.wikipedia.org/wiki/Trigonometría
+ 208. https://es.wikipedia.org/wiki/Geometría
+ 209. https://es.wikipedia.org/wiki/Teorema_de_Pitágoras
+ 210. https://es.wikipedia.org/wiki/Ecuación_cuadrática
+ 211. https://es.wikipedia.org/w/index.php?title=David_Eugene_Smith&action=edit&redlink=1
+ 212. https://es.wikipedia.org/w/index.php?title=History_of_Mathematics&action=edit&redlink=1
+ 213. https://es.wikipedia.org/w/index.php?title=Cataneo&action=edit&redlink=1
+ 214. https://es.wikipedia.org/wiki/Aryabhatta
+ 215. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-7
+ 216. https://es.wikipedia.org/wiki/Pietro_Antonio_Cataldi
+ 217. https://es.wikipedia.org/wiki/Fracción_continua
+ 218. https://es.wikipedia.org/wiki/Historia_de_la_matemática
+ 219. https://es.wikipedia.org/wiki/Julio_Rey_Pastor
+ 220. https://es.wikipedia.org/wiki/José_Babini
+ 221. https://es.wikipedia.org/wiki/Definición_(matemática)
+ 222. https://es.wikipedia.org/wiki/Número_real
+ 223. https://es.wikipedia.org/wiki/Número_negativo
+ 224. https://es.wikipedia.org/wiki/Leonhard_Euler
+ 225. https://es.wikipedia.org/wiki/Número_imaginario
+ 226. https://es.wikipedia.org/wiki/Cuerpo_(matemática)
+ 227. https://es.wikipedia.org/wiki/Número_complejo
+ 228. https://es.wikipedia.org/wiki/Polinomio
+ 229. https://es.wikipedia.org/wiki/Teorema_fundamental_del_álgebra
+ 230. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-8
+ 231. https://es.wikipedia.org/wiki/Matriz_diagonalizable
+ 232. https://es.wikipedia.org/wiki/Matriz_(matemática)
+ 233. https://es.wikipedia.org/wiki/Juan_Hispalense
+ 234. https://es.wikipedia.org/wiki/Escuela_de_traductores_de_Toledo
+ 235. https://es.wikipedia.org/wiki/Albumasar
+ 236. https://es.wikipedia.org/wiki/Al-Kindi
+ 237. https://es.wikipedia.org/wiki/Al-Battani
+ 238. https://es.wikipedia.org/wiki/Thábit_ibn_Qurra
+ 239. https://es.wikipedia.org/wiki/Leonardo_de_Pisa
+ 240. https://es.wikipedia.org/wiki/Christoph_Rudolff
+ 241. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-9
+ 242. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-10
+ 243. https://es.wikipedia.org/wiki/Coss
+ 244. https://es.wikipedia.org/w/index.php?title=Alemán_vulgar&action=edit&redlink=1
+ 245. https://es.wikipedia.org/wiki/R
+ 246. https://es.wikipedia.org/wiki/Minúscula
+ 247. https://es.wikipedia.org/wiki/Wikipedia:Verificabilidad
+ 248. https://es.wikipedia.org/wiki/Latín
+ 249. https://es.wikipedia.org/wiki/Raíz_(matemática)
+ 250. https://es.wikipedia.org/wiki/Archivo:Square_root_0_25.svg
+ 251. https://es.wikipedia.org/wiki/Parábola_(matemática)
+ 252. https://es.wikipedia.org/wiki/Directriz
+ 253. https://es.wikipedia.org/wiki/Función_real
+ 254. https://es.wikipedia.org/wiki/Dominio_de_definición
+ 255. https://es.wikipedia.org/wiki/Conjunto_imagen
+ 256. https://es.wikipedia.org/wiki/Número_real
+ 257. https://es.wikipedia.org/wiki/Cuadrado_perfecto
+ 258. https://es.wikipedia.org/wiki/Función_(matemática)
+ 259. https://es.wikipedia.org/wiki/Número_racional
+ 260. https://es.wikipedia.org/wiki/Número_algebraico
+ 261. https://es.wikipedia.org/wiki/Si_y_sólo_si
+ 262. https://es.wikipedia.org/wiki/Fracción
+ 263. https://es.wikipedia.org/wiki/Cuadrado_perfecto
+ 264. https://es.wikipedia.org/wiki/Número_natural
+ 265. https://es.wikipedia.org/wiki/Número_irracional
+ 266. https://es.wikipedia.org/wiki/Número_irracional
+ 267. https://es.wikipedia.org/wiki/Escuela_pitagórica
+ 268. https://es.wikipedia.org/wiki/Superficie_(matemática)
+ 269. https://es.wikipedia.org/wiki/Cuadrado
+ 270. https://es.wikipedia.org/wiki/Longitud
+ 271. https://es.wikipedia.org/wiki/Archivo:Función_Continua_044.svg
+ 272. https://es.wikipedia.org/wiki/Función_multivaluada
+ 273. https://es.wikipedia.org/wiki/Número_real
+ 274. https://es.wikipedia.org/wiki/Valor_absoluto
+ 275. https://es.wikipedia.org/wiki/Derivada
+ 276. https://es.wikipedia.org/wiki/Pendiente_de_una_recta
+ 277. https://es.wikipedia.org/wiki/Tangente_(geometría)
+ 278. https://es.wikipedia.org/wiki/Infinito
+ 279. https://es.wikipedia.org/wiki/Serie_de_Taylor
+ 280. https://es.wikipedia.org/wiki/Teorema_del_binomio
+ 281. https://es.wikipedia.org/wiki/Análisis_matemático
+ 282. https://es.wikipedia.org/wiki/Continuidad_(matemática)
+ 283. https://es.wikipedia.org/wiki/Derivada
+ 284. https://es.wikipedia.org/wiki/Límite_de_una_función
+ 285. https://es.wikipedia.org/wiki/Binomio_conjugado
+ 286. https://es.wikipedia.org/wiki/Número_entero
+ 287. https://es.wikipedia.org/wiki/Cuadrado_perfecto
+ 288. https://es.wikipedia.org/wiki/Número_irracional
+ 289. https://es.wikipedia.org/wiki/Cociente_(aritmética)
+ 290. https://es.wikipedia.org/wiki/Número_primo
+ 291. https://es.wikipedia.org/wiki/Exponente
+ 292. https://es.wikipedia.org/wiki/Potenciación
+ 293. https://es.wikipedia.org/wiki/Número_natural
+ 294. https://es.wikipedia.org/wiki/Absurdo
+ 295. https://es.wikipedia.org/wiki/Raíz_cuadrada_de_2
+ 296. https://es.wikipedia.org/wiki/Hipaso_de_Metaponto
+ 297. https://es.wikipedia.org/wiki/Pitágoras
+ 298. https://es.wikipedia.org/wiki/Pitágoras#Matemáticas
+ 299. https://es.wikipedia.org/wiki/Diagonal
+ 300. https://es.wikipedia.org/wiki/Cuadrado
+ 301. https://es.wikipedia.org/wiki/Teodoro_de_Cirene
+ 302. https://es.wikipedia.org/wiki/Espiral_de_Teodoro
+ 303. https://es.wikipedia.org/wiki/Euclides
+ 304. https://es.wikipedia.org/wiki/Radical_jerarquizado
+ 305. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-11
+ 306. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-12
+ 307. https://es.wikipedia.org/wiki/Número_áureo
+ 308. https://es.wikipedia.org/wiki/Número_pi
+ 309. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-13
+ 310. https://es.wikipedia.org/wiki/Fracción_continua
+ 311. https://es.wikipedia.org/wiki/Joseph-Louis_Lagrange
+ 312. https://es.wikipedia.org/wiki/Fracción
+ 313. https://es.wikipedia.org/wiki/Criba_de_Eratóstenes
+ 314. https://es.wikipedia.org/wiki/Función_piso
+ 315. https://es.wikipedia.org/wiki/Función_techo
+ 316. https://es.wikipedia.org/wiki/Números_pares_e_impares
+ 317. https://es.wikipedia.org/wiki/Diferencia_finita
+ 318. https://es.wikipedia.org/wiki/Archivo:Complex_sqrt_leaf1.jpg
+ 319. https://es.wikipedia.org/wiki/Archivo:Complex_sqrt_leaf2.jpg
+ 320. https://es.wikipedia.org/wiki/Archivo:Riemann_surface_sqrt.jpg
+ 321. https://es.wikipedia.org/wiki/Superficie_de_Riemann
+ 322. https://es.wikipedia.org/wiki/Números_complejos
+ 323. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-14
+ 324. https://es.wikipedia.org/wiki/Electricidad
+ 325. https://es.wikipedia.org/wiki/Unidad_imaginaria
+ 326. https://es.wikipedia.org/wiki/Número_real
+ 327. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-15
+ 328. https://es.wikipedia.org/wiki/Punto_de_ramificación
+ 329. https://es.wikipedia.org/wiki/Coordenadas_polares
+ 330. https://es.wikipedia.org/wiki/Función_holomorfa
+ 331. https://es.wikipedia.org/wiki/Continuidad_(matemática)
+ 332. https://es.wikipedia.org/wiki/Serie_de_Taylor
+ 333. https://es.wikipedia.org/wiki/Función_trigonométrica
+ 334. https://es.wikipedia.org/wiki/Fórmula_de_Moivre
+ 335. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-16
+ 336. https://es.wikipedia.org/wiki/Número_complejo
+ 337. https://es.wikipedia.org/wiki/Coordenadas_cartesianas
+ 338. https://es.wikipedia.org/wiki/Valor_absoluto
+ 339. https://es.wikipedia.org/wiki/Función_signo
+ 340. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-17
+ 341. https://es.wikipedia.org/wiki/Wikipedia:Verificabilidad
+ 342. https://es.wikipedia.org/wiki/Plano_(geometría)
+ 343. https://es.wikipedia.org/wiki/Demostración_inválida
+ 344. https://es.wikipedia.org/wiki/Cuaternión
+ 345. https://es.wikipedia.org/wiki/Esfera
+ 346. https://es.wikipedia.org/wiki/Posible
+ 347. https://es.wikipedia.org/wiki/Cuaternión
+ 348. https://es.wikipedia.org/wiki/Raíz_cuadrada_de_una_matriz
+ 349. https://es.wikipedia.org/wiki/Producto_de_matrices
+ 350. https://es.wikipedia.org/wiki/Matriz_(matemática)
+ 351. https://es.wikipedia.org/wiki/Ejemplo
+ 352. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-18
+ 353. https://es.wikipedia.org/wiki/Cálculo_de_la_raíz_cuadrada
+ 354. https://es.wikipedia.org/wiki/Archivo:Partes_de_la_Raiz_Cuadrada.PNG
+ 355. https://es.wikipedia.org/wiki/Método
+ 356. https://es.wikipedia.org/wiki/Cálculo
+ 357. https://es.wikipedia.org/wiki/Logaritmo
+ 358. https://es.wikipedia.org/wiki/Identidades_logarítmicas
+ 359. https://es.wikipedia.org/wiki/Tabla_de_logaritmos
+ 360. https://es.wikipedia.org/wiki/Regla_de_cálculo
+ 361. https://es.wikipedia.org/wiki/Calculadora
+ 362. https://es.wikipedia.org/wiki/Hoja_de_cálculo
+ 363. https://es.wikipedia.org/wiki/Software
+ 364. https://es.wikipedia.org/wiki/Función_exponencial
+ 365. https://es.wikipedia.org/wiki/Logaritmo_natural
+ 366. https://es.wikipedia.org/wiki/Logaritmo
+ 367. https://es.wikipedia.org/wiki/Elementos_de_Euclides
+ 368. https://es.wikipedia.org/wiki/Euclides
+ 369. https://es.wikipedia.org/wiki/Media_geométrica
+ 370. https://es.wikipedia.org/wiki/René_Descartes
+ 371. https://es.wikipedia.org/wiki/La_Géométrie
+ 372. http://historical.library.cornell.edu/cgi-bin/cul.math/docviewer?did=00570001&seq=12&frames=0&view=50
+ 373. https://es.wikipedia.org/wiki/Triángulos_rectángulos
+ 374. https://es.wikipedia.org/wiki/Inducción_matemática
+ 375. https://es.wikipedia.org/wiki/Hipotenusa
+ 376. https://es.wikipedia.org/wiki/Archivo:Construction_racine_carree.png
+ 377. https://es.wikipedia.org/wiki/Compás_(instrumento)
+ 378. https://es.wikipedia.org/wiki/Segmento
+ 379. https://es.wikipedia.org/wiki/Número
+ 380. https://es.wikipedia.org/wiki/Triángulos_semejantes
+ 381. https://es.wikipedia.org/wiki/Arco_capaz
+ 382. https://es.wikipedia.org/wiki/Ecuación
+ 383. https://es.wikipedia.org/wiki/Letra
+ 384. https://es.wikipedia.org/wiki/Ángulo
+ 385. https://es.wikipedia.org/wiki/Triángulo
+ 386. https://es.wikipedia.org/wiki/Anexo:Raíces_cuadradas
+ 387. https://es.wikipedia.org/wiki/Archivo:Square_root_of_2_triangle.png
+ 388. https://es.wikipedia.org/wiki/Raíz_cuadrada_de_2
+ 389. https://es.wikipedia.org/wiki/Coseno
+ 390. https://es.wikipedia.org/wiki/Richard_Dedekind
+ 391. https://es.wikipedia.org/wiki/Georg_Cantor
+ 392. https://es.wikipedia.org/wiki/Raíz_cuadrada_de_3
+ 393. https://es.wikipedia.org/wiki/Archivo:Square_root_of_3_in_cube.svg
+ 394. https://es.wikipedia.org/wiki/Teodoro_de_Cirene
+ 395. https://es.wikipedia.org/wiki/Teorema_de_Pitágoras
+ 396. https://es.wikipedia.org/wiki/Raíz_cuadrada_de_5
+ 397. https://es.wikipedia.org/wiki/Número_áureo
+ 398. https://es.wikipedia.org/wiki/Círculo
+ 399. https://es.wikipedia.org/wiki/Números_pares_e_impares
+ 400. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-19
+ 401. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-20
+ 402. https://es.wikipedia.org/wiki/Tetraedro
+ 403. https://es.wikipedia.org/wiki/Seno_(trigonometría)
+ 404. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-21
+ 405. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-22
+ 406. https://es.wikipedia.org/wiki/Método_de_Cardano
+ 407. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-23
+ 408. https://es.wikipedia.org/wiki/Cálculo_de_la_raíz_cuadrada
+ 409. https://es.wikipedia.org/wiki/Cuadrado_(álgebra)
+ 410. https://es.wikipedia.org/wiki/Cuadrado_perfecto
+ 411. https://es.wikipedia.org/wiki/Fórmula_de_De_Moivre
+ 412. https://es.wikipedia.org/wiki/Función_exponencial
+ 413. https://es.wikipedia.org/wiki/Radicación
+ 414. https://es.wikipedia.org/wiki/Raíz_cuadrada_de_2
+ 415. https://es.wikipedia.org/wiki/Raíz_cuadrada_de_3
+ 416. https://es.wikipedia.org/wiki/Raíz_cuadrada_de_5
+ 417. https://es.wikipedia.org/wiki/Raíz_cúbica
+ 418. https://es.wikipedia.org/wiki/Raíz_enésima_de_un_número
+ 419. https://es.wikipedia.org/wiki/Raíz_de_la_unidad
+ 420. https://es.wikipedia.org/wiki/Radical_jerarquizado
+ 421. https://es.wikipedia.org/wiki/Residuo_cuadrático
+ 422. https://es.wikipedia.org/wiki/Racionalización_de_radicales
+ 423. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-1
+ 424. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-2
+ 425. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-3
+ 426. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-4
+ 427. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-5
+ 428. https://es.wikipedia.org/wiki/Raíz_cuadrada#CITAREFJoseph2000
+ 429. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-6
+ 430. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-7
+ 431. https://es.wikipedia.org/wiki/Raíz_cuadrada#CITAREFSmith1925
+ 432. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-8
+ 433. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/9786124527999
+ 434. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-9
+ 435. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/842068094X
+ 436. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/8420681865
+ 437. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-10
+ 438. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/9788423997305
+ 439. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/8423997308
+ 440. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-11
+ 441. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-12
+ 442. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-13
+ 443. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-14
+ 444. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-15
+ 445. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/8480553553
+ 446. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-16
+ 447. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/9687270357
+ 448. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-17
+ 449. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-18
+ 450. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-19
+ 451. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-20
+ 452. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-21
+ 453. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-22
+ 454. https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-23
+ 455. https://es.wikipedia.org/wiki/ISBN
+ 456. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/ISBN_970-686-543-8_e_ISBN_978-970-686-543-4
+ 457. https://es.wikipedia.org/wiki/Ayuda:Errores_en_las_referencias#bad_isbn
+ 458. https://archive.org/details/crestofpeacockno00jose
+ 459. https://es.wikipedia.org/wiki/ISBN
+ 460. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/ISBN_0-691-00659-8_e_ISBN_978-0-691-00659-8
+ 461. https://es.wikipedia.org/wiki/Ayuda:Errores_en_las_referencias#bad_isbn
+ 462. https://es.wikipedia.org/wiki/ISBN
+ 463. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/ISBN_0-486-20430-8_e_ISBN_978-0-486-20430-7
+ 464. https://es.wikipedia.org/wiki/Ayuda:Errores_en_las_referencias#bad_isbn
+ 465. https://es.wikipedia.org/wiki/ISBN
+ 466. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/ISBN_0-387-94280-7_e_ISBN_978-0-387-94280-3
+ 467. https://es.wikipedia.org/wiki/Ayuda:Errores_en_las_referencias#bad_isbn
+ 468. https://es.wikipedia.org/wiki/Wikimedia_Commons
+ 469. https://commons.wikimedia.org/wiki/Category:Square_root
+ 470. https://es.wikipedia.org/wiki/Wikcionario
+ 471. https://es.wiktionary.org/wiki/raíz
+ 472. http://platea.pntic.mec.es/anunezca/ayudas/raiz2/raiz2.htm
+ 473. http://www.raizcuadrada.es/index.php/raiz-cuadrada/
+ 474. https://es.wikipedia.org/wiki/Control_de_autoridades
+ 475. https://es.wikipedia.org/wiki/Wikidata
+ 476. https://www.wikidata.org/wiki/Q134237
+ 477. https://es.wikipedia.org/wiki/Wikimedia_Commons
+ 478. https://commons.wikimedia.org/wiki/Category:Square_root
+ 479. https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search="Q134237"
+ 480. https://es.wikipedia.org/wiki/Enciclopedia_Británica
+ 481. https://www.britannica.com/topic/square-root
+ 482. http://www.electropedia.org/iev/iev.nsf/display?openform&ievref=102-02-15
+ 483. https://es.wikipedia.org/wiki/Wikidata
+ 484. https://www.wikidata.org/wiki/Q134237
+ 485. https://es.wikipedia.org/wiki/Wikimedia_Commons
+ 486. https://commons.wikimedia.org/wiki/Category:Square_root
+ 487. https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search="Q134237"
+ 488. https://es.wikipedia.org/w/index.php?title=Raíz_cuadrada&oldid=159422512
+ 489. https://es.wikipedia.org/wiki/Especial:Categorías
+ 490. https://es.wikipedia.org/wiki/Categoría:Aritmética
+ 491. https://es.wikipedia.org/wiki/Categoría:Matemática_elemental
+ 492. https://es.wikipedia.org/wiki/Categoría:Raíces
+ 493. https://es.wikipedia.org/wiki/Categoría:Operaciones_unarias
+ 494. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Páginas_con_enlaces_mágicos_de_ISBN
+ 495. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Artículos_con_pasajes_que_requieren_referencias
+ 496. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Páginas_con_ISBN_incorrectos
+ 497. https://es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribución-CompartirIgual_4.0_Internacional
+ 498. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es
+ 499. https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es
+ 500. https://wikimediafoundation.org/es/
+ 501. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es
+ 502. https://es.wikipedia.org/wiki/Wikipedia:Acerca_de
+ 503. https://es.wikipedia.org/wiki/Wikipedia:Limitación_general_de_responsabilidad
+ 504. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 505. https://developer.wikimedia.org/
+ 506. https://stats.wikimedia.org/#/es.wikipedia.org
+ 507. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es
+ 508. https://es.m.wikipedia.org/w/index.php?title=Raíz_cuadrada&mobileaction=toggle_view_mobile
+ 509. https://wikimediafoundation.org/
+ 510. https://www.mediawiki.org/

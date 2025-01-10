@@ -1,0 +1,265 @@
+   Academia Lab logo [1]AcademiaLab
+   [INS: :INS] [INS: :INS]
+
+Raíz (lingüística)
+
+   format_list_bulleted Contenido keyboard_arrow_down
+   ImprimirCitar
+   [INS: :INS]
+   [2]Raíces lingüísticas Construcción lingüística
+
+   Una raíz (o palabra raíz) es el núcleo de una palabra que es
+   irreductible a elementos más significativos. En morfología, una raíz es
+   una unidad morfológicamente simple que se puede dejar desnuda oa la que
+   se le puede agregar un prefijo o un sufijo. La raíz de la palabra es la
+   unidad léxica principal de una palabra y de una familia de palabras
+   (esta raíz se denomina entonces palabra base), que conlleva aspectos de
+   contenido semántico y no puede reducirse a constituyentes más pequeños.
+   Las palabras de contenido en casi todos los idiomas contienen y pueden
+   consistir solo en morfemas de raíz. Sin embargo, a veces el término
+   "raíz" también se usa para describir la palabra sin sus terminaciones
+   flexivas, pero con sus terminaciones léxicas en su lugar. Por ejemplo,
+   chatters tiene la raíz flexiva o lema chatter, pero el chat raíz
+   léxica. Las raíces flexivas a menudo se denominan tallos, y una raíz en
+   el sentido más estricto, un morfema de raíz, puede considerarse como un
+   tallo monomorfémico.
+
+   La definición tradicional permite que las raíces sean morfemas libres o
+   morfemas ligados. Los morfemas de raíz son los componentes básicos para
+   la fijación y los compuestos. Sin embargo, en lenguas polisintéticas
+   con niveles muy altos de morfología flexiva, el término "raíz" es
+   generalmente sinónimo de "morfema libre". Muchos de estos idiomas
+   tienen un número muy restringido de morfemas que pueden estar solos
+   como una palabra: Yup'ik, por ejemplo, no tiene más de dos mil.
+
+   La raíz se indica convencionalmente usando el símbolo matemático √; por
+   ejemplo, la raíz sánscrita " √bhū- " significa la raíz " bhū- ".
+
+Ejemplos
+
+   La raíz de una palabra es una unidad de significado (morfema) y, como
+   tal, es una abstracción, aunque normalmente puede representarse
+   alfabéticamente como una palabra. Por ejemplo, se puede decir que la
+   raíz del verbo inglés running es run, o la raíz del adjetivo
+   superlativo español amplísimo es ampli-, ya que esas palabras se
+   derivan de las formas de la raíz por sufijos simples que no alteran las
+   raíces. de cualquier manera. En particular, el inglés tiene muy poca
+   inflexión y una tendencia a tener palabras que son idénticas a sus
+   raíces. Pero una inflexión más complicada, así como otros procesos,
+   pueden oscurecer la raíz; por ejemplo, la raíz de ratones es mouse
+   (todavía es una palabra válida), y la raíz deinterrupt es,
+   posiblemente, rupt, que no es una palabra en inglés y solo aparece en
+   formas derivativas (como disrupt, corrupt, rupture, etc.). La raíz rupt
+   se puede escribir como si fuera una palabra, pero no lo es.
+
+   Esta distinción entre la palabra como unidad de habla y la raíz como
+   unidad de significado es aún más importante en el caso de idiomas donde
+   las raíces tienen muchas formas diferentes cuando se usan en palabras
+   reales, como es el caso de los idiomas semíticos. En estos, las raíces
+   (raíces semíticas) están formadas solo por consonantes, y los hablantes
+   elaboran diferentes palabras (pertenecientes potencialmente a
+   diferentes partes del discurso) a partir de la raíz insertando
+   diferentes vocales. Por ejemplo, en hebreo, la raíz ג-ד-ל gdl
+   representa la idea de grandeza, y de ella tenemos g a d o l y gd o l a
+   (formas masculina y femenina del adjetivo "grande"), g a d unl
+   "creció", hi gd i l "aumentó " y ma gd e l et "lupa", junto con muchas
+   otras palabras como g o d e l "tamaño" y mi gd a l "torre".
+
+   Las raíces y las raíces reconstruidas pueden convertirse en las
+   herramientas de la etimología.
+   [3]Evolución lingüística de las raíces lingüísticas indoeuropeas en sus
+   vertientes europeas Evolución lingüística de las raíces lingüísticas
+   indoeuropeas en sus vertientes europeas
+
+Raíces secundarias
+
+   Las raíces secundarias son raíces con cambios en ellas, produciendo una
+   nueva palabra con un significado ligeramente diferente. En inglés, un
+   equivalente aproximado sería ver a conductor como una raíz secundaria
+   formada a partir de la raíz conduct. En los idiomas abjad, los más
+   conocidos son el árabe y el hebreo, en los que las familias de raíces
+   secundarias son fundamentales para el idioma, las raíces secundarias se
+   crean mediante cambios en las vocales de las raíces, agregando o
+   eliminando las vocales largas a, i, u., e y o. (Observe que el árabe no
+   tiene las vocales e y o). Además, las raíces secundarias se pueden
+   crear anteponiendo (m−, t−), infijos (−t−) o sufijos (−i, y varios
+   otros). No existe una regla en estos idiomas sobre cuántas raíces
+   secundarias se pueden derivar de una sola raíz; algunas raíces tienen
+   pocas, pero otras raíces tienen muchas, no todas necesariamente en uso
+   actual.
+
+   Considere el idioma árabe:
+     * مركز [mrkz] o [markaza] que significa 'centralizado (masculino,
+       singular)', de [markaz] 'centro', de [rakaza] 'plantar en la
+       tierra, clavar (una lanza)' (ر-ك-ز | rkz). Esto a su vez tiene
+       palabras derivadas مركزي [markaziy], que significa 'central',
+       مركزية [markaziy:ah], que significa 'centralismo' o
+       'centralización', y لامركزية, [la:markaziy:ah] 'descentralización'
+     * أرجح [rjh] o [ta'arjaħa] que significa 'oscilado (masculino,
+       singular)', de ['urju:ħa] 'columpio (n)', de [rajaħa] 'pesado,
+       preponderado (masculino, singular)' (ر-ج-ح | rj-ħ).
+     * محور [mhwr] o [tamaħwara] que significa 'centrado, enfocado
+       (masculino, singular)', de [mihwar] que significa 'eje', de [ħa:ra]
+       'girado (masculino, singular)' (ح-و-ر | hora).
+     * مسخر [msxr], تمسخر [tamasxara] que significa 'burlado, burlado
+       (masculino, singular)', de مسخرة [masxara] que significa 'burla',
+       de سخر [saxira] 'burlado (masculino, singular)' (derivado de س-
+       خ-ر[sxr])." Casos similares se pueden encontrar en otros idiomas
+       semíticos como el hebreo, el siríaco, el arameo, el maltés y, en
+       menor medida, el amárico.
+
+   Casos similares ocurren en hebreo, por ejemplo en hebreo israelí מ-ק-מ
+   √mqm 'ubicar', que deriva del hebreo bíblico מקום måqom 'lugar', cuya
+   raíz es ק-ו-מ √qwm 'estar'. Un ejemplo reciente presentado por la
+   Academia de la Lengua Hebrea es מדרוג midrúg 'calificación', de מדרג
+   midrág, cuya raíz es ד-ר-ג √drg 'grado'".
+
+   Según Ghil'ad Zuckermann, "este proceso es morfológicamente similar a
+   la producción de verbos frecuentativos (iterativos) en latín, por
+   ejemplo:
+     * iactito 'dar vueltas' deriva de iacto 'presumir, seguir criando,
+       acosar, molestar, tirar, echar, arrojar', que a su vez deriva de
+       iacio 'tirar, echar' (de su participio pasado iactum).
+
+   Considere también el hebreo rabínico ת-ר-מ √trm 'donar, contribuir'
+   (Mishnah: T'rumoth 1:2: 'separar cuotas sacerdotales'), que deriva del
+   hebreo bíblico תרומה t'rūmå 'contribución', cuya raíz es ר-ו-מ √rwm
+   'elevar'; cf. Hebreo rabínico ת-ר-ע √tr-' 'tocar la trompeta, tocar el
+   cuerno', del hebreo bíblico תרועה t'rū`å 'gritar, clamar, sonido
+   fuerte, toque de trompeta', a su vez de ר- ו-ע √rw-`." y describe el
+   sufijo.
+
+Raíces de categoría neutral
+
+   [4]Raíz común de diversas palabras del inglés que comparten la misma
+   raíz lingüística Raíz común de diversas palabras del inglés que
+   comparten la misma raíz lingüística
+
+   Los marcos generativos de descomposición sugieren que las raíces
+   contienen poca información gramatical y pueden considerarse "categoría
+   neutral". Las raíces de categoría neutral son raíces sin ninguna
+   categoría léxica inherente pero con algún contenido conceptual que se
+   vuelve evidente dependiendo del entorno sintáctico. Las formas en que
+   estas raíces ganan categoría léxica se analizan en Morfología
+   distribuida y el modelo exoesquelético.
+
+   Las teorías que adoptan un enfoque de categoría neutral, a partir de
+   2020, no han llegado a un consenso sobre si estas raíces contienen un
+   tipo semántico pero no una estructura argumental, ni un tipo semántico
+   ni una estructura argumental, o tanto un tipo semántico como una
+   estructura argumental.
+
+   En apoyo del enfoque de categoría neutral, los datos del inglés indican
+   que la misma raíz subyacente aparece como un sustantivo y un verbo, con
+   o sin morfología manifiesta.
+     * Ejemplos en inglés - abiertoRaízSustantivoVerboanunciarun
+       anuncioanunciarpersonajeun personajepara caracterizaremplearun
+       empleoemplearalfabetoun alfabetoalfabetizar _
+     * Ejemplos en inglés - EncubiertoRaízSustantivoVerbobaileun
+       bailebailarcaminarun paseocaminarsillauna
+       sillapresidirguardarropaun armarioguardarropa
+
+   En hebreo, la mayoría de las raíces consisten en consonantes
+   segmentarias √CCC. Arad (2003) describe que la raíz consonántica se
+   convierte en una palabra debido a la morfología del patrón. Por lo
+   tanto, la raíz se convierte en un verbo cuando se coloca en un entorno
+   verbal donde la cabeza lleva la característica "v" (el patrón).
+
+   Considere la raíz √š-mn (ש-מ-נ).
+      Patrón    palabra pronunciada       Brillo
+   CeCeC (n)    semen               aceite, grasa
+   CaCCeCet (n) šamenet             crema
+   CuCaC (n)    suman               grasa
+   CaCeC (adj.) Samen               grasa
+   HICCIC (v)   hismin              engordar / engordar
+   CiCCeC (n)   simen               grasa
+
+   Aunque todas las palabras varían semánticamente, el significado general
+   de un material grasoso puede atribuirse a la raíz.
+
+   Además, Arad afirma que hay dos tipos de lenguajes en términos de
+   interpretación raíz. En idiomas como el inglés, a la raíz se le asigna
+   una interpretación, mientras que en idiomas como el hebreo, la raíz
+   puede formar múltiples interpretaciones según su entorno. Esta
+   ocurrencia sugiere una diferencia en la adquisición del lenguaje entre
+   estos dos idiomas. Los hablantes de inglés necesitarían aprender dos
+   raíces para entender dos palabras diferentes, mientras que los
+   hablantes de hebreo aprenderían una raíz para dos o más palabras.
+   raíz inglesa Palabra inglesa raíz hebrea palabra hebrea Brillo
+   √CREMA       crema           √š-mn ש-מ-נ šamenet        'crema'
+   √GRASA       grasa           √š-mn ש-מ-נ suman          'grasa'
+
+   Alexiadou y Lohndal (2017) avanzan la afirmación de que los idiomas
+   tienen una escala tipológica en lo que respecta a las raíces y sus
+   significados y afirman que el griego se encuentra entre el hebreo y el
+   inglés.
+
+Contenido relacionado
+
+   [5]
+
+   Historia del Alfabeto Hebreo
+   El alfabeto “hebreo” cananeo es un desarrollo del alfabeto arameo que
+   tuvo lugar durante los períodos persa, helenístico y romano (c. 500 a.
+   C. – 50...[6]
+
+   Aspecto gramatical
+   El aspecto gramatical o aspecto verbal, es la categoría gramatical que
+   describe cómo se desarrolla una acción verbal en el tiempo. El aspecto
+   gramatical se...[7]
+
+   Lógica de primer orden
+   Lógica de primer orden: también conocida como lógica de predicados,
+   lógica cuantificacional y cálculo de predicados de primer orden—es una
+   colección...
+   Más resultados...
+   Te puede interesar
+
+   IFRAME: [8]https://www.youtube.com/embed/-tTmm-LwKPM
+
+   Academia Lab logo [9]AcademiaLab
+   YouTube: [10]@academialabTikTok: [11]@academialabLinkedIn: [12]@academi
+   alabFacebook: [13]@academialabfInstagram: [14]@academialabfX: [15]@acad
+   emialabf
+   [16]Tema[17]Categorías[18]Libros
+   Site design / logo ©2024 AcademiaLab[19]CC
+   BY-NC-ND[20]info@academia-lab.com
+
+   Tamaño del texto:
+   (*) Pequeño
+   ( ) Mediano
+   ( ) Grande
+
+     * Copiar
+     * Editar
+     * Resumir
+
+   undoredo
+   format_boldformat_italicformat_underlinedstrikethrough_ssuperscriptsubs
+   criptlink
+   save
+
+   cancelcheck_circle
+
+Références
+
+   1. https://academia-lab.com/
+   2. https://academia-lab.com/wp-content/uploads/2022/10/image-130.webp
+   3. https://academia-lab.com/wp-content/uploads/2022/10/image-131-scaled.webp
+   4. https://academia-lab.com/wp-content/uploads/2022/10/Screenshot-from-2022-10-06-20-11-29.webp
+   5. https://academia-lab.com/enciclopedia/historia-del-alfabeto-hebreo/
+   6. https://academia-lab.com/enciclopedia/aspecto-gramatical/
+   7. https://academia-lab.com/enciclopedia/logica-de-primer-orden/
+   8. https://www.youtube.com/embed/-tTmm-LwKPM
+   9. https://academia-lab.com/
+  10. https://www.youtube.com/@academialab
+  11. https://www.tiktok.com/@academialab
+  12. https://www.linkedin.com/company/academialab/
+  13. https://www.facebook.com/academialabf
+  14. https://www.instagram.com/academialabf/
+  15. https://x.com/academialabf
+  16. https://academia-lab.com/enciclopedia/raiz-linguistica/
+  17. https://academia-lab.com/enciclopedia/raiz-linguistica/
+  18. https://academia-lab.com/enciclopedia/raiz-linguistica/
+  19. https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+  20. mailto:info@academia-lab.com

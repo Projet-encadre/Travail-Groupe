@@ -1,0 +1,922 @@
+   #[1]alternate [2]Editar [3]Wikipedia (es) [4]Canal Atom de Wikipedia
+
+   [5]Ir al contenido
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Navegación
+     * [6]Portada
+     * [7]Portal de la comunidad
+     * [8]Actualidad
+     * [9]Cambios recientes
+     * [10]Páginas nuevas
+     * [11]Página aleatoria
+     * [12]Ayuda
+     * [13]Notificar un error
+
+   [14]Wikipedia La enciclopedia libre
+   [15]Buscar
+   ____________________
+   (BUTTON) Buscar
+
+   [ ] Apariencia
+
+     * [16]Donaciones
+     * [17]Crear una cuenta
+     * [18]Acceder
+
+   [ ] Herramientas personales
+     * [19]Donaciones
+     * [20]Crear una cuenta
+     * [21]Acceder
+
+   Páginas para editores desconectados [22]más información
+     * [23]Contribuciones
+     * [24]Discusión
+
+Contenidos
+
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+     * [25]Inicio
+     * [26]1 Definición formal
+       (BUTTON) Alternar subsección Definición formal
+          + [27]1.1 Números reales
+          + [28]1.2 Números complejos
+          + [29]1.3 Números cuaterniónicos
+     * [30]2 Métodos numéricos
+     * [31]3 Véase también
+     * [32]4 Notas y referencias
+     * [33]5 Enlaces externos
+
+   [ ] Cambiar a la tabla de contenidos
+
+Raíz cúbica
+
+   [ ] 49 idiomas
+     * [34]العربية
+     * [35]Bikol Central
+     * [36]Български
+     * [37]Bosanski
+     * [38]Català
+     * [39]Čeština
+     * [40]Чӑвашла
+     * [41]Cymraeg
+     * [42]Dansk
+     * [43]Deutsch
+     * [44]Ελληνικά
+     * [45]English
+     * [46]Esperanto
+     * [47]Euskara
+     * [48]Suomi
+     * [49]Français
+     * [50]Galego
+     * [51]עברית
+     * [52]हिन्दी
+     * [53]Hrvatski
+     * [54]Հայերեն
+     * [55]Bahasa Indonesia
+     * [56]Ido
+     * [57]日本語
+     * [58]ភាសាខ្មែរ
+     * [59]한국어
+     * [60]Lietuvių
+     * [61]Latviešu
+     * [62]മലയാളം
+     * [63]मराठी
+     * [64]Bahasa Melayu
+     * [65]नेपाली
+     * [66]Nederlands
+     * [67]Norsk nynorsk
+     * [68]Norsk bokmål
+     * [69]Polski
+     * [70]Português
+     * [71]Română
+     * [72]Русский
+     * [73]Srpskohrvatski / српскохрватски
+     * [74]Српски / srpski
+     * [75]Svenska
+     * [76]தமிழ்
+     * [77]ไทย
+     * [78]Tagalog
+     * [79]Українська
+     * [80]Tiếng Việt
+     * [81]中文
+     * [82]粵語
+
+   [83]Editar enlaces
+
+     * [84]Artículo
+     * [85]Discusión
+
+   [ ] español
+
+     * [86]Leer
+     * [87]Editar
+     * [88]Ver historial
+
+   [ ] Herramientas
+   Herramientas
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Acciones
+     * [89]Leer
+     * [90]Editar
+     * [91]Ver historial
+
+   General
+     * [92]Lo que enlaza aquí
+     * [93]Cambios en enlazadas
+     * [94]Subir archivo
+     * [95]Páginas especiales
+     * [96]Enlace permanente
+     * [97]Información de la página
+     * [98]Citar esta página
+     * [99]Obtener URL acortado
+     * [100]Descargar código QR
+
+   Imprimir/exportar
+     * [101]Crear un libro
+     * [102]Descargar como PDF
+     * [103]Versión para imprimir
+
+   En otros proyectos
+     * [104]Wikimedia Commons
+     * [105]Elemento de Wikidata
+
+   Apariencia
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   De Wikipedia, la enciclopedia libre
+   [106][300px-Cube_root.svg.png] Representación gráfica de la función: y
+   =
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{3}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{3}]{x}}}
+
+   La raíz cúbica,(∛) en el sistema de los números reales, estrictamente,
+   es la función inversa de la función
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>y</mi> <mo>=</mo> <msup>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle y=x^{3}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle y=x^{3}} (potencia de tercer grado). La extracción de la
+   raíz cúbica de cualquier [107]número real puede admitirse como una
+   [108]operación unaria de los reales en los reales.^[109][1]​^[110][2]​
+
+   La operación de calcular la raíz cúbica se puede efectuar, sin
+   restricciones, en el [111]campo ordenado de los números reales,
+   ciertamente, con aproximaciones decimales prefijadas en la mayoría de
+   los casos. Es [112]asociativa con la [113]potenciación y
+   [114]distributiva respecto la [115]multiplicación y [116]división de
+   números reales, pero no es asociativa ni distributiva con la
+   [117]adición o la [118]resta. La raíz cúbica mantiene el signo del
+   radicando.
+
+   Históricamente, el famoso problema de la [119]duplicación del cubo,
+   estudiado por [120]Arquitas de Tarento, planteó la solución a través de
+   la raíz cúbica de 2. Esta cuestión no se resolvió con la aritmética de
+   los [121]números racionales, tampoco con la construcción geométrica a
+   través de [122]regla y compás.^[123][3]​
+
+   Para facilitar el cálculo de la raíz cúbica, se hacía uso de
+   [124]logaritmos y sus propiedades sobre las raíces usando tablas y
+   también mediante la [125]regla de cálculo; En la actualidad, se trabaja
+   con las calculadoras.^[126][4]​
+
+Definición formal
+
+   [[127]editar]
+   [128][220px-Complex_cube_root.jpg] Representación compleja de la raíz
+   cúbica.
+
+   Las raíces cúbicas de un número x son números y que satisfacen la
+   ecuación
+
+Números reales
+
+   [[129]editar]
+
+   Si x e y son [130]reales, entonces existe una única solución tal que la
+   ecuación tiene además una única solución, y ésta corresponde a un
+   número real. Si se emplea esta definición, la raíz cúbica de un número
+   negativo es también un número negativo. De esta forma, la raíz cúbica
+   de x es representada igualmente por:
+
+   Si x e y son ambos [131]complejos, entonces se puede decir que posee
+   tres soluciones (si x es no nulo) y así x tiene tres raíces cúbicas:
+   una raíz real y dos complejas, en la forma de par [132]conjugado. Este
+   hecho deja interesantes resultados dentro de las matemáticas. Por
+   ejemplo, las [133]raíces cúbicas del número uno son:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>{</mo>
+          <mtable columnalign="left left" rowspacing=".2em"
+          columnspacing="1em" displaystyle="false"> <mtr> <mtd>
+          <mtext> </mtext> <mtext> </mtext> <mn>1</mn> </mtd> </mtr> <mtr>
+          <mtd> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mn>1</mn> <mn>2</mn> </mfrac> </mrow> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <msqrt> <mn>3</mn> </msqrt>
+          <mn>2</mn> </mfrac> </mrow> <mi>i</mi> </mtd> </mtr> <mtr> <mtd>
+          <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn>
+          <mn>2</mn> </mfrac> </mrow> <mo>−</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <msqrt> <mn>3</mn> </msqrt>
+          <mn>2</mn> </mfrac> </mrow> <mi>i</mi> </mtd> </mtr> </mtable>
+          <mo fence="true" stretchy="true" symmetric="true"></mo> </mrow>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\sqrt[{3}]{1}}={\begin{cases}\ \ 1\\-{\frac {1}{2}}+{\frac
+          {\sqrt {3}}{2}}i\\-{\frac {1}{2}}-{\frac {\sqrt
+          {3}}{2}}i\end{cases}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt[{3}]{1}}={\begin{cases}\ \ 1\\-{\frac
+          {1}{2}}+{\frac {\sqrt {3}}{2}}i\\-{\frac {1}{2}}-{\frac {\sqrt
+          {3}}{2}}i\end{cases}}}
+
+   Estas dos raíces se relacionan con todas las otras raíces cúbicas de
+   otros números. Si un número es raíz cúbica de un número real las raíces
+   cúbicas pueden ser calculadas multiplicando el número por las raíces de
+   la raíz cúbica de uno.^[134][5]​
+
+Números complejos
+
+   [[135]editar]
+
+   En el cuerpo de los números complejos, la raíz cúbica responde a la
+   solución de la ecuación
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> <mo>−</mo>
+          <mi>a</mi> <mo>=</mo> <mn>0</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          z^{3}-a=0}</annotation> </semantics> :MATH]
+          {\displaystyle z^{3}-a=0}
+
+   donde a es cualquier número complejo no nulo. El conjunto solución
+   involucra tres valores distintos; si z es un complejo real uno de los
+   valores es número real; los otros dos son complejos, sin ninguna parte
+   nula.^[136][6]​
+
+   Para los números complejos, el [137]valor principal de las raíces
+   cúbicas se define como:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>3</mn> </mfrac>
+          </mrow> </msup> <mo>=</mo> <mi>exp</mi> <mo>⁡</mo> <mrow>
+          <mo>(</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+          <mi>Log</mi> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>z</mi> </mrow> </mrow> <mn>3</mn> </mfrac> </mrow>
+          <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle z^{1 \over 3}=\exp
+          \left({\operatorname {Log} {z} \over 3}\right)}</annotation>
+          </semantics> :MATH]
+          {\displaystyle z^{1 \over 3}=\exp \left({\operatorname {Log} {z}
+          \over 3}\right)}
+
+   Donde Log(z) es la rama principal del [138]logaritmo complejo. Si se
+   escribe z como
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>z</mi> <mo>=</mo>
+          <mi>r</mi> <mi>exp</mi> <mo>⁡</mo> <mo stretchy="false">(</mo>
+          <mi>i</mi> <mi>θ</mi> <mo stretchy="false">)</mo> <mspace
+          width="thinmathspace" /> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle z=r\exp(i\theta
+          )\,}</annotation> </semantics> :MATH]
+          {\displaystyle z=r\exp(i\theta )\,}
+
+   Donde r es un número real positivo y
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>θ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \theta
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \theta } cae en el rango:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>−</mo> <mi>π</mi>
+          <mo><</mo> <mi>θ</mi> <mo>≤</mo> <mi>π</mi> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle -\pi
+          <\theta \leq \pi }</annotation> </semantics> :MATH]
+          {\displaystyle -\pi <\theta \leq \pi } ,
+
+   entonces la raíz cúbica es
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mi>r</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot>
+          </mrow> <mi>exp</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>i</mi> <mi>θ</mi>
+          </mrow> <mn>3</mn> </mfrac> </mrow> <mo>)</mo> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\sqrt[{3}]{z}}={\sqrt[{3}]{r}}\exp \left({i\theta \over
+          3}\right)}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt[{3}]{z}}={\sqrt[{3}]{r}}\exp
+          \left({i\theta \over 3}\right)} .
+
+   Esto significa que en [139]coordenadas polares al tomar la raíz cúbica
+   de un número complejo se está tomando la raíz cúbica del radio y el
+   ángulo polar se está dividiendo en tres partes de tal forma que define
+   las tres raíces. Con esta definición, la raíz cúbica de un número
+   negativo es un número complejo, y por ejemplo
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mrow> <mo>−</mo> <mn>8</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   {\sqrt[{3}]{-8}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{3}]{-8}}} no será -2, sino
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo>+</mo> <mi>i</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>3</mn> </msqrt> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 1+i{\sqrt
+   {3}}}</annotation> </semantics> :MATH]
+   {\displaystyle 1+i{\sqrt {3}}} . En aquellos programas que aceptan
+   resultados imaginarios (tales como [140]Mathematica), el grafo de la
+   raíz cúbica de x en el plano de los números reales dará como resultados
+   valores negativos de la raíz por igual.
+
+Números cuaterniónicos
+
+   [[141]editar]
+
+   Al igual que sucede con la [142]raíz cuadrada de números
+   cuaterniónicos, sucede que un número cuaterniónico puede admitir
+   infinitas raíces cúbicas. Esto contrasta con el caso de los reales y
+   complejos, donde por ejemplo -1 tiene un número finito de raíces
+   cúbicas (una en los reales y tres en los complejos). Sin embargo, en
+   los [143]números cuaterniónicos
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">H</mi> </mrow> </mstyle> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \scriptstyle
+   \mathbb {H} }</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle \mathbb {H} } hay un número infinito de
+   raíces cúbicas de -1. Para ver esto, sea q = a + bi + cj + dk un
+   cuaternión, y supóngase que su cubo es −1:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+          <mi>a</mi> <mo>+</mo> <mi>b</mi> <mi>i</mi> <mo>+</mo>
+          <mi>c</mi> <mi>j</mi> <mo>+</mo> <mi>d</mi> <mi>k</mi> <msup>
+          <mo stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mn>3</mn> </mrow> </msup> <mo>=</mo> <mo>−</mo> <mn>1</mn> <mo
+          stretchy="false">⇒</mo> <mi>a</mi> <mo stretchy="false">[</mo>
+          <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>−</mo> <mn>3</mn> <mo
+          stretchy="false">(</mo> <msup> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>+</mo> <msup> <mi>d</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+          stretchy="false">)</mo> <mo stretchy="false">]</mo> <mo>+</mo>
+          <mo stretchy="false">[</mo> <mn>3</mn> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>−</mo>
+          <mo stretchy="false">(</mo> <msup> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>+</mo> <msup> <mi>d</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+          stretchy="false">)</mo> <mo stretchy="false">]</mo> <mo
+          stretchy="false">(</mo> <mi>b</mi> <mi>i</mi> <mo>+</mo>
+          <mi>c</mi> <mi>j</mi> <mo>+</mo> <mi>d</mi> <mi>k</mi> <mo
+          stretchy="false">)</mo> <mo>=</mo> <mo>−</mo> <mn>1</mn>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          (a+bi+cj+dk)^{3}=-1\Rightarrow
+          a[a^{2}-3(b^{2}+c^{2}+d^{2})]+[3a^{2}-(b^{2}+c^{2}+d^{2})](bi+cj
+          +dk)=-1}</annotation> </semantics> :MATH]
+          {\displaystyle (a+bi+cj+dk)^{3}=-1\Rightarrow
+          a[a^{2}-3(b^{2}+c^{2}+d^{2})]+[3a^{2}-(b^{2}+c^{2}+d^{2})](bi+cj
+          +dk)=-1}
+
+   En términos de a, b, c y d esa asunción implica que
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">[</mo>
+          <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>−</mo> <mn>3</mn> <mo
+          stretchy="false">(</mo> <msup> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>+</mo> <msup> <mi>d</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+          stretchy="false">)</mo> <mo stretchy="false">]</mo> <mi>a</mi>
+          <mo>=</mo> <mo>−</mo> <mn>1</mn> <mo>,</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          [a^{2}-3(b^{2}+c^{2}+d^{2})]a=-1,}</annotation> </semantics>
+          :MATH]
+          {\displaystyle [a^{2}-3(b^{2}+c^{2}+d^{2})]a=-1,}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">[</mo>
+          <mn>3</mn> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mo>−</mo> <mo
+          stretchy="false">(</mo> <msup> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>+</mo> <msup> <mi>d</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+          stretchy="false">)</mo> <mo stretchy="false">]</mo> <mi>b</mi>
+          <mo>=</mo> <mn>0</mn> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          [3a^{2}-(b^{2}+c^{2}+d^{2})]b=0,}</annotation> </semantics>
+          :MATH]
+          {\displaystyle [3a^{2}-(b^{2}+c^{2}+d^{2})]b=0,}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">[</mo>
+          <mn>3</mn> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mo>−</mo> <mo
+          stretchy="false">(</mo> <msup> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>+</mo> <msup> <mi>d</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+          stretchy="false">)</mo> <mo stretchy="false">]</mo> <mi>c</mi>
+          <mo>=</mo> <mn>0</mn> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          [3a^{2}-(b^{2}+c^{2}+d^{2})]c=0,}</annotation> </semantics>
+          :MATH]
+          {\displaystyle [3a^{2}-(b^{2}+c^{2}+d^{2})]c=0,}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">[</mo>
+          <mn>3</mn> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mo>−</mo> <mo
+          stretchy="false">(</mo> <msup> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>+</mo> <msup> <mi>d</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+          stretchy="false">)</mo> <mo stretchy="false">]</mo> <mi>d</mi>
+          <mo>=</mo> <mn>0.</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          [3a^{2}-(b^{2}+c^{2}+d^{2})]d=0.}</annotation> </semantics>
+          :MATH]
+          {\displaystyle [3a^{2}-(b^{2}+c^{2}+d^{2})]d=0.}
+
+   Una posible solución es
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>=</mo> <mo>−</mo>
+   <mn>1</mn> <mo>,</mo> <mi>b</mi> <mo>=</mo> <mi>c</mi> <mo>=</mo>
+   <mi>d</mi> <mo>=</mo> <mn>0</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle a=-1,b=c=d=0}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a=-1,b=c=d=0} pero además de esta existe un número
+   infinito de soluciones adicionales que juntas forman la superficie de
+   una 2-esfera de radio
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>3</mn> </msqrt> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mo>/</mo> </mrow> <mn>2</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {3}}/2}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {3}}/2} contenida
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">R</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup> <mo>≈</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">H</mi>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {R} ^{4}\approx
+   \mathbb {H} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {R} ^{4}\approx \mathbb {H} } . Esto se puede
+   ver tomando
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>b</mi> <mo>,</mo> <mi>c</mi>
+   <mo>,</mo> <mi>d</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle b,c,d}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b,c,d} de manera que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>b</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo> <msup>
+   <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   <mo>+</mo> <msup> <mi>d</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mo>=</mo> <mn>3</mn> <msup> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   b^{2}+c^{2}+d^{2}=3a^{2}}</annotation> </semantics> :MATH]
+   {\displaystyle b^{2}+c^{2}+d^{2}=3a^{2}} (ecuación de una 2-esfera),
+   así se cumplen las tres últimas ecuaciones. Subtsituyendo esto en la
+   primera, vemos que esta también se satisface si
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>=</mo> <mn>1</mn>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   a=1/2}</annotation> </semantics> :MATH]
+   {\displaystyle a=1/2} :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">[</mo>
+          <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>−</mo> <mn>3</mn> <mo
+          stretchy="false">(</mo> <msup> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>c</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>+</mo> <msup> <mi>d</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+          stretchy="false">)</mo> <mo stretchy="false">]</mo> <mi>a</mi>
+          <mo>=</mo> <mo stretchy="false">[</mo> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>−</mo>
+          <mn>3</mn> <mo stretchy="false">(</mo> <mn>3</mn> <msup>
+          <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+          </msup> <mo stretchy="false">)</mo> <mo stretchy="false">]</mo>
+          <mi>a</mi> <mo>=</mo> <mo>−</mo> <mn>8</mn> <msup> <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup>
+          <mo>=</mo> <mo>−</mo> <mn>1</mn> <mspace width="2em" /> <mo
+          stretchy="false">⇒</mo> <mi>a</mi> <mo>=</mo> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          [a^{2}-3(b^{2}+c^{2}+d^{2})]a=[a^{2}-3(3a^{2})]a=-8a^{3}=-1\qqua
+          d \Rightarrow a=1/2}</annotation> </semantics> :MATH]
+          {\displaystyle
+          [a^{2}-3(b^{2}+c^{2}+d^{2})]a=[a^{2}-3(3a^{2})]a=-8a^{3}=-1\qqua
+          d \Rightarrow a=1/2}
+
+   Por tanto, queda demostrado que la ecuación
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>q</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> <mo>=</mo>
+   <mo>−</mo> <mn>1</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle q^{3}=-1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle q^{3}=-1} admite infinitas soluciones en
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">H</mi> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbb {H}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {H} }
+
+Métodos numéricos
+
+   [[144]editar]
+
+   El [145]método de Newton es un [146]método iterativo que puede ser
+   usado para calcular la raíz cúbica. Para números reales representados
+   mediante [147]coma flotante, este método se reduce al siguiente método
+   iterativo para producir sucesivas mejores aproximaciones de la raíz
+   cúbica de a:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>+</mo> <mn>1</mn>
+          </mrow> </msub> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mn>1</mn> <mn>3</mn> </mfrac> </mrow> <mrow> <mo>(</mo>
+          <mrow> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>a</mi>
+          <msubsup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+          </msubsup> </mfrac> </mrow> <mo>+</mo> <mn>2</mn> <msub>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </msub> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          x_{n+1}={\frac {1}{3}}\left({\frac
+          {a}{x_{n}^{2}}}+2x_{n}\right).}</annotation> </semantics> :MATH]
+          {\displaystyle x_{n+1}={\frac {1}{3}}\left({\frac
+          {a}{x_{n}^{2}}}+2x_{n}\right).}
+
+   Si se toma
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   x_{1}}</annotation> </semantics> :MATH]
+   {\displaystyle x_{1}} por exceso
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>></mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   x_{1}>{\sqrt[{3}]{a}}}</annotation> </semantics> :MATH]
+   {\displaystyle x_{1}>{\sqrt[{3}]{a}}} la sucesión anterior es monótona
+   decreciente y su límite es precisamente la raíz cúbica. Por ejemplo si
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>=</mo> <mn>30</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle a=30}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a=30} , tomando
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>=</mo>
+   <mn>4</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x_{1}=4}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x_{1}=4} , ya que
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mn>4</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> <mo>></mo>
+   <mn>30</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 4^{3}>30}</annotation>
+   </semantics> :MATH]
+   {\displaystyle 4^{3}>30} ; se obtiene:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>=</mo>
+          <mn>4</mn> <mo>;</mo> <mspace width="1em" /> <mo>,</mo> <msub>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+          </msub> <mo>=</mo> <mn>3</mn> <mo>,</mo> <mn>29167</mn>
+          <mo>;</mo> <mspace width="1em" /> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msub> <mo>=</mo>
+          <mn>3</mn> <mo>,</mo> <mn>11737</mn> <mo>;</mo> <mspace
+          width="1em" /> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>4</mn> </mrow> </msub> <mo>=</mo> <mn>3</mn> <mo>,</mo>
+          <mn>10727</mn> <mo>;</mo> <mspace width="1em" /> <msub>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow>
+          </msub> <mo>=</mo> <mn>3</mn> <mo>,</mo> <mn>10723</mn>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle x_{1}=4;\quad
+          ,x_{2}=3,29167;\quad x_{3}=3,11737;\quad x_{4}=3,10727;\quad
+          x_{5}=3,10723}</annotation> </semantics> :MATH]
+          {\displaystyle x_{1}=4;\quad ,x_{2}=3,29167;\quad
+          x_{3}=3,11737;\quad x_{4}=3,10727;\quad x_{5}=3,10723}
+
+   valor que ya está muy cercano a
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mn>30</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow>
+   </mroot> </mrow> <mo>≈</mo> <mn>3</mn> <mo>,</mo> <mn>107232506</mn>
+   <mo>…</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt[{3}]{30}}\approx
+   3,107232506\dots }</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{3}]{30}}\approx 3,107232506\dots }
+
+Véase también
+
+   [[148]editar]
+     * [149]Función raíz
+     * [150]Método de Newton-Raphson
+     * [151]Radical jerarquizado
+     * [152]Raíz cuadrada
+     * [153]Radicación
+
+Notas y referencias
+
+   [[154]editar]
+    1. [155]↑ Sigler. Algebra
+    2. [156]↑ Dubreil: "Algebra Moderna"
+    3. [157]↑ Rey Pastor. Babini: "Historia de la matemática"
+    4. [158]↑ Conte- De Boor: Análisis numérico
+    5. [159]↑ Carlos Vega: "Temas de álgebra", Editorial San Marcos, Lima
+       (1990)
+    6. [160]↑ Trejo. Variable compleja
+
+Enlaces externos
+
+   [[161]editar]
+     * [162]Wikilibros alberga un libro o manual sobre [163]cálculo de
+       raíces cúbicas.
+     * [164]Resolución de raíces cúbicas mediante el método de Newton
+       Raphson
+
+   [165]Control de autoridades
+     * Proyectos Wikimedia
+     * [166]Wd Datos: [167]Q1774143
+     * [168]Commonscat Multimedia: [169]Cubic root / [170]Q1774143
+     __________________________________________________________________
+
+     * Diccionarios y enciclopedias
+     * [171]Britannica: [172]url
+
+     * [173]Wd Datos: [174]Q1774143
+     * [175]Commonscat Multimedia: [176]Cubic root / [177]Q1774143
+
+   Obtenido de
+   «[178]https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&oldid=1617
+   67709»
+   [179]Categorías:
+     * [180]Álgebra elemental
+     * [181]Raíces
+     * [182]Operaciones unarias
+
+     * Esta página se editó por última vez el 9 ago 2024 a las 09:11.
+     * El texto está disponible bajo la [183]Licencia Creative Commons
+       Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas
+       adicionales. Al usar este sitio aceptas nuestros [184]términos de
+       uso y nuestra [185]política de privacidad.
+       Wikipedia® es una marca registrada de la [186]Fundación Wikimedia,
+       una organización sin ánimo de lucro.
+
+     * [187]Política de privacidad
+     * [188]Acerca de Wikipedia
+     * [189]Limitación de responsabilidad
+     * [190]Código de conducta
+     * [191]Desarrolladores
+     * [192]Estadísticas
+     * [193]Declaración de cookies
+     * [194]Versión para móviles
+
+     * [195]Wikimedia Foundation
+     * [196]Powered by MediaWiki
+
+Références
+
+   1. https://es.m.wikipedia.org/wiki/Raíz_cúbica
+   2. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=edit
+   3. https://es.wikipedia.org/w/rest.php/v1/search
+   4. https://es.wikipedia.org/w/index.php?title=Especial:CambiosRecientes&feed=atom
+   5. https://es.wikipedia.org/wiki/Raíz_cúbica#bodyContent
+   6. https://es.wikipedia.org/wiki/Wikipedia:Portada
+   7. https://es.wikipedia.org/wiki/Portal:Comunidad
+   8. https://es.wikipedia.org/wiki/Portal:Actualidad
+   9. https://es.wikipedia.org/wiki/Especial:CambiosRecientes
+  10. https://es.wikipedia.org/wiki/Especial:PáginasNuevas
+  11. https://es.wikipedia.org/wiki/Especial:Aleatoria
+  12. https://es.wikipedia.org/wiki/Ayuda:Contenidos
+  13. https://es.wikipedia.org/wiki/Wikipedia:Informes_de_error
+  14. https://es.wikipedia.org/wiki/Wikipedia:Portada
+  15. https://es.wikipedia.org/wiki/Especial:Buscar
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wikipedia.org&uselang=es
+  17. https://es.wikipedia.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=Raíz+cúbica
+  18. https://es.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Raíz+cúbica
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wikipedia.org&uselang=es
+  20. https://es.wikipedia.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=Raíz+cúbica
+  21. https://es.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Raíz+cúbica
+  22. https://es.wikipedia.org/wiki/Ayuda:Introducción
+  23. https://es.wikipedia.org/wiki/Especial:MisContribuciones
+  24. https://es.wikipedia.org/wiki/Especial:MiDiscusión
+  25. https://es.wikipedia.org/wiki/Raíz_cúbica
+  26. https://es.wikipedia.org/wiki/Raíz_cúbica#Definición_formal
+  27. https://es.wikipedia.org/wiki/Raíz_cúbica#Números_reales
+  28. https://es.wikipedia.org/wiki/Raíz_cúbica#Números_complejos
+  29. https://es.wikipedia.org/wiki/Raíz_cúbica#Números_cuaterniónicos
+  30. https://es.wikipedia.org/wiki/Raíz_cúbica#Métodos_numéricos
+  31. https://es.wikipedia.org/wiki/Raíz_cúbica#Véase_también
+  32. https://es.wikipedia.org/wiki/Raíz_cúbica#Notas_y_referencias
+  33. https://es.wikipedia.org/wiki/Raíz_cúbica#Enlaces_externos
+  34. https://ar.wikipedia.org/wiki/جذر_تكعيبي
+  35. https://bcl.wikipedia.org/wiki/Kubikong_gamot
+  36. https://bg.wikipedia.org/wiki/Кубичен_корен
+  37. https://bs.wikipedia.org/wiki/Kubni_korijen
+  38. https://ca.wikipedia.org/wiki/Arrel_cúbica
+  39. https://cs.wikipedia.org/wiki/Třetí_odmocnina
+  40. https://cv.wikipedia.org/wiki/Кубла_тымар
+  41. https://cy.wikipedia.org/wiki/Trydydd_isradd
+  42. https://da.wikipedia.org/wiki/Kubikrod
+  43. https://de.wikipedia.org/wiki/Kubikwurzel
+  44. https://el.wikipedia.org/wiki/Κυβική_ρίζα
+  45. https://en.wikipedia.org/wiki/Cube_root
+  46. https://eo.wikipedia.org/wiki/Kuba_radiko
+  47. https://eu.wikipedia.org/wiki/Erro_kubiko
+  48. https://fi.wikipedia.org/wiki/Kuutiojuuri
+  49. https://fr.wikipedia.org/wiki/Racine_cubique
+  50. https://gl.wikipedia.org/wiki/Raíz_cúbica
+  51. https://he.wikipedia.org/wiki/שורש_שלישי
+  52. https://hi.wikipedia.org/wiki/घनमूल
+  53. https://hr.wikipedia.org/wiki/Kubni_korijen
+  54. https://hy.wikipedia.org/wiki/Խորանարդ_աստիճանի_արմատ
+  55. https://id.wikipedia.org/wiki/Akar_pangkat_tiga
+  56. https://io.wikipedia.org/wiki/Kuboradiko
+  57. https://ja.wikipedia.org/wiki/立方根
+  58. https://km.wikipedia.org/wiki/រឹសគូប
+  59. https://ko.wikipedia.org/wiki/세제곱근
+  60. https://lt.wikipedia.org/wiki/Kubinė_šaknis
+  61. https://lv.wikipedia.org/wiki/Kubsakne
+  62. https://ml.wikipedia.org/wiki/ഘനമൂലം
+  63. https://mr.wikipedia.org/wiki/घनमूळ
+  64. https://ms.wikipedia.org/wiki/Punca_kuasa_tiga
+  65. https://ne.wikipedia.org/wiki/घनमूल
+  66. https://nl.wikipedia.org/wiki/Derdemachtswortel
+  67. https://nn.wikipedia.org/wiki/Kubikkrot
+  68. https://no.wikipedia.org/wiki/Kubikkrot
+  69. https://pl.wikipedia.org/wiki/Pierwiastek_sześcienny
+  70. https://pt.wikipedia.org/wiki/Raiz_cúbica
+  71. https://ro.wikipedia.org/wiki/Rădăcină_cubică
+  72. https://ru.wikipedia.org/wiki/Кубический_корень
+  73. https://sh.wikipedia.org/wiki/Kubni_korijen
+  74. https://sr.wikipedia.org/wiki/Кубни_корен
+  75. https://sv.wikipedia.org/wiki/Kubikrot
+  76. https://ta.wikipedia.org/wiki/கனமூலம்
+  77. https://th.wikipedia.org/wiki/รากที่สาม
+  78. https://tl.wikipedia.org/wiki/Taluugat
+  79. https://uk.wikipedia.org/wiki/Кубічний_корінь
+  80. https://vi.wikipedia.org/wiki/Căn_bậc_ba
+  81. https://zh.wikipedia.org/wiki/立方根
+  82. https://zh-yue.wikipedia.org/wiki/立方根
+  83. https://www.wikidata.org/wiki/Special:EntityPage/Q1774143#sitelinks-wikipedia
+  84. https://es.wikipedia.org/wiki/Raíz_cúbica
+  85. https://es.wikipedia.org/wiki/Discusión:Raíz_cúbica
+  86. https://es.wikipedia.org/wiki/Raíz_cúbica
+  87. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=edit
+  88. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=history
+  89. https://es.wikipedia.org/wiki/Raíz_cúbica
+  90. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=edit
+  91. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=history
+  92. https://es.wikipedia.org/wiki/Especial:LoQueEnlazaAquí/Raíz_cúbica
+  93. https://es.wikipedia.org/wiki/Especial:CambiosEnEnlazadas/Raíz_cúbica
+  94. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es
+  95. https://es.wikipedia.org/wiki/Especial:PáginasEspeciales
+  96. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&oldid=161767709
+  97. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=info
+  98. https://es.wikipedia.org/w/index.php?title=Especial:Citar&page=Raíz_cúbica&id=161767709&wpFormIdentifier=titleform
+  99. https://es.wikipedia.org/w/index.php?title=Especial:Acortador_de_URL&url=https://es.wikipedia.org/wiki/Ra%C3%ADz_c%C3%BAbica
+ 100. https://es.wikipedia.org/w/index.php?title=Especial:QrCode&url=https://es.wikipedia.org/wiki/Ra%C3%ADz_c%C3%BAbica
+ 101. https://es.wikipedia.org/w/index.php?title=Especial:Libro&bookcmd=book_creator&referer=Raíz+cúbica
+ 102. https://es.wikipedia.org/w/index.php?title=Especial:DownloadAsPdf&page=Raíz_cúbica&action=show-download-screen
+ 103. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&printable=yes
+ 104. https://commons.wikimedia.org/wiki/Category:Cubic_root
+ 105. https://www.wikidata.org/wiki/Special:EntityPage/Q1774143
+ 106. https://es.wikipedia.org/wiki/Archivo:Cube_root.svg
+ 107. https://es.wikipedia.org/wiki/Número_real
+ 108. https://es.wikipedia.org/wiki/Operación_unaria
+ 109. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_note-1
+ 110. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_note-2
+ 111. https://es.wikipedia.org/wiki/Campo_(matemáticas)
+ 112. https://es.wikipedia.org/wiki/Propiedad_asociativa
+ 113. https://es.wikipedia.org/wiki/Potenciación
+ 114. https://es.wikipedia.org/wiki/Propiedad_distributiva
+ 115. https://es.wikipedia.org/wiki/Multiplicación
+ 116. https://es.wikipedia.org/wiki/División_(matemática)
+ 117. https://es.wikipedia.org/wiki/Suma
+ 118. https://es.wikipedia.org/wiki/Resta
+ 119. https://es.wikipedia.org/wiki/Duplicación_del_cubo
+ 120. https://es.wikipedia.org/wiki/Arquitas_de_Tarento
+ 121. https://es.wikipedia.org/wiki/Número_racional
+ 122. https://es.wikipedia.org/wiki/Regla_y_compás
+ 123. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_note-3
+ 124. https://es.wikipedia.org/wiki/Logaritmo
+ 125. https://es.wikipedia.org/wiki/Regla_de_cálculo
+ 126. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_note-4
+ 127. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=edit&section=1
+ 128. https://es.wikipedia.org/wiki/Archivo:Complex_cube_root.jpg
+ 129. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=edit&section=2
+ 130. https://es.wikipedia.org/wiki/Número_real
+ 131. https://es.wikipedia.org/wiki/Número_complejo
+ 132. https://es.wikipedia.org/wiki/Número_complejo#Conjugado_de_un_número_complejo
+ 133. https://es.wikipedia.org/wiki/Raíz_de_la_unidad
+ 134. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_note-5
+ 135. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=edit&section=3
+ 136. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_note-6
+ 137. https://es.wikipedia.org/wiki/Valor_principal
+ 138. https://es.wikipedia.org/wiki/Logaritmo_complejo
+ 139. https://es.wikipedia.org/wiki/Coordenadas_polares
+ 140. https://es.wikipedia.org/wiki/Mathematica
+ 141. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=edit&section=4
+ 142. https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíces_cuadradas_en_los_cuaterniones
+ 143. https://es.wikipedia.org/wiki/Cuaternión
+ 144. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=edit&section=5
+ 145. https://es.wikipedia.org/wiki/Método_de_Newton
+ 146. https://es.wikipedia.org/wiki/Método_iterativo
+ 147. https://es.wikipedia.org/wiki/Coma_flotante
+ 148. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=edit&section=6
+ 149. https://es.wikipedia.org/wiki/Función_raíz
+ 150. https://es.wikipedia.org/wiki/Método_de_Newton-Raphson
+ 151. https://es.wikipedia.org/wiki/Radical_jerarquizado
+ 152. https://es.wikipedia.org/wiki/Raíz_cuadrada
+ 153. https://es.wikipedia.org/wiki/Radicación
+ 154. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=edit&section=7
+ 155. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_ref-1
+ 156. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_ref-2
+ 157. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_ref-3
+ 158. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_ref-4
+ 159. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_ref-5
+ 160. https://es.wikipedia.org/wiki/Raíz_cúbica#cite_ref-6
+ 161. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&action=edit&section=8
+ 162. https://es.wikipedia.org/wiki/Wikilibros
+ 163. https://es.wikibooks.org/wiki/Matemáticas/Aritmética/Radicación
+ 164. http://mundomatematicas.blogspot.com/2006/04/raiz-cuadrada-y-cubica.html
+ 165. https://es.wikipedia.org/wiki/Control_de_autoridades
+ 166. https://es.wikipedia.org/wiki/Wikidata
+ 167. https://www.wikidata.org/wiki/Q1774143
+ 168. https://es.wikipedia.org/wiki/Wikimedia_Commons
+ 169. https://commons.wikimedia.org/wiki/Category:Cubic_root
+ 170. https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search="Q1774143"
+ 171. https://es.wikipedia.org/wiki/Enciclopedia_Británica
+ 172. https://www.britannica.com/topic/cube-root
+ 173. https://es.wikipedia.org/wiki/Wikidata
+ 174. https://www.wikidata.org/wiki/Q1774143
+ 175. https://es.wikipedia.org/wiki/Wikimedia_Commons
+ 176. https://commons.wikimedia.org/wiki/Category:Cubic_root
+ 177. https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search="Q1774143"
+ 178. https://es.wikipedia.org/w/index.php?title=Raíz_cúbica&oldid=161767709
+ 179. https://es.wikipedia.org/wiki/Especial:Categorías
+ 180. https://es.wikipedia.org/wiki/Categoría:Álgebra_elemental
+ 181. https://es.wikipedia.org/wiki/Categoría:Raíces
+ 182. https://es.wikipedia.org/wiki/Categoría:Operaciones_unarias
+ 183. https://es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribución-CompartirIgual_4.0_Internacional
+ 184. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es
+ 185. https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es
+ 186. https://wikimediafoundation.org/es/
+ 187. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es
+ 188. https://es.wikipedia.org/wiki/Wikipedia:Acerca_de
+ 189. https://es.wikipedia.org/wiki/Wikipedia:Limitación_general_de_responsabilidad
+ 190. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 191. https://developer.wikimedia.org/
+ 192. https://stats.wikimedia.org/#/es.wikipedia.org
+ 193. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es
+ 194. https://es.m.wikipedia.org/w/index.php?title=Raíz_cúbica&mobileaction=toggle_view_mobile
+ 195. https://wikimediafoundation.org/
+ 196. https://www.mediawiki.org/

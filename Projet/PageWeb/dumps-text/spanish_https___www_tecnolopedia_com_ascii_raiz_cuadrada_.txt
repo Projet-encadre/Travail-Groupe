@@ -1,0 +1,155 @@
+   #[1]Tecnolopedia » Feed [2]Tecnolopedia » Feed de los comentarios
+   [3]oEmbed (JSON) [4]oEmbed (XML)
+
+   [5]Tecnolopedia
+   [ ]
+
+     [6]Tecnolopedia
+
+     [7]Ascii
+
+     Raíz cuadrada
+
+                                 Raíz cuadrada
+
+   La raíz cuadrada se ha usado desde tiempos inmemoriales en matemática
+   para diversas funciones. Este símbolo representa a un número que,
+   multiplicado por si mismo da como resultado diferentes valores.
+   Ejemplo, la raíz cuadrada de 16 equivale a 4, ya que si multiplicamos
+   este número por sí mismo da 16. En otras palabras, decimos que el
+   numero 4 al cuadrado es 16.
+
+   Ahora bien, tenemos en cuenta que realizar este símbolo en Windows, Mac
+   o Linux es algo complicado. Por ese mismo motivo, vamos a ver paso por
+   paso cuáles son las técnicas necesarias para escribir este símbolo en
+   los diferentes sistemas operativos.
+   Nombre                 Raíz cuadrada
+   Símbolo                √
+   Código ASCII            251
+   Entidad HTML           &radic;
+   Combinación en Windows  ALT + 251
+   Combinación en Mac     ó ⌥ (opt) + V
+   Combinación en Linux   Shift + Ctrl + u255a
+
+   Contenido
+
+     * [8]Escribir en Windows
+          + [9]Con teclado:
+          + [10]Con ALT y código ASCII
+          + [11]En una laptop o portátil
+     * [12]Escribir en Mac
+     * [13]Escribir en Linux
+     * [14]Acerca del símbolo
+
+Escribir en Windows
+
+   En Windows hay diversos métodos para poder escribir raíz cuadrada,
+   aunque, en teclado, por limitaciones de espacio, no tenemos esta
+   facilidad. A continuación, podemos ver los siguientes métodos para
+   poder realizar este símbolo:
+
+Con teclado:
+
+   Lastimosamente, gracias a las limitaciones de espacio que tiene un
+   teclado, no se pueden incluir todos los símbolos especiales que se
+   requieren. Entonces, dicho de otra forma, no tenemos facilidad para
+   poder escribir el símbolo de la raíz cuadrada de esta manera.
+
+Con ALT y código ASCII
+
+   Un método muy utilizado para poder escribir la raíz cuadrada es
+   utilizar la tecla ALT y escribir consigo un código para sacar un
+   símbolo especial. Si seguimos las siguientes instrucciones podemos
+   sacar la raíz cuadrada.
+    1. En primera instancia necesitamos identificar la tecla ALT Gr en el
+       teclado, una vez hecho esto, la presionamos sin soltarla
+    2. Después, manteniendo presionada esta tecla, tecleamos el código 251
+       en el teclado numérico.
+    3. Después de realizar estos pasos, dejamos de presionar la tecla ALT,
+       allí donde tengas el puntero debería aparecer el símbolo de la raíz
+       cuadrada
+
+   Es importante que ingreses este código con el teclado numérico, puesto
+   que, si lo introduces con los números que están por encima de las
+   teclas QWERTY la combinación de teclas podría no funcionar.
+
+En una laptop o portátil
+
+   En caso de que una laptop no cuente precisamente con teclado numérico,
+   se puede acceder a el con las siguientes combinaciones de teclas:
+    1. Activamos el teclado numérico que tienen de forma provisional con
+       la tecla función (Fn) + NumLock
+    2. El teclado numérico pasaría a ser las siguientes teclas: Los
+       números 7, 8 y 9 seguirían manteniendo estas funciones. Las teclas
+       U, I, O, J, K y L pasarían a ser el resto de números
+    3. Al finalizar debes teclear el mismo código ALT + 256 para escribir
+       la raíz cuadrada
+    4. Al final, desactivamos el teclado provisional pulsando de nuevo la
+       tecla Fn + NumLock
+
+Escribir en Mac
+
+   Aunque Mac OS sea completamente diferente a Windows en múltiples
+   apartados, podemos decir que escribir algunos caracteres especiales no
+   es tan complicado. Para poder escribir la raíz cuadrada debemos
+   realizar los siguientes pasos:
+    1. Ubica el lugar donde quieres realizar dicho símbolo, después,
+       debemos presionar la tecla Option (Opción)
+    2. Sin soltar la tecla Option, debemos presionar la tecla V en
+       mayúscula, si realizas el mismo procedimiento con la tecla v
+       minúscula, aparecerá otro símbolo
+    3. Una vez que hayas realizado los pasos anteriores, debemos soltar la
+       tecla Option. Te darás cuenta de forma automática que el símbolo ya
+       estará escrito en el documento donde lo querías realizar.
+
+Escribir en Linux
+
+   En Linux existen diferentes maneras de reproducir los caracteres
+   especiales. Para escribir la raíz cuadrada, necesitamos acceder a los
+   códigos hexadecimales de Unicode, en este sentido veremos lo siguiente:
+    1. Debemos presionar dos teclas a la vez, Shift y Ctrl, manteniéndolas
+       presionadas durante casi todo el procedimiento
+    2. Sin soltar ninguna de estas dos teclas, debemos presionar u255a, en
+       ese mismo orden, ten en cuenta que debes utilizar el teclado
+       numérico para realizar dichas acciones.
+    3. Una vez que hayamos seguidos los pasos anteriores, se procede a
+       soltar la tecla Shift y Ctrl, una vez hecho esto nos daremos cuenta
+       que el símbolo de la raíz cuadrada estaría en el documento.
+
+Acerca del símbolo
+
+   El símbolo de la raíz cuadrada se lleva usando desde tiempos antiguos
+   matemáticamente para transformar los números racionales en números
+   algebraicos. Otra de las funcionalidades es resolver las ecuaciones
+   cuadráticas y despejar fórmulas de física, química y estadística.
+
+   El papiro de Ahmes data del año 1650 a.c, en él se muestra como los
+   egipcios extraían las raíces cuadradas. En la antigua babilonia, las
+   raíces cuadradas se realizaban haciendo cálculos mediante la media
+   aritmética repetidamente. Como se puede ver, un símbolo de gran
+   importancia que tiene su hueco en la humanidad desde la antigüedad.
+
+     * [15]Tecnolopedia
+     * [16]Ascii
+     * Raíz cuadrada
+
+   Subir
+
+Références
+
+   1. https://www.tecnolopedia.com/feed/
+   2. https://www.tecnolopedia.com/comments/feed/
+   3. https://www.tecnolopedia.com/wp-json/oembed/1.0/embed?url=https://www.tecnolopedia.com/ascii/raiz-cuadrada/
+   4. https://www.tecnolopedia.com/wp-json/oembed/1.0/embed?url=https://www.tecnolopedia.com/ascii/raiz-cuadrada/&format=xml
+   5. https://www.tecnolopedia.com/
+   6. https://www.tecnolopedia.com/
+   7. https://www.tecnolopedia.com/c/ascii/
+   8. https://www.tecnolopedia.com/ascii/raiz-cuadrada/#escribir-en-windows
+   9. https://www.tecnolopedia.com/ascii/raiz-cuadrada/#con-teclado
+  10. https://www.tecnolopedia.com/ascii/raiz-cuadrada/#con-alt-y-codigo-ascii
+  11. https://www.tecnolopedia.com/ascii/raiz-cuadrada/#en-una-laptop-o-portatil
+  12. https://www.tecnolopedia.com/ascii/raiz-cuadrada/#escribir-en-mac
+  13. https://www.tecnolopedia.com/ascii/raiz-cuadrada/#escribir-en-linux
+  14. https://www.tecnolopedia.com/ascii/raiz-cuadrada/#acerca-del-simbolo
+  15. https://www.tecnolopedia.com/
+  16. https://www.tecnolopedia.com/c/ascii/

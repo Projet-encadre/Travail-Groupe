@@ -1,0 +1,668 @@
+   #[1]alternate [2]Editar [3]Wikcionario (es) [4]Canal Atom de
+   Wikcionario
+
+   [5]Ir al contenido
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Navegación
+     * [6]Portada
+     * [7]Todas las páginas
+     * [8]Consultas
+     * [9]Solicitudes
+     * [10]Página aleatoria
+     * [11]Aleatoria en otros idiomas
+     * [12]Buscador de anagramas
+
+   Colaboración
+     * [13]Portal de la comunidad
+     * [14]Café
+     * [15]Páginas requeridas
+     * [16]Cambios recientes
+
+   Ayuda
+     * [17]Ayuda
+     * [18]Tutorial
+     * [19]Embajada - embassy
+
+   [20]Wikcionario El diccionario libre
+   [21]Buscar
+   ____________________
+   (BUTTON) Buscar
+
+   [ ] Apariencia
+
+     * [22]Donaciones
+     * [23]Crear una cuenta
+     * [24]Acceder
+
+   [ ] Herramientas personales
+     * [25]Donaciones
+     * [26]Crear una cuenta
+     * [27]Acceder
+
+   Páginas para editores desconectados [28]más información
+     * [29]Contribuciones
+     * [30]Discusión
+
+Contenidos
+
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+     * [31]Inicio
+     * [32]1 Español
+       (BUTTON) Alternar subsección Español
+          + [33]1.1 Etimología 1
+               o [34]1.1.1 Sustantivo femenino
+               o [35]1.1.2 Información adicional
+               o [36]1.1.3 Véase también
+               o [37]1.1.4 Traducciones
+     * [38]2 Gallego
+       (BUTTON) Alternar subsección Gallego
+          + [39]2.1 Etimología 1
+               o [40]2.1.1 Sustantivo femenino
+               o [41]2.1.2 Véase también
+     * [42]3 Referencias y notas
+
+   [ ] Cambiar a la tabla de contenidos
+
+raíz
+
+   [ ] 27 idiomas
+     * [43]Aragonés
+     * [44]Asturianu
+     * [45]Azərbaycanca
+     * [46]Català
+     * [47]Čeština
+     * [48]Ελληνικά
+     * [49]English
+     * [50]Suomi
+     * [51]Na Vosa Vakaviti
+     * [52]Français
+     * [53]Galego
+     * [54]Magyar
+     * [55]Ido
+     * [56]Italiano
+     * [57]日本語
+     * [58]한국어
+     * [59]Kurdî
+     * [60]Lietuvių
+     * [61]Malagasy
+     * [62]Nederlands
+     * [63]Occitan
+     * [64]Polski
+     * [65]Português
+     * [66]Русский
+     * [67]Svenska
+     * [68]Türkçe
+     * [69]中文
+
+     * [70]Entrada
+     * [71]Discusión
+
+   [ ] español
+
+     * [72]Leer
+     * [73]Editar
+     * [74]Ver historial
+
+   [ ] Herramientas
+   Herramientas
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Acciones
+     * [75]Leer
+     * [76]Editar
+     * [77]Ver historial
+
+   General
+     * [78]Lo que enlaza aquí
+     * [79]Cambios relacionados
+     * [80]Subir archivo
+     * [81]Páginas especiales
+     * [82]Enlace permanente
+     * [83]Información de la página
+     * [84]Citar esta página
+     * [85]Obtener URL acortado
+     * [86]Descargar código QR
+
+   Imprimir/exportar
+     * [87]Crear un libro
+     * [88]Descargar como PDF
+     * [89]Versión para imprimir
+
+   En otros proyectos
+
+   Apariencia
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   De Wikcionario, el diccionario libre
+
+[90]Español
+
+   [[91]editar]
+   raíz
+   [92]seseante ([93]AFI)    [raˈis] ^[94]ⓘ
+   [95]no seseante ([96]AFI) [raˈiθ]
+   silabación                ra-íz^[97][1]
+   acentuación               aguda
+   longitud silábica         bisílaba
+   rimas                     [98]is, [99]iθ
+
+Etimología 1
+
+   [[100]editar]
+
+   Del latín [101]radix.
+
+Sustantivo femenino
+
+   [[102]editar]
+   Singular   Plural
+   raíz     [103]raíces
+
+   1
+          [104]Causa de algo.
+
+          + Sinónimos: [105]causa, [106]origen, [107]principio.
+
+          + Ejemplo: El amor es la raíz de la felicidad.
+
+   2 Botánica
+          Órgano de la [108]planta por el que absorbe agua y minerales.
+
+          + Ejemplo: Corté las raíces del peral y se secó.
+
+   3 Lingüística
+          [109]Monema con significado [110]léxico y no [111]gramatical.
+
+          + Sinónimo: [112]lexema.
+
+          + Ejemplo: La raíz de temer es «tem».
+
+   4 Anatomía
+          Parte del [113]diente que se se incrusta en el [114]alvéolo.
+
+          + Ejemplo: El dentista cortó el diente por la raíz.
+
+   5 Matemáticas
+          Cualquiera de las soluciones de la ecuación
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+          <mi>a</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          x^{n}=a}</annotation> </semantics> :MATH]
+          {\displaystyle x^{n}=a} , con
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>∈</mo>
+          <mi>Z</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle n\in Z}</annotation>
+          </semantics> :MATH]
+          {\displaystyle n\in Z} y
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>∈</mo> <mi
+          mathvariant="normal">ℜ</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle a\in \Re
+          }</annotation> </semantics> :MATH]
+          {\displaystyle a\in \Re } .
+
+          + Uso: dependiendo del contexto, puede usarse en el sentido
+            restringido de [115]raíz principal
+
+   6 Matemáticas
+          [116]Valor del dominio de una función tal que esta se anule.
+
+          + Sinónimo: [117]cero
+
+   7 Matemáticas
+          En un [118]árbol, el nodo que no tiene padres.
+
+          + [119]Hiperónimo: [120]nodo
+          + [121]Cohipónimos: [122]interno, [123]hoja
+
+Información adicional
+
+   [[124]editar]
+     * Derivados: [125]raíz, [126]raíces, [127]enraizar, [128]enraizado,
+       [129]arraigar, [130]arraigado, [131]arraigo, [132]desarraigar,
+       [133]desarraigado, [134]desarraigo, [135]desenraizar,
+       [136]desenraizado, [137]radical, [138]radicar, [139]radicado,
+       [140]radicación, [141]erradicar, [142]erradicado,
+       [143]erradicación, [144]radicalizar, [145]radicalizado,
+       [146]desradicalizar, [147]desradicalizado, [148]radicalización,
+       [149]desradicalización, [150]radicalidad, [151]radicalmente.
+
+Véase también
+
+   [[152]editar]
+     * [153]Colabora en Wikipedia [154]Wikipedia tiene un artículo sobre
+       [155]raíz.
+
+Traducciones
+
+   [[156]editar]
+   Traducciones [▲▼]
+     * Ainu: [1-2] [157]シンリッ ^[158](ain); [159]シンリㇳ ^[160](ain)
+
+     * Alemán: [2] [161]Wurzel ^[162](de) (femenino)
+
+     * Bretón: [2,4] [163]gwrizienn ^[164](br)
+
+     * Búlgaro: [165]причина ^[166](bg); [167]коренище ^[168](bg);
+       [169]корен ^[170](bg)
+
+     * Catalán: [2] [171]arrel ^[172](ca)
+
+     * Francés: [2] [173]racine ^[174](fr) (femenino)
+
+     * Gaélico escocés: [1-3] [175]freumh ^[176](gd)
+
+     * Galés: [1,2] [177]gwreiddyn ^[178](cy)
+
+     * Esperanto: [2, 3] [179]radiko ^[180](eo)
+
+     * Inglés: [2, 3] [181]root ^[182](en)
+
+     * Irlandés: [2] [183]fréamh ^[184](ga); [4] [185]réiteach ^[186](ga)
+
+     * Italiano: [187]radice ^[188](it)
+
+     * Japonés: [2] [189]根 ^[190](ja); [2] [191]ね ^[192](ja)
+
+     * Manchú: [2] [193]ᡶ᠋‍ᡠᠯᡝᡝ᠋ ^[194](mnc)
+
+     * Manés: [2] [195]fraue ^[196](gv)
+
+     * Mapuche: [197]folil ^[198](arn)
+
+     * Maya yucateco: [2] [199]moots ^[200](yua)
+
+     * Mixteco del sur de Puebla: [2] [201]yo’o yutnù ^[202](mit)
+
+     * Náhuatl clásico: [2] [203]nelhuatl ^[204](nci)
+
+     * Neerlandés: [2] [205]wortel ^[206](nl)
+
+     * Portugués: [2] [207]raiz ^[208](pt)
+
+Gallego
+
+   [[209]editar]
+   raíz
+   pronunciación falta [210]agregar
+
+Etimología 1
+
+   [[211]editar]
+
+   Del latín [212]radix.
+
+Sustantivo femenino
+
+   [[213]editar]
+
+   1
+          [214]Raíz[1].
+
+   2 Botánica
+          [215]Raíz[2].
+
+Véase también
+
+   [[216]editar]
+     * [217]Colabora en Wikipedia [218]Wikipedia en gallego tiene un
+       artículo sobre [219]raíz.
+
+Referencias y notas
+
+   [[220]editar]
+    1. [221]↑ Dos vocales seguidas no pueden separarse nunca a final de
+       línea, formen diptongo, triptongo o hiato. Para palabras con h
+       intercalada, se actuará como si esta letra muda no existiese.
+       Quedan exceptuadas de esta consideración las palabras compuestas.
+       [222]Más información.
+
+   Obtenido de
+   «[223]https://es.wiktionary.org/w/index.php?title=raíz&oldid=5675081»
+   [224]Categorías:
+     * [225]Español
+     * [226]ES:Palabras agudas
+     * [227]ES:Palabras bisílabas
+     * [228]ES:Rimas:is
+     * [229]ES:Rimas:iθ
+     * [230]ES:Palabras provenientes del latín
+     * [231]ES:Sustantivos
+     * [232]ES:Sustantivos femeninos
+     * [233]ES:Botánica
+     * [234]ES:Lingüística
+     * [235]ES:Anatomía
+     * [236]ES:Matemáticas
+     * [237]Gallego
+     * [238]GL:Palabras sin transcripción fonética
+     * [239]GL:Palabras provenientes del latín
+     * [240]GL:Sustantivos
+     * [241]GL:Sustantivos femeninos
+     * [242]GL:Botánica
+
+   Categorías ocultas:
+     * [243]Páginas que usan la extensión Phonos
+     * [244]Español-Ainu
+     * [245]Español-Alemán
+     * [246]Español-Bretón
+     * [247]Español-Búlgaro
+     * [248]Español-Catalán
+     * [249]Español-Francés
+     * [250]Español-Gaélico escocés
+     * [251]Español-Galés
+     * [252]Español-Esperanto
+     * [253]Español-Inglés
+     * [254]Español-Irlandés
+     * [255]Español-Italiano
+     * [256]Español-Japonés
+     * [257]Español-Manchú
+     * [258]Español-Manés
+     * [259]Español-Mapuche
+     * [260]Español-Maya yucateco
+     * [261]Español-Mixteco del sur de Puebla
+     * [262]Español-Náhuatl clásico
+     * [263]Español-Neerlandés
+     * [264]Español-Portugués
+
+     * Esta página se editó por última vez el 3 dic 2024 a las 21:42.
+     * El texto está disponible bajo la [265]Licencia Creative Commons
+       Atribución-CompartirIgual 4.0. Pueden existir condiciones
+       adicionales. Véanse los [266]términos de uso para más detalles.
+
+     * [267]Política de privacidad
+     * [268]Acerca de Wikcionario
+     * [269]Aviso legal
+     * [270]Código de conducta
+     * [271]Desarrolladores
+     * [272]Estadísticas
+     * [273]Declaración de cookies
+     * [274]Versión para móviles
+
+     * [275]Wikimedia Foundation
+     * [276]Powered by MediaWiki
+
+Références
+
+   Liens visibles :
+   1. https://es.m.wiktionary.org/wiki/raíz
+   2. https://es.wiktionary.org/w/index.php?title=raíz&action=edit
+   3. https://es.wiktionary.org/w/rest.php/v1/search
+   4. https://es.wiktionary.org/w/index.php?title=Especial:CambiosRecientes&feed=atom
+   5. https://es.wiktionary.org/wiki/raíz#bodyContent
+   6. https://es.wiktionary.org/wiki/Wikcionario:Portada
+   7. https://es.wiktionary.org/wiki/Especial:Todas
+   8. https://es.wiktionary.org/wiki/Wikcionario:Consultas
+   9. https://es.wiktionary.org/wiki/Wikcionario:Solicitudes
+  10. https://es.wiktionary.org/wiki/Especial:Aleatoria
+  11. https://es.wiktionary.org/wiki/Wikcionario:Aleatorio_por_idioma
+  12. https://es.wiktionary.org/wiki/Wikcionario:Anagramas
+  13. https://es.wiktionary.org/wiki/Ayuda:Mapa_de_ayuda
+  14. https://es.wiktionary.org/wiki/Wikcionario:Café
+  15. https://es.wiktionary.org/wiki/Especial:PáginasRequeridas
+  16. https://es.wiktionary.org/wiki/Especial:CambiosRecientes
+  17. https://es.wiktionary.org/wiki/Wikcionario:Ayuda
+  18. https://es.wiktionary.org/wiki/Ayuda:Tutorial
+  19. https://es.wiktionary.org/wiki/Wikcionario:Embajada
+  20. https://es.wiktionary.org/wiki/Wikcionario:Portada
+  21. https://es.wiktionary.org/wiki/Especial:Buscar
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wiktionary.org&uselang=es
+  23. https://es.wiktionary.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=raíz
+  24. https://es.wiktionary.org/w/index.php?title=Especial:Entrar&returnto=raíz
+  25. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wiktionary.org&uselang=es
+  26. https://es.wiktionary.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=raíz
+  27. https://es.wiktionary.org/w/index.php?title=Especial:Entrar&returnto=raíz
+  28. https://es.wiktionary.org/wiki/Ayuda:Introducción
+  29. https://es.wiktionary.org/wiki/Especial:MisContribuciones
+  30. https://es.wiktionary.org/wiki/Especial:MiDiscusión
+  31. https://es.wiktionary.org/wiki/raíz
+  32. https://es.wiktionary.org/wiki/raíz#Español
+  33. https://es.wiktionary.org/wiki/raíz#Etimología_1
+  34. https://es.wiktionary.org/wiki/raíz#Sustantivo_femenino
+  35. https://es.wiktionary.org/wiki/raíz#Información_adicional
+  36. https://es.wiktionary.org/wiki/raíz#Véase_también
+  37. https://es.wiktionary.org/wiki/raíz#Traducciones
+  38. https://es.wiktionary.org/wiki/raíz#Gallego
+  39. https://es.wiktionary.org/wiki/raíz#Etimología_1_2
+  40. https://es.wiktionary.org/wiki/raíz#Sustantivo_femenino_2
+  41. https://es.wiktionary.org/wiki/raíz#Véase_también_2
+  42. https://es.wiktionary.org/wiki/raíz#Referencias_y_notas
+  43. https://an.wiktionary.org/wiki/raíz
+  44. https://ast.wiktionary.org/wiki/raíz
+  45. https://az.wiktionary.org/wiki/raíz
+  46. https://ca.wiktionary.org/wiki/raíz
+  47. https://cs.wiktionary.org/wiki/raíz
+  48. https://el.wiktionary.org/wiki/raíz
+  49. https://en.wiktionary.org/wiki/raíz
+  50. https://fi.wiktionary.org/wiki/raíz
+  51. https://fj.wiktionary.org/wiki/raíz
+  52. https://fr.wiktionary.org/wiki/raíz
+  53. https://gl.wiktionary.org/wiki/raíz
+  54. https://hu.wiktionary.org/wiki/raíz
+  55. https://io.wiktionary.org/wiki/raíz
+  56. https://it.wiktionary.org/wiki/raíz
+  57. https://ja.wiktionary.org/wiki/raíz
+  58. https://ko.wiktionary.org/wiki/raíz
+  59. https://ku.wiktionary.org/wiki/raíz
+  60. https://lt.wiktionary.org/wiki/raíz
+  61. https://mg.wiktionary.org/wiki/raíz
+  62. https://nl.wiktionary.org/wiki/raíz
+  63. https://oc.wiktionary.org/wiki/raíz
+  64. https://pl.wiktionary.org/wiki/raíz
+  65. https://pt.wiktionary.org/wiki/raíz
+  66. https://ru.wiktionary.org/wiki/raíz
+  67. https://sv.wiktionary.org/wiki/raíz
+  68. https://tr.wiktionary.org/wiki/raíz
+  69. https://zh.wiktionary.org/wiki/raíz
+  70. https://es.wiktionary.org/wiki/raíz
+  71. https://es.wiktionary.org/w/index.php?title=Discusión:raíz&action=edit&redlink=1
+  72. https://es.wiktionary.org/wiki/raíz
+  73. https://es.wiktionary.org/w/index.php?title=raíz&action=edit
+  74. https://es.wiktionary.org/w/index.php?title=raíz&action=history
+  75. https://es.wiktionary.org/wiki/raíz
+  76. https://es.wiktionary.org/w/index.php?title=raíz&action=edit
+  77. https://es.wiktionary.org/w/index.php?title=raíz&action=history
+  78. https://es.wiktionary.org/wiki/Especial:LoQueEnlazaAquí/raíz
+  79. https://es.wiktionary.org/wiki/Especial:CambiosEnEnlazadas/raíz
+  80. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es
+  81. https://es.wiktionary.org/wiki/Especial:PáginasEspeciales
+  82. https://es.wiktionary.org/w/index.php?title=raíz&oldid=5675081
+  83. https://es.wiktionary.org/w/index.php?title=raíz&action=info
+  84. https://es.wiktionary.org/w/index.php?title=Especial:Citar&page=raíz&id=5675081&wpFormIdentifier=titleform
+  85. https://es.wiktionary.org/w/index.php?title=Especial:Acortador_de_URL&url=https://es.wiktionary.org/wiki/ra%C3%ADz
+  86. https://es.wiktionary.org/w/index.php?title=Especial:QrCode&url=https://es.wiktionary.org/wiki/ra%C3%ADz
+  87. https://es.wiktionary.org/w/index.php?title=Especial:Libro&bookcmd=book_creator&referer=raíz
+  88. https://es.wiktionary.org/w/index.php?title=Especial:DownloadAsPdf&page=raíz&action=show-download-screen
+  89. https://es.wiktionary.org/w/index.php?title=raíz&printable=yes
+  90. https://es.wiktionary.org/wiki/Wikcionario:Referencia/ES
+  91. https://es.wiktionary.org/w/index.php?title=raíz&action=edit&section=1
+  92. https://es.wiktionary.org/wiki/Wikcionario:Referencia/ES/Pronunciación
+  93. https://es.wiktionary.org/wiki/Alfabeto_Fonético_Internacional
+  94. https://es.wiktionary.org/wiki/Archivo:LL-Q1321_(spa)-Rodelar-raíz.wav
+  95. https://es.wiktionary.org/wiki/Wikcionario:Referencia/ES/Pronunciación
+  96. https://es.wiktionary.org/wiki/Alfabeto_Fonético_Internacional
+  97. https://es.wiktionary.org/wiki/raíz#cite_note-1
+  98. https://es.wiktionary.org/wiki/Categoría:ES:Rimas:is
+  99. https://es.wiktionary.org/wiki/Categoría:ES:Rimas:iθ
+ 100. https://es.wiktionary.org/w/index.php?title=raíz&action=edit&section=2
+ 101. https://es.wiktionary.org/wiki/radix#Latín
+ 102. https://es.wiktionary.org/w/index.php?title=raíz&action=edit&section=3
+ 103. https://es.wiktionary.org/wiki/raíces#Español
+ 104. https://es.wiktionary.org/wiki/causa#Español
+ 105. https://es.wiktionary.org/wiki/causa#Español
+ 106. https://es.wiktionary.org/wiki/origen#Español
+ 107. https://es.wiktionary.org/wiki/principio#Español
+ 108. https://es.wiktionary.org/wiki/planta
+ 109. https://es.wiktionary.org/wiki/monema#Español
+ 110. https://es.wiktionary.org/wiki/léxico
+ 111. https://es.wiktionary.org/wiki/gramatical
+ 112. https://es.wiktionary.org/wiki/lexema#Español
+ 113. https://es.wiktionary.org/wiki/diente
+ 114. https://es.wiktionary.org/wiki/alvéolo
+ 115. https://es.wiktionary.org/w/index.php?title=raíz_principal&action=edit&redlink=1
+ 116. https://es.wiktionary.org/wiki/valor#Español
+ 117. https://es.wiktionary.org/wiki/cero#Español
+ 118. https://es.wiktionary.org/wiki/árbol
+ 119. https://es.wiktionary.org/wiki/hiperónimo#Español
+ 120. https://es.wiktionary.org/wiki/nodo#Español
+ 121. https://es.wiktionary.org/wiki/cohipónimo#Español
+ 122. https://es.wiktionary.org/wiki/interno#Español
+ 123. https://es.wiktionary.org/wiki/hoja#Español
+ 124. https://es.wiktionary.org/w/index.php?title=raíz&action=edit&section=4
+ 125. https://es.wiktionary.org/wiki/raíz#Español
+ 126. https://es.wiktionary.org/wiki/raíces#Español
+ 127. https://es.wiktionary.org/wiki/enraizar#Español
+ 128. https://es.wiktionary.org/wiki/enraizado#Español
+ 129. https://es.wiktionary.org/wiki/arraigar#Español
+ 130. https://es.wiktionary.org/wiki/arraigado#Español
+ 131. https://es.wiktionary.org/wiki/arraigo#Español
+ 132. https://es.wiktionary.org/wiki/desarraigar#Español
+ 133. https://es.wiktionary.org/wiki/desarraigado#Español
+ 134. https://es.wiktionary.org/wiki/desarraigo#Español
+ 135. https://es.wiktionary.org/wiki/desenraizar#Español
+ 136. https://es.wiktionary.org/wiki/desenraizado#Español
+ 137. https://es.wiktionary.org/wiki/radical#Español
+ 138. https://es.wiktionary.org/wiki/radicar#Español
+ 139. https://es.wiktionary.org/wiki/radicado#Español
+ 140. https://es.wiktionary.org/wiki/radicación#Español
+ 141. https://es.wiktionary.org/wiki/erradicar#Español
+ 142. https://es.wiktionary.org/wiki/erradicado#Español
+ 143. https://es.wiktionary.org/w/index.php?title=erradicación&action=edit&redlink=1
+ 144. https://es.wiktionary.org/wiki/radicalizar#Español
+ 145. https://es.wiktionary.org/wiki/radicalizado#Español
+ 146. https://es.wiktionary.org/w/index.php?title=desradicalizar&action=edit&redlink=1
+ 147. https://es.wiktionary.org/w/index.php?title=desradicalizado&action=edit&redlink=1
+ 148. https://es.wiktionary.org/w/index.php?title=radicalización&action=edit&redlink=1
+ 149. https://es.wiktionary.org/w/index.php?title=desradicalización&action=edit&redlink=1
+ 150. https://es.wiktionary.org/w/index.php?title=radicalidad&action=edit&redlink=1
+ 151. https://es.wiktionary.org/wiki/radicalmente#Español
+ 152. https://es.wiktionary.org/w/index.php?title=raíz&action=edit&section=5
+ 153. https://es.wikipedia.org/wiki/es:Wikipedia:Portada
+ 154. https://es.wikipedia.org/wiki/es:Wikipedia:Portada
+ 155. https://es.wikipedia.org/wiki/raíz
+ 156. https://es.wiktionary.org/w/index.php?title=raíz&action=edit&section=6
+ 157. https://es.wiktionary.org/wiki/シンリッ#Ainu
+ 158. https://es.wiktionary.org/w/index.php?title=ain:シンリッ&action=edit&redlink=1
+ 159. https://es.wiktionary.org/wiki/シンリㇳ#Ainu
+ 160. https://es.wiktionary.org/w/index.php?title=ain:シンリㇳ&action=edit&redlink=1
+ 161. https://es.wiktionary.org/wiki/Wurzel#Alemán
+ 162. https://de.wiktionary.org/wiki/Wurzel
+ 163. https://es.wiktionary.org/wiki/gwrizienn#Bretón
+ 164. https://br.wiktionary.org/wiki/gwrizienn
+ 165. https://es.wiktionary.org/w/index.php?title=причина&action=edit&redlink=1
+ 166. https://bg.wiktionary.org/wiki/причина
+ 167. https://es.wiktionary.org/w/index.php?title=коренище&action=edit&redlink=1
+ 168. https://bg.wiktionary.org/wiki/коренище
+ 169. https://es.wiktionary.org/w/index.php?title=корен&action=edit&redlink=1
+ 170. https://bg.wiktionary.org/wiki/корен
+ 171. https://es.wiktionary.org/wiki/arrel#Catalán
+ 172. https://ca.wiktionary.org/wiki/arrel
+ 173. https://es.wiktionary.org/wiki/racine#Francés
+ 174. https://fr.wiktionary.org/wiki/racine
+ 175. https://es.wiktionary.org/wiki/freumh#Gaélico_escocés
+ 176. https://gd.wiktionary.org/wiki/freumh
+ 177. https://es.wiktionary.org/wiki/gwreiddyn#Galés
+ 178. https://cy.wiktionary.org/wiki/gwreiddyn
+ 179. https://es.wiktionary.org/w/index.php?title=radiko&action=edit&redlink=1
+ 180. https://eo.wiktionary.org/wiki/radiko
+ 181. https://es.wiktionary.org/wiki/root#Inglés
+ 182. https://en.wiktionary.org/wiki/root
+ 183. https://es.wiktionary.org/wiki/fréamh#Irlandés
+ 184. https://ga.wiktionary.org/wiki/fréamh
+ 185. https://es.wiktionary.org/w/index.php?title=réiteach&action=edit&redlink=1
+ 186. https://ga.wiktionary.org/wiki/réiteach
+ 187. https://es.wiktionary.org/wiki/radice#Italiano
+ 188. https://it.wiktionary.org/wiki/radice
+ 189. https://es.wiktionary.org/w/index.php?title=根&action=edit&redlink=1
+ 190. https://ja.wiktionary.org/wiki/根
+ 191. https://es.wiktionary.org/wiki/ね#Japonés
+ 192. https://ja.wiktionary.org/wiki/ね
+ 193. https://es.wiktionary.org/w/index.php?title=ᡶ᠋‍ᡠᠯᡝᡝ᠋&action=edit&redlink=1
+ 194. https://es.wiktionary.org/w/index.php?title=mnc:ᡶ᠋‍ᡠᠯᡝᡝ᠋&action=edit&redlink=1
+ 195. https://es.wiktionary.org/wiki/fraue#Manés
+ 196. https://gv.wiktionary.org/wiki/fraue
+ 197. https://es.wiktionary.org/wiki/folil#Mapuche
+ 198. https://es.wiktionary.org/w/index.php?title=arn:folil&action=edit&redlink=1
+ 199. https://es.wiktionary.org/wiki/moots#Maya_yucateco
+ 200. https://es.wiktionary.org/w/index.php?title=yua:moots&action=edit&redlink=1
+ 201. https://es.wiktionary.org/wiki/yo’o_yutnù#Mixteco_del_sur_de_Puebla
+ 202. https://es.wiktionary.org/w/index.php?title=mit:yo’o_yutnù&action=edit&redlink=1
+ 203. https://es.wiktionary.org/wiki/nelhuatl#Náhuatl_clásico
+ 204. https://es.wiktionary.org/w/index.php?title=nci:nelhuatl&action=edit&redlink=1
+ 205. https://es.wiktionary.org/wiki/wortel#Neerlandés
+ 206. https://nl.wiktionary.org/wiki/wortel
+ 207. https://es.wiktionary.org/wiki/raiz#Portugués
+ 208. https://pt.wiktionary.org/wiki/raiz
+ 209. https://es.wiktionary.org/w/index.php?title=raíz&action=edit&section=7
+ 210. https://es.wiktionary.org/wiki/Wikcionario:Pronunciación
+ 211. https://es.wiktionary.org/w/index.php?title=raíz&action=edit&section=8
+ 212. https://es.wiktionary.org/wiki/radix#Latín
+ 213. https://es.wiktionary.org/w/index.php?title=raíz&action=edit&section=9
+ 214. https://es.wiktionary.org/wiki/raíz#Español
+ 215. https://es.wiktionary.org/wiki/raíz#Español
+ 216. https://es.wiktionary.org/w/index.php?title=raíz&action=edit&section=10
+ 217. https://es.wikipedia.org/wiki/es:Wikipedia:Portada
+ 218. https://es.wikipedia.org/wiki/es:Wikipedia:Portada
+ 219. https://es.wikipedia.org/wiki/gl:raíz
+ 220. https://es.wiktionary.org/w/index.php?title=raíz&action=edit&section=11
+ 221. https://es.wiktionary.org/wiki/raíz#cite_ref-1
+ 222. https://lema.rae.es/dpd/?key=guion#21
+ 223. https://es.wiktionary.org/w/index.php?title=raíz&oldid=5675081
+ 224. https://es.wiktionary.org/wiki/Especial:Categorías
+ 225. https://es.wiktionary.org/wiki/Categoría:Español
+ 226. https://es.wiktionary.org/wiki/Categoría:ES:Palabras_agudas
+ 227. https://es.wiktionary.org/wiki/Categoría:ES:Palabras_bisílabas
+ 228. https://es.wiktionary.org/wiki/Categoría:ES:Rimas:is
+ 229. https://es.wiktionary.org/wiki/Categoría:ES:Rimas:iθ
+ 230. https://es.wiktionary.org/wiki/Categoría:ES:Palabras_provenientes_del_latín
+ 231. https://es.wiktionary.org/wiki/Categoría:ES:Sustantivos
+ 232. https://es.wiktionary.org/wiki/Categoría:ES:Sustantivos_femeninos
+ 233. https://es.wiktionary.org/wiki/Categoría:ES:Botánica
+ 234. https://es.wiktionary.org/wiki/Categoría:ES:Lingüística
+ 235. https://es.wiktionary.org/wiki/Categoría:ES:Anatomía
+ 236. https://es.wiktionary.org/wiki/Categoría:ES:Matemáticas
+ 237. https://es.wiktionary.org/wiki/Categoría:Gallego
+ 238. https://es.wiktionary.org/w/index.php?title=Categoría:GL:Palabras_sin_transcripción_fonética&action=edit&redlink=1
+ 239. https://es.wiktionary.org/wiki/Categoría:GL:Palabras_provenientes_del_latín
+ 240. https://es.wiktionary.org/wiki/Categoría:GL:Sustantivos
+ 241. https://es.wiktionary.org/wiki/Categoría:GL:Sustantivos_femeninos
+ 242. https://es.wiktionary.org/wiki/Categoría:GL:Botánica
+ 243. https://es.wiktionary.org/wiki/Categoría:Páginas_que_usan_la_extensión_Phonos
+ 244. https://es.wiktionary.org/wiki/Categoría:Español-Ainu
+ 245. https://es.wiktionary.org/wiki/Categoría:Español-Alemán
+ 246. https://es.wiktionary.org/wiki/Categoría:Español-Bretón
+ 247. https://es.wiktionary.org/wiki/Categoría:Español-Búlgaro
+ 248. https://es.wiktionary.org/wiki/Categoría:Español-Catalán
+ 249. https://es.wiktionary.org/wiki/Categoría:Español-Francés
+ 250. https://es.wiktionary.org/wiki/Categoría:Español-Gaélico_escocés
+ 251. https://es.wiktionary.org/wiki/Categoría:Español-Galés
+ 252. https://es.wiktionary.org/wiki/Categoría:Español-Esperanto
+ 253. https://es.wiktionary.org/wiki/Categoría:Español-Inglés
+ 254. https://es.wiktionary.org/wiki/Categoría:Español-Irlandés
+ 255. https://es.wiktionary.org/wiki/Categoría:Español-Italiano
+ 256. https://es.wiktionary.org/wiki/Categoría:Español-Japonés
+ 257. https://es.wiktionary.org/wiki/Categoría:Español-Manchú
+ 258. https://es.wiktionary.org/wiki/Categoría:Español-Manés
+ 259. https://es.wiktionary.org/wiki/Categoría:Español-Mapuche
+ 260. https://es.wiktionary.org/wiki/Categoría:Español-Maya_yucateco
+ 261. https://es.wiktionary.org/wiki/Categoría:Español-Mixteco_del_sur_de_Puebla
+ 262. https://es.wiktionary.org/wiki/Categoría:Español-Náhuatl_clásico
+ 263. https://es.wiktionary.org/wiki/Categoría:Español-Neerlandés
+ 264. https://es.wiktionary.org/wiki/Categoría:Español-Portugués
+ 265. https://creativecommons.org/licenses/by-sa/4.0/deed.es
+ 266. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/es
+ 267. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es
+ 268. https://es.wiktionary.org/wiki/Wikcionario:Acerca_de
+ 269. https://es.wiktionary.org/wiki/Wikcionario:Descargo_general
+ 270. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 271. https://developer.wikimedia.org/
+ 272. https://stats.wikimedia.org/#/es.wiktionary.org
+ 273. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es
+ 274. https://es.m.wiktionary.org/w/index.php?title=raíz&mobileaction=toggle_view_mobile
+ 275. https://wikimediafoundation.org/
+ 276. https://www.mediawiki.org/
+
+   Liens cachés :
+ 278. https://upload.wikimedia.org/wikipedia/commons/transcoded/7/76/LL-Q1321_%28spa%29-Rodelar-ra%C3%ADz.wav/LL-Q1321_%28spa%29-Rodelar-ra%C3%ADz.wav.mp3

@@ -1,0 +1,518 @@
+   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
+   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
+   [16]alternate [17]alternate [18]alternate [19]alternate [20]alternate
+   [21]alternate [22]alternate [23]alternate [24]alternate [25]alternate
+   [26]alternate [27]alternate [28]alternate [29]alternate [30]alternate
+   [31]alternate [32]alternate [33]alternate [34]alternate [35]alternate
+   [36]alternate [37]alternate [38]alternate [39]alternate [40]alternate
+   [41]alternate
+
+   [42]Saltar al contenido principal
+
+   (BUTTON) (BUTTON) [43]Microsoft
+   (BUTTON) Soporte técnico (BUTTON)
+   [44]Soporte técnico
+   (BUTTON) Soporte técnico
+
+     * [45]Inicio
+     * [46]Microsoft 365
+     * [47]Office
+     * (BUTTON) Productos
+          + [48]Microsoft 365
+          + [49]Outlook
+          + [50]Microsoft Teams
+          + [51]OneDrive
+          + [52]OneNote
+          + [53]Windows
+          + [54]Microsoft Edge
+          + [55]más ...
+     * (BUTTON) Dispositivos
+          + [56]Surface
+          + [57]PC Accessories
+          + [58]Móvil
+          + [59]Xbox
+          + [60]PC Gaming
+          + [61]HoloLens
+          + [62]Surface Hub
+          + [63]Garantías de hardware
+     * (BUTTON) Cuenta y facturación
+          + [64]Account
+          + [65]Microsoft Store & billing
+     * (BUTTON) Recursos
+          + [66]Install Microsoft 365
+          + [67]Community forums
+          + [68]Administradores de Microsoft 365
+          + [69]Portal de la Pequeña Empresa
+          + [70]Desarrollador
+          + [71]Educación
+          + [72]Comunicar una estafa de soporte técnico
+          + [73]Product safety
+     * (BUTTON) Más
+     * [74]Comprar Microsoft 365
+
+     * (BUTTON) Todo Microsoft
+          + Global
+               o [75]Microsoft 365
+               o [76]Teams
+               o [77]Copilot
+               o [78]Windows
+               o [79]Surface
+               o [80]Xbox
+               o [81]Ofertas
+               o [82]Pequeñas empresas
+               o [83]Soporte
+          + Software (BUTTON) Software
+               o [84]Aplicaciones Windows
+               o [85]IA
+               o [86]OneDrive
+               o [87]Outlook
+               o [88]Skype
+               o [89]OneNote
+               o [90]Microsoft Teams
+          + PCs y dispositivos (BUTTON) PCs y dispositivos
+               o [91]Comprar Xbox
+               o [92]Accesorios
+          + Entretenimiento (BUTTON) Entretenimiento
+               o [93]Xbox Game Pass Ultimate
+               o [94]Xbox y juegos
+               o [95]Juegos para PC
+               o [96]Juegos para Windows
+               o [97]Películas y TV
+          + Empresas (BUTTON) Empresas
+               o [98]Microsoft Cloud
+               o [99]Seguridad de Microsoft
+               o [100]Azure
+               o [101]Dynamics 365
+               o [102]Microsoft 365 para empresas
+               o [103]Microsoft Industry
+               o [104]Microsoft Power Platform
+               o [105]Windows 365
+          + Desarrolladores y TI (BUTTON) Desarrolladores y TI
+               o [106]Desarrollador de Microsoft
+               o [107]Documentación
+               o [108]Microsoft Learn
+               o [109]Microsoft Tech Community
+               o [110]Azure Marketplace
+               o [111]AppSource
+               o [112]Visual Studio
+          + Otro (BUTTON) Otro
+               o [113]Microsoft Rewards
+               o [114]Seguridad y descargas gratuitas
+               o [115]Educación
+               o [116]Tarjetas regalo
+               o [117]Licenciamiento
+          + [118]Ver mapa del sitio
+
+   ____________________ (BUTTON) Buscar Búsqueda de ayuda
+
+     * Sin resultados
+
+   (BUTTON) Cancelar
+   Iniciar sesión
+   Iniciar sesión con Microsoft
+   Iniciar sesión o crear una cuenta
+   Hola:
+   Seleccione una cuenta diferente.
+   Tiene varias cuentas
+   Elija la cuenta con la que desea iniciar sesión.
+
+RAIZ (función RAIZ)
+
+   Applies ToExcel para Microsoft 365 Excel para Microsoft 365 para Mac
+   Excel para la Web Excel 2024 Excel 2024 para Mac Excel 2021 Excel 2021
+   para Mac Excel 2019 Excel 2016
+
+   En este artículo se describen la sintaxis de la fórmula y el uso de la
+   función RAIZ en Microsoft Excel.
+
+Descripción
+
+   Devuelve la raíz cuadrada de un número.
+
+Sintaxis
+
+   RAIZ(número)
+
+   La sintaxis de la función RAIZ tiene los siguientes argumentos:
+     * Número    Obligatorio. Es el número cuya raíz cuadrada desea
+       obtener.
+
+Observación
+
+   Si el argumento número es negativo, RAIZ devuelve el #NUM! o #VALOR!.
+
+Ejemplo
+
+   Copie los datos de ejemplo en la tabla siguiente y péguelos en la celda
+   A1 de una hoja de cálculo nueva de Excel. Para que las fórmulas
+   muestren los resultados, selecciónelas, presione F2 y luego ENTRAR. Si
+   lo necesita, puede ajustar el ancho de las columnas para ver todos los
+   datos.
+
+   Datos
+
+   -16
+
+   Fórmula
+
+   Descripción
+
+   Resultado
+
+   =RAIZ(16)
+
+   Raíz cuadrada de 16.
+
+   4
+
+   =RAIZ(A2)
+
+   Raíz cuadrada de -16. Dado que el número es negativo, el #NUM. se
+   devuelve un mensaje de error.
+
+   #NUM!
+
+   =RAIZ(ABS(A2))
+
+   Puede evitar el mensaje de error #NUM! primero usando la función ABS
+   para calcular el valor absoluto de -16, y a continuación, calculando la
+   raíz cuadrada.
+
+   4
+
+¿Necesita más ayuda?
+
+   ____________________ (BUTTON)
+
+¿Quiere más opciones?
+
+   [119]Descubrir[120]Comunidad
+
+   Explore las ventajas de las suscripciones, examine los cursos de
+   aprendizaje, aprenda a proteger su dispositivo y mucho más.
+
+   [121]Ventajas de la suscripción de Microsoft 365
+
+   [122]Aprendizaje de Microsoft 365
+
+   [123]Seguridad de Microsoft
+
+   [124]Centro de accesibilidad
+
+   Las comunidades le ayudan a formular y responder preguntas, enviar
+   comentarios y leer a expertos con conocimientos extensos.
+
+   [125]Pregunte en Microsoft Community
+
+   [126]Microsoft Tech Community
+
+   [127]Windows Insiders
+
+   [128]Microsoft 365 Insiders
+
+¿Le ha sido útil esta información?
+
+   (buttonYes) Sí (buttonNo) No
+   ¡Gracias! ¿Tiene alguna otra sugerencia para Microsoft? ¿Puede
+   ayudarnos a mejorar? (Envíe comentarios a Microsoft para que podamos
+   ayudarle.)
+
+   ¿Cuál es tu grado de satisfacción con la calidad del lenguaje?
+
+   ¿Qué le aportó a su experiencia?
+
+   [ ] Solucionó mi problema
+   [ ] Borrar instrucciones
+   [ ] Ha sido fácil de seguir
+   [ ] No usaba jerga
+   [ ] Las imágenes han sido de ayuda
+   [ ] Calidad de la traducción
+   [ ] No coincidían con mi pantalla
+   [ ] Instrucciones incorrectas
+   [ ] Demasiado técnico
+   [ ] No hay suficiente información
+   [ ] No hay suficientes imágenes
+   [ ] Calidad de la traducción
+
+   ¿Tiene algún comentario adicional? (Opcional)
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   ________________________________________
+   (BUTTON) Enviar comentarios
+   Si presiona Enviar, sus comentarios se usarán para mejorar los
+   productos y servicios de Microsoft. El administrador de TI podrá
+   recopilar estos datos. [129]Declaración de privacidad.
+
+¡Gracias por sus comentarios!
+
+   [130]×
+
+   Novedades
+     * [131]Surface Pro
+     * [132]Surface Laptop
+     * [133]Surface Laptop Studio 2
+     * [134]Surface Laptop Go 3
+     * [135]Microsoft Copilot
+     * [136]Microsoft 365
+     * [137]Explora los productos de Microsoft
+     * [138]Aplicaciones de Windows 11
+
+   Microsoft Store
+     * [139]Perfil de la cuenta
+     * [140]Centro de descarga
+     * [141]Soporte de Microsoft Store
+     * [142]Devoluciones
+     * [143]Seguimiento de pedidos
+     * [144]Reciclar
+     * [145]Garantías comerciales
+
+   Educación
+     * [146]Microsoft Educación
+     * [147]Dispositivos para educación
+     * [148]Microsoft Teams para Educación
+     * [149]Microsoft 365 Educación
+     * [150]Office Educación
+     * [151]Formación y desarrollo de educadores
+     * [152]Ofertas para estudiantes y padres
+     * [153]Azure para estudiantes
+
+   Empresas
+     * [154]Microsoft Cloud
+     * [155]Seguridad de Microsoft
+     * [156]Azure
+     * [157]Dynamics 365
+     * [158]Microsoft 365
+     * [159]Microsoft 365 Copilot
+     * [160]Microsoft Teams
+     * [161]Pequeñas empresas
+
+   Desarrolladores y TI
+     * [162]Desarrollador de Microsoft
+     * [163]Documentación
+     * [164]Microsoft Learn
+     * [165]Microsoft Tech Community
+     * [166]Azure Marketplace
+     * [167]AppSource
+     * [168]Microsoft Power Platform
+     * [169]Visual Studio
+
+   Compañía
+     * [170]Oportunidades de empleo
+     * [171]Acerca de Microsoft
+     * [172]Noticias de la compañía
+     * [173]Privacidad en Microsoft
+     * [174]Inversores
+     * [175]Sostenibilidad
+
+   [176]Español (España, alfabetización internacional) Tus opciones de
+   privacidad Tus opciones de privacidad [177]Privacidad de la salud del
+   consumidor
+
+     * [178]Ponte en contacto con Microsoft
+     * [179]Privacidad
+     * [180]Gestionar cookies
+     * [181]Condiciones de uso
+     * [182]Marcas registradas
+     * [183]Sobre nuestra publicidad
+     * [184]Docs de cumplimiento de la UE
+     * © Microsoft 2025
+
+   IFRAME: [185]iframeOP
+
+Références
+
+   Liens visibles :
+   1. https://support.microsoft.com/ar-sa/office/الدالة-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+   2. https://support.microsoft.com/bg-bg/office/sqrt-функция-654975c2-05c4-4831-9a24-2c65e4040fdf
+   3. https://support.microsoft.com/cs-cz/office/funkce-odmocnina-654975c2-05c4-4831-9a24-2c65e4040fdf
+   4. https://support.microsoft.com/da-dk/office/funktionen-kvrod-654975c2-05c4-4831-9a24-2c65e4040fdf
+   5. https://support.microsoft.com/de-de/office/wurzel-funktion-654975c2-05c4-4831-9a24-2c65e4040fdf
+   6. https://support.microsoft.com/el-gr/office/συνάρτηση-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+   7. https://support.microsoft.com/en-au/office/sqrt-function-654975c2-05c4-4831-9a24-2c65e4040fdf
+   8. https://support.microsoft.com/en-gb/office/sqrt-function-654975c2-05c4-4831-9a24-2c65e4040fdf
+   9. https://support.microsoft.com/en-us/office/sqrt-function-654975c2-05c4-4831-9a24-2c65e4040fdf
+  10. https://support.microsoft.com/en-us/office/sqrt-function-654975c2-05c4-4831-9a24-2c65e4040fdf
+  11. https://support.microsoft.com/es-es/office/raiz-función-raiz-654975c2-05c4-4831-9a24-2c65e4040fdf
+  12. https://support.microsoft.com/et-ee/office/funktsioon-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+  13. https://support.microsoft.com/fi-fi/office/neliöjuuri-funktio-654975c2-05c4-4831-9a24-2c65e4040fdf
+  14. https://support.microsoft.com/fr-fr/office/racine-racine-fonction-654975c2-05c4-4831-9a24-2c65e4040fdf
+  15. https://support.microsoft.com/he-il/office/הפונקציה-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+  16. https://support.microsoft.com/hr-hr/office/sqrt-opise-funkcije-654975c2-05c4-4831-9a24-2c65e4040fdf
+  17. https://support.microsoft.com/hu-hu/office/gyök-függvény-654975c2-05c4-4831-9a24-2c65e4040fdf
+  18. https://support.microsoft.com/id-id/office/sqrt-fungsi-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+  19. https://support.microsoft.com/it-it/office/radq-funzione-radq-654975c2-05c4-4831-9a24-2c65e4040fdf
+  20. https://support.microsoft.com/ja-jp/office/sqrt-関数-654975c2-05c4-4831-9a24-2c65e4040fdf
+  21. https://support.microsoft.com/ko-kr/office/sqrt-함수-654975c2-05c4-4831-9a24-2c65e4040fdf
+  22. https://support.microsoft.com/lt-lt/office/sqrt-funkcija-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+  23. https://support.microsoft.com/lv-lv/office/funkcija-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+  24. https://support.microsoft.com/nb-no/office/rot-funksjon-654975c2-05c4-4831-9a24-2c65e4040fdf
+  25. https://support.microsoft.com/nl-nl/office/wortel-functie-654975c2-05c4-4831-9a24-2c65e4040fdf
+  26. https://support.microsoft.com/pl-pl/office/pierwiastek-funkcja-654975c2-05c4-4831-9a24-2c65e4040fdf
+  27. https://support.microsoft.com/pt-br/office/função-raiz-654975c2-05c4-4831-9a24-2c65e4040fdf
+  28. https://support.microsoft.com/pt-pt/office/função-raizq-654975c2-05c4-4831-9a24-2c65e4040fdf
+  29. https://support.microsoft.com/ro-ro/office/funcția-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+  30. https://support.microsoft.com/ru-ru/office/функция-корень-654975c2-05c4-4831-9a24-2c65e4040fdf
+  31. https://support.microsoft.com/sk-sk/office/sqrt-funkcia-654975c2-05c4-4831-9a24-2c65e4040fdf
+  32. https://support.microsoft.com/sl-si/office/funkcija-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+  33. https://support.microsoft.com/sr-latn-rs/office/funkcija-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+  34. https://support.microsoft.com/sv-se/office/funktionen-rot-654975c2-05c4-4831-9a24-2c65e4040fdf
+  35. https://support.microsoft.com/th-th/office/ฟังก์ชัน-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+  36. https://support.microsoft.com/tr-tr/office/karekök-işlevi-654975c2-05c4-4831-9a24-2c65e4040fdf
+  37. https://support.microsoft.com/uk-ua/office/функція-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+  38. https://support.microsoft.com/vi-vn/office/sqrt-hàm-sqrt-654975c2-05c4-4831-9a24-2c65e4040fdf
+  39. https://support.microsoft.com/zh-cn/office/sqrt-函数-654975c2-05c4-4831-9a24-2c65e4040fdf
+  40. https://support.microsoft.com/zh-hk/office/sqrt-函數-654975c2-05c4-4831-9a24-2c65e4040fdf
+  41. https://support.microsoft.com/zh-tw/office/sqrt-函數-654975c2-05c4-4831-9a24-2c65e4040fdf
+  42. javascript:void(0)
+  43. https://www.microsoft.com/
+  44. https://support.microsoft.com/es-es
+  45. https://support.microsoft.com/es-es
+  46. https://www.microsoft.com/microsoft-365?ocid=cmmttvzgpuy
+  47. https://www.microsoft.com/microsoft-365/microsoft-office?ocid=cmml7tr0rib
+  48. https://support.microsoft.com/en-us/microsoft-365
+  49. https://support.microsoft.com/en-us/outlook
+  50. https://support.microsoft.com/en-us/teams
+  51. https://support.microsoft.com/en-us/onedrive
+  52. https://support.microsoft.com/en-us/onenote
+  53. https://support.microsoft.com/en-us/windows
+  54. https://support.microsoft.com/en-us/microsoft-edge
+  55. https://support.microsoft.com/en-us/all-products
+  56. https://support.microsoft.com/en-us/surface
+  57. https://support.microsoft.com/en-us/pc-accessories
+  58. https://support.microsoft.com/en-us/mobile-devices
+  59. https://support.xbox.com/
+  60. https://support.xbox.com/help/games-apps/my-games-apps/all-about-pc-gaming
+  61. https://docs.microsoft.com/hololens/
+  62. https://learn.microsoft.com/surface-hub/
+  63. https://support.microsoft.com/es-es/warranty
+  64. https://support.microsoft.com/en-us/account
+  65. https://support.microsoft.com/en-us/microsoft-store-and-billing
+  66. https://support.microsoft.com/en-us/office/4414eaaf-0478-48be-9c42-23adc4716658
+  67. https://answers.microsoft.com/lang/msoffice/forum
+  68. https://portal.office.com/AdminPortal#/support
+  69. https://go.microsoft.com/fwlink/?linkid=2224585
+  70. https://developer.microsoft.com/
+  71. https://support.microsoft.com/en-us/education
+  72. https://www.microsoft.com/reportascam/
+  73. https://support.microsoft.com/surface/cbc47825-19b9-4786-8088-eb9963d780d3
+  74. https://go.microsoft.com/fwlink/?linkid=849747
+  75. https://www.microsoft.com/es-es/microsoft-365
+  76. https://www.microsoft.com/es-es/microsoft-teams/group-chat-software
+  77. https://copilot.microsoft.com/
+  78. https://www.microsoft.com/es-es/windows/
+  79. https://www.microsoft.com/surface
+  80. https://www.xbox.com/
+  81. https://www.microsoft.com/es-es/store/b/sale?icid=TopNavDealsSale
+  82. https://www.microsoft.com/es-es/store/b/business
+  83. https://support.microsoft.com/es-es
+  84. https://www.microsoft.com/es-es/store/apps/windows?icid=CNavAppsWindowsApps
+  85. https://www.microsoft.com/es-es/ai
+  86. https://www.microsoft.com/es-es/microsoft-365/onedrive/online-cloud-storage
+  87. https://www.microsoft.com/es-es/microsoft-365/outlook/email-and-calendar-software-microsoft-outlook
+  88. https://www.skype.com/es/
+  89. https://www.microsoft.com/es-es/microsoft-365/onenote/digital-note-taking-app
+  90. https://www.microsoft.com/es-es/microsoft-teams/group-chat-software
+  91. https://www.microsoft.com/es-es/store/b/xbox?icid=CNavDevicesXbox
+  92. https://www.microsoft.com/es-es/store/b/accessories?icid=CNavDevicesAccessories
+  93. https://www.microsoft.com/es-es/p/xbox-game-pass-ultimate/cfq7ttc0khs0?WT.mc_id=CNavGamesXboxGamePassUltimate
+  94. https://www.microsoft.com/es-es/store/top-paid/games/xbox
+  95. https://www.microsoft.com/es-es/store/games/windows?icid=CNavGamesWindowsGames
+  96. https://www.microsoft.com/es-es/store/games/windows?icid=TopNavWindowsGames
+  97. https://www.microsoft.com/es-es/store/movies-and-tv?icid=TopNavMoviesAndTv
+  98. https://www.microsoft.com/es-es/microsoft-cloud
+  99. https://www.microsoft.com/es-es/security
+ 100. https://azure.microsoft.com/es-es/
+ 101. https://www.microsoft.com/es-es/dynamics-365
+ 102. https://www.microsoft.com/es-es/microsoft-365/business
+ 103. https://www.microsoft.com/es-es/industry
+ 104. https://www.microsoft.com/es-es/power-platform
+ 105. https://www.microsoft.com/es-es/windows-365
+ 106. https://developer.microsoft.com/es-es/
+ 107. https://learn.microsoft.com/docs/
+ 108. https://learn.microsoft.com/
+ 109. https://techcommunity.microsoft.com/
+ 110. https://azuremarketplace.microsoft.com/es-es/
+ 111. https://appsource.microsoft.com/es-es/
+ 112. https://visualstudio.microsoft.com/
+ 113. https://www.microsoft.com/rewards
+ 114. https://www.microsoft.com/es-es/download
+ 115. https://www.microsoft.com/es-es/education?icid=CNavMSCOML0_Studentsandeducation
+ 116. https://www.microsoft.com/es-es/store/b/gift-cards
+ 117. https://www.microsoft.com/licensing/
+ 118. https://www.microsoft.com/es-es/sitemap
+ 119. javascript:/
+ 120. javascript:/
+ 121. https://www.microsoft.com/microsoft-365?ocid=cmmg4dr5b7t
+ 122. https://support.microsoft.com/es-es/training
+ 123. https://support.microsoft.com/es-es/security
+ 124. https://support.microsoft.com/es-es/accessibility
+ 125. https://answers.microsoft.com/
+ 126. https://techcommunity.microsoft.com/
+ 127. https://insider.windows.com/
+ 128. https://insider.office.com/
+ 129. https://privacy.microsoft.com/es-ES/privacystatement
+ 130. javascript:/
+ 131. https://www.microsoft.com/es-es/surface/devices/surface-pro-11th-edition
+ 132. https://www.microsoft.com/es-es/surface/devices/surface-laptop-7th-edition
+ 133. https://www.microsoft.com/es-es/d/Surface-Laptop-Studio-2/8rqr54krf1dz
+ 134. https://www.microsoft.com/es-es/d/Surface-Laptop-Go-3/8p0wwgj6c6l2
+ 135. https://www.microsoft.com/es-es/microsoft-copilot
+ 136. https://www.microsoft.com/es-es/microsoft-365
+ 137. https://www.microsoft.com/es-es/microsoft-products-and-apps
+ 138. https://www.microsoft.com/windows/windows-11-apps
+ 139. https://account.microsoft.com/
+ 140. https://www.microsoft.com/es-es/download
+ 141. https://go.microsoft.com/fwlink/?linkid=2139749
+ 142. https://support.microsoft.com/es-es/help/10558/microsoft-store-returning-items-bought-for-exchange-refund
+ 143. https://account.microsoft.com/orders
+ 144. https://www.microsoft.com/es-es/store/b/recycling?icid=GlobalFooterNav
+ 145. https://www.microsoft.com/es-es/store/b/aboutwarranties?icid=GlobalFooterNav
+ 146. https://www.microsoft.com/es-es/education
+ 147. https://www.microsoft.com/es-es/education/devices/overview
+ 148. https://www.microsoft.com/es-es/education/products/teams
+ 149. https://www.microsoft.com/es-es/education/products/microsoft-365
+ 150. https://www.microsoft.com/es-es/education/products/office
+ 151. https://education.microsoft.com/
+ 152. https://www.microsoft.com/es-es/store/b/student
+ 153. https://azure.microsoft.com/es-es/free/students/
+ 154. https://www.microsoft.com/es-es/microsoft-cloud
+ 155. https://www.microsoft.com/es-es/security
+ 156. https://azure.microsoft.com/es-es/
+ 157. https://www.microsoft.com/es-es/dynamics-365
+ 158. https://www.microsoft.com/es-es/microsoft-365/business/
+ 159. https://www.microsoft.com/es-es/microsoft-365/copilot/copilot-for-work
+ 160. https://www.microsoft.com/es-es/microsoft-teams/group-chat-software
+ 161. https://www.microsoft.com/es-es/store/b/business
+ 162. https://developer.microsoft.com/es-es/
+ 163. https://learn.microsoft.com/docs/
+ 164. https://learn.microsoft.com/
+ 165. https://techcommunity.microsoft.com/
+ 166. https://azuremarketplace.microsoft.com/es-es/
+ 167. https://appsource.microsoft.com/es-es/
+ 168. https://www.microsoft.com/es-es/power-platform
+ 169. https://visualstudio.microsoft.com/
+ 170. https://careers.microsoft.com/
+ 171. https://www.microsoft.com/about
+ 172. https://news.microsoft.com/es-es
+ 173. https://privacy.microsoft.com/es-es
+ 174. https://www.microsoft.com/investor/default.aspx
+ 175. https://www.microsoft.com/es-es/sustainability/
+ 176. https://support.microsoft.com/es-es/worldwide
+ 177. https://go.microsoft.com/fwlink/?linkid=2259814
+ 178. https://support.microsoft.com/contactus
+ 179. https://go.microsoft.com/fwlink/?LinkId=521839
+ 180. https://support.microsoft.com/es-es/office/raiz-función-raiz-654975c2-05c4-4831-9a24-2c65e4040fdf
+ 181. https://go.microsoft.com/fwlink/?LinkID=206977
+ 182. https://go.microsoft.com/fwlink/?linkid=2196228
+ 183. https://choice.microsoft.com/
+ 184. https://www.microsoft.com/en-ie/eucompliancedoc/default.aspx
+ 185. https://support.microsoft.com/es-es/authentication/silentsignin?ru=/es-es/silentsigninhandler
+
+   Liens cachés :
+ 187. javascript:void(0)
+ 188. https://aka.ms/yourcaliforniaprivacychoices
+ 189. https://aka.ms/yourcaliforniaprivacychoices

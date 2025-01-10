@@ -1,0 +1,16 @@
+     Raíz cuadrada
+                              Raíz cuadrada
+   La raíz cuadrada se ha usado desde ti
+   Ejemplo, la raíz cuadrada de 16 equivale a 4, 
+   Nombre                 Raíz cuadrada
+s métodos para poder escribir raíz cuadrada,
+der escribir el símbolo de la raíz cuadrada de esta manera.
+lizado para poder escribir la raíz cuadrada es
+   sacar la raíz cuadrada.
+ría aparecer el símbolo de la raíz
+       la raíz cuadrada
+icado. Para poder escribir la raíz cuadrada debemos
+ especiales. Para escribir la raíz cuadrada, necesitamos acceder
+       que el símbolo de la raíz cuadrada estaría en el docume
+   El símbolo de la raíz cuadrada se lleva usando desd
+     * Raíz cuadrada

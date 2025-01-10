@@ -1,0 +1,66 @@
+Definición de Directorio raíz (root directory)
+   Significado de Directorio raíz: En sistema de archivos de co
+   el directorio raíz o root directory es el primer
+ [12]Definición de Directorio raíz (root directory)
+    2. [13]El directorio raíz en Windows
+    3. [14]El directorio raíz en Unix
+   4. [15]Resumen: Directorio raíz
+la importancia del directorio raíz en un sistema de
+¿Qué representa el directorio raíz en la metáfora del árbol?
+  7. [18]¿Puede el directorio raíz tener subdirectorios?
+ntajas de tener un directorio raíz en un
+o se identifica el directorio raíz en diferentes sistemas
+sible modificar el directorio raíz en un sistema de
+   Definición de Directorio raíz (root directory)
+   [27]Directorio raíz
+Definición de Directorio raíz (root directory)
+de computadora, el directorio raíz o root
+   El [29]directorio raíz o root directory es esencial 
+el sistema. Sin el directorio raíz, sería imposible
+n la jerarquía, el directorio raíz
+   El directorio raíz también tiene un rol fundamen
+o y permisos en el directorio raíz, los
+   En resumen, el directorio raíz o root directory es el primer
+a y segura. Sin el directorio raíz,
+El directorio raíz en Windows
+   El directorio raíz en MS-DOS, OS/2 y Windows de 
+   directorio raíz. No tiene ningún directorio r
+artición tendrá un directorio raíz en
+   El directorio raíz, en el [33]sistema de archivo
+   El directorio raíz ocupa una posición única y co
+ada [35]región del directorio raíz), pero los índices
+   Directorio raíz
+El directorio raíz en Unix
+   directorio raíz por convención se utiliza la 
+   raíz.
+   relación con el directorio raíz en el sentido de este artícul
+Resumen: Directorio raíz
+   El directorio raíz es el primer directorio en la
+la importancia del directorio raíz en un sistema de archivos de
+   El directorio raíz es fundamental en un sistema 
+el sistema. Sin el directorio raíz, sería casi imposible acceder
+¿Qué representa el directorio raíz en la metáfora del árbol?
+   El directorio raíz se puede visualizar como el t
+ectorios. Desde el directorio raíz, se originan todas
+   de un árbol, el directorio raíz es el punto de partida que un
+¿Puede el directorio raíz tener subdirectorios?
+   Sí, el directorio raíz puede contener subdirectorios
+ramifican desde el directorio raíz y pueden contener
+   dentro del directorio raíz permite una organización y cl
+ntajas de tener un directorio raíz en un sistema de
+   El directorio raíz proporciona una estructura je
+   directorio raíz permite una gestión más efici
+o se identifica el directorio raíz en diferentes sistemas operat
+   El directorio raíz se identifica mediante una ru
+En [42]Windows, el directorio raíz
+   la raíz del disco duro. En [43]Linux 
+y [44]Unix, el directorio raíz se
+sible modificar el directorio raíz en un sistema de archivos?
+ienda modificar el directorio raíz en un sistema
+   sistema. El directorio raíz se establece durante la insta
+s. Si se altera el directorio raíz, puede causar
+23). Definición de Directorio raíz. Recuperado de
+87]Cómo se crea un directorio raíz [88]Cómo se crea un directori
+       raíz
+da vamos a definir directorio raíz: en informática,
+       el directorio raíz es

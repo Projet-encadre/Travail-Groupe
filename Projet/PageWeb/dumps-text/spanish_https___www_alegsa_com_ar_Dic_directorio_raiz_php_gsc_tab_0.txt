@@ -1,0 +1,467 @@
+   (BUTTON) Cerrar × [1]Página principal [2]Asistente ALEGSA IA (BUTTON)
+   Informática
+   [3]Diccionario informático [4]Categorías del diccionario [5]Actualidad
+   (BUTTON) Horóscopo
+   [6]Horóscopo de hoy [7]Horóscopo del amor [8]Fenómenos extraños
+   [9]Contáctenos
+
+   (BUTTON) ☰ Menú
+
+   [10]ALEGSA.com.ar
+
+Definición de Directorio raíz (root directory)
+
+   Significado de Directorio raíz: En sistema de archivos de computadora,
+   el directorio raíz o root directory es el primero o el directorio más
+   alto en la jerarquía de directorios. ...
+   Autor: [11]Leandro Alegsa
+   26-06-2023 00:00
+   [INS: :INS]
+
+Contenido
+
+    1. [12]Definición de Directorio raíz (root directory)
+    2. [13]El directorio raíz en Windows
+    3. [14]El directorio raíz en Unix
+    4. [15]Resumen: Directorio raíz
+    5. [16]¿Cuál es la importancia del directorio raíz en un sistema de
+       archivos de computadora?
+    6. [17]¿Qué representa el directorio raíz en la metáfora del árbol?
+    7. [18]¿Puede el directorio raíz tener subdirectorios?
+    8. [19]¿Cuáles son las ventajas de tener un directorio raíz en un
+       sistema de archivos?
+    9. [20]¿Cómo se identifica el directorio raíz en diferentes sistemas
+       operativos?
+   10. [21]¿Es posible modificar el directorio raíz en un sistema de
+       archivos?
+   11. [22]Tus dudas o consultas al Asistente
+
+   Definición de Directorio raíz (root directory)
+   Compartir:
+   Para poder mantener nuestro sitio web gratuito nos ayudas mucho si nos
+   sigues en nuestras [23]Redes Sociales
+
+   [24]Alegsa.com.ar ›
+   [25]Diccionario tecnología ›
+   [26]Sistemas de archivos ›
+   [27]Directorio raíz
+
+
+Definición de Directorio raíz (root directory)
+
+
+   En [28]sistema de archivos de computadora, el directorio raíz o root
+   directory es el primero o el directorio más alto en la jerarquía de
+   directorios. Puede ser visto como el tronco de un árbol, desde donde el
+   resto de las ramas (el resto de los directorios) se desprenden.
+   El [29]directorio raíz o root directory es esencial en el
+   funcionamiento de un [30]sistema de archivos de [31]computadora. Es el
+   punto de partida para acceder a todos los archivos y directorios
+   almacenados en el sistema. Sin el directorio raíz, sería imposible
+   organizar y ubicar los archivos de manera estructurada.
+   Además de ser el primer directorio en la jerarquía, el directorio raíz
+   también actúa como un punto de referencia para los usuarios a la hora
+   de [32]navegar y acceder a los diferentes directorios y archivos. Desde
+   este directorio, los usuarios pueden explorar y acceder a
+   subdirectorios y archivos específicos en el sistema de archivos.
+   El directorio raíz también tiene un rol fundamental en la seguridad y
+   protección de los archivos almacenados en el sistema. Al establecer
+   privilegios de acceso y permisos en el directorio raíz, los
+   administradores del sistema pueden controlar quién puede acceder y
+   modificar los archivos y directorios en el sistema.
+   En resumen, el directorio raíz o root directory es el primer y más alto
+   nivel en la jerarquía de directorios de un sistema de archivos. Es
+   esencial para organizar, acceder y proteger los archivos y directorios
+   en el sistema de manera estructurada y segura. Sin el directorio raíz,
+   el funcionamiento de un sistema de archivos sería caótico e
+   inmanejable.
+
+El directorio raíz en Windows
+
+   El directorio raíz en MS-DOS, OS/2 y Windows de una partición tiene
+   asignada una letra de la forma A:, B:, C:, etc. Es es el nombre del
+   directorio raíz. No tiene ningún directorio raíz en común encima de las
+   particiones de un disco (como sí lo tiene Unix).
+   Entonces un disco duro (u otra unidad de almacenamiento) puede tener
+   varias particiones y cada partición tendrá un directorio raíz en
+   particular.
+   DOS y Windows soportan jerarquía abstracta, puede montarse una
+   partición dentro de un directorio de otra unidad, pero esto es pocas
+   veces visto. Se emplea el comando JOIN en DOS.
+   El directorio raíz, en el [33]sistema de archivos [34]FAT, es un tipo
+   especial de fichero que almacena en forma de índice las subcarpetas y
+   ficheros que componen cada carpeta.
+   El directorio raíz ocupa una posición única y concreta en el sistema de
+   ficheros (la llamada [35]región del directorio raíz), pero los índices
+   de otras carpetas ocupan la [36]zona de datos como cualquier fichero.
+   Cada entrada en este índice contiene el nombre del fichero o carpeta,
+   su [37]extensión, sus [38]atributos, la fecha y hora de creación, la
+   dirección del primer [39]clúster donde están los datos y el tamaño que
+   ocupa.
+   Directorio raíz
+
+El directorio raíz en Unix
+
+   Unix tiene una jerarquía de árbol de naturaleza abstracta. El árbol
+   directorio es denotado por la barra invertida / (slash). Si bien el
+   directorio raíz por convención se utiliza la barra /, lo cierto es que
+   no tiene nombre, su nombre está vacío. Todas las entradas del sistema
+   de archivo, incluido sistemas de archivos montados son "ramas" de esta
+   raíz.
+   En muchos sistemas Unix hay un directorio que se llama /root, no tiene
+   relación con el directorio raíz en el sentido de este artículo.
+
+Resumen: Directorio raíz
+
+   El directorio raíz es el primer directorio en la computadora, como el
+   tronco de un [40]árbol del cual surgen los demás directorios.
+
+¿Cuál es la importancia del directorio raíz en un sistema de archivos de
+computadora?
+
+   El directorio raíz es fundamental en un sistema de archivos, ya que es
+   el directorio más alto en la jerarquía. Actúa como el punto de partida
+   para organizar y estructurar todos los demás directorios y archivos en
+   el sistema. Sin el directorio raíz, sería casi imposible acceder y
+   encontrar los archivos y directorios necesarios en el sistema.
+
+¿Qué representa el directorio raíz en la metáfora del árbol?
+
+   El directorio raíz se puede visualizar como el tronco de un árbol en la
+   jerarquía de directorios. Desde el directorio raíz, se originan todas
+   las ramas (otros directorios) que se extienden a lo largo del sistema
+   de archivos. Al igual que el tronco sostiene y conecta todas las ramas
+   de un árbol, el directorio raíz es el punto de partida que une todos
+   los directorios y archivos del sistema.
+
+¿Puede el directorio raíz tener subdirectorios?
+
+   Sí, el directorio raíz puede contener subdirectorios. Estos
+   subdirectorios se ramifican desde el directorio raíz y pueden contener
+   más subdirectorios o archivos. La estructura de los subdirectorios
+   dentro del directorio raíz permite una organización y clasificación más
+   eficiente de los archivos y facilita la navegación y búsqueda de
+   [41]información en el sistema de archivos.
+
+¿Cuáles son las ventajas de tener un directorio raíz en un sistema de
+archivos?
+
+   El directorio raíz proporciona una estructura jerárquica para organizar
+   y acceder a los archivos y directorios en el sistema. Esto facilita la
+   navegación y administración de los recursos del sistema. Además, el
+   directorio raíz permite una gestión más eficiente de los permisos y la
+   seguridad, ya que se pueden establecer políticas de acceso y controlar
+   quién puede acceder a qué directorios y archivos.
+
+¿Cómo se identifica el directorio raíz en diferentes sistemas operativos?
+
+   El directorio raíz se identifica mediante una ruta específica en
+   diferentes sistemas operativos. En [42]Windows, el directorio raíz
+   generalmente se representa con la letra "C:\" o "D:\" y se encuentra en
+   la raíz del disco duro. En [43]Linux y [44]Unix, el directorio raíz se
+   denota con una barra inclinada hacia la izquierda ("/") y se encuentra
+   en el nivel más alto de la estructura de archivos.
+
+¿Es posible modificar el directorio raíz en un sistema de archivos?
+
+   En general, no se recomienda modificar el directorio raíz en un sistema
+   de archivos, ya que puede afectar la integridad y el funcionamiento del
+   sistema. El directorio raíz se establece durante la instalación del
+   sistema operativo y está diseñado para ser un punto fijo en la
+   estructura de archivos. Si se altera el directorio raíz, puede causar
+   problemas de compatibilidad y dificultades para localizar y acceder a
+   los archivos y directorios en el sistema.
+   Autor: [45]Leandro Alegsa
+   Actualizado: 26-06-2023
+   ¿Cómo citar este artículo?
+   Alegsa, Leandro. (2023). Definición de Directorio raíz. Recuperado de
+   [46]https://www.alegsa.com.ar/Dic/directorio_raiz.php
+     __________________________________________________________________
+
+Diccionario informático
+
+   Búsqueda por letra
+
+   [47]A [48]B [49]C [50]D [51]E [52]F [53]G [54]H [55]I [56]J [57]K [58]M
+   [59]N [60]O [61]P [62]Q [63]R [64]S [65]T [66]U [67]V [68]W [69]X [70]Y
+   [71]Z [72]0-9
+
+   Búsqueda por categorías
+
+   [73]Almacenamiento [74]Aplicaciones [75]Hardware [76]Desarrollo web
+   [77]Memorias [78]Programación [79]Seguridad [80]Teoría de Sistemas
+   [81]Windows [82]Más categorías
+     __________________________________________________________________
+
+   Compartir nota:
+
+
+   articulos
+   Asistente IA
+   Escribe tu consulta sobre informática y tecnologías al asistente de
+   Inteligencia Artificial
+   ¡te responderá en segundos!
+
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ___________________________________
+   ________________________________
+
+   (*) Respuesta completa
+   ( ) Respuesta corta
+   [BUTTON Input] (not implemented)_______________________ [ Ayuda ] [ ]
+   Hazle la consulta o pregunta dándole un contexto, información
+   suficiente de lo que buscas. La IA no tiene memoria: cada consulta que
+   hagas será nueva. Leemos todas las respuestas de la IA, deja tu email
+   si quieres que te contactemos si detectamos un error en lo que dijo el
+   asistente.
+   * ACLARACIÓN: Sugerimos dejar tu email si quieres que te contactemos
+   para una respuesta de nuestro staff o corregir la respuesta de la IA.
+
+Nuestras Redes
+
+   Puedes seguirnos y contactarnos en nuestras redes.
+   [83]Facebook
+   [84]WhatsApp
+   [85]Instagram
+   [86]Facebook Horoscopo
+     __________________________________________________________________
+
+   Usa nuestro buscador para definiciones, informática y tecnologías
+
+Artículos relacionados
+
+     * [87]Cómo se crea un directorio raíz [88]Cómo se crea un directorio
+       raíz
+       Primero que nada vamos a definir directorio raíz: en informática,
+       el directorio raíz es
+     * [89]¿Cuáles son los archivos de arranque del sistema (Windows)?
+       [90]¿Cuáles son los archivos de arranque del sistema (Windows)?
+       En los Windows más actuales, estos son los archivos: Estructura de
+       los archivos de
+     * [91]Visualizar los elementos de hardware instalados en el equipo
+       [92]Visualizar los elementos de hardware instalados en el equipo
+       Sí, Windows permite ver una lista de todos los dispositivos de
+       hardware instalados en el
+     * [93]¿Qué indican las estructuras de las carpetas en un computador?
+       [94]¿Qué indican las estructuras de las carpetas en un computador?
+       Indican la forma en que están organizados/estructurados los
+       archivos del disco
+     * [95]¿Qué es una estructura de carpetas? [96]¿Qué es una estructura
+       de carpetas?
+       La estructura de carpetas hace referencia a la forma en que están
+       organizadas las
+     __________________________________________________________________
+
+Diccionario informático
+
+   Búsqueda por letra
+
+   [97]A [98]B [99]C [100]D [101]E [102]F [103]G [104]H [105]I [106]J
+   [107]K [108]M [109]N [110]O [111]P [112]Q [113]R [114]S [115]T [116]U
+   [117]V [118]W [119]X [120]Y [121]Z [122]0-9
+
+   Búsqueda por categorías
+
+   [123]Almacenamiento [124]Aplicaciones [125]Hardware [126]Desarrollo web
+   [127]Memorias [128]Programación [129]Seguridad [130]Teoría de Sistemas
+   [131]Windows [132]Más categorías
+     __________________________________________________________________
+
+Nuestras Redes
+
+   ¡Novedades de la web y contáctanos en nuestras redes sociales!
+   [133]Facebook
+   [134]Facebook Horoscopo
+   [135]Instagram
+   [136]Twitter
+   [137]WhatsApp
+     __________________________________________________________________
+
+Secciones de Alegsa
+
+     * [138]Diccionario de informática y tecnología [139]Diccionario de
+       informática y tecnología: definiciones de palabras relacionadas a
+       la informática...
+     * [140]Actualidad informática [141]Actualidad informática: noticias
+       de sobre tecnología, web, internet...
+     * [142]Artículos de informática [143]Artículos sobre informática:
+       Windows, antivirus, programación...
+     * [144]Horóscopo de hoy [145]Horóscopo de hoy, horóscopo del amor y
+       el sexo: el futuro, compatibilidades, cómo conquistar al otro...
+     * [146]Literatura [147]Literatura: cuentos cortos, poemas y poesía...
+     * [148]Literatura [149]Paranormal: sección de ocultismo, fenómenos
+       extraños, interpretación de sueños...
+     __________________________________________________________________
+
+   Todos los derechos reservados © 1998 - 2024 - ALEGSA - Santa Fe,
+   Argentina. [150]Políticas - [151]Contacto
+
+Références
+
+   Liens visibles :
+   1. https://www.alegsa.com.ar/
+   2. https://www.alegsa.com.ar/Dic/directorio_raiz.php#asistente_snip
+   3. https://www.alegsa.com.ar/Diccionario/diccionario.php
+   4. https://www.alegsa.com.ar/Diccionario/categorias.php
+   5. https://www.alegsa.com.ar/Actualidad/n/index.php
+   6. https://www.alegsa.com.ar/Servicios/horoscopo_de_hoy.php
+   7. https://www.alegsa.com.ar/Servicios/horoscopo_del_amor.php
+   8. https://www.alegsa.com.ar/Fenomenos/index.php
+   9. https://www.alegsa.com.ar/Autores/leandro_alegsa.php
+  10. https://www.alegsa.com.ar/
+  11. https://www.alegsa.com.ar/Autores/leandro_alegsa.php
+  12. https://www.alegsa.com.ar/Dic/directorio_raiz.php#h0
+  13. https://www.alegsa.com.ar/Dic/directorio_raiz.php#h1
+  14. https://www.alegsa.com.ar/Dic/directorio_raiz.php#h2
+  15. https://www.alegsa.com.ar/Dic/directorio_raiz.php#h3
+  16. https://www.alegsa.com.ar/Dic/directorio_raiz.php#h4
+  17. https://www.alegsa.com.ar/Dic/directorio_raiz.php#h5
+  18. https://www.alegsa.com.ar/Dic/directorio_raiz.php#h6
+  19. https://www.alegsa.com.ar/Dic/directorio_raiz.php#h7
+  20. https://www.alegsa.com.ar/Dic/directorio_raiz.php#h8
+  21. https://www.alegsa.com.ar/Dic/directorio_raiz.php#h9
+  22. https://www.alegsa.com.ar/Dic/directorio_raiz.php#asistente_snip
+  23. https://www.alegsa.com.ar/Dic/directorio_raiz.php#redes_snip
+  24. https://www.alegsa.com.ar/index.php
+  25. https://www.alegsa.com.ar/Diccionario/diccionario.php
+  26. https://www.alegsa.com.ar/Diccionario/Cat/51.php
+  27. https://www.alegsa.com.ar/Dic/directorio_raiz.php
+  28. https://www.alegsa.com.ar/Dic/sistema de archivos.php
+  29. https://www.alegsa.com.ar/Dic/directorio.php
+  30. https://www.alegsa.com.ar/Dic/sistema.php
+  31. https://www.alegsa.com.ar/Dic/computadora.php
+  32. https://www.alegsa.com.ar/Dic/navegar.php
+  33. https://www.alegsa.com.ar/Dic/sistema de archivos.php
+  34. https://www.alegsa.com.ar/Dic/fat.php
+  35. https://www.alegsa.com.ar/Dic/region del directorio raiz.php
+  36. https://www.alegsa.com.ar/Dic/region de datos.php
+  37. https://www.alegsa.com.ar/Dic/extension.php
+  38. https://www.alegsa.com.ar/Dic/atributo.php
+  39. https://www.alegsa.com.ar/Dic/cluster.php
+  40. https://www.alegsa.com.ar/Dic/arbol.php
+  41. https://www.alegsa.com.ar/Dic/informacion.php
+  42. https://www.alegsa.com.ar/Dic/windows.php
+  43. https://www.alegsa.com.ar/Dic/linux.php
+  44. https://www.alegsa.com.ar/Dic/unix.php
+  45. https://www.alegsa.com.ar/Servicios/colaboraciones.php
+  46. https://www.alegsa.com.ar/Dic/directorio_raiz.php
+  47. https://www.alegsa.com.ar/Dic/a.htm
+  48. https://www.alegsa.com.ar/Dic/b.htm
+  49. https://www.alegsa.com.ar/Dic/c.htm
+  50. https://www.alegsa.com.ar/Dic/d.htm
+  51. https://www.alegsa.com.ar/Dic/e.htm
+  52. https://www.alegsa.com.ar/Dic/f.htm
+  53. https://www.alegsa.com.ar/Dic/g.htm
+  54. https://www.alegsa.com.ar/Dic/h.htm
+  55. https://www.alegsa.com.ar/Dic/i.htm
+  56. https://www.alegsa.com.ar/Dic/j.htm
+  57. https://www.alegsa.com.ar/Dic/k.htm
+  58. https://www.alegsa.com.ar/Dic/m.htm
+  59. https://www.alegsa.com.ar/Dic/n.htm
+  60. https://www.alegsa.com.ar/Dic/o.htm
+  61. https://www.alegsa.com.ar/Dic/p.htm
+  62. https://www.alegsa.com.ar/Dic/q.htm
+  63. https://www.alegsa.com.ar/Dic/r.htm
+  64. https://www.alegsa.com.ar/Dic/s.htm
+  65. https://www.alegsa.com.ar/Dic/t.htm
+  66. https://www.alegsa.com.ar/Dic/u.htm
+  67. https://www.alegsa.com.ar/Dic/v.htm
+  68. https://www.alegsa.com.ar/Dic/w.htm
+  69. https://www.alegsa.com.ar/Dic/x.htm
+  70. https://www.alegsa.com.ar/Dic/y.htm
+  71. https://www.alegsa.com.ar/Dic/z.htm
+  72. https://www.alegsa.com.ar/Dic/0.htm
+  73. https://www.alegsa.com.ar/Diccionario/Cat/18.php
+  74. https://www.alegsa.com.ar/Diccionario/Cat/31.php
+  75. https://www.alegsa.com.ar/Diccionario/Cat/91.php
+  76. https://www.alegsa.com.ar/Diccionario/Cat/4.php
+  77. https://www.alegsa.com.ar/Diccionario/Cat/25.php
+  78. https://www.alegsa.com.ar/Diccionario/Cat/40.php
+  79. https://www.alegsa.com.ar/Diccionario/Cat/38.php
+  80. https://www.alegsa.com.ar/Diccionario/Cat/89.php
+  81. https://www.alegsa.com.ar/Diccionario/Cat/49.php
+  82. https://www.alegsa.com.ar/Diccionario/categorias.php
+  83. https://www.facebook.com/Alegsa.com.ar
+  84. https://whatsapp.com/channel/0029VadwdY3FHWq9BoBVPy2h
+  85. https://www.instagram.com/Horoscopo_Alegsa
+  86. https://www.facebook.com/horoscopoAlegsa
+  87. https://www.alegsa.com.ar/Diccionario/C/23876.php
+  88. https://www.alegsa.com.ar/Diccionario/C/23876.php
+  89. https://www.alegsa.com.ar/Diccionario/C/13937.php
+  90. https://www.alegsa.com.ar/Diccionario/C/13937.php
+  91. https://www.alegsa.com.ar/Diccionario/C/13597.php
+  92. https://www.alegsa.com.ar/Diccionario/C/13597.php
+  93. https://www.alegsa.com.ar/Diccionario/C/6846.php
+  94. https://www.alegsa.com.ar/Diccionario/C/6846.php
+  95. https://www.alegsa.com.ar/Diccionario/C/2963.php
+  96. https://www.alegsa.com.ar/Diccionario/C/2963.php
+  97. https://www.alegsa.com.ar/Dic/a.htm
+  98. https://www.alegsa.com.ar/Dic/b.htm
+  99. https://www.alegsa.com.ar/Dic/c.htm
+ 100. https://www.alegsa.com.ar/Dic/d.htm
+ 101. https://www.alegsa.com.ar/Dic/e.htm
+ 102. https://www.alegsa.com.ar/Dic/f.htm
+ 103. https://www.alegsa.com.ar/Dic/g.htm
+ 104. https://www.alegsa.com.ar/Dic/h.htm
+ 105. https://www.alegsa.com.ar/Dic/i.htm
+ 106. https://www.alegsa.com.ar/Dic/j.htm
+ 107. https://www.alegsa.com.ar/Dic/k.htm
+ 108. https://www.alegsa.com.ar/Dic/m.htm
+ 109. https://www.alegsa.com.ar/Dic/n.htm
+ 110. https://www.alegsa.com.ar/Dic/o.htm
+ 111. https://www.alegsa.com.ar/Dic/p.htm
+ 112. https://www.alegsa.com.ar/Dic/q.htm
+ 113. https://www.alegsa.com.ar/Dic/r.htm
+ 114. https://www.alegsa.com.ar/Dic/s.htm
+ 115. https://www.alegsa.com.ar/Dic/t.htm
+ 116. https://www.alegsa.com.ar/Dic/u.htm
+ 117. https://www.alegsa.com.ar/Dic/v.htm
+ 118. https://www.alegsa.com.ar/Dic/w.htm
+ 119. https://www.alegsa.com.ar/Dic/x.htm
+ 120. https://www.alegsa.com.ar/Dic/y.htm
+ 121. https://www.alegsa.com.ar/Dic/z.htm
+ 122. https://www.alegsa.com.ar/Dic/0.htm
+ 123. https://www.alegsa.com.ar/Diccionario/Cat/18.php
+ 124. https://www.alegsa.com.ar/Diccionario/Cat/31.php
+ 125. https://www.alegsa.com.ar/Diccionario/Cat/91.php
+ 126. https://www.alegsa.com.ar/Diccionario/Cat/4.php
+ 127. https://www.alegsa.com.ar/Diccionario/Cat/25.php
+ 128. https://www.alegsa.com.ar/Diccionario/Cat/40.php
+ 129. https://www.alegsa.com.ar/Diccionario/Cat/38.php
+ 130. https://www.alegsa.com.ar/Diccionario/Cat/89.php
+ 131. https://www.alegsa.com.ar/Diccionario/Cat/49.php
+ 132. https://www.alegsa.com.ar/Diccionario/categorias.php
+ 133. https://www.facebook.com/Alegsa.com.ar
+ 134. https://www.facebook.com/horoscopoAlegsa
+ 135. https://www.instagram.com/Horoscopo_Alegsa
+ 136. https://twitter.com/HoroscopoAlegsa
+ 137. https://whatsapp.com/channel/0029VadwdY3FHWq9BoBVPy2h
+ 138. https://www.alegsa.com.ar/Diccionario/diccionario.php
+ 139. https://www.alegsa.com.ar/Diccionario/diccionario.php
+ 140. https://www.alegsa.com.ar/Actualidad/n/index.php
+ 141. https://www.alegsa.com.ar/Actualidad/n/index.php
+ 142. https://www.alegsa.com.ar/Notas/Otros/lista_notas.php
+ 143. https://www.alegsa.com.ar/Notas/Otros/lista_notas.php
+ 144. https://www.alegsa.com.ar/Servicios/horoscopo_de_hoy.php
+ 145. https://www.alegsa.com.ar/Servicios/horoscopo_de_hoy.php
+ 146. https://www.alegsa.com.ar/Literatura/index.php
+ 147. https://www.alegsa.com.ar/Literatura/index.php
+ 148. https://www.alegsa.com.ar/Fenomenos/index.php
+ 149. https://www.alegsa.com.ar/Fenomenos/index.php
+ 150. https://www.alegsa.com.ar/Servicios/politicas.php
+ 151. https://www.alegsa.com.ar/Servicios/colaboraciones.php
+
+   Liens cachés :
+ 153. https://www.alegsa.com.ar/Dic/directorio_raiz.php
+ 154. javascript:window.open('https://www.facebook.com/sharer.php?u='+window.document.URL, 'newwindow', 'width=500, height=250')
+ 155. javascript:window.open('https://twitter.com/intent/tweet?url='+window.document.URL, 'newwindow', 'width=500, height=250')
+ 156. https://www.alegsa.com.ar/Dic/directorio_raiz.php
+ 157. javascript:window.open('https://pinterest.com/pin/create/button/?url='+window.document.URL, 'newwindow', 'width=500, height=250')
+ 158. https://www.alegsa.com.ar/Dic/directorio_raiz.php
+ 159. javascript:window.open('https://www.facebook.com/sharer.php?u='+window.document.URL, 'newwindow', 'width=500, height=250')
+ 160. javascript:window.open('https://twitter.com/intent/tweet?url='+window.document.URL, 'newwindow', 'width=500, height=250')
+ 161. https://www.alegsa.com.ar/Dic/directorio_raiz.php
+ 162. javascript:window.open('https://pinterest.com/pin/create/button/?url='+window.document.URL, 'newwindow', 'width=500, height=250')

@@ -1,0 +1,645 @@
+   #[1]alternate [2]Editar [3]Wikipedia (es) [4]Canal Atom de Wikipedia
+
+   [5]Ir al contenido
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Navegación
+     * [6]Portada
+     * [7]Portal de la comunidad
+     * [8]Actualidad
+     * [9]Cambios recientes
+     * [10]Páginas nuevas
+     * [11]Página aleatoria
+     * [12]Ayuda
+     * [13]Notificar un error
+
+   [14]Wikipedia La enciclopedia libre
+   [15]Buscar
+   ____________________
+   (BUTTON) Buscar
+
+   [ ] Apariencia
+
+     * [16]Donaciones
+     * [17]Crear una cuenta
+     * [18]Acceder
+
+   [ ] Herramientas personales
+     * [19]Donaciones
+     * [20]Crear una cuenta
+     * [21]Acceder
+
+   Páginas para editores desconectados [22]más información
+     * [23]Contribuciones
+     * [24]Discusión
+
+Contenidos
+
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+     * [25]Inicio
+     * [26]1 Búsqueda de raíces
+     * [27]2 Raíces simples y múltiples
+     * [28]3 Métodos para buscar raíces
+     * [29]4 Teoremas sobre raíces
+     * [30]5 Referencias
+
+   [ ] Cambiar a la tabla de contenidos
+
+Raíz de una función
+
+   [ ] 48 idiomas
+     * [31]Afrikaans
+     * [32]العربية
+     * [33]Беларуская
+     * [34]Bosanski
+     * [35]Català
+     * [36]کوردی
+     * [37]Čeština
+     * [38]Чӑвашла
+     * [39]Dansk
+     * [40]Deutsch
+     * [41]Ελληνικά
+     * [42]English
+     * [43]Esperanto
+     * [44]فارسی
+     * [45]Suomi
+     * [46]Français
+     * [47]Galego
+     * [48]עברית
+     * [49]हिन्दी
+     * [50]Hrvatski
+     * [51]Magyar
+     * [52]Հայերեն
+     * [53]Bahasa Indonesia
+     * [54]Ido
+     * [55]Íslenska
+     * [56]Italiano
+     * [57]日本語
+     * [58]한국어
+     * [59]Nederlands
+     * [60]Norsk bokmål
+     * [61]Polski
+     * [62]Português
+     * [63]Română
+     * [64]Русский
+     * [65]Srpskohrvatski / српскохрватски
+     * [66]Simple English
+     * [67]Slovenščina
+     * [68]Shqip
+     * [69]Српски / srpski
+     * [70]Svenska
+     * [71]தமிழ்
+     * [72]Tagalog
+     * [73]Türkçe
+     * [74]Українська
+     * [75]اردو
+     * [76]Tiếng Việt
+     * [77]中文
+     * [78]粵語
+
+   [79]Editar enlaces
+
+     * [80]Artículo
+     * [81]Discusión
+
+   [ ] español
+
+     * [82]Leer
+     * [83]Editar
+     * [84]Ver historial
+
+   [ ] Herramientas
+   Herramientas
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Acciones
+     * [85]Leer
+     * [86]Editar
+     * [87]Ver historial
+
+   General
+     * [88]Lo que enlaza aquí
+     * [89]Cambios en enlazadas
+     * [90]Subir archivo
+     * [91]Páginas especiales
+     * [92]Enlace permanente
+     * [93]Información de la página
+     * [94]Citar esta página
+     * [95]Obtener URL acortado
+     * [96]Descargar código QR
+
+   Imprimir/exportar
+     * [97]Crear un libro
+     * [98]Descargar como PDF
+     * [99]Versión para imprimir
+
+   En otros proyectos
+     * [100]Elemento de Wikidata
+
+   Apariencia
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   De Wikipedia, la enciclopedia libre
+
+          Si busca la raíz enésima de un número, vea [101]Función raíz.
+
+   [102][250px-X-intercepts.svg.png] [103]ƒ(x)=cosx en el intervalo
+   [-2π,2π], las intersecciones con el eje x de las [104]coordenadas
+   cartesianas (las raíces) están indicadas en rojo: -3π/2, -π/2, π/2,
+   3π/2.
+
+   En [105]matemática, se conoce como raíz de un [106]polinomio o cero de
+   una [107]función (definida sobre un cierto [108]cuerpo algebraico) f(x)
+   a todo elemento x perteneciente al [109]dominio de dicha función tal
+   que se cumpla:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+     stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+     <mo>=</mo> <mn>0</mn> <mspace width="thinmathspace" /> </mstyle>
+     </mrow> <annotation encoding="application/x-tex">{\displaystyle
+     f(x)=0\,}</annotation> </semantics> :MATH]
+     {\displaystyle f(x)=0\,} .
+
+   Por ejemplo, dada la función:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+     stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+     <mo>=</mo> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+     <mn>2</mn> </mrow> </msup> <mo>−</mo> <mn>6</mn> <mi>x</mi>
+     <mo>+</mo> <mn>8</mn> <mspace width="thinmathspace" /> </mstyle>
+     </mrow> <annotation encoding="application/x-tex">{\displaystyle
+     f(x)=x^{2}-6x+8\,}</annotation> </semantics> :MATH]
+     {\displaystyle f(x)=x^{2}-6x+8\,}
+
+   Planteando y resolviendo la [110]ecuación:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mn>0</mn> <mo>=</mo> <msup>
+     <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+     <mo>−</mo> <mn>6</mn> <mi>x</mi> <mo>+</mo> <mn>8</mn> <mspace
+     width="thinmathspace" /> </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle
+     0=x^{2}-6x+8\,}</annotation> </semantics> :MATH]
+     {\displaystyle 0=x^{2}-6x+8\,}
+
+   Se tiene que 2 y 4 son raíces (ver [111]ecuación de segundo grado) ya
+   que f(2) = 0 y f(4) = 0.
+
+Búsqueda de raíces
+
+   [[112]editar]
+     * Dado el caso de que tanto el [113]dominio como la [114]imagen de la
+       función sean los [115]números reales (denominadas funciones reales)
+       entonces los puntos en los que el gráfico corta al eje de las
+       [116]abscisas es una interpretación gráfica de las raíces de dicha
+       función.
+     * El [117]teorema fundamental del álgebra determina que todo
+       [118]polinomio en una variable [119]compleja y de grado n tiene n
+       raíces (contando sus [120]multiplicidades). Aun así, Las raíces de
+       los polinomios reales no son necesariamente reales; algunas de
+       ellas, o incluso todas, pueden ser complejas.
+     * Una [121]función trascendente como por ejemplo
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>sin</mi> <mo>⁡</mo> <mo
+       stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+       <mspace width="thinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \sin(x)\,}</annotation>
+       </semantics> :MATH]
+       {\displaystyle \sin(x)\,} posee una infinidad de raíces,
+       concretamente cualquier
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo>
+       <mi>n</mi> <mi>π</mi> <mo>,</mo> <mtext> </mtext> <mi>n</mi>
+       <mo>∈</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+       mathvariant="double-struck">Z</mi> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle x_{n}=n\pi
+       ,\ n\in \mathbb {Z} }</annotation> </semantics> :MATH]
+       {\displaystyle x_{n}=n\pi ,\ n\in \mathbb {Z} } es raíz de esa
+       función. En cambio la función
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msup> <mi>e</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>z</mi> </mrow> </msup> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       e^{z}}</annotation> </semantics> :MATH]
+       {\displaystyle e^{z}} no se anula nunca sobre los números
+       complejos.
+     * El número de raíces de una [122]función holomorfa o una
+       [123]función analítica es un [124]conjunto numerable sin
+       [125]puntos de acumulación.
+     * Uno de los problemas no resueltos más interesantes de la matemática
+       moderna es encontrar las raíces de la [126]función zeta de
+       [127]Riemann.
+     * La [128]resolución numérica de ecuaciones no lineales es la
+       utilización de un [129]método numérico para encontrar raíces de una
+       función de manera aproximada.
+
+Raíces simples y múltiples
+
+   [[130]editar]
+
+   Dada una función f que tiene una raíz r entonces se puede escribir
+   dicha función como:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+     stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+     <mo>=</mo> <mo stretchy="false">(</mo> <mi>x</mi> <mo>−</mo>
+     <mi>r</mi> <mo stretchy="false">)</mo> <msub> <mi>f</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+     stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+     <mspace width="thinmathspace" /> </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle
+     f(x)=(x-r)f_{1}(x)\,}</annotation> </semantics> :MATH]
+     {\displaystyle f(x)=(x-r)f_{1}(x)\,}
+
+   Entonces se dice que:
+     * La raíz es simple si
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>f</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+       stretchy="false">(</mo> <mi>r</mi> <mo stretchy="false">)</mo>
+       <mo>≠</mo> <mn>0</mn> <mspace width="thinmathspace" /> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       f_{1}(r)\neq 0\,}</annotation> </semantics> :MATH]
+       {\displaystyle f_{1}(r)\neq 0\,}
+     * La raíz es múltiple si
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>f</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+       stretchy="false">(</mo> <mi>r</mi> <mo stretchy="false">)</mo>
+       <mo>=</mo> <mn>0</mn> <mspace width="thinmathspace" /> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       f_{1}(r)=0\,}</annotation> </semantics> :MATH]
+       {\displaystyle f_{1}(r)=0\,} , en este último caso la raíz se dice
+       de orden n, siendo
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <mi>n</mi> <mo>></mo> <mn>1</mn> <mspace
+       width="thinmathspace" /> </mstyle> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \scriptstyle
+       n>1\,}</annotation> </semantics> :MATH]
+       {\displaystyle \scriptstyle n>1\,} , cuando se puede escribir:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+     stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+     <mo>=</mo> <mo stretchy="false">(</mo> <mi>x</mi> <mo>−</mo>
+     <mi>r</mi> <msup> <mo stretchy="false">)</mo> <mrow
+     class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <msub>
+     <mi>f</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+     <mo stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+     <mo>,</mo> <mspace width="1em" /> <mrow class="MJX-TeXAtom-ORD">
+     <mstyle displaystyle="false" scriptlevel="0"> <mtext>con</mtext>
+     </mstyle> </mrow> <mtext> </mtext> <msub> <mi>f</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+     stretchy="false">(</mo> <mi>r</mi> <mo stretchy="false">)</mo>
+     <mo>≠</mo> <mn>0</mn> <mspace width="thinmathspace" /> </mstyle>
+     </mrow> <annotation encoding="application/x-tex">{\displaystyle
+     f(x)=(x-r)^{n}f_{n}(x),\quad {\mbox{con}}\ f_{n}(r)\neq
+     0\,}</annotation> </semantics> :MATH]
+     {\displaystyle f(x)=(x-r)^{n}f_{n}(x),\quad {\mbox{con}}\
+     f_{n}(r)\neq 0\,}
+
+   Con la definición anterior, pueden existir ceros múltiples de orden no
+   finito. Por ejemplo la función definida como:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+     stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+     <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>{</mo> <mtable
+     columnalign="left left" rowspacing=".2em" columnspacing="1em"
+     displaystyle="false"> <mtr> <mtd> <mi>exp</mi> <mo>⁡</mo> <mo
+     stretchy="false">(</mo> <mo>−</mo> <mn>1</mn> <mrow
+     class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <msup> <mi>x</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+     stretchy="false">)</mo> </mtd> <mtd> <mi>x</mi> <mo>></mo>
+     <mn>0</mn> </mtd> </mtr> <mtr> <mtd> <mn>0</mn> </mtd> <mtd>
+     <mi>x</mi> <mo>=</mo> <mn>0</mn> </mtd> </mtr> </mtable> <mo
+     fence="true" stretchy="true" symmetric="true"></mo> </mrow> </mrow>
+     </mstyle> </mrow> <annotation
+     encoding="application/x-tex">{\displaystyle
+     f(x)={\begin{cases}\exp(-1/x^{2})&x>0\\0&x=0\end{cases}}}</annotatio
+     n> </semantics> :MATH]
+     {\displaystyle
+     f(x)={\begin{cases}\exp(-1/x^{2})&x>0\\0&x=0\end{cases}}}
+
+   Tiene un cero múltiple en x=0, ya que:
+
+     [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+     stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+     <mo>=</mo> <mo stretchy="false">(</mo> <mi>x</mi> <mo>−</mo>
+     <mn>0</mn> <mo stretchy="false">)</mo> <msub> <mi>f</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+     stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+     <mspace width="2em" /> <msub> <mi>f</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo
+     stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+     <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>{</mo> <mtable
+     columnalign="left left" rowspacing=".2em" columnspacing="1em"
+     displaystyle="false"> <mtr> <mtd> <mrow class="MJX-TeXAtom-ORD">
+     <mfrac> <mrow> <mpadded width="0" height="8.6pt" depth="3pt"> <mrow
+     /> </mpadded> <mstyle displaystyle="false" scriptlevel="0"> <mrow
+     class="MJX-TeXAtom-ORD"> <mi>exp</mi> <mo>⁡</mo> <mo
+     stretchy="false">(</mo> <mo>−</mo> <mn>1</mn> <mrow
+     class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <msup> <mi>x</mi> <mrow
+     class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo
+     stretchy="false">)</mo> </mrow> </mstyle> </mrow> <mrow> <mpadded
+     width="0" height="8.6pt" depth="3pt"> <mrow /> </mpadded> <mstyle
+     displaystyle="false" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+     <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+     </msup> </mrow> </mstyle> </mrow> </mfrac> </mrow> </mtd> <mtd>
+     <mi>x</mi> <mo>></mo> <mn>0</mn> </mtd> </mtr> <mtr> <mtd>
+     <mn>0</mn> </mtd> <mtd> <mi>x</mi> <mo>=</mo> <mn>0</mn> </mtd>
+     </mtr> </mtable> <mo fence="true" stretchy="true"
+     symmetric="true"></mo> </mrow> </mrow> <mo>,</mo> <mtext> </mtext>
+     <mi>n</mi> <mo>∈</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+     mathvariant="double-struck">N</mi> </mrow> </mstyle> </mrow>
+     <annotation encoding="application/x-tex">{\displaystyle
+     f(x)=(x-0)f_{1}(x)\qquad f_{1}(x)={\begin{cases}{\cfrac
+     {\exp(-1/x^{2})}{x^{n}}}&x>0\\0&x=0\end{cases}},\ n\in \mathbb {N}
+     }</annotation> </semantics> :MATH]
+     {\displaystyle f(x)=(x-0)f_{1}(x)\qquad
+     f_{1}(x)={\begin{cases}{\cfrac
+     {\exp(-1/x^{2})}{x^{n}}}&x>0\\0&x=0\end{cases}},\ n\in \mathbb {N} }
+
+   Como n puede tomarse tan grande como se quiera en la expresión
+   anterior, se sigue que esa función no tiene un cero de orden finito.
+
+Métodos para buscar raíces
+
+   [[131]editar]
+     * [132]Método de Newton-Raphson
+     * [133]Método de la secante
+     * [134]Método de bisección del intervalo
+     * [135]Regula falsi
+
+Teoremas sobre raíces
+
+   [[136]editar]
+
+   Dada una función real o compleja el número de raíces es siempre
+   numerable, pudiendo ser cero, número finito o un número infinito
+   numerable.
+     * El [137]teorema fundamental del álgebra afirma que cualquier
+       polinomio de grado n sobre
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+       scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mi
+       mathvariant="double-struck">C</mi> </mrow> <mspace
+       width="thinmathspace" /> </mstyle> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \scriptstyle \mathbb
+       {C} \,}</annotation> </semantics> :MATH]
+       {\displaystyle \scriptstyle \mathbb {C} \,} tiene a lo sumo n
+       raíces diferentes, y si se cuenta la multiplicidad de cada raíz
+       entonces puede afirmarse que existen exactamente n raíces.
+     * La función
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo>:</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">C</mi>
+       </mrow> <mo stretchy="false">→</mo> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="double-struck">C</mi> </mrow> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle f:\mathbb
+       {C} \to \mathbb {C} }</annotation> </semantics> :MATH]
+       {\displaystyle f:\mathbb {C} \to \mathbb {C} } dada por
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+       stretchy="false">(</mo> <mi>z</mi> <mo stretchy="false">)</mo>
+       <mo>=</mo> <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mi>z</mi> </mrow> </msup> <mspace width="thinmathspace" />
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle
+       f(z)=e^{z}\,}</annotation> </semantics> :MATH]
+       {\displaystyle f(z)=e^{z}\,} no tienen ninguna raíz ya que no se
+       anula nunca.
+     * Las funciones reales
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>sin</mi> <mo>⁡</mo> <mo
+       stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+       <mspace width="thinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \sin(x)\,}</annotation>
+       </semantics> :MATH]
+       {\displaystyle \sin(x)\,} y
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>cos</mi> <mo>⁡</mo> <mo
+       stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+       <mspace width="thinmathspace" /> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \cos(x)\,}</annotation>
+       </semantics> :MATH]
+       {\displaystyle \cos(x)\,} tienen un número infinito numerable de
+       raíces.
+
+Referencias
+
+   [[138]editar]
+
+   [139]Weisstein, Eric W. [140]«Raíz». En Weisstein, Eric W, ed.
+   [141]MathWorld (en inglés). [142]Wolfram Research.
+
+   [143]Control de autoridades
+     * Proyectos Wikimedia
+     * [144]Wd Datos: [145]Q214604
+
+     * [146]Wd Datos: [147]Q214604
+
+   Obtenido de
+   «[148]https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&ol
+   did=158615499»
+   [149]Categorías:
+     * [150]Funciones
+     * [151]Matemática elemental
+     * [152]Raíces
+     * [153]Cero
+
+     * Esta página se editó por última vez el 5 mar 2024 a las 06:52.
+     * El texto está disponible bajo la [154]Licencia Creative Commons
+       Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas
+       adicionales. Al usar este sitio aceptas nuestros [155]términos de
+       uso y nuestra [156]política de privacidad.
+       Wikipedia® es una marca registrada de la [157]Fundación Wikimedia,
+       una organización sin ánimo de lucro.
+
+     * [158]Política de privacidad
+     * [159]Acerca de Wikipedia
+     * [160]Limitación de responsabilidad
+     * [161]Código de conducta
+     * [162]Desarrolladores
+     * [163]Estadísticas
+     * [164]Declaración de cookies
+     * [165]Versión para móviles
+
+     * [166]Wikimedia Foundation
+     * [167]Powered by MediaWiki
+
+Références
+
+   1. https://es.m.wikipedia.org/wiki/Raíz_de_una_función
+   2. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&action=edit
+   3. https://es.wikipedia.org/w/rest.php/v1/search
+   4. https://es.wikipedia.org/w/index.php?title=Especial:CambiosRecientes&feed=atom
+   5. https://es.wikipedia.org/wiki/Raíz_de_una_función#bodyContent
+   6. https://es.wikipedia.org/wiki/Wikipedia:Portada
+   7. https://es.wikipedia.org/wiki/Portal:Comunidad
+   8. https://es.wikipedia.org/wiki/Portal:Actualidad
+   9. https://es.wikipedia.org/wiki/Especial:CambiosRecientes
+  10. https://es.wikipedia.org/wiki/Especial:PáginasNuevas
+  11. https://es.wikipedia.org/wiki/Especial:Aleatoria
+  12. https://es.wikipedia.org/wiki/Ayuda:Contenidos
+  13. https://es.wikipedia.org/wiki/Wikipedia:Informes_de_error
+  14. https://es.wikipedia.org/wiki/Wikipedia:Portada
+  15. https://es.wikipedia.org/wiki/Especial:Buscar
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wikipedia.org&uselang=es
+  17. https://es.wikipedia.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=Raíz+de+una+función
+  18. https://es.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Raíz+de+una+función
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wikipedia.org&uselang=es
+  20. https://es.wikipedia.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=Raíz+de+una+función
+  21. https://es.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Raíz+de+una+función
+  22. https://es.wikipedia.org/wiki/Ayuda:Introducción
+  23. https://es.wikipedia.org/wiki/Especial:MisContribuciones
+  24. https://es.wikipedia.org/wiki/Especial:MiDiscusión
+  25. https://es.wikipedia.org/wiki/Raíz_de_una_función
+  26. https://es.wikipedia.org/wiki/Raíz_de_una_función#Búsqueda_de_raíces
+  27. https://es.wikipedia.org/wiki/Raíz_de_una_función#Raíces_simples_y_múltiples
+  28. https://es.wikipedia.org/wiki/Raíz_de_una_función#Métodos_para_buscar_raíces
+  29. https://es.wikipedia.org/wiki/Raíz_de_una_función#Teoremas_sobre_raíces
+  30. https://es.wikipedia.org/wiki/Raíz_de_una_función#Referencias
+  31. https://af.wikipedia.org/wiki/Wortel_(wiskunde)
+  32. https://ar.wikipedia.org/wiki/جذر_دالة
+  33. https://be.wikipedia.org/wiki/Нуль_функцыі
+  34. https://bs.wikipedia.org/wiki/Korijen_(matematika)
+  35. https://ca.wikipedia.org/wiki/Arrel_d'una_funció
+  36. https://ckb.wikipedia.org/wiki/ڕەگی_فانکشن
+  37. https://cs.wikipedia.org/wiki/Kořen_(matematika)
+  38. https://cv.wikipedia.org/wiki/Функцин_нулĕ
+  39. https://da.wikipedia.org/wiki/Rod_(matematik)
+  40. https://de.wikipedia.org/wiki/Nullstelle
+  41. https://el.wikipedia.org/wiki/Ρίζα_(μαθηματικά)
+  42. https://en.wikipedia.org/wiki/Zero_of_a_function
+  43. https://eo.wikipedia.org/wiki/Radiko_(matematiko)
+  44. https://fa.wikipedia.org/wiki/ریشه_تابع
+  45. https://fi.wikipedia.org/wiki/Nollakohta
+  46. https://fr.wikipedia.org/wiki/Zéro_d'une_fonction
+  47. https://gl.wikipedia.org/wiki/Raíz_dunha_función
+  48. https://he.wikipedia.org/wiki/שורש_(של_פונקציה)
+  49. https://hi.wikipedia.org/wiki/मूल_(फलन_के)
+  50. https://hr.wikipedia.org/wiki/Nultočka
+  51. https://hu.wikipedia.org/wiki/Zérushely
+  52. https://hy.wikipedia.org/wiki/Ֆունկցիայի_զրո
+  53. https://id.wikipedia.org/wiki/Akar_fungsi
+  54. https://io.wikipedia.org/wiki/Zero_di_funciono
+  55. https://is.wikipedia.org/wiki/Núllstöð
+  56. https://it.wikipedia.org/wiki/Radice_(matematica)
+  57. https://ja.wikipedia.org/wiki/関数の零点
+  58. https://ko.wikipedia.org/wiki/근_(수학)
+  59. https://nl.wikipedia.org/wiki/Nulpunt_(wiskunde)
+  60. https://no.wikipedia.org/wiki/Rot_til_en_ligning
+  61. https://pl.wikipedia.org/wiki/Miejsce_zerowe
+  62. https://pt.wikipedia.org/wiki/Raiz_(matemática)
+  63. https://ro.wikipedia.org/wiki/Zero_al_unei_funcții
+  64. https://ru.wikipedia.org/wiki/Нуль_функции
+  65. https://sh.wikipedia.org/wiki/Korijen_(matematika)
+  66. https://simple.wikipedia.org/wiki/X-intercept
+  67. https://sl.wikipedia.org/wiki/Ničla_funkcije
+  68. https://sq.wikipedia.org/wiki/Zero_e_një_funksioni
+  69. https://sr.wikipedia.org/wiki/Нула_функције
+  70. https://sv.wikipedia.org/wiki/Rot_(till_ekvation)
+  71. https://ta.wikipedia.org/wiki/சார்பின்_மூலம்
+  72. https://tl.wikipedia.org/wiki/Sero_ng_punsiyon
+  73. https://tr.wikipedia.org/wiki/Kök_(matematik)
+  74. https://uk.wikipedia.org/wiki/Нуль_функції
+  75. https://ur.wikipedia.org/wiki/دالہ_کے_جذر
+  76. https://vi.wikipedia.org/wiki/Không_điểm_của_hàm_số
+  77. https://zh.wikipedia.org/wiki/根_(数学)
+  78. https://zh-yue.wikipedia.org/wiki/根_(函數)
+  79. https://www.wikidata.org/wiki/Special:EntityPage/Q214604#sitelinks-wikipedia
+  80. https://es.wikipedia.org/wiki/Raíz_de_una_función
+  81. https://es.wikipedia.org/w/index.php?title=Discusión:Raíz_de_una_función&action=edit&redlink=1
+  82. https://es.wikipedia.org/wiki/Raíz_de_una_función
+  83. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&action=edit
+  84. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&action=history
+  85. https://es.wikipedia.org/wiki/Raíz_de_una_función
+  86. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&action=edit
+  87. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&action=history
+  88. https://es.wikipedia.org/wiki/Especial:LoQueEnlazaAquí/Raíz_de_una_función
+  89. https://es.wikipedia.org/wiki/Especial:CambiosEnEnlazadas/Raíz_de_una_función
+  90. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es
+  91. https://es.wikipedia.org/wiki/Especial:PáginasEspeciales
+  92. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&oldid=158615499
+  93. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&action=info
+  94. https://es.wikipedia.org/w/index.php?title=Especial:Citar&page=Raíz_de_una_función&id=158615499&wpFormIdentifier=titleform
+  95. https://es.wikipedia.org/w/index.php?title=Especial:Acortador_de_URL&url=https://es.wikipedia.org/wiki/Ra%C3%ADz_de_una_funci%C3%B3n
+  96. https://es.wikipedia.org/w/index.php?title=Especial:QrCode&url=https://es.wikipedia.org/wiki/Ra%C3%ADz_de_una_funci%C3%B3n
+  97. https://es.wikipedia.org/w/index.php?title=Especial:Libro&bookcmd=book_creator&referer=Raíz+de+una+función
+  98. https://es.wikipedia.org/w/index.php?title=Especial:DownloadAsPdf&page=Raíz_de_una_función&action=show-download-screen
+  99. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&printable=yes
+ 100. https://www.wikidata.org/wiki/Special:EntityPage/Q214604
+ 101. https://es.wikipedia.org/wiki/Función_raíz
+ 102. https://es.wikipedia.org/wiki/Archivo:X-intercepts.svg
+ 103. https://es.wikipedia.org/wiki/Coseno
+ 104. https://es.wikipedia.org/wiki/Coordenadas_cartesianas
+ 105. https://es.wikipedia.org/wiki/Matemática
+ 106. https://es.wikipedia.org/wiki/Polinomio
+ 107. https://es.wikipedia.org/wiki/Función_(matemática)
+ 108. https://es.wikipedia.org/wiki/Cuerpo_(matemática)
+ 109. https://es.wikipedia.org/wiki/Dominio_de_definición
+ 110. https://es.wikipedia.org/wiki/Ecuación
+ 111. https://es.wikipedia.org/wiki/Ecuación_de_segundo_grado
+ 112. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&action=edit&section=1
+ 113. https://es.wikipedia.org/wiki/Dominio_de_definición
+ 114. https://es.wikipedia.org/wiki/Conjunto_imagen
+ 115. https://es.wikipedia.org/wiki/Números_reales
+ 116. https://es.wikipedia.org/wiki/Abscisas
+ 117. https://es.wikipedia.org/wiki/Teorema_fundamental_del_álgebra
+ 118. https://es.wikipedia.org/wiki/Polinomio
+ 119. https://es.wikipedia.org/wiki/Número_complejo
+ 120. https://es.wikipedia.org/wiki/Multiplicidad
+ 121. https://es.wikipedia.org/wiki/Función_trascendente
+ 122. https://es.wikipedia.org/wiki/Función_holomorfa
+ 123. https://es.wikipedia.org/wiki/Función_analítica
+ 124. https://es.wikipedia.org/wiki/Conjunto_numerable
+ 125. https://es.wikipedia.org/wiki/Punto_de_acumulación
+ 126. https://es.wikipedia.org/wiki/Función_zeta_de_Riemann
+ 127. https://es.wikipedia.org/wiki/Riemann
+ 128. https://es.wikipedia.org/wiki/Resolución_numérica_de_ecuaciones_no_lineales
+ 129. https://es.wikipedia.org/wiki/Método_numérico
+ 130. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&action=edit&section=2
+ 131. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&action=edit&section=3
+ 132. https://es.wikipedia.org/wiki/Método_de_Newton-Raphson
+ 133. https://es.wikipedia.org/wiki/Método_de_la_secante
+ 134. https://es.wikipedia.org/wiki/Método_de_bisección_del_intervalo
+ 135. https://es.wikipedia.org/wiki/Método_de_la_regla_falsa
+ 136. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&action=edit&section=4
+ 137. https://es.wikipedia.org/wiki/Teorema_fundamental_del_álgebra
+ 138. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&action=edit&section=5
+ 139. https://es.wikipedia.org/wiki/Eric_W._Weisstein
+ 140. http://mathworld.wolfram.com/Root.html
+ 141. https://es.wikipedia.org/wiki/MathWorld
+ 142. https://es.wikipedia.org/wiki/Wolfram_Research
+ 143. https://es.wikipedia.org/wiki/Control_de_autoridades
+ 144. https://es.wikipedia.org/wiki/Wikidata
+ 145. https://www.wikidata.org/wiki/Q214604
+ 146. https://es.wikipedia.org/wiki/Wikidata
+ 147. https://www.wikidata.org/wiki/Q214604
+ 148. https://es.wikipedia.org/w/index.php?title=Raíz_de_una_función&oldid=158615499
+ 149. https://es.wikipedia.org/wiki/Especial:Categorías
+ 150. https://es.wikipedia.org/wiki/Categoría:Funciones
+ 151. https://es.wikipedia.org/wiki/Categoría:Matemática_elemental
+ 152. https://es.wikipedia.org/wiki/Categoría:Raíces
+ 153. https://es.wikipedia.org/wiki/Categoría:Cero
+ 154. https://es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribución-CompartirIgual_4.0_Internacional
+ 155. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es
+ 156. https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es
+ 157. https://wikimediafoundation.org/es/
+ 158. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es
+ 159. https://es.wikipedia.org/wiki/Wikipedia:Acerca_de
+ 160. https://es.wikipedia.org/wiki/Wikipedia:Limitación_general_de_responsabilidad
+ 161. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 162. https://developer.wikimedia.org/
+ 163. https://stats.wikimedia.org/#/es.wikipedia.org
+ 164. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es
+ 165. https://es.m.wikipedia.org/w/index.php?title=Raíz_de_una_función&mobileaction=toggle_view_mobile
+ 166. https://wikimediafoundation.org/
+ 167. https://www.mediawiki.org/

@@ -1,0 +1,1191 @@
+   #[1]alternate [2]Editar [3]Wikipedia (es) [4]Canal Atom de Wikipedia
+
+   [5]Ir al contenido
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Navegación
+     * [6]Portada
+     * [7]Portal de la comunidad
+     * [8]Actualidad
+     * [9]Cambios recientes
+     * [10]Páginas nuevas
+     * [11]Página aleatoria
+     * [12]Ayuda
+     * [13]Notificar un error
+
+   [14]Wikipedia La enciclopedia libre
+   [15]Buscar
+   ____________________
+   (BUTTON) Buscar
+
+   [ ] Apariencia
+
+     * [16]Donaciones
+     * [17]Crear una cuenta
+     * [18]Acceder
+
+   [ ] Herramientas personales
+     * [19]Donaciones
+     * [20]Crear una cuenta
+     * [21]Acceder
+
+   Páginas para editores desconectados [22]más información
+     * [23]Contribuciones
+     * [24]Discusión
+
+Contenidos
+
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+     * [25]Inicio
+     * [26]1 Funciones de la raíz
+     * [27]2 Partes de la raíz
+       (BUTTON) Alternar subsección Partes de la raíz
+          + [28]2.1 Meristemo apical
+          + [29]2.2 Epidermis
+          + [30]2.3 Córtex
+     * [31]3 Endodermis
+       (BUTTON) Alternar subsección Endodermis
+          + [32]3.1 Cilindro vascular
+     * [33]4 Crecimiento
+       (BUTTON) Alternar subsección Crecimiento
+          + [34]4.1 Regulación
+     * [35]5 Véase también
+     * [36]6 Referencias
+     * [37]7 Bibliografía
+     * [38]8 Enlaces externos
+
+   [ ] Cambiar a la tabla de contenidos
+
+Raíz (botánica)
+
+   [ ] 126 idiomas
+     * [39]Afrikaans
+     * [40]Pangcah
+     * [41]Aragonés
+     * [42]العربية
+     * [43]Asturianu
+     * [44]Atikamekw
+     * [45]Aymar aru
+     * [46]Azərbaycanca
+     * [47]تۆرکجه
+     * [48]Boarisch
+     * [49]Žemaitėška
+     * [50]Bikol Central
+     * [51]Bajau Sama
+     * [52]Беларуская
+     * [53]Беларуская (тарашкевіца)
+     * [54]Български
+     * [55]বাংলা
+     * [56]བོད་ཡིག
+     * [57]Bosanski
+     * [58]Català
+     * [59]閩東語 / Mìng-dĕ̤ng-ngṳ̄
+     * [60]ᏣᎳᎩ
+     * [61]Čeština
+     * [62]Чӑвашла
+     * [63]Dansk
+     * [64]Deutsch
+     * [65]Dolnoserbski
+     * [66]Ελληνικά
+     * [67]English
+     * [68]Esperanto
+     * [69]Eesti
+     * [70]Euskara
+     * [71]فارسی
+     * [72]Suomi
+     * [73]Français
+     * [74]Frysk
+     * [75]Gaeilge
+     * [76]Gàidhlig
+     * [77]Galego
+     * [78]Avañe'ẽ
+     * [79]Gaelg
+     * [80]Hausa
+     * [81]עברית
+     * [82]हिन्दी
+     * [83]Hrvatski
+     * [84]Hornjoserbsce
+     * [85]Kreyòl ayisyen
+     * [86]Magyar
+     * [87]Հայերեն
+     * [88]Bahasa Indonesia
+     * [89]Iñupiatun
+     * [90]Ido
+     * [91]Íslenska
+     * [92]Italiano
+     * [93]日本語
+     * [94]Jawa
+     * [95]ქართული
+     * [96]Tyap
+     * [97]Қазақша
+     * [98]ಕನ್ನಡ
+     * [99]한국어
+     * [100]Kurdî
+     * [101]Кыргызча
+     * [102]Latina
+     * [103]Limburgs
+     * [104]Lingála
+     * [105]Lietuvių
+     * [106]Latviešu
+     * [107]Malagasy
+     * [108]Олык марий
+     * [109]Македонски
+     * [110]മലയാളം
+     * [111]Монгол
+     * [112]Bahasa Melayu
+     * [113]မြန်မာဘာသာ
+     * [114]Nāhuatl
+     * [115]Napulitano
+     * [116]Plattdüütsch
+     * [117]नेपाली
+     * [118]नेपाल भाषा
+     * [119]Nederlands
+     * [120]Norsk nynorsk
+     * [121]Norsk bokmål
+     * [122]Nouormand
+     * [123]Occitan
+     * [124]Oromoo
+     * [125]Ирон
+     * [126]ਪੰਜਾਬੀ
+     * [127]Polski
+     * [128]پنجابی
+     * [129]Português
+     * [130]Runa Simi
+     * [131]Română
+     * [132]Armãneashti
+     * [133]Русский
+     * [134]Srpskohrvatski / српскохрватски
+     * [135]Taclḥit
+     * [136]Simple English
+     * [137]Slovenčina
+     * [138]Slovenščina
+     * [139]Soomaaliga
+     * [140]Shqip
+     * [141]Српски / srpski
+     * [142]Sunda
+     * [143]Svenska
+     * [144]Kiswahili
+     * [145]Sakizaya
+     * [146]தமிழ்
+     * [147]తెలుగు
+     * [148]Тоҷикӣ
+     * [149]ไทย
+     * [150]Tagalog
+     * [151]Türkçe
+     * [152]ئۇيغۇرچە / Uyghurche
+     * [153]Українська
+     * [154]اردو
+     * [155]Oʻzbekcha / ўзбекча
+     * [156]Vèneto
+     * [157]Tiếng Việt
+     * [158]Walon
+     * [159]Winaray
+     * [160]吴语
+     * [161]ייִדיש
+     * [162]Vahcuengh
+     * [163]中文
+     * [164]粵語
+
+   [165]Editar enlaces
+
+     * [166]Artículo
+     * [167]Discusión
+
+   [ ] español
+
+     * [168]Leer
+     * [169]Editar
+     * [170]Ver historial
+
+   [ ] Herramientas
+   Herramientas
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Acciones
+     * [171]Leer
+     * [172]Editar
+     * [173]Ver historial
+
+   General
+     * [174]Lo que enlaza aquí
+     * [175]Cambios en enlazadas
+     * [176]Subir archivo
+     * [177]Páginas especiales
+     * [178]Enlace permanente
+     * [179]Información de la página
+     * [180]Citar esta página
+     * [181]Obtener URL acortado
+     * [182]Descargar código QR
+
+   Imprimir/exportar
+     * [183]Crear un libro
+     * [184]Descargar como PDF
+     * [185]Versión para imprimir
+
+   En otros proyectos
+     * [186]Wikimedia Commons
+     * [187]Wikiquote
+     * [188]Elemento de Wikidata
+
+   Apariencia
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   De Wikipedia, la enciclopedia libre
+   [189][175px-Roots_by_cesarpb.jpg] Raíces de un [190]árbol de
+   [191]mangle ([192]Rhizophora), [193]Pará, [194]Brasil.
+   [195][220px-Roots_of_a_hydroponically-grown_plant.jpg] Raíces de una
+   planta crecida en un sistema [196]hidropónico
+
+   La raíz es el primer órgano embrionario que se desarrolla durante la
+   [197]germinación de la [198]semilla. Se distingue primero con una
+   porción poco diferenciada, que constituye la [199]radícula. Esta, al
+   desarrollarse, llega a constituir la raíz primaria, con su tejido de
+   protección en la punta denominado cofia o [200]caliptra. La raíz, como
+   órgano de las plantas vasculares (con excepción de las
+   [201]Psilofitas), generalmente crece hacia el interior del suelo por
+   presentar [202]Geotropismo positivo y [203]Fototropismo negativo. La
+   raíz en conjunto con el tallo constituyen el eje principal de las
+   plantas. Entre ellos no existe una separación clara, ya que ambos
+   tienen un cilindro de tejido vascular incluido en el tejido
+   fundamental. Sin embargo, la estructura de la raíz tiende a ser más
+   simple que la del tallo debido a su hábitat subterráneo. Las
+   características que la diferencian del tallo son la ausencia de
+   clorofila, yemas, nudos, entre otros, pero hay excepciones, como las
+   raíces adventicias del [204]maíz, que sí llegan a formar pequeñas
+   cantidades de [205]clorofila, y raíces que poseen yemas adventicias,
+   como las del [206]camote, el [207]manzano y algunos
+   [208]rosales.^[209][1]​
+
+   Sus funciones principales son la de absorción de agua y sales minerales
+   del suelo por medio de los pelos absorbentes, hasta la raíz donde son
+   conducidos (savia bruta) hacia el tallo y hojas donde se transforman en
+   compuestos orgánicos durante la fotosíntesis.^[210][2]​ Además las
+   raíces fijan las plantas al suelo por medio de resistencia al doblez.
+   Las raíces de muchas especies vegetales pueden realizar funciones de
+   almacén de reservas alimenticias, por ejemplo: [211]camote,
+   [212]jícama, [213]remolacha, [214]mandioca y muchas otras, las cuales
+   se aprovechan para la alimentación humana.^[215][3]​
+
+   Las raíces pueden ser primarias, secundarias y adventicias. Existen
+   algunas excepciones dado que algunas raíces pueden ser epigeas (que se
+   encuentran sobre el suelo) o aéreas (que están muy por encima del suelo
+   o encima del agua). También existen excepciones con el tallo, dado que
+   en algunas plantas los tallos crecen debajo del suelo. Esos tallos son
+   llamados [216]rizoma.
+
+Funciones de la raíz
+
+   [[217]editar]
+     * Anclaje. Es el caso de plantas que crecen en el [218]suelo, según
+       la granulometría del sustrato, la raíz se desarrolla y se ramifica
+       más o menos. El aspecto de las raíces cambia de una planta a otra:
+       una [219]encina tiene las raíces desarrolladas en profundidad,
+       mientras que un [220]álamo las desarrolla superficialmente. En el
+       caso de las [221]Tillandsias, las raíces están especializadas para
+       cumplir solo la función de anclaje.
+     * La absorción del agua y de los nutrientes del suelo, y su
+       transporte al resto de la planta para su crecimiento y a las hojas
+       para la [222]fotosíntesis. El transporte se realiza por la
+       [223]presión en la raíz debida a la absorción del agua.
+     * Acumulación de reservas
+     * Soporte de asociaciones simbióticas complejas con los
+       [224]microorganismos ([225]bacterias y [226]hongos) que ayudan a la
+       disolución del [227]fósforo, a la fijación del [228]nitrógeno
+       atmosférico y al desarrollo de las raíces secundarias.
+     * Creación de suelo. Las [229]moléculas y [230]enzimas segregadas por
+       las raíces y sus relaciones simbióticas contribuyen a la formación
+       de suelo. Las raíces de numerosos [231]árboles segregan [232]ácidos
+       orgánicos bastante potentes para [233]disolver piedras [234]calizas
+       y liberar el [235]calcio y otros [236]minerales útiles para las
+       especies que producen y explotan el [237]humus.
+     * Comunicación. Ciertas especies de árboles pueden unir sus raíces a
+       las de árboles de la misma especie y así poner en común los
+       recursos hídricos y nutritivos. Esta unión puede ayudar a un árbol
+       gravemente herido a sobrevivir y a resistir mejor la [238]erosión
+       de los suelos, pendientes y ribazos. Cuando la conexión no es
+       directamente física, las comunicaciones pueden existir por medio
+       del tejido micorrizado. Se ha descubierto que hileras de árboles,
+       bosquetes y partes importantes de bosques pueden estar unidos, lo
+       que hace suponer que se trata de una ventaja evolutiva importante.
+
+Partes de la raíz
+
+   [[239]editar]
+   [240][200px-Meristemo_apical_2.jpg] Corte longitudinal del ápice de la
+   raíz de cebolla observado con microscopio óptico.
+
+Meristemo apical
+
+   [[241]editar]
+
+   En la punta de cada raíz en crecimiento hay una cobertura cónica
+   llamada [242]meristemo apical. Usualmente no es visible a simple vista
+   y consiste en tejido blando no diferenciado. La caliptra recubre,
+   protegiéndolo, al tejido meristemático o de crecimiento, por cuya
+   proliferación por mitosis se originan las células que, tras su
+   diferenciación, forman la estructura adulta de la raíz. Detrás del
+   meristemo se encuentran: parénquima, tejidos vasculares y, en aquellas
+   raíces que se deben engrosar en años sucesivos, meristemos remanentes,
+   responsables del crecimiento secundario.
+
+   El meristemo apical provee de protección mecánica a las células
+   meristemáticas cuando la raíz crece a través del suelo. Estas células
+   son destruidas por el crecimiento de la raíz y la fricción con el
+   suelo, pero son rápidamente reemplazadas por células nuevas generadas
+   por división celular en la cara externa del meristemo de la raíz. La
+   caliptra también está implicada en la producción de [243]mucílago, que
+   es una substancia gelatinosa que cubre a las células meristemáticas
+   recién formadas. Estas células contienen [244]estatolitos, que son
+   granos de almidón que se hallan dentro de la célula y son muy densos,
+   por lo que se mueven en respuesta a la fuerza de la [245]gravedad,
+   proporcionando a la raíz la información necesaria para su crecimiento.
+
+Epidermis
+
+   [[246]editar]
+   [247][220px-Racine4.jpg] Corte longitudinal de una raíz : principales
+   [248]tejidos.
+
+   La superficie externa de la raíz es llamada epidermis. Células
+   epidermales nuevas absorben agua del medio ambiente circundante y
+   producen unos vellos o [249]pelos radiculares los cuales incrementan el
+   área de absorción de agua de la célula epidermal. Los pelos radiculares
+   son muy delicados y generalmente tienen una vida corta de algunos días.
+   Cuando la raíz crece produce nuevos pelos radiculares para reemplazar a
+   los que van muriendo. El proceso que las plantas utilizan para absorber
+   agua del suelo se llama [250]ósmosis. Este proceso utiliza la mayor
+   concentración de sal dentro de la raíz comparada con el contenido de
+   sal del suelo para atraer agua hacia la raíz. Por esta razón las
+   plantas tienen mucha dificultad para absorber agua [251]salina.
+
+Córtex
+
+   [[252]editar]
+
+   Bajo la epidermis encontramos al [253]córtex que comprende a la mayor
+   parte de la raíz. La función principal del córtex es la de almacenar
+   [254]almidón. Los espacios intercelulares en el córtex permiten el
+   aireamiento de las células, lo cual es muy importante para la
+   [255]respiración.
+
+Endodermis
+
+   [[256]editar]
+   [257][220px-Tertiary_Endodermis_Iris_florentina.png] 1.Célula de paso
+   (Endodermis), 2.Célula del parénquima cortical (Córtex), 3.Células con
+   engrosamiento en forma de U (Endodermis), 4.Células del periciclo,
+   5.Células del floema, 6.Elemento de vaso del xilema
+
+   La [258]endodermis es una capa delgada formada por células pequeñas y
+   se encuentra en la parte más interior del córtex, alrededor del tejido
+   vascular. Las células que conforman la endodermis contienen una
+   substancia llamada [259]suberina la cual sirve para crear una especie
+   de barrera impermeable, esta barrera se conoce como [260]banda de
+   caspari, la suberina se dispone transversalmente en la capa de células
+   que forman la banda, en la parte exterior y [261]vía apoplasto queda
+   delimitado el espacio libre de la raíz. El agua solamente puede fluir
+   en una dirección a través de la endodermis: hacia adentro o en otras
+   palabras hacia el centro de la raíz.
+
+Cilindro vascular
+
+   [[262]editar]
+
+   El [263]cilindro vascular o estela (llamado stele en inglés) comprende
+   todo lo que se encuentra dentro de la [264]endodermis. La parte externa
+   es llamada también [265]periciclo y rodea al auténtico cilindro
+   vascular. En plantas [266]monocotiledóneas el [267]xilema y el
+   [268]floema están distribuidos al azar alrededor del centro del
+   [269]cilindro vascular. En [270]Eudicotiledóneas las células de xilema
+   están juntas formando una sola estructura.
+
+Crecimiento
+
+   [[271]editar]
+   [272][220px-Root_of_a_Tree.JPG] Raíces de árboles.
+
+   El crecimiento temprano de la raíz es una de las funciones del
+   meristemo apical situado cerca de la punta de la raíz. Las células del
+   meristemo se dividen de forma más o menos continua, produciendo más
+   meristemo, células del [273]capuchón radicular (que se sacrifican para
+   proteger el meristemo) y células radiculares indiferenciadas. Estas
+   últimas se convierten en los tejidos primarios de la raíz y primero
+   experimentan elongación, un proceso que empuja la punta de la raíz
+   hacia delante en el medio de cultivo. Gradualmente estas células se
+   diferencian y maduran en células especializadas de los tejidos de la
+   raíz.^[274][4]​
+
+   El crecimiento a partir de meristemos apicales se conoce como
+   crecimiento primario, que engloba toda la elongación. El crecimiento
+   secundario engloba todo el crecimiento en diámetro, un componente
+   principal de los tejidos de las [275]plantas leñosas y de muchas
+   plantas no leñosas. Por ejemplo, las raíces de almacenamiento del
+   [276]boniato tienen crecimiento secundario pero no son leñosas. El
+   crecimiento secundario se produce en los [277]meristemos laterales, a
+   saber, el [278]cambium vascular y el [279]cambium de corcho. El primero
+   forma [280]xilema secundario y [281]floema secundario, mientras que el
+   segundo forma el [282]peridermo.
+
+   En las plantas con crecimiento secundario, el cambium vascular, que se
+   origina entre el xilema y el floema, forma un [283]cilindro de tejido a
+   lo largo del [284]tallo y la raíz. El cambium vascular forma nuevas
+   células tanto en el interior como en el exterior del cilindro de
+   cambium, formando las del interior células de xilema secundario, y las
+   del exterior células de floema secundario. A medida que se acumula el
+   xilema secundario, aumenta la «circunferencia» (dimensiones laterales)
+   del tallo y la raíz. Como resultado, los tejidos más allá del floema
+   secundario, incluyendo la epidermis y la corteza, en muchos casos
+   tienden a ser empujados hacia el exterior y, finalmente, se desprenden.
+
+   En este punto, el cambium del corcho comienza a formar la peridermis,
+   que consiste en células protectoras de [285]corcho. Las paredes de las
+   células de corcho contienen [286]suberina engrosada, que es un
+   biopolímero complejo extracelular.^[287][5]​ Los espesamientos de
+   suberina actúan proporcionando una barrera física, protección frente a
+   patógenos y evitando la pérdida de agua de los tejidos circundantes.
+   Además, también ayuda al proceso de cicatrización de heridas en las
+   plantas.^[288][6]​ También se postula que la suberina podría ser un
+   componente de la barrera apoplástica (presente en las capas celulares
+   externas de las raíces) que impide la entrada de compuestos tóxicos en
+   la raíz y reduce la pérdida radial de oxígeno (ROL) del [289]aerénquima
+   durante el encharcamiento. ^[290][7]​ En las raíces, el cambium
+   corchoso se origina en el [291]periciclo, un componente del cilindro
+   vascular.^[292][8]​
+
+   El cambium vascular produce anualmente nuevas capas de xilema
+   secundario. Los vasos del xilema están muertos en la madurez (en
+   algunos) pero son responsables de la mayor parte del transporte de agua
+   a través del tejido vascular en tallos y raíces.
+   Raíces de árboles en Port Jackson.
+
+   Las raíces de los árboles suelen crecer hasta tres veces el diámetro de
+   la extensión de las ramas, de las que sólo la mitad se encuentran bajo
+   el tronco y la copa. Las raíces de un lado de un árbol suelen
+   suministrar nutrientes al follaje del mismo lado. Sin embargo, algunas
+   familias, como [293]Sapindaceae (la familia del [294]arce), no muestran
+   correlación entre la ubicación de las raíces y el lugar de la planta
+   donde suministran nutrientes.^[295][9]​
+
+Regulación
+
+   [[296]editar]
+
+   Existe una correlación de raíces utilizando el proceso de
+   [297]percepción de la planta para sentir su entorno físico para
+   crecer,^[298][10]​ incluyendo la detección de luz,^[299][11]​ y
+   barreras físicas. Las plantas también perciben la gravedad y responden
+   a través de vías de auxina,^[300][12]​ dando lugar al
+   [301]gravitropismo. Con el tiempo, las raíces pueden agrietar los
+   cimientos, romper las tuberías de agua y levantar las aceras. Las
+   investigaciones han demostrado que las raíces tienen la capacidad de
+   reconocer raíces «propias» y «ajenas» en el mismo entorno de
+   suelo.^[302][13]​
+
+   El entorno correcto de circulación de aire, [303]nutrientes minerales y
+   [304]agua hace que las raíces de las plantas crezcan en cualquier
+   dirección para satisfacer sus necesidades. Las raíces rehuirán o se
+   encogerán cuando estén secas^[305][14]​ u otras malas condiciones del
+   suelo. El [306]gravitropismo dirige las raíces para que crezcan hacia
+   abajo en [307]germinación, el mecanismo de crecimiento de las plantas
+   que también hace que el brote crezca hacia arriba.^[308][15]​ Los
+   diferentes tipos de raíces, como las primarias, seminales, laterales y
+   de corona, se mantienen en diferentes ángulos gravitrópicos de
+   consigna, es decir, la dirección en la que crecen. Investigaciones
+   recientes muestran que el ángulo de la raíz en cultivos de cereales
+   como la cebada y el trigo está regulado por un nuevo gen llamado
+   Gravitropismo Mejorado 1 (EGT1). ^[309][16]​
+
+   Las investigaciones indican que las raíces de las plantas que crecen en
+   busca de una nutrición productiva pueden percibir y evitar la
+   compactación del suelo mediante la difusión del gas
+   [310]etileno.^[311][17]​
+   [312][220px-ArabidopsisLatRoot.jpg] Imagen fluorescente de una raíz
+   lateral emergente
+
+Véase también
+
+   [[313]editar]
+     * [314]Desarrollo de la raíz
+     * [315]Meristema apical de la raíz
+     * [316]Morfología de la raíz, terminología
+
+Referencias
+
+   [[317]editar]
+    1. [318]↑ Raven JA, Edwards D (2001). "Roots: evolutionary origins and
+       biogeochemical significance". Journal of Experimental Botany. 52
+       (Suppl 1): 381–401. doi:10.1093/jxb/52.suppl_1.381
+    2. [319]↑ Harley Macdonald & Donovan Stevens (3 de septiembre de
+       2019). [320]Biotechnology and Plant Biology. EDTECH. pp. 141-.
+       [321]ISBN [322]978-1-83947-180-3.
+    3. [323]↑ Schenk HJ, Jackson RB (2002). "The global biogeography of
+       roots". Ecological Monographs. 72 (3): 311–328.
+       doi:10.2307/3100092. JSTOR 3100092
+    4. [324]↑ Russell PJ, Hertz PE, McMillan B (2013). [325]Biología: La
+       ciencia dinámica. Cengage Learning. p. 750.
+       [326]ISBN [327]978-1-285-41534-5. Archivado desde [328]el original
+       el 21 de enero de 2018. Consultado el 24 de abril de 2017.
+    5. [329]↑ [330]«Suberina - una visión general | ScienceDirect Topics».
+       www.sciencedirect.com. Consultado el 31 de agosto de 2021.
+    6. [331]↑ [332]«Suberin Form & Function - Mark Bernards - Western
+       University». www.uwo.ca. Consultado el 31 de agosto de 2021.
+    7. [333]↑ Watanabe, Kohtaro; Nishiuchi, Shunsaku; Kulichikhin,
+       Konstantin; Nakazono, Mikio (2013). [334]«¿Contribuye la
+       acumulación de suberina en las raíces de las plantas a la
+       tolerancia al encharcamiento?». Frontiers in Plant Science 4: 178.
+       [335]ISSN [336]1664-462X. [337]PMC [338]3683634.
+       [339]PMID [340]23785371. [341]doi:[342]10.3389/fpls.2013.00178.
+    8. [343]↑ Watanabe, Kohtaro; Nishiuchi, Shunsaku; Kulichikhin,
+       Konstantin; Nakazono, Mikio (2013). [344]«Does suberin accumulation
+       in plant roots contribute to waterlogging tolerance?». Frontiers in
+       Plant Science (en inglés) 4: 178. [345]ISSN [346]1664-462X.
+       [347]PMC [348]3683634. [349]PMID [350]23785371.
+       [351]doi:[352]10.3389/fpls.2013.00178.
+    9. [353]↑ van den Driessche, R. (1 de julio de 1974). [354]«Predicción
+       del estado de nutrientes minerales de los árboles mediante análisis
+       foliar». The Botanical Review 40 (3): 347-394.
+       [355]Bibcode:[356]1974BotRv..40..347V. [357]ISSN [358]1874-9372.
+       [359]S2CID [360]29919924. [361]doi:[362]10.1007/BF02860066.
+   10. [363]↑ Nakagawa Y, Katagiri T, Shinozaki K, Qi Z, Tatsumi H,
+       Furuichi T, Kishigami A, Sokabe M, Kojima I, Sato S, Kato T, Tabata
+       S, Iida K, Terashima A, Nakano M, Ikeda M, Yamanaka T, Iida H
+       (February 2007). [364]«Proteína de la membrana plasmática de
+       Arabidopsis crucial para la afluencia de Ca2+ y la detección del
+       tacto en las raíces». Proceedings of the National Academy of
+       Sciences of the United States of America 104 (9): 3639-44.
+       [365]Bibcode:[366]2007PNAS..104.3639N. [367]PMC [368]1802001.
+       [369]PMID [370]17360695. [371]doi:[372]10.1073/pnas.0607703104.
+   11. [373]↑ {[374]Se descubre un mecanismo de detección de luz UV-B en
+       las raíces de las plantas, San Francisco State University, 8 de
+       diciembre de 2008 .
+   12. [375]↑ Marchant A, Kargul J, May ST, Muller P, Delbarre A,
+       Perrot-Rechenmann C, Bennett MJ (April 1999). [376]«AUX1 regula el
+       gravitropismo radicular en Arabidopsis facilitando la captación de
+       auxina en los tejidos apicales radiculares». The EMBO Journal 18
+       (8): 2066-73. [377]PMC [378]1171291. [379]PMID [380]10205161.
+       [381]doi:[382]10.1093/emboj/18.8.2066.
+   13. [383]↑ Hodge A (June 2009). «Root decisions». Plant, Cell &
+       Environment 32 (6): 628-40. [384]PMID [385]18811732.
+       [386]doi:[387]10.1111/j.1365-3040.2008.01891.x.
+   14. [388]↑ Carminati, Andrea; Vetterlein, Doris; Weller, Ulrich; Vogel,
+       Hans-Jörg; Oswald, Sascha E. (2009). «Cuando las raíces pierden
+       contacto». Vadose Zone Journal 8 (3): 805-809.
+       [389]Bibcode:[390]2009VZJ.....8..805C. [391]S2CID [392]128600212.
+       [393]doi:[394]10.2136/vzj2008.0147.
+   15. [395]↑ Chen R, Rosen E, Masson PH (June 1999). [396]«Gravitropism
+       in higher plants». Plant Physiology 120 (2): 343-50.
+       [397]PMC [398]1539215. [399]PMID [400]11541950.
+       [401]doi:[402]10.1104/pp.120.2.343.
+   16. [403]↑ Fusi, Riccardo; Rosignoli, Serena; Lou, Haoyu; Sangiorgi,
+       Giuseppe; Bovina, Riccardo; Pattem, Jacob K.; Borkar, Aditi N.;
+       Lombardi, Marco; Forestan, Cristian; Milner, Sara G.; Davis, Jayne
+       L.; Lale, Aneesh; Kirschner, Gwendolyn K.; Swarup, Ranjan;
+       Tassinari, Alberto; Pandey, Bipin K.; York, Larry M.; Atkinson,
+       Brian S.; Sturrock, Craig J.; Mooney, Sacha J.; Hochholdinger,
+       Frank; Tucker, Matthew R.; Himmelbach, Axel; Stein, Nils; Mascher,
+       Martin; Nagel, Kerstin A.; De Gara, Laura; Simmonds, James; Uauy,
+       Cristobal; Tuberosa, Roberto; Lynch, Jonathan P.; Yakubov, Gleb E.;
+       Bennett, Malcolm J.; Bhosale, Rahul; Salvi, Silvio (2 de agosto de
+       2022). [404]«Root angle is controlled by EGT1 in cereal crops
+       employing an antigravitropic mechanism». Proceedings of the
+       National Academy of Sciences 119 (31): e2201350119.
+       [405]Bibcode:[406]2022PNAS..11901350F. [407]PMC [408]9351459.
+       [409]PMID [410]35881796. [411]S2CID [412]251104211.
+       [413]doi:[414]10.1073/pnas.2201350119.
+   17. [415]↑ Pandey, Bipin K.; Huang, Guoqiang; Bhosale, Rahul; Hartman,
+       Sjon; Sturrock, Craig J.; Jose, Lottie; Martin, Olivier C.; Karady,
+       Michal; Voesenek, Laurentius A. C. J.; Ljung, Karin; Lynch,
+       Jonathan P. (15 de enero de 2021). [416]abf3013 «Las raíces de las
+       plantas perciben la compactación del suelo a través de la difusión
+       restringida de etileno». Science (en inglés) 371 (6526): 276-280.
+       [417]Bibcode:[418]2021Sci...371..276P. [419]ISSN [420]0036-8075.
+       [421]PMID [422]33446554. [423]S2CID [424]231606782.
+       [425]doi:[426]10.1126/science.abf3013. [427]hdl:[428]1874/418726.
+
+Bibliografía
+
+   [[429]editar]
+     * Font Quer, P. (1982). Diccionario de Botánica. 8ª reimpresión.
+       Barcelona: Editorial Labor, S. A. 84-335-5804-8.
+     * Gola, G., Negri, G. y Cappeletti, C. (1965). Tratado de Botánica.
+       2.ª edición. Editorial Labor S.A., Barcelona, 1110 p.
+     * Strasburger, E. (1994). Tratado de Botánica. 8.ª edición. Omega,
+       Barcelona, 1088 p. [430]ISBN 84-7102-990-1
+     * Valla, Juan J. (2007). Botánica. Morfología de las plantas
+       superiores. (1a ed. 20a reimp. edición). Buenos Aires: Hemisferio
+       sur. p. 352. [431]ISBN [432]950-504-378-3.
+
+Enlaces externos
+
+   [[433]editar]
+     * [434]Wikimedia Commons alberga una galería multimedia sobre
+       [435]Raíz.
+
+     * [436]Raíz (botánica) - muy completo
+
+   [437]Control de autoridades
+     * Proyectos Wikimedia
+     * [438]Wd Datos: [439]Q41500
+     * [440]Commonscat Multimedia: [441]Roots / [442]Q41500
+     * [443]Wikiquote Citas célebres: [444]Raíz
+     __________________________________________________________________
+
+     * Identificadores
+     * [445]BNF: [446]11964942g [447](data)
+     * [448]GND: [449]4136391-7
+     * [450]LCCN: [451]sh85115375
+     * [452]NDL: [453]00568062
+     * [454]NKC: [455]ph198766
+     * [456]NLI: [457]987007546265205171
+     * [458]AAT: [459]300400480
+     * Diccionarios y enciclopedias
+     * [460]Britannica: [461]url
+     * Identificadores médicos
+     * [462]MeSH: [463]D018517
+     * [464]TA: [465]A14.2.03.002
+     * UMLS: [466]C0242726
+
+     * [467]Wd Datos: [468]Q41500
+     * [469]Commonscat Multimedia: [470]Roots / [471]Q41500
+     * [472]Wikiquote Citas célebres: [473]Raíz
+
+   Obtenido de
+   «[474]https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&oldid=
+   164342691»
+   [475]Categorías:
+     * [476]Términos botánicos
+     * [477]Morfología de la raíz
+
+   Categorías ocultas:
+     * [478]Wikipedia:Artículos con identificadores BNF
+     * [479]Wikipedia:Artículos con identificadores GND
+     * [480]Wikipedia:Artículos con identificadores LCCN
+     * [481]Wikipedia:Artículos con identificadores AAT
+     * [482]Wikipedia:Artículos con identificadores TA98
+     * [483]Wikipedia:Control de autoridades con 14 elementos
+     * [484]Wikipedia:Páginas con enlaces mágicos de ISBN
+
+     * Esta página se editó por última vez el 27 dic 2024 a las 15:26.
+     * El texto está disponible bajo la [485]Licencia Creative Commons
+       Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas
+       adicionales. Al usar este sitio aceptas nuestros [486]términos de
+       uso y nuestra [487]política de privacidad.
+       Wikipedia® es una marca registrada de la [488]Fundación Wikimedia,
+       una organización sin ánimo de lucro.
+
+     * [489]Política de privacidad
+     * [490]Acerca de Wikipedia
+     * [491]Limitación de responsabilidad
+     * [492]Código de conducta
+     * [493]Desarrolladores
+     * [494]Estadísticas
+     * [495]Declaración de cookies
+     * [496]Versión para móviles
+
+     * [497]Wikimedia Foundation
+     * [498]Powered by MediaWiki
+
+Références
+
+   Liens visibles :
+   1. https://es.m.wikipedia.org/wiki/Raíz_(botánica)
+   2. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit
+   3. https://es.wikipedia.org/w/rest.php/v1/search
+   4. https://es.wikipedia.org/w/index.php?title=Especial:CambiosRecientes&feed=atom
+   5. https://es.wikipedia.org/wiki/Raíz_(botánica)#bodyContent
+   6. https://es.wikipedia.org/wiki/Wikipedia:Portada
+   7. https://es.wikipedia.org/wiki/Portal:Comunidad
+   8. https://es.wikipedia.org/wiki/Portal:Actualidad
+   9. https://es.wikipedia.org/wiki/Especial:CambiosRecientes
+  10. https://es.wikipedia.org/wiki/Especial:PáginasNuevas
+  11. https://es.wikipedia.org/wiki/Especial:Aleatoria
+  12. https://es.wikipedia.org/wiki/Ayuda:Contenidos
+  13. https://es.wikipedia.org/wiki/Wikipedia:Informes_de_error
+  14. https://es.wikipedia.org/wiki/Wikipedia:Portada
+  15. https://es.wikipedia.org/wiki/Especial:Buscar
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wikipedia.org&uselang=es
+  17. https://es.wikipedia.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=Raíz+(botánica)
+  18. https://es.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Raíz+(botánica)
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wikipedia.org&uselang=es
+  20. https://es.wikipedia.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=Raíz+(botánica)
+  21. https://es.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Raíz+(botánica)
+  22. https://es.wikipedia.org/wiki/Ayuda:Introducción
+  23. https://es.wikipedia.org/wiki/Especial:MisContribuciones
+  24. https://es.wikipedia.org/wiki/Especial:MiDiscusión
+  25. https://es.wikipedia.org/wiki/Raíz_(botánica)
+  26. https://es.wikipedia.org/wiki/Raíz_(botánica)#Funciones_de_la_raíz
+  27. https://es.wikipedia.org/wiki/Raíz_(botánica)#Partes_de_la_raíz
+  28. https://es.wikipedia.org/wiki/Raíz_(botánica)#Meristemo_apical
+  29. https://es.wikipedia.org/wiki/Raíz_(botánica)#Epidermis
+  30. https://es.wikipedia.org/wiki/Raíz_(botánica)#Córtex
+  31. https://es.wikipedia.org/wiki/Raíz_(botánica)#Endodermis
+  32. https://es.wikipedia.org/wiki/Raíz_(botánica)#Cilindro_vascular
+  33. https://es.wikipedia.org/wiki/Raíz_(botánica)#Crecimiento
+  34. https://es.wikipedia.org/wiki/Raíz_(botánica)#Regulación
+  35. https://es.wikipedia.org/wiki/Raíz_(botánica)#Véase_también
+  36. https://es.wikipedia.org/wiki/Raíz_(botánica)#Referencias
+  37. https://es.wikipedia.org/wiki/Raíz_(botánica)#Bibliografía
+  38. https://es.wikipedia.org/wiki/Raíz_(botánica)#Enlaces_externos
+  39. https://af.wikipedia.org/wiki/Wortel
+  40. https://ami.wikipedia.org/wiki/Tapangan
+  41. https://an.wikipedia.org/wiki/Radiz
+  42. https://ar.wikipedia.org/wiki/جذر
+  43. https://ast.wikipedia.org/wiki/Raigañu_(botánica)
+  44. https://atj.wikipedia.org/wiki/Otapi
+  45. https://ay.wikipedia.org/wiki/Saphi
+  46. https://az.wikipedia.org/wiki/Kök_(orqan)
+  47. https://azb.wikipedia.org/wiki/کوک
+  48. https://bar.wikipedia.org/wiki/Wuazn
+  49. https://bat-smg.wikipedia.org/wiki/Šaknės
+  50. https://bcl.wikipedia.org/wiki/Gamot
+  51. https://bdr.wikipedia.org/wiki/Gamut
+  52. https://be.wikipedia.org/wiki/Корань_расліны
+  53. https://be-tarask.wikipedia.org/wiki/Корань
+  54. https://bg.wikipedia.org/wiki/Корен
+  55. https://bn.wikipedia.org/wiki/মূল_(উদ্ভিদবিদ্যা)
+  56. https://bo.wikipedia.org/wiki/རྩ་བ།
+  57. https://bs.wikipedia.org/wiki/Korijen_(biljka)
+  58. https://ca.wikipedia.org/wiki/Arrel_(botànica)
+  59. https://cdo.wikipedia.org/wiki/Gṳ̆ng-gṳ̆ng
+  60. https://chr.wikipedia.org/wiki/ᎤᎾᏍᏕᎵ
+  61. https://cs.wikipedia.org/wiki/Kořen
+  62. https://cv.wikipedia.org/wiki/Тымар
+  63. https://da.wikipedia.org/wiki/Rod_(plantedel)
+  64. https://de.wikipedia.org/wiki/Wurzel_(Pflanze)
+  65. https://dsb.wikipedia.org/wiki/Kórjeń
+  66. https://el.wikipedia.org/wiki/Ρίζα_(βοτανική)
+  67. https://en.wikipedia.org/wiki/Root
+  68. https://eo.wikipedia.org/wiki/Radiko_(planto)
+  69. https://et.wikipedia.org/wiki/Juur
+  70. https://eu.wikipedia.org/wiki/Sustrai
+  71. https://fa.wikipedia.org/wiki/ریشه
+  72. https://fi.wikipedia.org/wiki/Juuri
+  73. https://fr.wikipedia.org/wiki/Racine_(botanique)
+  74. https://fy.wikipedia.org/wiki/Woartel_(plant)
+  75. https://ga.wikipedia.org/wiki/Fréamh_(planda)
+  76. https://gd.wikipedia.org/wiki/Freumh
+  77. https://gl.wikipedia.org/wiki/Raíz
+  78. https://gn.wikipedia.org/wiki/Tapo
+  79. https://gv.wikipedia.org/wiki/Fraue
+  80. https://ha.wikipedia.org/wiki/Tushen
+  81. https://he.wikipedia.org/wiki/שורש
+  82. https://hi.wikipedia.org/wiki/जड़_(वनस्पति)
+  83. https://hr.wikipedia.org/wiki/Korijen_(biljke)
+  84. https://hsb.wikipedia.org/wiki/Korjeń
+  85. https://ht.wikipedia.org/wiki/Rasin
+  86. https://hu.wikipedia.org/wiki/Gyökér
+  87. https://hy.wikipedia.org/wiki/Արմատ_(բուսաբանություն)
+  88. https://id.wikipedia.org/wiki/Akar
+  89. https://ik.wikipedia.org/wiki/Amaaq
+  90. https://io.wikipedia.org/wiki/Radiko_(botaniko)
+  91. https://is.wikipedia.org/wiki/Rót_(planta)
+  92. https://it.wikipedia.org/wiki/Radice_(botanica)
+  93. https://ja.wikipedia.org/wiki/根
+  94. https://jv.wikipedia.org/wiki/Oyod
+  95. https://ka.wikipedia.org/wiki/ფესვი
+  96. https://kcg.wikipedia.org/wiki/A̱nan
+  97. https://kk.wikipedia.org/wiki/Тамыр_(өсімдік_органы)
+  98. https://kn.wikipedia.org/wiki/ಬೇರು
+  99. https://ko.wikipedia.org/wiki/뿌리
+ 100. https://ku.wikipedia.org/wiki/Reh
+ 101. https://ky.wikipedia.org/wiki/Тамыр
+ 102. https://la.wikipedia.org/wiki/Radix_(botanica)
+ 103. https://li.wikipedia.org/wiki/Root_(biologie)
+ 104. https://ln.wikipedia.org/wiki/Ntína
+ 105. https://lt.wikipedia.org/wiki/Šaknis
+ 106. https://lv.wikipedia.org/wiki/Sakne
+ 107. https://mg.wikipedia.org/wiki/Faka
+ 108. https://mhr.wikipedia.org/wiki/Вож
+ 109. https://mk.wikipedia.org/wiki/Корен
+ 110. https://ml.wikipedia.org/wiki/വേര്
+ 111. https://mn.wikipedia.org/wiki/Ургамлын_үндэс
+ 112. https://ms.wikipedia.org/wiki/Akar
+ 113. https://my.wikipedia.org/wiki/အမြစ်
+ 114. https://nah.wikipedia.org/wiki/Tlanelhuatl
+ 115. https://nap.wikipedia.org/wiki/Rareca
+ 116. https://nds.wikipedia.org/wiki/Wörtel_(Plant)
+ 117. https://ne.wikipedia.org/wiki/जरा
+ 118. https://new.wikipedia.org/wiki/हा_(मा)
+ 119. https://nl.wikipedia.org/wiki/Wortel_(plant)
+ 120. https://nn.wikipedia.org/wiki/Røter
+ 121. https://no.wikipedia.org/wiki/Rot
+ 122. https://nrm.wikipedia.org/wiki/Rachène
+ 123. https://oc.wikipedia.org/wiki/Raiç_(botanica)
+ 124. https://om.wikipedia.org/wiki/Caaroo
+ 125. https://os.wikipedia.org/wiki/Уидаг
+ 126. https://pa.wikipedia.org/wiki/ਜੜ੍ਹ
+ 127. https://pl.wikipedia.org/wiki/Korzeń
+ 128. https://pnb.wikipedia.org/wiki/جڑھ
+ 129. https://pt.wikipedia.org/wiki/Raiz
+ 130. https://qu.wikipedia.org/wiki/Saphi
+ 131. https://ro.wikipedia.org/wiki/Rădăcină
+ 132. https://roa-rup.wikipedia.org/wiki/Arâdâținâ
+ 133. https://ru.wikipedia.org/wiki/Корень
+ 134. https://sh.wikipedia.org/wiki/Korijen
+ 135. https://shi.wikipedia.org/wiki/Aẓur
+ 136. https://simple.wikipedia.org/wiki/Root
+ 137. https://sk.wikipedia.org/wiki/Koreň_(botanika)
+ 138. https://sl.wikipedia.org/wiki/Korenina
+ 139. https://so.wikipedia.org/wiki/Wabka
+ 140. https://sq.wikipedia.org/wiki/Rrënja
+ 141. https://sr.wikipedia.org/wiki/Корен
+ 142. https://su.wikipedia.org/wiki/Akar
+ 143. https://sv.wikipedia.org/wiki/Rot
+ 144. https://sw.wikipedia.org/wiki/Mizizi
+ 145. https://szy.wikipedia.org/wiki/lamit
+ 146. https://ta.wikipedia.org/wiki/வேர்
+ 147. https://te.wikipedia.org/wiki/వేరు
+ 148. https://tg.wikipedia.org/wiki/Реша
+ 149. https://th.wikipedia.org/wiki/ราก
+ 150. https://tl.wikipedia.org/wiki/Ugat_(halaman)
+ 151. https://tr.wikipedia.org/wiki/Kök
+ 152. https://ug.wikipedia.org/wiki/يىلتىز
+ 153. https://uk.wikipedia.org/wiki/Корінь
+ 154. https://ur.wikipedia.org/wiki/جڑ
+ 155. https://uz.wikipedia.org/wiki/Ildiz_(oʻsimlik)
+ 156. https://vec.wikipedia.org/wiki/Raiza_(botànega)
+ 157. https://vi.wikipedia.org/wiki/Rễ
+ 158. https://wa.wikipedia.org/wiki/Raecene
+ 159. https://war.wikipedia.org/wiki/Gamót
+ 160. https://wuu.wikipedia.org/wiki/根
+ 161. https://yi.wikipedia.org/wiki/ווארצל
+ 162. https://za.wikipedia.org/wiki/Rag
+ 163. https://zh.wikipedia.org/wiki/根
+ 164. https://zh-yue.wikipedia.org/wiki/根
+ 165. https://www.wikidata.org/wiki/Special:EntityPage/Q41500#sitelinks-wikipedia
+ 166. https://es.wikipedia.org/wiki/Raíz_(botánica)
+ 167. https://es.wikipedia.org/wiki/Discusión:Raíz_(botánica)
+ 168. https://es.wikipedia.org/wiki/Raíz_(botánica)
+ 169. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit
+ 170. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=history
+ 171. https://es.wikipedia.org/wiki/Raíz_(botánica)
+ 172. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit
+ 173. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=history
+ 174. https://es.wikipedia.org/wiki/Especial:LoQueEnlazaAquí/Raíz_(botánica)
+ 175. https://es.wikipedia.org/wiki/Especial:CambiosEnEnlazadas/Raíz_(botánica)
+ 176. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es
+ 177. https://es.wikipedia.org/wiki/Especial:PáginasEspeciales
+ 178. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&oldid=164342691
+ 179. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=info
+ 180. https://es.wikipedia.org/w/index.php?title=Especial:Citar&page=Raíz_(botánica)&id=164342691&wpFormIdentifier=titleform
+ 181. https://es.wikipedia.org/w/index.php?title=Especial:Acortador_de_URL&url=https://es.wikipedia.org/wiki/Ra%C3%ADz_(bot%C3%A1nica)
+ 182. https://es.wikipedia.org/w/index.php?title=Especial:QrCode&url=https://es.wikipedia.org/wiki/Ra%C3%ADz_(bot%C3%A1nica)
+ 183. https://es.wikipedia.org/w/index.php?title=Especial:Libro&bookcmd=book_creator&referer=Raíz+(botánica)
+ 184. https://es.wikipedia.org/w/index.php?title=Especial:DownloadAsPdf&page=Raíz_(botánica)&action=show-download-screen
+ 185. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&printable=yes
+ 186. https://commons.wikimedia.org/wiki/Root
+ 187. https://es.wikiquote.org/wiki/Raíz
+ 188. https://www.wikidata.org/wiki/Special:EntityPage/Q41500
+ 189. https://es.wikipedia.org/wiki/Archivo:Roots_by_cesarpb.jpg
+ 190. https://es.wikipedia.org/wiki/Árbol
+ 191. https://es.wikipedia.org/wiki/Mangle
+ 192. https://es.wikipedia.org/wiki/Rhizophora
+ 193. https://es.wikipedia.org/wiki/Pará
+ 194. https://es.wikipedia.org/wiki/Brasil
+ 195. https://es.wikipedia.org/wiki/Archivo:Roots_of_a_hydroponically-grown_plant.jpg
+ 196. https://es.wikipedia.org/wiki/Hidroponía
+ 197. https://es.wikipedia.org/wiki/Germinación
+ 198. https://es.wikipedia.org/wiki/Semilla
+ 199. https://es.wikipedia.org/wiki/Radicula
+ 200. https://es.wikipedia.org/wiki/Caliptra
+ 201. https://es.wikipedia.org/wiki/Psilofitas
+ 202. https://es.wikipedia.org/wiki/Geotropismo
+ 203. https://es.wikipedia.org/wiki/Fototropismo
+ 204. https://es.wikipedia.org/wiki/Maíz
+ 205. https://es.wikipedia.org/wiki/Clorofila
+ 206. https://es.wikipedia.org/wiki/Camote
+ 207. https://es.wikipedia.org/wiki/Manzano
+ 208. https://es.wikipedia.org/wiki/Rosal
+ 209. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-1
+ 210. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-Stevens2019-2
+ 211. https://es.wikipedia.org/wiki/Ipomoea_batatas
+ 212. https://es.wikipedia.org/wiki/Pachyrhizus_erosus
+ 213. https://es.wikipedia.org/wiki/Beta_vulgaris
+ 214. https://es.wikipedia.org/wiki/Manihot_esculenta
+ 215. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-3
+ 216. https://es.wikipedia.org/wiki/Rizoma_(botánica)
+ 217. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=1
+ 218. https://es.wikipedia.org/wiki/Suelo
+ 219. https://es.wikipedia.org/wiki/Encina
+ 220. https://es.wikipedia.org/wiki/Álamo
+ 221. https://es.wikipedia.org/wiki/Tillandsia
+ 222. https://es.wikipedia.org/wiki/Fotosíntesis
+ 223. https://es.wikipedia.org/wiki/Presión
+ 224. https://es.wikipedia.org/wiki/Microorganismo
+ 225. https://es.wikipedia.org/wiki/Bacteria
+ 226. https://es.wikipedia.org/wiki/Hongo
+ 227. https://es.wikipedia.org/wiki/Fósforo
+ 228. https://es.wikipedia.org/wiki/Nitrógeno
+ 229. https://es.wikipedia.org/wiki/Molécula
+ 230. https://es.wikipedia.org/wiki/Enzima
+ 231. https://es.wikipedia.org/wiki/Árbol
+ 232. https://es.wikipedia.org/wiki/Ácido_orgánico
+ 233. https://es.wikipedia.org/wiki/Disolución
+ 234. https://es.wikipedia.org/wiki/Caliza
+ 235. https://es.wikipedia.org/wiki/Calcio
+ 236. https://es.wikipedia.org/wiki/Mineral
+ 237. https://es.wikipedia.org/wiki/Humus
+ 238. https://es.wikipedia.org/wiki/Erosión
+ 239. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=2
+ 240. https://es.wikipedia.org/wiki/Archivo:Meristemo_apical_2.jpg
+ 241. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=3
+ 242. https://es.wikipedia.org/wiki/Meristema_apical_de_la_raíz
+ 243. https://es.wikipedia.org/wiki/Mucílago
+ 244. https://es.wikipedia.org/wiki/Estatolitos
+ 245. https://es.wikipedia.org/wiki/Gravedad
+ 246. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=4
+ 247. https://es.wikipedia.org/wiki/Archivo:Racine4.jpg
+ 248. https://es.wikipedia.org/wiki/Tejido_(biología)
+ 249. https://es.wikipedia.org/wiki/Pelo_radical
+ 250. https://es.wikipedia.org/wiki/Ósmosis
+ 251. https://es.wikipedia.org/wiki/Salinidad
+ 252. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=5
+ 253. https://es.wikipedia.org/wiki/Córtex_(botánica)
+ 254. https://es.wikipedia.org/wiki/Almidón
+ 255. https://es.wikipedia.org/wiki/Respiración_celular
+ 256. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=6
+ 257. https://es.wikipedia.org/wiki/Archivo:Tertiary_Endodermis_Iris_florentina.png
+ 258. https://es.wikipedia.org/wiki/Endodermis
+ 259. https://es.wikipedia.org/wiki/Suberina
+ 260. https://es.wikipedia.org/wiki/Banda_de_caspari
+ 261. https://es.wikipedia.org/wiki/Vía_apoplasto
+ 262. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=7
+ 263. https://es.wikipedia.org/wiki/Cilindro_vascular
+ 264. https://es.wikipedia.org/wiki/Endodermis
+ 265. https://es.wikipedia.org/wiki/Periciclo
+ 266. https://es.wikipedia.org/wiki/Monocotiledónea
+ 267. https://es.wikipedia.org/wiki/Xilema
+ 268. https://es.wikipedia.org/wiki/Floema
+ 269. https://es.wikipedia.org/wiki/Cilindro_vascular
+ 270. https://es.wikipedia.org/wiki/Eudicotiledónea
+ 271. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=8
+ 272. https://es.wikipedia.org/wiki/Archivo:Root_of_a_Tree.JPG
+ 273. https://es.wikipedia.org/w/index.php?title=Capuchón_radicular&action=edit&redlink=1
+ 274. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-«Russell2013»-4
+ 275. https://es.wikipedia.org/wiki/Plantas_leñosas
+ 276. https://es.wikipedia.org/wiki/Boniato
+ 277. https://es.wikipedia.org/w/index.php?title=Meristemos_laterales&action=edit&redlink=1
+ 278. https://es.wikipedia.org/wiki/Cambium_vascular
+ 279. https://es.wikipedia.org/w/index.php?title=Cambium_de_corcho&action=edit&redlink=1
+ 280. https://es.wikipedia.org/w/index.php?title=Xilema_secundario&action=edit&redlink=1
+ 281. https://es.wikipedia.org/w/index.php?title=Floema_secundario&action=edit&redlink=1
+ 282. https://es.wikipedia.org/w/index.php?title=Peridermo&action=edit&redlink=1
+ 283. https://es.wikipedia.org/wiki/Cilindro_(geometría)
+ 284. https://es.wikipedia.org/w/index.php?title=Tallo_de_la_planta&action=edit&redlink=1
+ 285. https://es.wikipedia.org/w/index.php?title=Corcho_(material)&action=edit&redlink=1
+ 286. https://es.wikipedia.org/wiki/Suberina
+ 287. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-5
+ 288. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-6
+ 289. https://es.wikipedia.org/wiki/Aerénquima
+ 290. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-«ReferenciaA»-7
+ 291. https://es.wikipedia.org/wiki/Periciclo
+ 292. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-ReferenceA-8
+ 293. https://es.wikipedia.org/wiki/Sapindaceae
+ 294. https://es.wikipedia.org/wiki/Arce
+ 295. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-9
+ 296. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=9
+ 297. https://es.wikipedia.org/w/index.php?title=Percepción_de_la_planta_(fisiología)&action=edit&redlink=1
+ 298. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-10
+ 299. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-11
+ 300. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-12
+ 301. https://es.wikipedia.org/wiki/Gravitropismo
+ 302. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-13
+ 303. https://es.wikipedia.org/wiki/Nutrientes
+ 304. https://es.wikipedia.org/wiki/Agua
+ 305. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-14
+ 306. https://es.wikipedia.org/wiki/Gravitropismo
+ 307. https://es.wikipedia.org/wiki/Germinación
+ 308. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-15
+ 309. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-16
+ 310. https://es.wikipedia.org/wiki/Etileno
+ 311. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_note-17
+ 312. https://es.wikipedia.org/wiki/Archivo:ArabidopsisLatRoot.jpg
+ 313. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=10
+ 314. https://es.wikipedia.org/wiki/Desarrollo_de_la_raíz
+ 315. https://es.wikipedia.org/wiki/Meristema_apical_de_la_raíz
+ 316. https://es.wikipedia.org/wiki/Morfología_de_la_raíz
+ 317. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=11
+ 318. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-1
+ 319. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-Stevens2019_2-0
+ 320. https://books.google.com/books?id=Y-fEDwAAQBAJ&pg=PA141
+ 321. https://es.wikipedia.org/wiki/ISBN
+ 322. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/978-1-83947-180-3
+ 323. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-3
+ 324. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-«Russell2013»_4-0
+ 325. https://web.archive.org/web/20180121201126/https://books.google.com/books?id=dVIWAAAAQBAJ&pg=PT1365
+ 326. https://es.wikipedia.org/wiki/ISBN
+ 327. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/978-1-285-41534-5
+ 328. https://books.google.com/books?id=dVIWAAAAQBAJ&pg=PT1365
+ 329. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-5
+ 330. https://www.sciencedirect.com/topics/medicine-and-dentistry/suberin
+ 331. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-6
+ 332. https://www.uwo.ca/biology/faculty/bernards/research/suberin_form__function.html
+ 333. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-«ReferenciaA»_7-0
+ 334. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3683634
+ 335. https://es.wikipedia.org/wiki/ISSN
+ 336. https://portal.issn.org/resource/issn/1664-462X
+ 337. https://es.wikipedia.org/wiki/PubMed_Central
+ 338. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3683634
+ 339. https://es.wikipedia.org/wiki/PubMed_Identifier
+ 340. https://www.ncbi.nlm.nih.gov/pubmed/23785371
+ 341. https://es.wikipedia.org/wiki/Digital_object_identifier
+ 342. https://dx.doi.org/10.3389/fpls.2013.00178
+ 343. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-ReferenceA_8-0
+ 344. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3683634
+ 345. https://es.wikipedia.org/wiki/ISSN
+ 346. https://portal.issn.org/resource/issn/1664-462X
+ 347. https://es.wikipedia.org/wiki/PubMed_Central
+ 348. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3683634
+ 349. https://es.wikipedia.org/wiki/PubMed_Identifier
+ 350. https://www.ncbi.nlm.nih.gov/pubmed/23785371
+ 351. https://es.wikipedia.org/wiki/Digital_object_identifier
+ 352. https://dx.doi.org/10.3389/fpls.2013.00178
+ 353. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-9
+ 354. https://doi.org/10.1007/BF02860066
+ 355. https://es.wikipedia.org/wiki/Bibcode
+ 356. http://adsabs.harvard.edu/abs/1974BotRv..40..347V
+ 357. https://es.wikipedia.org/wiki/ISSN
+ 358. https://portal.issn.org/resource/issn/1874-9372
+ 359. https://es.wikipedia.org/wiki/Semantic_Scholar
+ 360. https://api.semanticscholar.org/CorpusID:29919924
+ 361. https://es.wikipedia.org/wiki/Digital_object_identifier
+ 362. https://dx.doi.org/10.1007/BF02860066
+ 363. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-10
+ 364. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1802001
+ 365. https://es.wikipedia.org/wiki/Bibcode
+ 366. http://adsabs.harvard.edu/abs/2007PNAS..104.3639N
+ 367. https://es.wikipedia.org/wiki/PubMed_Central
+ 368. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1802001
+ 369. https://es.wikipedia.org/wiki/PubMed_Identifier
+ 370. https://www.ncbi.nlm.nih.gov/pubmed/17360695
+ 371. https://es.wikipedia.org/wiki/Digital_object_identifier
+ 372. https://dx.doi.org/10.1073/pnas.0607703104
+ 373. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-11
+ 374. http://phys.org/news147979343.html
+ 375. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-12
+ 376. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1171291
+ 377. https://es.wikipedia.org/wiki/PubMed_Central
+ 378. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1171291
+ 379. https://es.wikipedia.org/wiki/PubMed_Identifier
+ 380. https://www.ncbi.nlm.nih.gov/pubmed/10205161
+ 381. https://es.wikipedia.org/wiki/Digital_object_identifier
+ 382. https://dx.doi.org/10.1093/emboj/18.8.2066
+ 383. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-13
+ 384. https://es.wikipedia.org/wiki/PubMed_Identifier
+ 385. https://www.ncbi.nlm.nih.gov/pubmed/18811732
+ 386. https://es.wikipedia.org/wiki/Digital_object_identifier
+ 387. https://dx.doi.org/10.1111/j.1365-3040.2008.01891.x
+ 388. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-14
+ 389. https://es.wikipedia.org/wiki/Bibcode
+ 390. http://adsabs.harvard.edu/abs/2009VZJ.....8..805C
+ 391. https://es.wikipedia.org/wiki/Semantic_Scholar
+ 392. https://api.semanticscholar.org/CorpusID:128600212
+ 393. https://es.wikipedia.org/wiki/Digital_object_identifier
+ 394. https://dx.doi.org/10.2136/vzj2008.0147
+ 395. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-15
+ 396. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1539215
+ 397. https://es.wikipedia.org/wiki/PubMed_Central
+ 398. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1539215
+ 399. https://es.wikipedia.org/wiki/PubMed_Identifier
+ 400. https://www.ncbi.nlm.nih.gov/pubmed/11541950
+ 401. https://es.wikipedia.org/wiki/Digital_object_identifier
+ 402. https://dx.doi.org/10.1104/pp.120.2.343
+ 403. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-16
+ 404. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9351459
+ 405. https://es.wikipedia.org/wiki/Bibcode
+ 406. http://adsabs.harvard.edu/abs/2022PNAS..11901350F
+ 407. https://es.wikipedia.org/wiki/PubMed_Central
+ 408. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9351459
+ 409. https://es.wikipedia.org/wiki/PubMed_Identifier
+ 410. https://www.ncbi.nlm.nih.gov/pubmed/35881796
+ 411. https://es.wikipedia.org/wiki/Semantic_Scholar
+ 412. https://api.semanticscholar.org/CorpusID:251104211
+ 413. https://es.wikipedia.org/wiki/Digital_object_identifier
+ 414. https://dx.doi.org/10.1073/pnas.2201350119
+ 415. https://es.wikipedia.org/wiki/Raíz_(botánica)#cite_ref-17
+ 416. https://www.science.org/doi/10.1126/science.
+ 417. https://es.wikipedia.org/wiki/Bibcode
+ 418. http://adsabs.harvard.edu/abs/2021Sci...371..276P
+ 419. https://es.wikipedia.org/wiki/ISSN
+ 420. https://portal.issn.org/resource/issn/0036-8075
+ 421. https://es.wikipedia.org/wiki/PubMed_Identifier
+ 422. https://www.ncbi.nlm.nih.gov/pubmed/33446554
+ 423. https://es.wikipedia.org/wiki/Semantic_Scholar
+ 424. https://api.semanticscholar.org/CorpusID:231606782
+ 425. https://es.wikipedia.org/wiki/Digital_object_identifier
+ 426. https://dx.doi.org/10.1126/science.abf3013
+ 427. https://es.wikipedia.org/wiki/Handle_System
+ 428. https://hdl.handle.net/1874/418726
+ 429. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=12
+ 430. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/8471029901
+ 431. https://es.wikipedia.org/wiki/ISBN
+ 432. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/950-504-378-3
+ 433. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&action=edit&section=13
+ 434. https://es.wikipedia.org/wiki/Wikimedia_Commons
+ 435. https://commons.wikimedia.org/wiki/roots
+ 436. https://web.archive.org/web/20150226131440/http://75.82.149.74:10002/wikipedia_es_all_03_2012/A/Raíz (botánica).html
+ 437. https://es.wikipedia.org/wiki/Control_de_autoridades
+ 438. https://es.wikipedia.org/wiki/Wikidata
+ 439. https://www.wikidata.org/wiki/Q41500
+ 440. https://es.wikipedia.org/wiki/Wikimedia_Commons
+ 441. https://commons.wikimedia.org/wiki/Category:Roots
+ 442. https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search="Q41500"
+ 443. https://es.wikipedia.org/wiki/Wikiquote
+ 444. https://es.wikiquote.org/wiki/Raíz
+ 445. https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_Francia
+ 446. https://catalogue.bnf.fr/ark:/12148/cb11964942g
+ 447. http://data.bnf.fr/ark:/12148/cb11964942g
+ 448. https://es.wikipedia.org/wiki/Gemeinsame_Normdatei
+ 449. https://d-nb.info/gnd/4136391-7
+ 450. https://es.wikipedia.org/wiki/Library_of_Congress_Control_Number
+ 451. https://id.loc.gov/authorities/sh85115375
+ 452. https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_la_Dieta
+ 453. https://id.ndl.go.jp/auth/ndlna/00568062
+ 454. https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_la_República_Checa
+ 455. https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph198766
+ 456. https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_Israel
+ 457. https://www.nli.org.il/en/authorities/987007546265205171
+ 458. https://es.wikipedia.org/wiki/Art_&_Architecture_Thesaurus
+ 459. https://vocab.getty.edu/page/aat/300400480
+ 460. https://es.wikipedia.org/wiki/Enciclopedia_Británica
+ 461. https://www.britannica.com/science/root-plant
+ 462. https://es.wikipedia.org/wiki/Medical_Subject_Headings
+ 463. https://meshb.nlm.nih.gov/record/ui?ui=D018517
+ 464. https://es.wikipedia.org/wiki/Terminología_Anatómica
+ 465. https://wikidata-externalid-url.toolforge.org/?p=1323&url_prefix=https://www.unifr.ch/ifaa/Public/EntryPage/TA98 Tree/Entity TA98 EN/&url_suffix= Entity TA98 EN.htm&id=A14.2.03.002
+ 466. https://ncim-stage.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0242726
+ 467. https://es.wikipedia.org/wiki/Wikidata
+ 468. https://www.wikidata.org/wiki/Q41500
+ 469. https://es.wikipedia.org/wiki/Wikimedia_Commons
+ 470. https://commons.wikimedia.org/wiki/Category:Roots
+ 471. https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search="Q41500"
+ 472. https://es.wikipedia.org/wiki/Wikiquote
+ 473. https://es.wikiquote.org/wiki/Raíz
+ 474. https://es.wikipedia.org/w/index.php?title=Raíz_(botánica)&oldid=164342691
+ 475. https://es.wikipedia.org/wiki/Especial:Categorías
+ 476. https://es.wikipedia.org/wiki/Categoría:Términos_botánicos
+ 477. https://es.wikipedia.org/wiki/Categoría:Morfología_de_la_raíz
+ 478. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Artículos_con_identificadores_BNF
+ 479. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Artículos_con_identificadores_GND
+ 480. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Artículos_con_identificadores_LCCN
+ 481. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Artículos_con_identificadores_AAT
+ 482. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Artículos_con_identificadores_TA98
+ 483. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Control_de_autoridades_con_14_elementos
+ 484. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Páginas_con_enlaces_mágicos_de_ISBN
+ 485. https://es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribución-CompartirIgual_4.0_Internacional
+ 486. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es
+ 487. https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es
+ 488. https://wikimediafoundation.org/es/
+ 489. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es
+ 490. https://es.wikipedia.org/wiki/Wikipedia:Acerca_de
+ 491. https://es.wikipedia.org/wiki/Wikipedia:Limitación_general_de_responsabilidad
+ 492. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 493. https://developer.wikimedia.org/
+ 494. https://stats.wikimedia.org/#/es.wikipedia.org
+ 495. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es
+ 496. https://es.m.wikipedia.org/w/index.php?title=Raíz_(botánica)&mobileaction=toggle_view_mobile
+ 497. https://wikimediafoundation.org/
+ 498. https://www.mediawiki.org/
+
+   Liens cachés :
+ 500. https://es.wikipedia.org/wiki/Archivo:Tree_branches_and_roots.jpg

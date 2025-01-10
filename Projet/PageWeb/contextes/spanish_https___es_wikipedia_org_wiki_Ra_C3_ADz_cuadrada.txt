@@ -1,0 +1,270 @@
+      + [26]1.1 Símbolo de la raíz cuadrada
+     * [27]2 Función raíz cuadrada
+) Alternar subsección Función raíz cuadrada
+[33]3 Extensión de la función raíz cuadrada
+cción Extensión de la función raíz cuadrada
+          + [34]3.1 La raíz cuadrada de un número complej
+               o [35]3.1.1 Raíz cuadrada de un número imagina
+               o [36]3.1.2 Raíz cuadrada principal de un núme
+          + [40]3.3 Raíz cuadrada de matrices
+          + [41]3.4 Raíz cuadrada en cuerpo finito
+Construcción geométrica de la raíz cuadrada
+Construcción geométrica de la raíz
+ación de que OH es igual a la raíz cuadrada de
+          + [50]6.1 Raíz cuadrada de 2
+          + [51]6.2 Raíz cuadrada de 3
+          + [52]6.3 Raíz cuadrada de 5
+Raíz cuadrada
+   "Raíz cuadrada de x".
+   En [180]matemáticas, la raíz cuadrada de un número
+   Como toda raíz par de un real positivo tiene
+  {\displaystyle x} tiene una raíz cuadrada positiva única o raí
+e {\sqrt {\;}}} es el símbolo raíz y
+   la raíz negativa es
+   posible definir la raíz cuadrada de un número real ne
+gativo o la raíz
+e puede plantear que f es la "raíz cuadrada" de
+  aplicados del cuadrado y la raíz cuadrada fue, al menos, tan a
+o un método para encontrar la raíz cuadrada de números con vario
+   más cercano al valor de la raíz cuadrada). Las raíces cuadrad
+descubrimiento de que la [204]raíz cuadrada de 2 era [205]irraci
+se demostró la utilidad de la raíz cuadrada para la
+ra encontrar el cuadrado y la raíz cuadrada)
+]Ariabhata para determinar la raíz cuadrada".^[215][7]​
+io Cataldi calculó en 1613 la raíz cuadrada
+pliando la [221]definición de raíz cuadrada.
+   representasen la raíz cuadrada de [222]números real
+   simbolizó la raíz cuadrada de –1 con la letra i
+   la función raíz cuadrada de los números negat
+   de la raíz de una matriz.
+Símbolo de la raíz cuadrada
+   raíz. También utilizará " ? " [239
+   El actual símbolo de la raíz cuadrada
+ina radix, que significa [249]raíz.
+Función raíz cuadrada
+   La raíz cuadrada permite definir una 
+   La función raíz cuadrada de x se expresa de l
+   Usualmente la raíz cuadrada de un número entero 
+   La [258]función raíz cuadrada, en general, transfo
+  El descubrimiento de que la raíz cuadrada de muchos números er
+   la raíz cuadrada, pero su interés par
+   de la raíz cuadrada y el problema de si 
+ geométrica es que la función raíz cuadrada transforma
+ siguientes propiedades de la raíz cuadrada son válidas para tod
+   Raíz n-ésima del radicando:
+ error muy común es «tomar la raíz cuadrada» y deducir que
+Esto es incorrecto, porque la raíz
+ando se prueba que la función raíz cuadrada es
+na propiedad importante de la raíz cuadrada de los [286]números
+números enteros. Es decir, la raíz
+   reducir la raíz a un [293]número natural. Sol
+s tiene un exponente impar la raíz no es natural.
+ la irracionalidad de la [295]raíz cuadrada de 2, atribuida a
+   la raíz. Por ello buena parte de la m
+sentar gráficamente cualquier raíz, y
+   que la raíz cuadrada de cualquier número 
+  aproxima en sus cálculos la raíz cuadrada al mayor entero tal 
+ sea menor que el valor de la raíz. Las aproximaciones pueden
+Extensión de la función raíz cuadrada
+La raíz cuadrada de un número complej
+220px-Complex_sqrt_leaf1.jpg] Raíz cuadrada
+leaf2.jpg] Segunda hoja de la raíz
+1]superficie de Riemann de la raíz cuadrada, se puede ver como
+   una raíz cuadrada en los números reale
+que contienen soluciones a la raíz cuadrada de
+n podemos pensar en i como la raíz cuadrada de −1, pero notamos
+, así que (−i) es también una raíz
+   positivo, entonces en la raíz cuadrada principal de −x se c
+   es decir, la raíz cuadrada de un número negativ
+Raíz cuadrada de un número imagina
+   Si se desea encontrar la raíz de un número imaginario es po
+Raíz cuadrada principal de un núme
+sí definido, la función de la raíz es [330]holomorfa en todas pa
+   y para la otra raíz se usa el argumento φ/2 + π, 
+ estas fórmulas se obtiene la raíz cuadrada
+ de la parte imaginaria de la raíz coincide con el signo de la
+   La otra raíz cuadrada se obtiene simplemen
+   raíz cuadrada principal, ambas raí
+scontinua de la función de la raíz
+e las dos ramas de la función raíz
+(o en el caso del 0 una única raíz). Dado un número
+Raíz cuadrada de matrices
+   Artículo principal: [348]Raíz cuadrada de una matriz
+e matrices permite definir la raíz
+Raíz cuadrada en cuerpo finito
+     * Diremos que a es la raíz cuadrada de b si a^2 = b; se 
+principal: [353]Cálculo de la raíz cuadrada
+chos métodos para calcular la raíz cuadrada,
+   Cuando vamos a realizar la raíz cuadrada con su [355]método d
+ón para ser [356]calculada la raíz cuadrada.
+símbolo que indica que es una raíz cuadrada.
+       raíz cuadrada.
+    3. Raíz: es propiamente la raíz cuadr
+s: nos ayudarán a resolver la raíz cuadrada.
+ del proceso para resolver la raíz
+itmo, computándose después la raíz cuadrada de x usando la
+Construcción geométrica de la raíz cuadrada
+   La raíz cuadrada de un número real se
+"calcular" geométricamente la raíz cuadrada de un número real
+   de un segmento que mida la raíz cuadrada de la longitud de un
+    cual queremos calcular su raíz cuadrada.
+ación de que OH es igual a la raíz cuadrada de OB
+ construir geométricamente la raíz
+quare_root_of_2_triangle.png] Raíz cuadrada de 2.
+Raíz cuadrada de 2
+   Artículo principal: [388]Raíz cuadrada de 2
+   Probablemente, la raíz cuadrada de 2 fue el primer n
+Raíz cuadrada de 3
+   Artículo principal: [392]Raíz cuadrada de 3
+ot_of_3_in_cube.svg.png] Mide raíz cuadrada de 3,
+   La raíz cuadrada de 3:
+nstruible cuyos catetos miden raíz cuadrada de 2
+Raíz cuadrada de 5
+   Artículo principal: [396]Raíz cuadrada de 5
+   La raíz cuadrada de 5:
+     * La raíz cuadrada se usa para calcular
+       menores que su raíz cuadrada, aproximada a unidad
+       x^2 = a, se usa la raíz cuadrada; en el primer caso s
+r que cero, hay que hallar la raíz cuadrada de un
+       raíz cuadrada, pero las raíces de 
+       que hallar la raíz cuadrada de p^3/27 + q^2/4 = 
+     * [408]Cálculo de la raíz cuadrada
+     * [414]Raíz cuadrada de 2
+     * [415]Raíz cuadrada de 3
+     * [416]Raíz cuadrada de 5
+     * [417]Raíz cúbica
+     * [418]Raíz enésima de un número
+     * [419]Raíz de la unidad
+       [469]Raíz cuadrada.
+       [471]raíz.
+ Programa java para hallar la raíz cuadrada de números enteros c
+iva para aprender a hallar la raíz cuadrada paso a paso:
+kipedia.org/w/index.php?title=Raíz_cuadrada&oldid=15
+tps://es.m.wikipedia.org/wiki/Raíz_cuadrada
+https://es.wikipedia.org/wiki/Raíz_cuadrada#bodyContent
+ial:Crear_una_cuenta&returnto=Raíz+cuadrada
+itle=Especial:Entrar&returnto=Raíz+cuadrada
+ial:Crear_una_cuenta&returnto=Raíz+cuadrada
+itle=Especial:Entrar&returnto=Raíz+cuadrada
+https://es.wikipedia.org/wiki/Raíz_cuadrada
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Historia
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Símbolo_de_la_raíz_c
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Función_raíz_cuadrad
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Propiedades_generale
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Irracionalidad_de_la
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Radicales_jerarquiza
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Fracciones_continuas
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Aproximaciones_enter
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Extensión_de_la_func
+ión_raíz_cuadrada
+https://es.wikipedia.org/wiki/Raíz_cuadrada#La_raíz_cuadrada_de_
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_de_un_
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_princi
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Fórmula_algebraica
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Notas
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíces_cuadradas_en_
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_de_mat
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_en_cue
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Cálculo_de_raíces_cu
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Algoritmo
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Utilizando_logaritmo
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Algoritmos_para_máqu
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Construcción_geométr
+ica_de_la_raíz_cuadrada
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Pasos_a_seguir_para_
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Demostración_de_que_
+OH_es_igual_a_la_raíz_cuadrada_de_OB
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíces_cuadradas_úti
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_de_2
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_de_3
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Raíz_cuadrada_de_5
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Usos_y_casos
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Véase_también
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Referencias
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Notas_2
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Bibliografía
+https://es.wikipedia.org/wiki/Raíz_cuadrada#Enlaces_externos
+ttps://ast.wikipedia.org/wiki/Raíz_cuadrada
+https://gl.wikipedia.org/wiki/Raíz_cadrada
+https://es.wikipedia.org/wiki/Raíz_cuadrada
+.wikipedia.org/wiki/Discusión:Raíz_cuadrada
+https://es.wikipedia.org/wiki/Raíz_cuadrada
+kipedia.org/w/index.php?title=Raíz_cuadrada&action=edit
+kipedia.org/w/index.php?title=Raíz_cuadrada&action=history
+https://es.wikipedia.org/wiki/Raíz_cuadrada
+kipedia.org/w/index.php?title=Raíz_cuadrada&action=edit
+kipedia.org/w/index.php?title=Raíz_cuadrada&action=history
+wiki/Especial:LoQueEnlazaAquí/Raíz_cuadrada
+i/Especial:CambiosEnEnlazadas/Raíz_cuadrada
+kipedia.org/w/index.php?title=Raíz_cuadrada&oldid=159422512
+kipedia.org/w/index.php?title=Raíz_cuadrada&action=info
+php?title=Especial:Citar&page=Raíz_cuadrada&id=159422512&wpFormI
+&bookcmd=book_creator&referer=Raíz+cuadrada
+e=Especial:DownloadAsPdf&page=Raíz_cuadrada&action=show-download
+kipedia.org/w/index.php?title=Raíz_cuadrada&printable=yes
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-1
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-2
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-3
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-4
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-5
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-6
+https://es.wikipedia.org/wiki/Raíz_cuadrada_de_2
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-7
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-8
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-9
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-10
+https://es.wikipedia.org/wiki/Raíz_(matemática)
+https://es.wikipedia.org/wiki/Raíz_cuadrada_de_2
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-11
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-12
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-13
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-14
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-15
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-16
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-17
+https://es.wikipedia.org/wiki/Raíz_cuadrada_de_una_matriz
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-18
+ipedia.org/wiki/Cálculo_de_la_raíz_cuadrada
+https://es.wikipedia.org/wiki/Raíz_cuadrada_de_2
+https://es.wikipedia.org/wiki/Raíz_cuadrada_de_3
+https://es.wikipedia.org/wiki/Raíz_cuadrada_de_5
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-19
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-20
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-21
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-22
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_note-23
+ipedia.org/wiki/Cálculo_de_la_raíz_cuadrada
+https://es.wikipedia.org/wiki/Raíz_cuadrada_de_2
+https://es.wikipedia.org/wiki/Raíz_cuadrada_de_3
+https://es.wikipedia.org/wiki/Raíz_cuadrada_de_5
+https://es.wikipedia.org/wiki/Raíz_cúbica
+https://es.wikipedia.org/wiki/Raíz_enésima_de_un_número
+https://es.wikipedia.org/wiki/Raíz_de_la_unidad
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-1
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-2
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-3
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-4
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-5
+https://es.wikipedia.org/wiki/Raíz_cuadrada#CITAREFJoseph2000
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-6
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-7
+https://es.wikipedia.org/wiki/Raíz_cuadrada#CITAREFSmith1925
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-8
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-9
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-10
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-11
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-12
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-13
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-14
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-15
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-16
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-17
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-18
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-19
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-20
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-21
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-22
+https://es.wikipedia.org/wiki/Raíz_cuadrada#cite_ref-23
+ttps://es.wiktionary.org/wiki/raíz
+kipedia.org/w/index.php?title=Raíz_cuadrada&oldid=159422512
+kipedia.org/w/index.php?title=Raíz_cuadrada&mobileaction=toggle_

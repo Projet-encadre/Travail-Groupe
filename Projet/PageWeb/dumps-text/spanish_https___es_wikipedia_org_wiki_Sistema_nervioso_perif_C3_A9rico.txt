@@ -1,0 +1,795 @@
+   #[1]alternate [2]Editar [3]Wikipedia (es) [4]Canal Atom de Wikipedia
+
+   [5]Ir al contenido
+
+   [ ] Menú principal
+   Menú principal
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Navegación
+     * [6]Portada
+     * [7]Portal de la comunidad
+     * [8]Actualidad
+     * [9]Cambios recientes
+     * [10]Páginas nuevas
+     * [11]Página aleatoria
+     * [12]Ayuda
+     * [13]Notificar un error
+
+   [14]Wikipedia La enciclopedia libre
+   [15]Buscar
+   ____________________
+   (BUTTON) Buscar
+
+   [ ] Apariencia
+
+     * [16]Donaciones
+     * [17]Crear una cuenta
+     * [18]Acceder
+
+   [ ] Herramientas personales
+     * [19]Donaciones
+     * [20]Crear una cuenta
+     * [21]Acceder
+
+   Páginas para editores desconectados [22]más información
+     * [23]Contribuciones
+     * [24]Discusión
+
+Contenidos
+
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+     * [25]Inicio
+     * [26]1 Estructura
+       (BUTTON) Alternar subsección Estructura
+          + [27]1.1 Plexos
+     * [28]2 Función
+     * [29]3 Dermatomas
+     * [30]4 Nervios y ganglios nerviosos
+     * [31]5 Patología
+       (BUTTON) Alternar subsección Patología
+          + [32]5.1 Neuropatía periférica
+     * [33]6 Notas
+     * [34]7 Véase también
+     * [35]8 Referencias
+
+   [ ] Cambiar a la tabla de contenidos
+
+Sistema nervioso periférico
+
+   [ ] 68 idiomas
+     * [36]Afrikaans
+     * [37]العربية
+     * [38]ܐܪܡܝܐ
+     * [39]Asturianu
+     * [40]Azərbaycanca
+     * [41]Български
+     * [42]বাংলা
+     * [43]Bosanski
+     * [44]Català
+     * [45]کوردی
+     * [46]Čeština
+     * [47]Dansk
+     * [48]Deutsch
+     * [49]ދިވެހިބަސް
+     * [50]Ελληνικά
+     * [51]English
+     * [52]Esperanto
+     * [53]Eesti
+     * [54]Euskara
+     * [55]فارسی
+     * [56]Suomi
+     * [57]Français
+     * [58]Gaeilge
+     * [59]Galego
+     * [60]客家語 / Hak-kâ-ngî
+     * [61]עברית
+     * [62]हिन्दी
+     * [63]Kreyòl ayisyen
+     * [64]Magyar
+     * [65]Հայերեն
+     * [66]Bahasa Indonesia
+     * [67]Íslenska
+     * [68]Italiano
+     * [69]日本語
+     * [70]ქართული
+     * [71]Қазақша
+     * [72]한국어
+     * [73]Kurdî
+     * [74]Lëtzebuergesch
+     * [75]Limburgs
+     * [76]Lietuvių
+     * [77]Latviešu
+     * [78]Македонски
+     * [79]Bahasa Melayu
+     * [80]Nederlands
+     * [81]Norsk nynorsk
+     * [82]Norsk bokmål
+     * [83]Occitan
+     * [84]Polski
+     * [85]Português
+     * [86]Română
+     * [87]Русский
+     * [88]Srpskohrvatski / српскохрватски
+     * [89]Simple English
+     * [90]Slovenčina
+     * [91]Slovenščina
+     * [92]Српски / srpski
+     * [93]Svenska
+     * [94]தமிழ்
+     * [95]తెలుగు
+     * [96]ไทย
+     * [97]Türkçe
+     * [98]Українська
+     * [99]اردو
+     * [100]Tiếng Việt
+     * [101]吴语
+     * [102]中文
+     * [103]粵語
+
+   [104]Editar enlaces
+
+     * [105]Artículo
+     * [106]Discusión
+
+   [ ] español
+
+     * [107]Leer
+     * [108]Editar
+     * [109]Ver historial
+
+   [ ] Herramientas
+   Herramientas
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   Acciones
+     * [110]Leer
+     * [111]Editar
+     * [112]Ver historial
+
+   General
+     * [113]Lo que enlaza aquí
+     * [114]Cambios en enlazadas
+     * [115]Subir archivo
+     * [116]Páginas especiales
+     * [117]Enlace permanente
+     * [118]Información de la página
+     * [119]Citar esta página
+     * [120]Obtener URL acortado
+     * [121]Descargar código QR
+
+   Imprimir/exportar
+     * [122]Crear un libro
+     * [123]Descargar como PDF
+     * [124]Versión para imprimir
+
+   En otros proyectos
+     * [125]Wikimedia Commons
+     * [126]Elemento de Wikidata
+
+   Apariencia
+   (BUTTON) mover a la barra lateral (BUTTON) ocultar
+   De Wikipedia, la enciclopedia libre
+            Sistema nervioso periférico
+   [127][320px-Nervous_system_diagram-es.svg.png]
+   Sistema nervioso humano: en azul el sistema nervioso periférico, en
+   amarillo el SNC.
+   [128]TA [129]A14.2.00.001
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+     *
+
+   [[130]editar datos en Wikidata]
+
+   El sistema nervioso periférico es junto con el [131]sistema nervioso
+   central (formado por el [132]encéfalo y la [133]médula espinal), una de
+   las dos divisiones del [134]sistema nervioso. El sistema nervioso
+   periférico está formado por los [135]nervios y [136]ganglios nerviosos
+   que se extienden fuera del [137]sistema nervioso central.^[138][1]​ Su
+   función principal es conectar el [139]sistema nervioso central con los
+   miembros y órganos. Carece de revestimiento óseo protector lo que lo
+   diferencia del sistema nervioso central que está envuelto por el
+   [140]cráneo y la [141]columna vertebral.^[142][2]​
+
+   En la especie humana está compuesto por 12 pares de [143]nervios
+   craneales y 31 pares de nervios espinales, dando así un total de 43
+   pares de nervios. Cada uno de los nervios sigue un trayecto definido e
+   inerva un sector específico del cuerpo. La división entre sistema
+   nervioso central y sistema nervioso periférico es anatómica o
+   estructural. Desde el punto de vista funcional el sistema nervioso
+   periférico puede dividirse en [144]sistema nervioso somático que se
+   controla de forma voluntaria y [145]sistema nervioso autónomo que
+   funciona de forma involuntaria o automática.^[146][3]​^[147][Nota 1]​
+
+Estructura
+
+   [[148]editar]
+   [149][240px-Cervical_Spine_Computer_Generated_Image.png] Imagen de la
+   columna cervical. En amarillo pueden verse los nervios espinales que
+   surgen a ambos lados de las vértebras. En color rojo las [150]arterias
+   vertebrales.[151][240px-Sciatic_nerve2.jpg] El [152]nervio ciático es
+   un nervio motor que se origina en el plexo sacro.
+     * [153]Nervios espinales. Son un total de 31 pares de nervios cada
+       uno con dos partes o raíces que se unen entre sí: una sensitiva y
+       otra motora. La parte sensitiva es la que traslada la información
+       desde los receptores hasta la médula espinal, mientras que la parte
+       motora es la que lleva los impulsos desde la médula espinal hasta
+       los efectores correspondientes. Se distribuyen de la siguiente
+       forma:
+          + 8 pares de nervios cervicales
+          + 12 pares de nervios dorsales o torácicos
+          + 5 pares de nervios raquídeos lumbares
+          + 5 pares de nervios raquídeos sacros
+          + 1 par de nervios raquídeos coccígeos
+
+   Cada nervio espinal o raquídeo se une en dos puntos distintos a la
+   médula espinal; tiene una raíz posterior y una raíz anterior. Las
+   raíces posterior y anterior se unifican para formar el nervio raquídeo.
+   Como la raíz posterior contiene fibras sensitivas y la raíz anterior
+   contiene fibras motoras, el resultado es un nervio mixto. Su recorrido
+   es muy corto, pues inmediatamente se divide en dos ramas, una dorsal
+   más pequeña y otra ventral o anterior más grande. En el tórax de las
+   ramas ventrales parten pequeñas ramas comunicantes que transportan
+   fibras pertenecientes al [154]sistema nervioso autónomo.
+   [155][400px-Nervio_espinal.png] Esquema en el que se representa un
+   nervio espinal con sus dos raíces, sensitiva y motora, saliendo de la
+   médula espinal.
+     * [156]Nervios craneales, también llamados pares craneales, son 12
+       nervios que envían información sensorial procedente del cuello y la
+       cabeza hacia el sistema nervioso central o trasladan órdenes
+       motoras para el control de la musculatura esquelética del cuello y
+       la cabeza.
+          + I. [157]Nervio olfatorio. Es un nervio únicamente sensorial,
+            conduce los impulsos nerviosos generados por las sustancias
+            odoríferas desde la nariz hasta el encéfalo.
+          + II [158]Nervio óptico. Exclusivamente sensorial, transporta la
+            información visual desde el ojo al encéfalo.
+          + III [159]Nervio oculomotor. Tiene fibras motoras que controlan
+            el movimiento ocular y parasimpáticas que modifican el
+            diámetro de la pupila.
+          + IV [160]Nervio troclear. Su función es motora sobre uno de los
+            músculos cuya contracción mueve el globo ocular.
+          + V [161]Nervio trigémino. Es un nervio mixto que consta de una
+            porción sensitiva y otra motora.
+          + VI [162]Nervio abducens o Motor Ocular Externo. Interviene en
+            la movilidad ocular, es solamente motor.
+          + VII [163]Nervio facial. Es un nervio mixto con fibras
+            sensitivas y motoras.
+          + VIII [164]Nervio vestibulococlear. Transporta al cerebro la
+            información auditiva y sensorial procedente del [165]oído
+            interno.
+          + IX [166]Nervio glosofaríngeo. Es un nervio mixto. La porción
+            sensitiva transporta señales procedentes de la lengua y la
+            faringe.
+          + X [167]Nervio vago. Es sensitivo y motor, aporta además fibras
+            [168]parasimpáticas que actúan sobre diferentes órganos, entre
+            ellos el [169]estómago y el [170]corazón.
+          + XI [171]Nervio espinal. Es un nervio motor que activa entre
+            otros el [172]músculo esternocleidomastoideo, provocando el
+            giro de la cabeza.
+          + XII [173]Nervio hipogloso. Es un nervio motor para la
+            musculatura de la lengua.
+
+   En color amarillo el [174]nervio olfatorio (I par craneal)
+   En color amarillo se representa el [175]nervio trigémino y sus ramas (V
+   par craneal)
+   En color amarillo puede observarse el [176]nervio facial y sus ramas
+   (VII par craneal)
+
+Plexos
+
+   [[177]editar]
+   [178][240px-Brachial_plexus_2_es.svg.png] El plexo braquial se origina
+   por la rama anterior de los nervios raquídeos C5-C8 y T1.
+
+   Los nervios espinales tras salir de la médula espinal forman redes
+   constituidas por la unión de nervios adyacentes. Estas redes se llaman
+   plexos. Existen cuatro principales:
+     * [179]Plexo cervical. Existen dos, uno derecho y otro izquierdo. Se
+       forman por los ramos anteriores de los cuatro primeros nervios
+       cervicales y algunas ramas procedentes del quinto.^[180][4]​
+     * [181]Plexo braquial. Se origina por los nervios raquídeos C5-C8 y
+       T1. Da origen a varios nervios que llevan órdenes a los músculos
+       del hombro y los miembros superiores, entre ellos el [182]nervio
+       cubital que hace posible lo contracción de los músculos que mueven
+       la mano.^[183][4]​
+     * [184]Plexo lumbar. Se forma por las ramas anteriores de los nervios
+       raquídeos L1-L4. Da origen a los nervios que llevan órdenes motoras
+       a los músculos de la región anterolateral del abdomen y los
+       miembros inferiores.
+     * [185]Plexo sacro. Lo forman las raíces anteriores de los nervios
+       espinales L4-L5 y S1-S4. Da origen a nervios que llevan órdenes
+       motoras a los miembros inferiores. Del plexo sacro surge el
+       [186]nervio ciático que es el más largo del organismo humano.
+
+Función
+
+   [[187]editar]
+
+   La función del sistema nervioso periférico es doble. Por una parte
+   transporta los estímulos que recibe el organismo, tanto externos como
+   internos, hasta el [188]sistema nervioso central para ser procesados.
+   Por otra parte traslada las órdenes generadas por el sistema nervioso
+   central hasta los órganos y músculos de todo el cuerpo para que
+   realicen las diferentes funciones. Si no existiera el sistema nervioso
+   periférico los músculos no podrían ser gobernados por el cerebro por lo
+   que el movimiento voluntario sería imposible, pues las órdenes
+   cerebrales no alcanzarían su destino.
+
+Dermatomas
+
+   [[189]editar]
+   [190][220px-Dermatomes_and_cutaneous_nerves_-_anterior.png] En la mitad
+   derecha del cuerpo se representa el mapa de dermatomas. Visión
+   anterior.
+
+   Un [191]dermatoma es un sector de piel inervado por la porción
+   sensitiva de un nervio espinal. Cada dermatoma correspondiente a un
+   segmento medular y un nervio espinal. Se distribuyen de forma
+   horizontal descendente a lo largo del tronco, en las extremidades la
+   distribución es longitudinal. El mapa que muestra la distribución de
+   los dermatomas es importante en medicina, pues permite determinar la
+   localización de una lesión.^[192][5]​
+
+Nervios y ganglios nerviosos
+
+   [[193]editar]
+
+   Los [194]nervios son haces de fibras nerviosas que transportan
+   información y forman parte del sistema nervioso periférico. Los nervios
+   aferentes llevan información sensorial hacia el sistema nervioso
+   central, mientras que los nervios eferentes transportan la información
+   desde el sistema nervioso central a los órganos efectores. Los nervios
+   que transportan las señales dolorosas son aferentes, mientras que los
+   nervios motores que terminan en los diferentes músculos y hacen posible
+   la contracción muscular y el movimiento son nervios eferentes. Existen
+   nervios mixtos que transportan ambos tipos de información.
+
+   Los [195]ganglios nerviosos están formados por acúmulos de [196]cuerpos
+   neuronales que se intercalan en el trayecto de algunos nervios y forman
+   parte del sistema nervioso periférico, no deben confundirse con los
+   [197]ganglios linfáticos que forman parte del [198]sistema
+   linfático.^[199][6]​
+   [200][450px-Esquema_nervio.jpg] Esquema en el que se representa la
+   sección un nervio periférico. Son visibles las fibras nerviosas que
+   transportan la información.
+
+Patología
+
+   [[201]editar]
+
+Neuropatía periférica
+
+   [[202]editar]
+   [203][220px-Carpal_Tunnel_Syndrome-es.png] El síndrome del túnel del
+   carpo se produce por atrapamiento del nervio mediano a nivel de la
+   muñeca.
+
+   Se produce por daño en las fibras nerviosas que forman alguno de los
+   nervios. Las causas pueden ser múltiples. De forma genérica se dividen
+   en [204]mononeuropatías cuando afectan únicamente al funcionamiento de
+   un nervio y polineuropatías cuando es a varios. Como ejemplo de
+   mononeuropatía puede citarse el [205]síndrome del túnel del carpo que
+   se produce por compresión del [206]nervio mediano a su paso por la
+   muñeca. Una de las polineuropatías más frecuentes es la tóxica por
+   consumo de alcohol ([207]polineuropatía alcohólica). ^[208][7]​
+
+   Los síntomas de las neuropatías dependen del tipo de nervio afectado y
+   su localización. Cuando se afectan los nervios motores se produce
+   debilidad muscular, contracciones incontroladas de los músculos
+   ([209]fasciculaciones) y atrofia muscular. Cuando se afectan los
+   nervios sensoriales puede deteriorarse el sentido del [210]tacto, sobre
+   todo en pies y manos. La alteración en la función de las fibras que
+   transmiten las sensaciones de dolor y temperatura provoca
+   insensibilidad, por lo que las personas afectadas sufren en ocasiones
+   graves lesiones en pies y quemaduras sin que perciban ningún tipo de
+   dolor.^[211][7]​
+
+Notas
+
+   [[212]editar]
+    1. [213]↑ En algunos textos se considera que el sistema nervioso
+       autónomo es una subdivisión del sistema nervioso periférico, pero
+       esta afirmación podría considerarse inexacta, algunas neuronas del
+       sistema nervioso autónomo pueden ubicarse en el sistema nervioso
+       central. La división entre sistema nervioso central y periférico
+       tiene solamente fines anatómicos.
+
+Véase también
+
+   [[214]editar]
+     * [215]Sistema nervioso central
+
+Referencias
+
+   [[216]editar]
+    1. [217]↑ [218]Estructura y función cuerpo humano. Autores: Gary A.
+       Thibodeau y Kevin T. Patton. Página 186.
+    2. [219]↑ Jean Hopkins, Charles William McLaughlin, Susan Johnson,
+       Maryanna Quon Warner, David LaHart, Jill D. Wright (1993).
+       [220]Human Biology and Health. Englewood Cliffs, New Jersey, USA:
+       Prentice Hall. pp. [221]132–144. [222]ISBN [223]0-13-981176-1.
+    3. [224]↑ El cuerpo humano. Salud y enfermedad. Autor: Barbara Janson
+       Cohen. Consultado el 16 de noviembre de 2018.
+    4. ↑ [225]^a [226]^b Principios de Anatomía y Fisiología. Autor:
+       Tortora-Derrickson. Consultado el 16 de noviembre de 2018
+    5. [227]↑ [228]Sensibilidad de la piel. Dermatomas. Consultado el 16
+       de noviembre de 2018.
+    6. [229]↑ [230]Sistema nervioso: Anatomía. Enfermera virtual.
+       Consultado el 16 de noviembre de 2018.
+    7. ↑ [231]^a [232]^b [233]Neuropatía periférica. NIH. Consultado el 16
+       de noviembre de 2018.
+
+     * [234]Wikimedia Commons alberga una categoría multimedia sobre
+       [235]Sistema nervioso periférico.
+
+   [236]Control de autoridades
+     * Proyectos Wikimedia
+     * [237]Wd Datos: [238]Q169953
+     * [239]Commonscat Multimedia: [240]Peripheral nervous system /
+       [241]Q169953
+     __________________________________________________________________
+
+     * Identificadores
+     * [242]BNE: [243]XX532252
+     * [244]BNF: [245]11932612m [246](data)
+     * [247]GND: [248]4173794-5
+     * [249]LCCN: [250]sh85090903
+     * [251]NKC: [252]ph124038
+     * [253]NLI: [254]987007565643105171
+     * Diccionarios y enciclopedias
+     * [255]Britannica: [256]url
+     * Identificadores médicos
+     * [257]CIE-11: [258]XA1630
+     * [259]MeSH: [260]D017933
+     * [261]TA: [262]A14.2.00.001
+     * [263]FMA: [264]9093
+     * UMLS: [265]C0206417
+
+     * [266]Wd Datos: [267]Q169953
+     * [268]Commonscat Multimedia: [269]Peripheral nervous system /
+       [270]Q169953
+
+   Obtenido de
+   «[271]https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_perif
+   érico&oldid=163384913»
+   [272]Categorías:
+     * [273]Sistema nervioso periférico
+     * [274]Columna vertebral
+
+   Categorías ocultas:
+     * [275]Wikipedia:Artículos con identificadores BNE
+     * [276]Wikipedia:Artículos con identificadores BNF
+     * [277]Wikipedia:Artículos con identificadores GND
+     * [278]Wikipedia:Artículos con identificadores LCCN
+     * [279]Wikipedia:Artículos con identificadores TA98
+     * [280]Wikipedia:Control de autoridades con 14 elementos
+
+     * Esta página se editó por última vez el 4 nov 2024 a las 00:35.
+     * El texto está disponible bajo la [281]Licencia Creative Commons
+       Atribución-CompartirIgual 4.0; pueden aplicarse cláusulas
+       adicionales. Al usar este sitio aceptas nuestros [282]términos de
+       uso y nuestra [283]política de privacidad.
+       Wikipedia® es una marca registrada de la [284]Fundación Wikimedia,
+       una organización sin ánimo de lucro.
+
+     * [285]Política de privacidad
+     * [286]Acerca de Wikipedia
+     * [287]Limitación de responsabilidad
+     * [288]Código de conducta
+     * [289]Desarrolladores
+     * [290]Estadísticas
+     * [291]Declaración de cookies
+     * [292]Versión para móviles
+
+     * [293]Wikimedia Foundation
+     * [294]Powered by MediaWiki
+
+Références
+
+   Liens visibles :
+   1. https://es.m.wikipedia.org/wiki/Sistema_nervioso_periférico
+   2. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit
+   3. https://es.wikipedia.org/w/rest.php/v1/search
+   4. https://es.wikipedia.org/w/index.php?title=Especial:CambiosRecientes&feed=atom
+   5. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#bodyContent
+   6. https://es.wikipedia.org/wiki/Wikipedia:Portada
+   7. https://es.wikipedia.org/wiki/Portal:Comunidad
+   8. https://es.wikipedia.org/wiki/Portal:Actualidad
+   9. https://es.wikipedia.org/wiki/Especial:CambiosRecientes
+  10. https://es.wikipedia.org/wiki/Especial:PáginasNuevas
+  11. https://es.wikipedia.org/wiki/Especial:Aleatoria
+  12. https://es.wikipedia.org/wiki/Ayuda:Contenidos
+  13. https://es.wikipedia.org/wiki/Wikipedia:Informes_de_error
+  14. https://es.wikipedia.org/wiki/Wikipedia:Portada
+  15. https://es.wikipedia.org/wiki/Especial:Buscar
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wikipedia.org&uselang=es
+  17. https://es.wikipedia.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=Sistema+nervioso+periférico
+  18. https://es.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Sistema+nervioso+periférico
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=es.wikipedia.org&uselang=es
+  20. https://es.wikipedia.org/w/index.php?title=Especial:Crear_una_cuenta&returnto=Sistema+nervioso+periférico
+  21. https://es.wikipedia.org/w/index.php?title=Especial:Entrar&returnto=Sistema+nervioso+periférico
+  22. https://es.wikipedia.org/wiki/Ayuda:Introducción
+  23. https://es.wikipedia.org/wiki/Especial:MisContribuciones
+  24. https://es.wikipedia.org/wiki/Especial:MiDiscusión
+  25. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico
+  26. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#Estructura
+  27. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#Plexos
+  28. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#Función
+  29. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#Dermatomas
+  30. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#Nervios_y_ganglios_nerviosos
+  31. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#Patología
+  32. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#Neuropatía_periférica
+  33. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#Notas
+  34. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#Véase_también
+  35. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#Referencias
+  36. https://af.wikipedia.org/wiki/Perifere_senuweestelsel
+  37. https://ar.wikipedia.org/wiki/جهاز_عصبي_محيطي
+  38. https://arc.wikipedia.org/wiki/ܬܘܩܢ_ܓܝܕܝܐ_ܡܚܕܘܪܝܐ
+  39. https://ast.wikipedia.org/wiki/Sistema_nerviosu_periféricu
+  40. https://az.wikipedia.org/wiki/Periferik_sinir_sistemi
+  41. https://bg.wikipedia.org/wiki/Периферна_нервна_система
+  42. https://bn.wikipedia.org/wiki/প্রান্তীয়_স্নায়ুতন্ত্র
+  43. https://bs.wikipedia.org/wiki/Periferni_nervni_sistem
+  44. https://ca.wikipedia.org/wiki/Sistema_nerviós_perifèric
+  45. https://ckb.wikipedia.org/wiki/کۆئەندامی_پەییی_دەوروبەری
+  46. https://cs.wikipedia.org/wiki/Periferní_nervová_soustava
+  47. https://da.wikipedia.org/wiki/Perifere_nervesystem
+  48. https://de.wikipedia.org/wiki/Peripheres_Nervensystem
+  49. https://dv.wikipedia.org/wiki/ޕެރިފެރަލް_ނާރވަސް_ސިސްޓަމް
+  50. https://el.wikipedia.org/wiki/Περιφερικό_νευρικό_σύστημα
+  51. https://en.wikipedia.org/wiki/Peripheral_nervous_system
+  52. https://eo.wikipedia.org/wiki/Periferia_nerva_sistemo
+  53. https://et.wikipedia.org/wiki/Piirdenärvisüsteem
+  54. https://eu.wikipedia.org/wiki/Nerbio-sistema_periferiko
+  55. https://fa.wikipedia.org/wiki/دستگاه_عصبی_محیطی
+  56. https://fi.wikipedia.org/wiki/Ääreishermosto
+  57. https://fr.wikipedia.org/wiki/Système_nerveux_périphérique
+  58. https://ga.wikipedia.org/wiki/Néarchóras_imeallach
+  59. https://gl.wikipedia.org/wiki/Sistema_nervioso_periférico
+  60. https://hak.wikipedia.org/wiki/Chû-vì_Sṳ̀n-kîn_Ne-thúng
+  61. https://he.wikipedia.org/wiki/מערכת_העצבים_ההיקפית
+  62. https://hi.wikipedia.org/wiki/परिधीय_तंत्रिका_तंत्र
+  63. https://ht.wikipedia.org/wiki/Sistèm_nève_periferik
+  64. https://hu.wikipedia.org/wiki/Környéki_idegrendszer
+  65. https://hy.wikipedia.org/wiki/Ծայրամասային_նյարդային_համակարգ
+  66. https://id.wikipedia.org/wiki/Sistem_saraf_tepi
+  67. https://is.wikipedia.org/wiki/Úttaugakerfið
+  68. https://it.wikipedia.org/wiki/Sistema_nervoso_periferico
+  69. https://ja.wikipedia.org/wiki/末梢神経系
+  70. https://ka.wikipedia.org/wiki/პერიფერიული_ნერვული_სისტემა
+  71. https://kk.wikipedia.org/wiki/Шеткі_жүйке_жүйесі
+  72. https://ko.wikipedia.org/wiki/말초신경계
+  73. https://ku.wikipedia.org/wiki/Demarekoendama_çêwe
+  74. https://lb.wikipedia.org/wiki/Peripheren_Nervesystem
+  75. https://li.wikipedia.org/wiki/Perifeer_zaenstèlsel
+  76. https://lt.wikipedia.org/wiki/Periferinė_nervų_sistema
+  77. https://lv.wikipedia.org/wiki/Perifērā_nervu_sistēma
+  78. https://mk.wikipedia.org/wiki/Периферен_нервен_систем
+  79. https://ms.wikipedia.org/wiki/Sistem_saraf_tepi
+  80. https://nl.wikipedia.org/wiki/Perifeer_zenuwstelsel
+  81. https://nn.wikipedia.org/wiki/Det_perifere_nervesystemet
+  82. https://no.wikipedia.org/wiki/Det_perifere_nervesystemet
+  83. https://oc.wikipedia.org/wiki/Sistèma_nerviós_periferic
+  84. https://pl.wikipedia.org/wiki/Obwodowy_układ_nerwowy
+  85. https://pt.wikipedia.org/wiki/Sistema_nervoso_periférico
+  86. https://ro.wikipedia.org/wiki/Sistem_nervos_periferic
+  87. https://ru.wikipedia.org/wiki/Периферическая_нервная_система
+  88. https://sh.wikipedia.org/wiki/Periferni_nervni_sistem
+  89. https://simple.wikipedia.org/wiki/Peripheral_nervous_system
+  90. https://sk.wikipedia.org/wiki/Periférna_nervová_sústava
+  91. https://sl.wikipedia.org/wiki/Obkrajno_živčevje
+  92. https://sr.wikipedia.org/wiki/Периферни_нервни_систем
+  93. https://sv.wikipedia.org/wiki/Perifera_nervsystemet
+  94. https://ta.wikipedia.org/wiki/புற_நரம்பு_மண்டலம்
+  95. https://te.wikipedia.org/wiki/పరిధీయ_నాడీ_వ్యవస్థ
+  96. https://th.wikipedia.org/wiki/ระบบประสาทนอกส่วนกลาง
+  97. https://tr.wikipedia.org/wiki/Çevresel_sinir_sistemi
+  98. https://uk.wikipedia.org/wiki/Периферична_нервова_система
+  99. https://ur.wikipedia.org/wiki/محیطی_عصبی_نظام
+ 100. https://vi.wikipedia.org/wiki/Hệ_thần_kinh_ngoại_biên
+ 101. https://wuu.wikipedia.org/wiki/周围神经系统
+ 102. https://zh.wikipedia.org/wiki/周围神经系统
+ 103. https://zh-yue.wikipedia.org/wiki/周邊神經系統
+ 104. https://www.wikidata.org/wiki/Special:EntityPage/Q169953#sitelinks-wikipedia
+ 105. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico
+ 106. https://es.wikipedia.org/wiki/Discusión:Sistema_nervioso_periférico
+ 107. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico
+ 108. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit
+ 109. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=history
+ 110. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico
+ 111. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit
+ 112. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=history
+ 113. https://es.wikipedia.org/wiki/Especial:LoQueEnlazaAquí/Sistema_nervioso_periférico
+ 114. https://es.wikipedia.org/wiki/Especial:CambiosEnEnlazadas/Sistema_nervioso_periférico
+ 115. https://commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es
+ 116. https://es.wikipedia.org/wiki/Especial:PáginasEspeciales
+ 117. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&oldid=163384913
+ 118. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=info
+ 119. https://es.wikipedia.org/w/index.php?title=Especial:Citar&page=Sistema_nervioso_periférico&id=163384913&wpFormIdentifier=titleform
+ 120. https://es.wikipedia.org/w/index.php?title=Especial:Acortador_de_URL&url=https://es.wikipedia.org/wiki/Sistema_nervioso_perif%C3%A9rico
+ 121. https://es.wikipedia.org/w/index.php?title=Especial:QrCode&url=https://es.wikipedia.org/wiki/Sistema_nervioso_perif%C3%A9rico
+ 122. https://es.wikipedia.org/w/index.php?title=Especial:Libro&bookcmd=book_creator&referer=Sistema+nervioso+periférico
+ 123. https://es.wikipedia.org/w/index.php?title=Especial:DownloadAsPdf&page=Sistema_nervioso_periférico&action=show-download-screen
+ 124. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&printable=yes
+ 125. https://commons.wikimedia.org/wiki/Category:Peripheral_nervous_system
+ 126. https://www.wikidata.org/wiki/Special:EntityPage/Q169953
+ 127. https://es.wikipedia.org/wiki/Archivo:Nervous_system_diagram-es.svg
+ 128. https://es.wikipedia.org/wiki/Terminologia_Anatomica
+ 129. https://www.unifr.ch/ifaa/Public/EntryPage/TA98 Tree/Entity TA98 EN/14.2.00.001 Entity TA98 EN.htm
+ 130. https://www.wikidata.org/wiki/Q169953
+ 131. https://es.wikipedia.org/wiki/Sistema_nervioso_central
+ 132. https://es.wikipedia.org/wiki/Encéfalo
+ 133. https://es.wikipedia.org/wiki/Médula_espinal
+ 134. https://es.wikipedia.org/wiki/Sistema_nervioso
+ 135. https://es.wikipedia.org/wiki/Nervio
+ 136. https://es.wikipedia.org/wiki/Ganglios_nerviosos
+ 137. https://es.wikipedia.org/wiki/Sistema_nervioso_central
+ 138. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_note-1
+ 139. https://es.wikipedia.org/wiki/Sistema_nervioso_central
+ 140. https://es.wikipedia.org/wiki/Cráneo
+ 141. https://es.wikipedia.org/wiki/Columna_vertebral
+ 142. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_note-2
+ 143. https://es.wikipedia.org/wiki/Nervio
+ 144. https://es.wikipedia.org/wiki/Sistema_nervioso_somático
+ 145. https://es.wikipedia.org/wiki/Sistema_nervioso_autónomo
+ 146. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_note-3
+ 147. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_note-4
+ 148. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit&section=1
+ 149. https://es.wikipedia.org/wiki/Archivo:Cervical_Spine_Computer_Generated_Image.png
+ 150. https://es.wikipedia.org/wiki/Arteria_vertebral
+ 151. https://es.wikipedia.org/wiki/Archivo:Sciatic_nerve2.jpg
+ 152. https://es.wikipedia.org/wiki/Nervio_ciático
+ 153. https://es.wikipedia.org/wiki/Nervios_espinales
+ 154. https://es.wikipedia.org/wiki/Sistema_nervioso_autónomo
+ 155. https://es.wikipedia.org/wiki/Archivo:Nervio_espinal.png
+ 156. https://es.wikipedia.org/wiki/Nervios_craneales
+ 157. https://es.wikipedia.org/wiki/Nervio_olfatorio
+ 158. https://es.wikipedia.org/wiki/Nervio_óptico
+ 159. https://es.wikipedia.org/wiki/Nervio_oculomotor
+ 160. https://es.wikipedia.org/wiki/Nervio_troclear
+ 161. https://es.wikipedia.org/wiki/Nervio_trigémino
+ 162. https://es.wikipedia.org/wiki/Nervio_abducens
+ 163. https://es.wikipedia.org/wiki/Nervio_facial
+ 164. https://es.wikipedia.org/wiki/Nervio_vestibulococlear
+ 165. https://es.wikipedia.org/wiki/Oído_interno
+ 166. https://es.wikipedia.org/wiki/Nervio_glosofaríngeo
+ 167. https://es.wikipedia.org/wiki/Nervio_vago
+ 168. https://es.wikipedia.org/wiki/Parasimpático
+ 169. https://es.wikipedia.org/wiki/Estómago
+ 170. https://es.wikipedia.org/wiki/Corazón_humano
+ 171. https://es.wikipedia.org/wiki/Nervio_accesorio
+ 172. https://es.wikipedia.org/wiki/Músculo_esternocleidomastoideo
+ 173. https://es.wikipedia.org/wiki/Nervio_hipogloso
+ 174. https://es.wikipedia.org/wiki/Nervio_olfatorio
+ 175. https://es.wikipedia.org/wiki/Nervio_trigémino
+ 176. https://es.wikipedia.org/wiki/Nervio_facial
+ 177. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit&section=2
+ 178. https://es.wikipedia.org/wiki/Archivo:Brachial_plexus_2_es.svg
+ 179. https://es.wikipedia.org/wiki/Plexo_cervical
+ 180. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_note-uno-5
+ 181. https://es.wikipedia.org/wiki/Plexo_braquial
+ 182. https://es.wikipedia.org/wiki/Nervio_cubital
+ 183. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_note-uno-5
+ 184. https://es.wikipedia.org/wiki/Plexo_lumbar
+ 185. https://es.wikipedia.org/wiki/Plexo_sacro
+ 186. https://es.wikipedia.org/wiki/Nervio_ciático
+ 187. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit&section=3
+ 188. https://es.wikipedia.org/wiki/Sistema_nervioso_central
+ 189. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit&section=4
+ 190. https://es.wikipedia.org/wiki/Archivo:Dermatomes_and_cutaneous_nerves_-_anterior.png
+ 191. https://es.wikipedia.org/wiki/Dermatoma
+ 192. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_note-6
+ 193. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit&section=5
+ 194. https://es.wikipedia.org/wiki/Nervio
+ 195. https://es.wikipedia.org/wiki/Ganglios_nerviosos
+ 196. https://es.wikipedia.org/wiki/Neuronas
+ 197. https://es.wikipedia.org/wiki/Ganglios_linfáticos
+ 198. https://es.wikipedia.org/wiki/Sistema_linfático
+ 199. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_note-7
+ 200. https://es.wikipedia.org/wiki/Archivo:Esquema_nervio.jpg
+ 201. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit&section=6
+ 202. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit&section=7
+ 203. https://es.wikipedia.org/wiki/Archivo:Carpal_Tunnel_Syndrome-es.png
+ 204. https://es.wikipedia.org/wiki/Neuritis
+ 205. https://es.wikipedia.org/wiki/Síndrome_del_túnel_del_carpo
+ 206. https://es.wikipedia.org/wiki/Nervio_mediano
+ 207. https://es.wikipedia.org/wiki/Polineuropatía_alcohólica
+ 208. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_note-ocho-8
+ 209. https://es.wikipedia.org/wiki/Fasciculación
+ 210. https://es.wikipedia.org/wiki/Tacto
+ 211. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_note-ocho-8
+ 212. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit&section=8
+ 213. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_ref-4
+ 214. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit&section=9
+ 215. https://es.wikipedia.org/wiki/Sistema_nervioso_central
+ 216. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&action=edit&section=10
+ 217. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_ref-1
+ 218. http://books.google.es/books?id=3tdLbY3FA4AC&pg=PA186&dq=sistema+nervioso+periférico+es&hl=es&ei=Hql3TOLLFMuMOM3RuOwG&sa=X&oi=book_result&ct=result&resnum=7&ved=0CFcQ6AEwBg#v=onepage&q=sistema nervioso periférico es&f=false
+ 219. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_ref-2
+ 220. https://archive.org/details/humanbiologyheal00scho/page/132
+ 221. https://archive.org/details/humanbiologyheal00scho/page/132
+ 222. https://es.wikipedia.org/wiki/ISBN
+ 223. https://es.wikipedia.org/wiki/Especial:FuentesDeLibros/0-13-981176-1
+ 224. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_ref-3
+ 225. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_ref-uno_5-0
+ 226. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_ref-uno_5-1
+ 227. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_ref-6
+ 228. http://www.hca.es/huca/web/enfermeria/html/f_archivos/Dermatoma.pdf
+ 229. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_ref-7
+ 230. https://www.infermeravirtual.com/files/media/file/99/Sistema nervioso.pdf?1358605492
+ 231. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_ref-ocho_8-0
+ 232. https://es.wikipedia.org/wiki/Sistema_nervioso_periférico#cite_ref-ocho_8-1
+ 233. https://espanol.ninds.nih.gov/trastornos/neuropatia_periferica.htm
+ 234. https://es.wikipedia.org/wiki/Wikimedia_Commons
+ 235. https://commons.wikimedia.org/wiki/Category:Peripheral_nervous_system
+ 236. https://es.wikipedia.org/wiki/Control_de_autoridades
+ 237. https://es.wikipedia.org/wiki/Wikidata
+ 238. https://www.wikidata.org/wiki/Q169953
+ 239. https://es.wikipedia.org/wiki/Wikimedia_Commons
+ 240. https://commons.wikimedia.org/wiki/Category:Peripheral_nervous_system
+ 241. https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search="Q169953"
+ 242. https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_España
+ 243. https://datos.bne.es/resource/XX532252
+ 244. https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_Francia
+ 245. https://catalogue.bnf.fr/ark:/12148/cb11932612m
+ 246. http://data.bnf.fr/ark:/12148/cb11932612m
+ 247. https://es.wikipedia.org/wiki/Gemeinsame_Normdatei
+ 248. https://d-nb.info/gnd/4173794-5
+ 249. https://es.wikipedia.org/wiki/Library_of_Congress_Control_Number
+ 250. https://id.loc.gov/authorities/sh85090903
+ 251. https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_la_República_Checa
+ 252. https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph124038
+ 253. https://es.wikipedia.org/wiki/Biblioteca_Nacional_de_Israel
+ 254. https://www.nli.org.il/en/authorities/987007565643105171
+ 255. https://es.wikipedia.org/wiki/Enciclopedia_Británica
+ 256. https://www.britannica.com/science/peripheral-nervous-system
+ 257. https://es.wikipedia.org/wiki/CIE-11
+ 258. https://icd.who.int/browse11/l-m/en#/http://id.who.int/icd/entity/759043230
+ 259. https://es.wikipedia.org/wiki/Medical_Subject_Headings
+ 260. https://meshb.nlm.nih.gov/record/ui?ui=D017933
+ 261. https://es.wikipedia.org/wiki/Terminología_Anatómica
+ 262. https://wikidata-externalid-url.toolforge.org/?p=1323&url_prefix=https://www.unifr.ch/ifaa/Public/EntryPage/TA98 Tree/Entity TA98 EN/&url_suffix= Entity TA98 EN.htm&id=A14.2.00.001
+ 263. https://es.wikipedia.org/wiki/Foundational_Model_of_Anatomy
+ 264. http://purl.org/sig/ont/fma/fma9093
+ 265. https://ncim-stage.nci.nih.gov/ncimbrowser/ConceptReport.jsp?dictionary=NCI Metathesaurus&code=C0206417
+ 266. https://es.wikipedia.org/wiki/Wikidata
+ 267. https://www.wikidata.org/wiki/Q169953
+ 268. https://es.wikipedia.org/wiki/Wikimedia_Commons
+ 269. https://commons.wikimedia.org/wiki/Category:Peripheral_nervous_system
+ 270. https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search="Q169953"
+ 271. https://es.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&oldid=163384913
+ 272. https://es.wikipedia.org/wiki/Especial:Categorías
+ 273. https://es.wikipedia.org/wiki/Categoría:Sistema_nervioso_periférico
+ 274. https://es.wikipedia.org/wiki/Categoría:Columna_vertebral
+ 275. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Artículos_con_identificadores_BNE
+ 276. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Artículos_con_identificadores_BNF
+ 277. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Artículos_con_identificadores_GND
+ 278. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Artículos_con_identificadores_LCCN
+ 279. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Artículos_con_identificadores_TA98
+ 280. https://es.wikipedia.org/wiki/Categoría:Wikipedia:Control_de_autoridades_con_14_elementos
+ 281. https://es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribución-CompartirIgual_4.0_Internacional
+ 282. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es
+ 283. https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/es
+ 284. https://wikimediafoundation.org/es/
+ 285. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/es
+ 286. https://es.wikipedia.org/wiki/Wikipedia:Acerca_de
+ 287. https://es.wikipedia.org/wiki/Wikipedia:Limitación_general_de_responsabilidad
+ 288. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 289. https://developer.wikimedia.org/
+ 290. https://stats.wikimedia.org/#/es.wikipedia.org
+ 291. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement/es
+ 292. https://es.m.wikipedia.org/w/index.php?title=Sistema_nervioso_periférico&mobileaction=toggle_view_mobile
+ 293. https://wikimediafoundation.org/
+ 294. https://www.mediawiki.org/
+
+   Liens cachés :
+ 296. https://es.wikipedia.org/wiki/Archivo:Head_olfactory_nerve.jpg
+ 297. https://es.wikipedia.org/wiki/Archivo:Head_deep_facial_trigeminal.jpg
+ 298. https://es.wikipedia.org/wiki/Archivo:Head_facial_nerve_branches.jpg
