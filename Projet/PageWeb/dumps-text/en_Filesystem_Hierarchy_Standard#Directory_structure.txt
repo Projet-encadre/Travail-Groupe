@@ -1,0 +1,1276 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Directory structure
+     * [30]2 FHS compliance
+     * [31]3 History
+       (BUTTON) Toggle History subsection
+          + [32]3.1 The name of usr
+          + [33]3.2 Release history
+     * [34]4 See also
+     * [35]5 Notes
+     * [36]6 References
+     * [37]7 External links
+
+   [ ] Toggle the table of contents
+
+Filesystem Hierarchy Standard
+
+   [ ] 24 languages
+     * [38]a+l+e+r+b+y+tm
+     * [39]B"lgarski
+     * [40]Català
+     * [41]Cestina
+     * [42]Dansk
+     * [43]Deutsch
+     * [44]Español
+     * [45]Esperanto
+     * [46]f+a+r+s+
+     * [47]Français
+     * [48]­´
+     * [49]Italiano
+     * [50]E+B+R+J+T+
+     * [51]Latviesu
+     * [52]Nederlands
+     * [53]¥¬
+     * [54]Polski
+     * [55]Português
+     * [56]Româna
+     * [57]Russkij
+     * [58]Suomi
+     * [59]Svenska
+     * [60]Ukrayins'ka
+     * [61]­
+
+   [62]Edit links
+
+     * [63]Article
+     * [64]Talk
+
+   [ ] English
+
+     * [65]Read
+     * [66]Edit
+     * [67]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [68]Read
+     * [69]Edit
+     * [70]View history
+
+   General
+     * [71]What links here
+     * [72]Related changes
+     * [73]Upload file
+     * [74]Special pages
+     * [75]Permanent link
+     * [76]Page information
+     * [77]Cite this page
+     * [78]Get shortened URL
+     * [79]Download QR code
+
+   Print/export
+     * [80]Download as PDF
+     * [81]Printable version
+
+   In other projects
+     * [82]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Linux standard for directory structure
+
+   CAPTION: Filesystem Hierarchy Standard
+
+   Abbreviation FHS
+   Status Published
+   Year started 14 February 1994; 30 years ago (1994-02-14)
+   Latest version 3.0
+   3 June 2015; 9 years ago (2015-06-03)
+   Organization [83]Linux Foundation
+   Domain [84]Directory structure
+   Website [85]Official website
+   [86]Official website (Historical)
+
+   The Filesystem Hierarchy Standard (FHS) is a reference describing the
+   conventions used for the layout of [87]Unix-like systems. It has been
+   made popular by its use in [88]Linux distributions, but it is used by
+   other Unix-like systems as well.^[89][1] It is maintained by the
+   [90]Linux Foundation. The latest version is 3.0, released on 3 June
+   2015.^[91][2]
+
+Directory structure
+
+   [[92]edit]
+   [93][300px-Ubuntu_Filesystem_Hierarchy.png] Typical [94]Ubuntu
+   filesystem hierarchy
+
+   In the FHS, all files and [95]directories appear under the [96]root
+   directory /, even if they are stored on different physical or virtual
+   devices. Some of these directories only exist in a particular system if
+   certain subsystems, such as the [97]X Window System, are installed.
+
+   Most of these directories exist in all [98]Unix-like operating systems
+   and are generally used in much the same way; however, the descriptions
+   here are those used specifically for the FHS and are not considered
+   authoritative for platforms other than Linux.
+   Directory Description
+   / Primary hierarchy root and [99]root directory of the entire file
+   system hierarchy.
+   /bin Essential command [100]binaries that need to be available in
+   [101]single-user mode, including to bring up the system or repair
+   it,^[102][3] for all users (e.g., [103]cat, [104]ls, [105]cp).
+   [106]/boot [107]Boot loader files (e.g., [108]kernels, [109]initrd).
+   [110]/dev [111]Device files (e.g., [112]/dev/null, /dev/disk0,
+   /dev/sda1, /dev/tty, [113]/dev/random).
+   /etc Host-specific system-wide [114]configuration files.
+
+   There has been controversy over the meaning of the name itself. In
+   early versions of the UNIX Implementation Document from Bell Labs, /etc
+   is referred to as the [115]etcetera directory,^[116][4] as this
+   directory historically held everything that did not belong elsewhere
+   (however, the FHS restricts /etc to static configuration files and may
+   not contain binaries).^[117][5] Since the publication of early
+   documentation, the directory name has been re-explained in various
+   ways. Recent interpretations include [118]backronyms such as "Editable
+   Text Configuration" or "Extended Tool Chest".^[119][6]
+   /etc/opt Configuration files for add-on packages stored in /opt.
+   /etc/sgml Configuration files, such as catalogs, for software that
+   processes [120]SGML.
+   /etc/X11 Configuration files for the [121]X Window System, version 11.
+   /etc/xml Configuration files, such as catalogs, for software that
+   processes [122]XML.
+   /home Users' [123]home directories, containing saved files, personal
+   settings, etc.
+   /lib [124]Libraries essential for the [125]binaries in /bin and /sbin.
+   /lib<qual> Alternate format essential libraries. These are typically
+   used on systems that support more than one executable code format, such
+   as systems supporting [126]32-bit and [127]64-bit versions of an
+   [128]instruction set. Such directories are optional, but if they exist,
+   they have some requirements.
+   /media Mount points for [129]removable media such as [130]CD-ROMs
+   (appeared in FHS-2.3 in 2004).
+   /mnt Temporarily [131]mounted filesystems.
+   /opt Add-on [132]application software [133]packages.^[134][7]
+   [135]/proc Virtual [136]filesystem providing [137]process and
+   [138]kernel information as files. In Linux, corresponds to a
+   [139]procfs mount. Generally, automatically generated and populated by
+   the system, on the fly.
+   /root [140]Home directory for the [141]root user.
+   /run Run-time variable data: Information about the running system since
+   last boot, e.g., currently logged-in users and running [142]daemons.
+   Files under this directory must be either removed or truncated at the
+   beginning of the boot process, but this is not necessary on systems
+   that provide this directory as a [143]temporary filesystem ([144]tmpfs)
+   (appeared in FHS-3.0 in 2015).
+   /sbin Essential system binaries (e.g., [145]fsck, [146]init,
+   [147]route).
+   /srv Site-specific data served by this system, such as data and scripts
+   for web servers, data offered by [148]FTP servers, and repositories for
+   [149]version control systems (appeared in FHS-2.3 in 2004).
+   /sys Contains information about devices, drivers, and some kernel
+   features.^[150][8]
+   /tmp [151]Directory for temporary files (see also /var/tmp). Often not
+   preserved between system reboots and may be severely size-restricted.
+   /usr Secondary hierarchy for read-only user data; contains the majority
+   of ([152]multi-)user utilities and applications. Should be shareable
+   and read-only.^[153][9]^[154][10]
+   /usr/bin Non-essential command [155]binaries (not needed in
+   [156]single-user mode); for all users.
+   /usr/include Standard [157]include files.
+   /usr/lib [158]Libraries for the [159]binaries in /usr/bin and
+   /usr/sbin.
+   /usr/libexec Binaries run by other programs that are not intended to be
+   executed directly by users or shell scripts (optional).
+   /usr/lib<qual> Alternative-format libraries (e.g., /usr/lib32 for
+   32-bit libraries on a 64-bit machine (optional)).
+   /usr/local Tertiary hierarchy for local data, specific to this host.
+   Typically has further subdirectories (e.g., bin, lib, share).^[160][NB
+   1]
+   /usr/sbin Non-essential system binaries (e.g., [161]daemons for various
+   [162]network services).
+   /usr/share Architecture-independent (shared) data.
+   /usr/src [163]Source code (e.g., the kernel source code with its header
+   files).
+   /usr/X11R6 [164]X Window System, Version 11, Release 6 (up to FHS-2.3,
+   optional).
+   /var Variable files: files whose content is expected to continually
+   change during normal operation of the system, such as logs, spool
+   files, and temporary e-mail files.
+   /var/cache Application cache data. Such data are locally generated as a
+   result of time-consuming I/O or calculation. The application must be
+   able to regenerate or restore the data. The cached files can be deleted
+   without loss of data.
+   /var/lib State information. Persistent data modified by programs as
+   they run (e.g., databases, packaging system metadata, etc.).
+   /var/lock Lock files. Files keeping track of resources currently in
+   use.
+   /var/log Log files. Various logs.
+   /var/mail Mailbox files. In some distributions, these files may be
+   located in the deprecated /var/spool/mail.
+   /var/opt Variable data from add-on packages that are stored in /opt.
+   /var/run Run-time variable data. This directory contains system
+   information data describing the system since it was booted.^[165][11]
+
+   In FHS 3.0, /var/run is replaced by /run; a system should either
+   continue to provide a /var/run directory or provide a symbolic link
+   from /var/run to /run for backwards compatibility.^[166][12]
+   /var/spool [167]Spool for tasks waiting to be processed (e.g., print
+   queues and outgoing mail queue).
+   /var/spool/mail [168]Deprecated location for users'
+   mailboxes.^[169][13]
+   /var/tmp Temporary files to be preserved between reboots.
+
+FHS compliance
+
+   [[170]edit]
+
+   Most [171]Linux distributions follow the Filesystem Hierarchy Standard
+   and declare it their own policy to maintain FHS
+   compliance.^[172][14]^[173][15]^[174][16]^[175][17]
+   [176]GoboLinux^[177][18] and [178]NixOS^[179][19] provide examples of
+   intentionally non-compliant filesystem implementations.
+
+   Some distributions generally follow the standard but deviate from it in
+   some areas. The FHS is a "trailing standard", and so documents common
+   practices at a point in time. Of course, times change, and distribution
+   goals and needs call for experimentation. Some common deviations
+   include:
+     * Modern Linux distributions include a /sys directory as a
+       [180]virtual filesystem ([181]sysfs, comparable to /proc, which is
+       a [182]procfs), which stores and allows modification of the devices
+       connected to the system,^[183][20] whereas many traditional
+       [184]Unix-like operating systems use /sys as a [185]symbolic link
+       to the [186]kernel source tree.^[187][21]
+     * Many modern Unix-like systems (such as [188]FreeBSD and
+       [189]OpenBSD) via their [190]ports systems install third-party
+       packages into /usr/local, while keeping code considered part of the
+       operating system in /usr.
+     * Some Linux distributions no longer differentiate between /lib and
+       /usr/lib and have /lib symlinked to /usr/lib.^[191][22]
+     * Some Linux distributions no longer differentiate between /bin and
+       /usr/bin and between /sbin and /usr/sbin. They may symlink /bin to
+       /usr/bin and /sbin to /usr/sbin. Other distributions choose to
+       consolidate all four, symlinking them to /usr/bin.^[192][23]
+
+   Modern Linux distributions include a /run directory as a [193]temporary
+   filesystem ([194]tmpfs), which stores volatile runtime data, following
+   the FHS version 3.0. According to the FHS version 2.3, such data were
+   stored in /var/run, but this was a problem in some cases because this
+   directory is not always available at early boot. As a result, these
+   programs have had to resort to trickery, such as using /dev/.udev,
+   /dev/.mdadm, /dev/.systemd or /dev/.mount directories, even though the
+   device directory is not intended for such data.^[195][24] Among other
+   advantages, this makes the system easier to use normally with the root
+   filesystem mounted read-only. For example, below are the changes
+   [196]Debian made in its 2013 Wheezy release:^[197][25]
+     * /dev/.* -> /run/*
+     * /dev/shm -> /run/shm
+     * /dev/shm/* -> /run/*
+     * /etc/* (writeable files) -> /run/*
+     * /lib/init/rw -> /run
+     * /var/lock -> /run/lock
+     * /var/run -> /run
+     * /tmp -> /run/tmp
+
+History
+
+   [[198]edit]
+
+The name of usr
+
+   [[199]edit]
+
+   /usr originally stood for "user".^[200][26] This was an artifact of
+   early Unix programming. Specifically, when [201]Ken Thompson and
+   [202]Dennis Ritchie were migrating Unix to a PDP-11, the contents of
+   the /bin and /lib directories, which were to be the first directories
+   mounted on startup and to contain all essentials for the OS to
+   function, became too large to fit on an [203]RK05 disk drive. So they
+   put some of those files on a second RK05, making sure that the first
+   drive contained everything required for loading the second one. The
+   rest of the files were put into the /usr directory.^[204][27] When they
+   got a third drive, users' files were moved to a new directory named
+   /home.^[205][28]
+
+   FHS was created as the FSSTND (short for "Filesystem
+   Standard"^[206][29]), largely based on similar standards for other
+   [207]Unix-like operating systems. Notable examples are these: the
+   hier(7) description of file system layout,^[208][30] which has existed
+   since the release of [209]Version 7 Unix (in 1979);^[210][31] the
+   [211]SunOS
+   filesystem(7)^[212][32] and its successor, the [213]Solaris
+   filesystem(7).^[214][33]^[215][34]
+
+Release history
+
+   [[216]edit]
+   Version Release date Notes
+   Old version, no longer maintained: 1.0 1994-02-14 FSSTND^[217][35]
+   Old version, no longer maintained: 1.1 1994-10-09 FSSTND^[218][36]
+   Old version, no longer maintained: 1.2 1995-03-28 FSSTND^[219][37]
+   Old version, no longer maintained: 2.0 1997-10-26 FHS 2.0 is the direct
+   successor for FSSTND 1.2. Name of the standard was changed to
+   Filesystem Hierarchy Standard.^[220][38]^[221][39]^[222][40]
+   Old version, no longer maintained: 2.1 2000-04-12
+   FHS^[223][41]^[224][42]^[225][43]
+   Old version, no longer maintained: 2.2 2001-05-23 FHS^[226][44]
+   Old version, no longer maintained: 2.3 2004-01-29 FHS^[227][45]
+   Current stable version: 3.0 2015-05-18 FHS^[228][46]
+   Legend:
+   Old version
+   Old version, still maintained
+   Latest version
+   Latest preview version
+   Future release
+
+See also
+
+   [[229]edit]
+     * [230]Hierarchical file system
+     * [231]Unix directory structure
+     * [232]XDG Base Directory Specification
+
+Notes
+
+   [[233]edit]
+    1. [234]^ Historically and strictly according to the standard,
+       /usr/local is for data that must be stored on the local host (as
+       opposed to /usr, which may be mounted across a network). Most of
+       the time /usr/local is used for installing software/data that are
+       not part of the standard operating system distribution (in such
+       case, /usr would only contain software/data that are part of the
+       standard operating system distribution). It is possible that the
+       FHS standard may in the future be changed to reflect this de facto
+       convention.
+
+References
+
+   [[235]edit]
+    1. [236]^ [237]"FHS". The Linux Foundation Wiki. Retrieved 4 January
+       2022.
+    2. [238]^ [239]"lsb:fhs-30 [Wiki]". wiki.linuxfoundation.org.
+       Retrieved 22 February 2023.
+    3. [240]^ [241]"hier(7) - Linux manual page". man7.org. Retrieved 6
+       January 2021.
+    4. [242]^ J. DeFelicc (17 March 1972). "E.0". [243]Preliminary Release
+       of UNIX Implementation Document (PDF). p. 8. IMO.1-1. Retrieved 6
+       June 2024.
+    5. [244]^ [245]"/etc : Host-specific system configuration". Filesystem
+       Hierarchy Standard 2.3. Retrieved 18 February 2016.
+    6. [246]^ [247]Define - /etc?, Posted by Cliff, 3 March 2007 -
+       Slashdot.
+    7. [248]^ [249]"/opt : Add-on application software packages".
+       Filesystem Hierarchy Standard 2.3. Retrieved 18 February 2016.
+    8. [250]^ [251]"/sys : Kernel and system information virtual
+       filesystem". Filesystem Hierarchy Standard 3.0. Retrieved 4 June
+       2017.
+    9. [252]^ [253]"Chapter 4. The /usr Hierarchy". Filesystem Hierarchy
+       Standard 2.3.
+   10. [254]^ [255]"Chapter 4. The /usr Hierarchy, Section 4.1 Purpose".
+       Filesystem Hierarchy Standard 3.0.
+   11. [256]^ [257]"/var/run : Run-time variable data". Filesystem
+       Hierarchy Standard 2.3.
+   12. [258]^ [259]"5.13. /var/run : Run-time variable data". Filesystem
+       Hierarchy Standard 3.0.
+   13. [260]^ [261]"File System Standard" (PDF). Linux Foundation.
+       p. 5.11.1.
+   14. [262]^ [263]Red Hat reference guide on [264]file system structure.
+   15. [265]^ [266]SuSE Linux Enterprise Server Administration, Novell
+       authorized courseware, by Jason W. Eckert, Novell; Course
+       Technology, 2006; [267]ISBN [268]1-4188-3731-8,
+
+   [269]ISBN [270]978-1-4188-3731-0.
+
+     [271]^ [272]Debian policy on [273]FHS compliance.
+
+     [274]^ [275]Ubuntu [276]Linux File system Tree Overview - Community
+   Ubuntu Documentation.
+
+     [277]^ Hisham Muhammad (9 May 2003). [278]"The Unix tree rethought:
+   an introduction to GoboLinux". Retrieved 4 October 2016.
+
+     [279]^ Dolstra, E.; Löh, A. (September 2008). [280]NixOS: A Purely
+   Functional Linux Distribution (PDF). [281]ICFP 2008: 13th ACM SIGPLAN
+   International Conference on Functional Programming. Victoria, British
+   Columbia, Canada. pp. 367-378.
+
+     [282]^ [283]"5.3 About the /sys Virtual File System".
+   docs.oracle.com. Oracle. Archived from [284]the original on 8 July
+   2016. Retrieved 8 July 2016.
+
+     [285]^ Lehey, Greg (May 2003). [286]The Complete FreeBSD:
+   Documentation from the Source (Fourth ed.). O'Reilly Media,
+   Incorporated. pp. 188, 609. [287]ISBN [288]9780596005160.
+
+     [289]^ Allan McRae. [290]"Arch Linux - News: The /lib directory
+   becomes a symlink". archlinux.org. [291]Archived from the original on 9
+   September 2014. Retrieved 14 December 2019.
+
+     [292]^ Allan McRae. [293]"Arch Linux - News: Binaries move to
+   /usr/bin requiring update intervention". archlinux.org. [294]Archived
+   from the original on 10 September 2014. Retrieved 15 December 2019.
+
+     [295]^ Lennart Poettering (30 March 2011). [296]"What's this /run
+   directory doing on my system and where does it come from?".
+   devel@lists.fedoraproject.org (Mailing list).
+
+     [297]^ [298]"ReleaseGoalsRunDirectory". Debian Wiki.
+
+     [299]^ [300]"/usr". tldp.org. Retrieved 10 December 2023.
+
+     [301]^ [302]M. D. McIlroy (1987). [303]"A Research Unix reader:
+   annotated excerpts from the Programmer's Manual, 1971-1986" (PDF). Bell
+   Labs. CSTR 139.
+
+     [304]^ Landley, Rob (9 December 2010). [305]"Understanding the bin,
+   sbin, usr/bin , usr/sbin split". busybox (Mailing list).
+
+     [306]^ [307]"FSSTND FAQ page". Retrieved 10 May 2016.
+
+     [308]^ [309]hier(7) - [310]FreeBSD Miscellaneous Information
+   [311]Manual.
+
+     [312]^ [313]hier(7) - [314]Version 7 Unix Programmer's [315]Manual
+
+     [316]^ [317]SunOS 4.1.3 manual page for filesystem(7), dated 10
+   January 1988 (from the FreeBSD Man Pages library).
+
+     [318]^ [319]filesystem(7) - [320]Solaris 11.4 Standards,
+   Environments, Macros, Character Sets, and Miscellany Reference
+   [321]Manual.
+
+     [322]^ [323]"filesystem man page - Solaris 10 11/06 Man Pages".
+   Archived from [324]the original on 4 July 2007. Retrieved 15 October
+   2011.
+
+     [325]^ [326]"Index of /pub/Linux/docs/fsstnd/old/fsstnd-1.0/".
+   Ibiblio.org. Retrieved 16 October 2012.
+
+     [327]^ [328]"Index of /pub/Linux/docs/fsstnd/old/fsstnd-1.1/".
+   Ibiblio.org. Retrieved 16 October 2012.
+
+     [329]^ [330]"Index of /pub/Linux/docs/fsstnd/old/". Ibiblio.org.
+   Retrieved 16 October 2012.
+
+     [331]^ [332]"FHS 2.0 Announcement". Pathname.com. Retrieved 16
+   October 2012.
+
+     [333]^ Quinlan, Daniel (14 March 2012) [1997], [334]"FHS 2.0
+   Announcement", BSD, Linux, Unix and The Internet - Research by Kenneth
+   R. Saborio, San Jose, Costa Rica: Kenneth R. Saborio, archived from
+   [335]the original on 5 March 2016, retrieved 18 February 2016.
+
+     [336]^ [337]"Index of /pub/Linux/docs/fsstnd/". Ibiblio.org.
+   Retrieved 16 October 2012.
+
+     [338]^ [339]"FHS 2.1 Announcement". Pathname.com. Retrieved 16
+   October 2012.
+
+     [340]^ [341]"FHS 2.1 is released". Lists.debian.org. 13 April 2000.
+   Retrieved 16 October 2012.
+
+     [342]^ Quinlan, Daniel (12 April 2000). [343]"Filesystem Hierarchy
+   Standard - Version 2.1, Filesystem Hierarchy Standard Group" (PDF).
+   Acadia Linux Tutorials. Wolfville, Nova Scotia, Canada: Jodrey School
+   of Computer Science, [344]Acadia University. Archived from [345]the
+   original (PDF) on 27 March 2012. Retrieved 18 October 2012.
+
+     [346]^ [347]Russell, Rusty; Quinlan, Daniel, eds. (23 May 2001).
+   [348]"Filesystem Hierarchy Standard - Version 2.2 final Filesystem
+   Hierarchy Standard Group" (PDF). Filesystem Hierarchy Standard.
+   Retrieved 18 February 2016.
+
+     [349]^ [350]Russell, Rusty; Quinlan, Daniel; Yeoh, Christopher, eds.
+   (28 January 2004). [351]"Filesystem Hierarchy Standard - Filesystem
+   Hierarchy Standard Group" (PDF). Retrieved 29 November 2014.
+
+     [352]^ Yeoh, Christopher; Russell, Rusty; Quinlan, Daniel, eds. (19
+   March 2015). [353]"Filesystem Hierarchy Standard" (PDF). [354]The Linux
+   Foundation. Retrieved 20 May 2015.
+
+External links
+
+   [[355]edit]
+
+     * [356]Official Home of the Filesystem Hierarchy Standard (FHS) at
+       The Linux Foundation
+          + [357]Full specification texts
+     * [358]objectroot - a proposal for a new filesystem hierarchy, based
+       on object-oriented design principles
+     * The Dotted Standard Filename Hierarchy, yet another very different
+       hierarchy (used in cLIeNUX) ([359]mirror)
+     * [360]hier(7) - [361]Linux Programmer's [362]Manual - Overview,
+       Conventions and Miscellanea
+
+     * [363]v
+     * [364]t
+     * [365]e
+
+   [366]Computer files
+
+   Types
+
+     * [367]Binary file / [368]text file
+     * [369]Data file
+     * [370]File format
+          + [371]List of file formats
+          + [372]File signatures
+          + [373]Magic number
+          + [374]Open file formats
+          + [375]Proprietary file formats
+     * [376]Metafile
+     * [377]Sidecar file
+     * [378]Sparse file
+     * [379]Swap file
+     * [380]System file
+     * [381]Temporary file
+     * [382]Zero-byte file
+
+   Properties
+
+     * [383]Filename
+          + [384]8.3 filename
+          + [385]Long filename
+          + [386]Filename mangling
+     * [387]Filename extension
+          + [388]List of filename extensions
+     * [389]File attribute
+          + [390]Extended file attributes
+     * [391]File size
+     * [392]Hidden file / Hidden directory
+
+   Organisation
+
+     * [393]Directory/folder
+          + [394]NTFS links
+          + [395]Temporary folder
+     * [396]Directory structure
+     * [397]File system
+          + Filesystem Hierarchy Standard
+          + [398]Grid file system
+          + [399]Semantic file system
+     * [400]Path
+
+   [401]Operations
+
+     * [402]Open
+     * [403]Close
+     * [404]Read
+     * [405]Write
+
+   Linking
+
+     * [406]File descriptor
+     * [407]Hard link
+     * [408]Shortcut
+          + [409]Alias
+          + [410]Shadow
+     * [411]Symbolic link
+
+   Management
+
+     * [412]Backup
+     * [413]File comparison
+     * [414]File copying
+     * [415]Data compression
+     * [416]File manager
+          + [417]Comparison of file managers
+     * [418]File system fragmentation
+     * [419]File-system permissions
+     * [420]File transfer
+          + [421]File sharing
+          + [422]File synchronization
+     * [423]File verification
+
+     * [424]v
+     * [425]t
+     * [426]e
+
+   [427]Linux
+
+   [428]Linux kernel
+
+     * [429]History
+     * [430]Linus's law
+     * [431]Linux-libre
+     * [432]Booting process
+     * [433]Kernel oops
+     * [434]Tux
+     * [435]more...
+
+   Controversies
+
+     * [436]Criticism of Linux
+     * [437]Criticism of desktop Linux
+     * [438]GNU/Linux naming controversy
+     * [439]Tanenbaum-Torvalds debate
+     * [440]SCO and Linux
+
+   [441]Distributions
+
+     * [442]General comparison
+     * [443]Distributions list
+     * [444]Netbook-specific comparison
+     * [445]Distributions that run from RAM
+     * [446]Lightweight
+     * [447]Security-focused operating system
+     * [448]Package manager
+          + [449]Package format
+          + [450]List of software package managers
+
+   Organizations
+
+     * [451]LinuxChix
+     * [452]Linux Counter
+     * [453]Linux Documentation Project
+     * [454]Linux Foundation
+     * [455]Linux Mark Institute
+     * [456]Linux User Group (LUG)
+
+   [457]Adoption
+
+     * [458]Adopters
+     * [459]Desktop
+     * [460]Embedded
+     * [461]Gaming
+     * [462]Mobile
+     * [463]Range of use
+     * [464]Linux malware
+
+   Media
+
+     * [465]DistroWatch
+     * [466]Free Software Magazine
+     * [467]Full Circle
+     * [468]Hacker Public Radio
+     * [469]Linux.com
+     * [470]Linux Format
+     * [471]Linux Gazette
+     * [472]Linux Journal
+     * [473]Linux Magazine
+     * [474]LinuxUser
+          + [475]Ubuntu User
+     * [476]Linux Outlaws
+     * [477]Linux Voice
+     * [478]LugRadio
+     * [479]LWN.net
+     * [480]Phoronix
+     * [481]Revolution OS
+     * [482]The Code
+
+   [483]Professional related certifications
+
+     * [484]CompTIA Linux+
+     * [485]Linux Foundation
+     * [486]Red Hat
+     * [487]Ubuntu
+
+     * [488]icon [489]Linux portal
+     * [490]Free and open-source software portal
+     * [491]Category
+
+   Retrieved from
+   "[492]https://en.wikipedia.org/w/index.php?title=Filesystem_Hierarchy_S
+   tandard&oldid=1267327485"
+
+   [493]Categories:
+     * [494]Computer standards
+     * [495]File system directories
+     * [496]Linux
+     * [497]System administration
+     * [498]Unix file system technology
+
+   Hidden categories:
+     * [499]Articles with short description
+     * [500]Short description is different from Wikidata
+     * [501]Use dmy dates from November 2021
+     * [502]Official website different in Wikidata and Wikipedia
+
+     * This page was last edited on 4 January 2025, at 16:55 (UTC).
+     * Text is available under the [503]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [504]Terms of Use and
+       [505]Privacy Policy. Wikipedia® is a registered trademark of the
+       [506]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [507]Privacy policy
+     * [508]About Wikipedia
+     * [509]Disclaimers
+     * [510]Contact Wikipedia
+     * [511]Code of Conduct
+     * [512]Developers
+     * [513]Statistics
+     * [514]Cookie statement
+     * [515]Mobile view
+
+     * [516]Wikimedia Foundation
+     * [517]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+   2. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Filesystem+Hierarchy+Standard
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Filesystem+Hierarchy+Standard
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Filesystem+Hierarchy+Standard
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Filesystem+Hierarchy+Standard
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html
+  29. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#Directory_structure
+  30. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#FHS_compliance
+  31. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#History
+  32. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#The_name_of_usr
+  33. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#Release_history
+  34. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#See_also
+  35. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#Notes
+  36. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#References
+  37. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#External_links
+  38. https://ar.wikipedia.org/wiki/%D8%AA%D8%B3%D9%84%D8%B3%D9%84_%D9%87%D8%B1%D9%85%D9%8A_%D9%82%D9%8A%D8%A7%D8%B3%D9%8A_%D9%84%D9%86%D8%B8%D8%A7%D9%85_%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA
+  39. https://bg.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82_%D0%B7%D0%B0_%D0%B9%D0%B5%D1%80%D0%B0%D1%80%D1%85%D0%B8%D1%8F_%D0%BD%D0%B0_%D1%84%D0%B0%D0%B9%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0
+  40. https://ca.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  41. https://cs.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  42. https://da.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  43. https://de.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  44. https://es.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  45. https://eo.wikipedia.org/wiki/Norma_hierarkio_de_dosierujoj_en_Unikso
+  46. https://fa.wikipedia.org/wiki/%D8%A7%D8%B3%D8%AA%D8%A7%D9%86%D8%AF%D8%A7%D8%B1%D8%AF_%D8%B3%D9%84%D8%B3%D9%84%D9%87%E2%80%8C%D9%85%D8%B1%D8%A7%D8%AA%D8%A8_%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%E2%80%8C%D9%81%D8%A7%DB%8C%D9%84
+  47. https://fr.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  48. https://ko.wikipedia.org/wiki/%ED%8C%8C%EC%9D%BC%EC%8B%9C%EC%8A%A4%ED%85%9C_%EA%B3%84%EC%B8%B5%EA%B5%AC%EC%A1%B0_%ED%91%9C%EC%A4%80
+  49. https://it.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  50. https://he.wikipedia.org/wiki/%D7%AA%D7%A7%D7%9F_%D7%94%D7%99%D7%A8%D7%A8%D7%9B%D7%99%D7%99%D7%AA_%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%94%D7%A7%D7%91%D7%A6%D7%99%D7%9D
+  51. https://lv.wikipedia.org/wiki/Failu_sist%C4%93mas_hierarhijas_standarts
+  52. https://nl.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  53. https://ja.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  54. https://pl.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  55. https://pt.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  56. https://ro.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  57. https://ru.wikipedia.org/wiki/FHS
+  58. https://fi.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  59. https://sv.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  60. https://uk.wikipedia.org/wiki/Filesystem_Hierarchy_Standard
+  61. https://zh.wikipedia.org/wiki/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84%E6%A0%87%E5%87%86
+  62. https://www.wikidata.org/wiki/Special:EntityPage/Q14670#sitelinks-wikipedia
+  63. file:///wiki/Filesystem_Hierarchy_Standard
+  64. file:///wiki/Talk:Filesystem_Hierarchy_Standard
+  65. file:///wiki/Filesystem_Hierarchy_Standard
+  66. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit
+  67. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=history
+  68. file:///wiki/Filesystem_Hierarchy_Standard
+  69. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit
+  70. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=history
+  71. file:///wiki/Special:WhatLinksHere/Filesystem_Hierarchy_Standard
+  72. file:///wiki/Special:RecentChangesLinked/Filesystem_Hierarchy_Standard
+  73. file:///wiki/Wikipedia:File_Upload_Wizard
+  74. file:///wiki/Special:SpecialPages
+  75. file:///w/index.php?title=Filesystem_Hierarchy_Standard&oldid=1267327485
+  76. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=info
+  77. file:///w/index.php?title=Special:CiteThisPage&page=Filesystem_Hierarchy_Standard&id=1267327485&wpFormIdentifier=titleform
+  78. file:///w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFilesystem_Hierarchy_Standard
+  79. file:///w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFilesystem_Hierarchy_Standard
+  80. file:///w/index.php?title=Special:DownloadAsPdf&page=Filesystem_Hierarchy_Standard&action=show-download-screen
+  81. file:///w/index.php?title=Filesystem_Hierarchy_Standard&printable=yes
+  82. https://www.wikidata.org/wiki/Special:EntityPage/Q14670
+  83. file:///wiki/Linux_Foundation
+  84. file:///wiki/Directory_structure
+  85. https://refspecs.linuxfoundation.org/fhs.shtml
+  86. http://www.pathname.com/fhs/
+  87. file:///wiki/Unix-like
+  88. file:///wiki/Linux_distribution
+  89. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-1
+  90. file:///wiki/Linux_Foundation
+  91. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-2
+  92. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit&section=1
+  93. file:///wiki/File:Ubuntu_Filesystem_Hierarchy.png
+  94. file:///wiki/Ubuntu
+  95. file:///wiki/Directory_(file_systems)
+  96. file:///wiki/Root_directory
+  97. file:///wiki/X_Window_System
+  98. file:///wiki/Unix-like
+  99. file:///wiki/Root_directory
+ 100. file:///wiki/Executable
+ 101. file:///wiki/Single-user_mode
+ 102. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-3
+ 103. file:///wiki/Cat_(Unix)
+ 104. file:///wiki/Ls
+ 105. file:///wiki/Cp_(Unix)
+ 106. file:///wiki/Boot_folder
+ 107. file:///wiki/Boot_loader
+ 108. file:///wiki/Kernel_(operating_system)
+ 109. file:///wiki/Initrd
+ 110. file:///wiki//dev
+ 111. file:///wiki/Device_file
+ 112. file:///wiki/Null_device
+ 113. file:///wiki//dev/random
+ 114. file:///wiki/Configuration_file
+ 115. file:///wiki/Et_cetera
+ 116. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-4
+ 117. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-/etc-5
+ 118. file:///wiki/Backronym
+ 119. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-6
+ 120. file:///wiki/SGML
+ 121. file:///wiki/X_Window_System
+ 122. file:///wiki/XML
+ 123. file:///wiki/Home_directory
+ 124. file:///wiki/Library_(computer_science)
+ 125. file:///wiki/Binaries
+ 126. file:///wiki/32-bit
+ 127. file:///wiki/64-bit
+ 128. file:///wiki/Instruction_set
+ 129. file:///wiki/Removable_media
+ 130. file:///wiki/CD-ROM
+ 131. file:///wiki/Mount_(computing)
+ 132. file:///wiki/Application_software
+ 133. file:///wiki/Software_package_(installation)
+ 134. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-/opt-7
+ 135. file:///wiki//proc
+ 136. file:///wiki/File_system
+ 137. file:///wiki/Process_(computing)
+ 138. file:///wiki/Kernel_(operating_system)
+ 139. file:///wiki/Procfs
+ 140. file:///wiki/Home_directory
+ 141. file:///wiki/Superuser
+ 142. file:///wiki/Daemon_(computer_software)
+ 143. file:///wiki/Temporary_filesystem
+ 144. file:///wiki/Tmpfs
+ 145. file:///wiki/Fsck
+ 146. file:///wiki/Init
+ 147. file:///wiki/Route_(command)
+ 148. file:///wiki/FTP
+ 149. file:///wiki/Version_control_systems
+ 150. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-/sys-8
+ 151. file:///wiki/Temporary_folder
+ 152. file:///wiki/Multi-user
+ 153. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-9
+ 154. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-10
+ 155. file:///wiki/Executable
+ 156. file:///wiki/Single-user_mode
+ 157. file:///wiki/Header_file
+ 158. file:///wiki/Library_(computer_science)
+ 159. file:///wiki/Binaries
+ 160. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-11
+ 161. file:///wiki/Daemon_(computer_software)
+ 162. file:///wiki/Network_service
+ 163. file:///wiki/Source_code
+ 164. file:///wiki/X_Window_System
+ 165. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-12
+ 166. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-13
+ 167. file:///wiki/Spooling
+ 168. file:///wiki/Deprecated
+ 169. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-14
+ 170. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit&section=2
+ 171. file:///wiki/Linux_distribution
+ 172. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-15
+ 173. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-16
+ 174. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-17
+ 175. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-18
+ 176. file:///wiki/GoboLinux
+ 177. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-19
+ 178. file:///wiki/NixOS
+ 179. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-20
+ 180. file:///wiki/Virtual_filesystem
+ 181. file:///wiki/Sysfs
+ 182. file:///wiki/Procfs
+ 183. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-21
+ 184. file:///wiki/Unix-like
+ 185. file:///wiki/Symbolic_link
+ 186. file:///wiki/Kernel_(operating_system)
+ 187. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-22
+ 188. file:///wiki/FreeBSD
+ 189. file:///wiki/OpenBSD
+ 190. file:///wiki/Ports_collection
+ 191. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-23
+ 192. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-24
+ 193. file:///wiki/Temporary_filesystem
+ 194. file:///wiki/Tmpfs
+ 195. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-25
+ 196. file:///wiki/Debian
+ 197. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-26
+ 198. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit&section=3
+ 199. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit&section=4
+ 200. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-27
+ 201. file:///wiki/Ken_Thompson
+ 202. file:///wiki/Dennis_Ritchie
+ 203. file:///wiki/RK05
+ 204. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-28
+ 205. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-29
+ 206. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-30
+ 207. file:///wiki/Unix-like
+ 208. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-31
+ 209. file:///wiki/Version_7_Unix
+ 210. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-32
+ 211. file:///wiki/SunOS
+ 212. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-33
+ 213. file:///wiki/Solaris_(operating_system)
+ 214. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-34
+ 215. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-35
+ 216. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit&section=5
+ 217. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-36
+ 218. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-37
+ 219. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-38
+ 220. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-39
+ 221. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-Saborio-40
+ 222. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-41
+ 223. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-42
+ 224. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-43
+ 225. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-jdiamond-44
+ 226. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-fhs-2.2-45
+ 227. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-fhs-2.3-46
+ 228. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_note-47
+ 229. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit&section=6
+ 230. file:///wiki/Hierarchical_file_system
+ 231. file:///wiki/Unix_directory_structure
+ 232. file:///wiki/Freedesktop.org#Base_Directory_Specification
+ 233. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit&section=7
+ 234. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-11
+ 235. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit&section=8
+ 236. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-1
+ 237. https://wiki.linuxfoundation.org/lsb/fhs
+ 238. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-2
+ 239. https://wiki.linuxfoundation.org/lsb/fhs-30
+ 240. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-3
+ 241. https://man7.org/linux/man-pages/man7/hier.7.html
+ 242. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-4
+ 243. http://www.bitsavers.org/pdf/att/unix/Early_UNIX/PreliminaryUnixImplementationDocument_Jun72.pdf
+ 244. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-/etc_5-0
+ 245. http://www.pathname.com/fhs/pub/fhs-2.3.html#ETCHOSTSPECIFICSYSTEMCONFIGURATION
+ 246. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-6
+ 247. http://ask.slashdot.org/article.pl?sid=07/03/03/028258
+ 248. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-/opt_7-0
+ 249. http://www.pathname.com/fhs/pub/fhs-2.3.html#OPTADDONAPPLICATIONSOFTWAREPACKAGES
+ 250. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-/sys_8-0
+ 251. https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch06.html#sysKernelAndSystemInformation
+ 252. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-9
+ 253. https://refspecs.linuxfoundation.org/FHS_2.3/fhs-2.3.html#THEUSRHIERARCHY
+ 254. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-10
+ 255. https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.html#purpose18
+ 256. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-12
+ 257. https://refspecs.linuxfoundation.org/FHS_2.3/fhs-2.3.html#VARRUNRUNTIMEVARIABLEDATA
+ 258. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-13
+ 259. https://refspecs.linuxfoundation.org/FHS_3.0/fhs/ch05s13.html
+ 260. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-14
+ 261. https://refspecs.linuxfoundation.org/FHS_2.3/fhs-2.3.pdf
+ 262. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-15
+ 263. file:///wiki/Red_Hat
+ 264. https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html-single/Storage_Administration_Guide/index.html#s1-filesystem-fhs
+ 265. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-16
+ 266. file:///wiki/SuSE_Linux
+ 267. file:///wiki/ISBN_(identifier)
+ 268. file:///wiki/Special:BookSources/1-4188-3731-8
+ 269. file:///wiki/ISBN_(identifier)
+ 270. file:///wiki/Special:BookSources/978-1-4188-3731-0
+ 271. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-17
+ 272. file:///wiki/Debian
+ 273. https://www.debian.org/doc/debian-policy/#file-system-hierarchy
+ 274. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-18
+ 275. file:///wiki/Ubuntu
+ 276. https://help.ubuntu.com/community/LinuxFilesystemTreeOverview
+ 277. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-19
+ 278. http://www.gobolinux.org/?page=k5
+ 279. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-20
+ 280. https://nixos.org/~eelco/pubs/nixos-icfp2008-final.pdf
+ 281. http://www.icfpconference.org/icfp2008/
+ 282. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-21
+ 283. https://web.archive.org/web/20160708193213/https://docs.oracle.com/cd/E37670_01/E41138/html/ol_sysfs.html
+ 284. http://docs.oracle.com/cd/E37670_01/E41138/html/ol_sysfs.html
+ 285. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-22
+ 286. https://books.google.com/books?id=7Y5kfaRmtKUC
+ 287. file:///wiki/ISBN_(identifier)
+ 288. file:///wiki/Special:BookSources/9780596005160
+ 289. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-23
+ 290. https://www.archlinux.org/news/the-lib-directory-becomes-a-symlink/
+ 291. https://web.archive.org/web/20140909234433/https://www.archlinux.org/news/the-lib-directory-becomes-a-symlink/
+ 292. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-24
+ 293. https://www.archlinux.org/news/binaries-move-to-usrbin-requiring-update-intervention/
+ 294. https://web.archive.org/web/20140910093202/https://www.archlinux.org/news/binaries-move-to-usrbin-requiring-update-intervention/
+ 295. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-25
+ 296. https://www.mail-archive.com/devel@lists.fedoraproject.org/msg23576.html
+ 297. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-26
+ 298. http://wiki.debian.org/ReleaseGoals/RunDirectory
+ 299. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-27
+ 300. https://tldp.org/LDP/Linux-Filesystem-Hierarchy/html/usr.html
+ 301. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-28
+ 302. file:///wiki/Doug_McIlroy
+ 303. http://www.cs.dartmouth.edu/~doug/reader.pdf
+ 304. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-29
+ 305. http://lists.busybox.net/pipermail/busybox/2010-December/074114.html
+ 306. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-30
+ 307. http://www.ibiblio.org/pub/Linux/docs/fsstnd/old/FSSTND-FAQ
+ 308. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-31
+ 309. https://www.freebsd.org/cgi/man.cgi?query=hier&sektion=7
+ 310. file:///wiki/FreeBSD
+ 311. file:///wiki/Man_page
+ 312. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-32
+ 313. http://man.cat-v.org/unix_7th/7/hier
+ 314. file:///wiki/Version_7_Unix
+ 315. file:///wiki/Man_page
+ 316. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-33
+ 317. http://www.freebsd.org/cgi/man.cgi?query=filesystem&manpath=SunOS+4.1.3
+ 318. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-34
+ 319. https://docs.oracle.com/cd/E88353_01/html/E37853/filesystem-7.html
+ 320. file:///wiki/Solaris_(operating_system)
+ 321. file:///wiki/Man_page
+ 322. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-35
+ 323. https://archive.today/20070704090908/http://manpages.unixforum.co.uk/man-pages/unix/solaris-10-11_06/5/filesystem-man-page.html
+ 324. http://manpages.unixforum.co.uk/man-pages/unix/solaris-10-11_06/5/filesystem-man-page.html
+ 325. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-36
+ 326. http://www.ibiblio.org/pub/Linux/docs/fsstnd/old/fsstnd-1.0/
+ 327. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-37
+ 328. http://www.ibiblio.org/pub/Linux/docs/fsstnd/old/fsstnd-1.1/
+ 329. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-38
+ 330. http://www.ibiblio.org/pub/Linux/docs/fsstnd/old/
+ 331. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-39
+ 332. http://www.pathname.com/fhs/announce-2.0.html
+ 333. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-Saborio_40-0
+ 334. https://web.archive.org/web/20160305100804/http://www.informatica.co.cr/linux/research/1997/1117.htm
+ 335. http://www.informatica.co.cr/linux/research/1997/1117.htm
+ 336. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-41
+ 337. http://www.ibiblio.org/pub/Linux/docs/fsstnd/
+ 338. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-42
+ 339. http://www.pathname.com/fhs/announce-2.1.html
+ 340. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-43
+ 341. http://lists.debian.org/lsb-spec/2000/04/msg00005.html
+ 342. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-jdiamond_44-0
+ 343. https://web.archive.org/web/20120327075156/http://cs.acadiau.ca/~jdiamond/Acadia-Linux-template-tutorial/resources/fhs-2.1.pdf
+ 344. file:///wiki/Acadia_University
+ 345. http://cs.acadiau.ca/~jdiamond/Acadia-Linux-template-tutorial/resources/fhs-2.1.pdf
+ 346. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-fhs-2.2_45-0
+ 347. file:///wiki/Rusty_Russell
+ 348. http://www.pathname.com/fhs/pub/fhs-2.2.pdf
+ 349. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-fhs-2.3_46-0
+ 350. file:///wiki/Rusty_Russell
+ 351. https://refspecs.linuxfoundation.org/FHS_2.3/fhs-2.3.pdf
+ 352. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Filesystem_Hierarchy_Standard%23Directory_structure.html#cite_ref-47
+ 353. https://refspecs.linuxfoundation.org/FHS_3.0/fhs-3.0.pdf
+ 354. file:///wiki/The_Linux_Foundation
+ 355. file:///w/index.php?title=Filesystem_Hierarchy_Standard&action=edit&section=9
+ 356. https://wiki.linuxfoundation.org/lsb/fhs
+ 357. https://refspecs.linuxfoundation.org/fhs.shtml
+ 358. http://objectroot.org/
+ 359. https://web.archive.org/web/20050508015157/http://ftp.gwdg.de/pub/cLIeNUX/descriptive/DSFH.html
+ 360. https://manned.org/hier.7
+ 361. file:///wiki/Linux
+ 362. file:///wiki/Man_page
+ 363. file:///wiki/Template:Computer_files
+ 364. file:///wiki/Template_talk:Computer_files
+ 365. file:///wiki/Special:EditPage/Template:Computer_files
+ 366. file:///wiki/Computer_file
+ 367. file:///wiki/Binary_file
+ 368. file:///wiki/Text_file
+ 369. file:///wiki/Data_file
+ 370. file:///wiki/File_format
+ 371. file:///wiki/List_of_file_formats
+ 372. file:///wiki/List_of_file_signatures
+ 373. file:///wiki/Magic_number_(programming)
+ 374. file:///wiki/Open_file_format
+ 375. file:///wiki/Proprietary_file_format
+ 376. file:///wiki/Metafile
+ 377. file:///wiki/Sidecar_file
+ 378. file:///wiki/Sparse_file
+ 379. file:///wiki/Swap_file
+ 380. file:///wiki/System_file
+ 381. file:///wiki/Temporary_file
+ 382. file:///wiki/Zero-byte_file
+ 383. file:///wiki/Filename
+ 384. file:///wiki/8.3_filename
+ 385. file:///wiki/Long_filename
+ 386. file:///wiki/Filename_mangling
+ 387. file:///wiki/Filename_extension
+ 388. file:///wiki/List_of_filename_extensions
+ 389. file:///wiki/File_attribute
+ 390. file:///wiki/Extended_file_attributes
+ 391. file:///wiki/File_size
+ 392. file:///wiki/Hidden_file_and_hidden_directory
+ 393. file:///wiki/Directory_(computing)
+ 394. file:///wiki/NTFS_links
+ 395. file:///wiki/Temporary_folder
+ 396. file:///wiki/Directory_structure
+ 397. file:///wiki/File_system
+ 398. file:///wiki/Grid_file_system
+ 399. file:///wiki/Semantic_file_system
+ 400. file:///wiki/Path_(computing)
+ 401. file:///wiki/File_operation
+ 402. file:///wiki/Open_(system_call)
+ 403. file:///wiki/Close_(system_call)
+ 404. file:///wiki/Read_(system_call)
+ 405. file:///wiki/Write_(system_call)
+ 406. file:///wiki/File_descriptor
+ 407. file:///wiki/Hard_link
+ 408. file:///wiki/Shortcut_(computing)
+ 409. file:///wiki/Alias_(Mac_OS)
+ 410. file:///wiki/Shadow_(OS/2)
+ 411. file:///wiki/Symbolic_link
+ 412. file:///wiki/Backup
+ 413. file:///wiki/File_comparison
+ 414. file:///wiki/File_copying
+ 415. file:///wiki/Data_compression
+ 416. file:///wiki/File_manager
+ 417. file:///wiki/Comparison_of_file_managers
+ 418. file:///wiki/File_system_fragmentation
+ 419. file:///wiki/File-system_permissions
+ 420. file:///wiki/File_transfer
+ 421. file:///wiki/File_sharing
+ 422. file:///wiki/File_synchronization
+ 423. file:///wiki/File_verification
+ 424. file:///wiki/Template:Linux
+ 425. file:///wiki/Template_talk:Linux
+ 426. file:///wiki/Special:EditPage/Template:Linux
+ 427. file:///wiki/Linux
+ 428. file:///wiki/Linux_kernel
+ 429. file:///wiki/History_of_Linux
+ 430. file:///wiki/Linus%27s_law
+ 431. file:///wiki/Linux-libre
+ 432. file:///wiki/Booting_process_of_Linux
+ 433. file:///wiki/Linux_kernel_oops
+ 434. file:///wiki/Tux_(mascot)
+ 435. file:///wiki/Template:Linux_kernel
+ 436. file:///wiki/Criticism_of_Linux
+ 437. file:///wiki/Criticism_of_desktop_Linux
+ 438. file:///wiki/GNU/Linux_naming_controversy
+ 439. file:///wiki/Tanenbaum%E2%80%93Torvalds_debate
+ 440. file:///wiki/SCO%E2%80%93Linux_disputes
+ 441. file:///wiki/Linux_distribution
+ 442. file:///wiki/Comparison_of_Linux_distributions
+ 443. file:///wiki/List_of_Linux_distributions
+ 444. file:///wiki/Comparison_of_netbook-oriented_Linux_distributions
+ 445. file:///wiki/List_of_Linux_distributions_that_run_from_RAM
+ 446. file:///wiki/Light-weight_Linux_distribution
+ 447. file:///wiki/Security-focused_operating_system#Linux
+ 448. file:///wiki/Package_manager
+ 449. file:///wiki/Package_format
+ 450. file:///wiki/List_of_software_package_management_systems
+ 451. file:///wiki/LinuxChix
+ 452. file:///wiki/Linux_Counter
+ 453. file:///wiki/Linux_Documentation_Project
+ 454. file:///wiki/Linux_Foundation
+ 455. file:///wiki/Linux_Mark_Institute
+ 456. file:///wiki/Linux_user_group
+ 457. file:///wiki/Linux_adoption
+ 458. file:///wiki/List_of_Linux_adopters
+ 459. file:///wiki/Linux_desktop_environments
+ 460. file:///wiki/Linux_on_embedded_systems
+ 461. file:///wiki/Linux_gaming
+ 462. file:///wiki/Linux_for_mobile_devices
+ 463. file:///wiki/Linux_range_of_use
+ 464. file:///wiki/Linux_malware
+ 465. file:///wiki/DistroWatch
+ 466. file:///wiki/Free_Software_Magazine
+ 467. file:///wiki/Full_Circle_(magazine)
+ 468. file:///wiki/Hacker_Public_Radio
+ 469. file:///wiki/Linux.com
+ 470. file:///wiki/Linux_Format
+ 471. file:///wiki/Linux_Gazette
+ 472. file:///wiki/Linux_Journal
+ 473. file:///wiki/Linux_Magazine
+ 474. file:///wiki/LinuxUser
+ 475. file:///wiki/Ubuntu_User
+ 476. file:///wiki/Linux_Outlaws
+ 477. file:///wiki/Linux_Voice
+ 478. file:///wiki/LugRadio
+ 479. file:///wiki/LWN.net
+ 480. file:///wiki/Phoronix_Test_Suite#Phoronix_website
+ 481. file:///wiki/Revolution_OS
+ 482. file:///wiki/The_Code_(2001_film)
+ 483. file:///wiki/List_of_computer_security_certifications
+ 484. file:///wiki/CompTIA_Linux%2B
+ 485. file:///wiki/Linux_Foundation_Linux_Certification
+ 486. file:///wiki/Red_Hat_Certification_Program
+ 487. file:///wiki/Ubuntu_Professional_Certification
+ 488. file:///wiki/File:NewTux.svg
+ 489. file:///wiki/Portal:Linux
+ 490. file:///wiki/Portal:Free_and_open-source_software
+ 491. file:///wiki/Category:Linux
+ 492. https://en.wikipedia.org/w/index.php?title=Filesystem_Hierarchy_Standard&oldid=1267327485
+ 493. file:///wiki/Help:Category
+ 494. file:///wiki/Category:Computer_standards
+ 495. file:///wiki/Category:File_system_directories
+ 496. file:///wiki/Category:Linux
+ 497. file:///wiki/Category:System_administration
+ 498. file:///wiki/Category:Unix_file_system_technology
+ 499. file:///wiki/Category:Articles_with_short_description
+ 500. file:///wiki/Category:Short_description_is_different_from_Wikidata
+ 501. file:///wiki/Category:Use_dmy_dates_from_November_2021
+ 502. file:///wiki/Category:Official_website_different_in_Wikidata_and_Wikipedia
+ 503. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 504. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 505. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 506. https://wikimediafoundation.org/
+ 507. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 508. file:///wiki/Wikipedia:About
+ 509. file:///wiki/Wikipedia:General_disclaimer
+ 510. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 511. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 512. https://developer.wikimedia.org/
+ 513. https://stats.wikimedia.org/#/en.wikipedia.org
+ 514. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 515. file://en.m.wikipedia.org/w/index.php?title=Filesystem_Hierarchy_Standard&mobileaction=toggle_view_mobile
+ 516. https://wikimediafoundation.org/
+ 517. https://www.mediawiki.org/

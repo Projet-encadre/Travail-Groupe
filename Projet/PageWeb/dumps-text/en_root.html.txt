@@ -1,0 +1,225 @@
+   [1]LINFO
+
+                               root Definition
+
+     root is the user name or account that by default has access to all
+        [2]commands and [3]files on a [4]Linux or other [5]Unix-like
+    [6]operating system. It is also referred to as the root account, root
+                           user and the superuser.
+
+    The word root also has several additional, related meanings when used
+     as part of other terms, and thus it can be a source of confusion to
+                      people new to Unix-like systems.
+
+   One of these is the [7]root directory, which is the top level directory
+       on a system. That is, it is the [8]directory in which all other
+   directories, including their subdirectories, and files reside. The root
+            directory is designated by a [9]forward slash ( / ).
+
+   Another is [10]/root (pronounced slash root), which is the root user's
+     [11]home directory. A home directory is the primary repository of a
+     user's files, including that user's configuration files, and it is
+     usually the directory in which a user finds itself when it [12]logs
+      into a system. /root is a subdirectory of the root directory, as
+   indicated by the forward slash that begins its name, and should not to
+   be confused with that directory. Home directories for users other than
+      root are by default created in the [13]/home directory, which is
+            another standard subdirectory of the root directory.
+
+   Root privileges are the powers that the root account has on the system.
+   The root account is the most privileged on the system and has absolute
+   power over it (i.e., complete access to all files and commands). Among
+    root's powers are the ability to modify the system in any way desired
+    and to grant and revoke [14]access permissions (i.e., the ability to
+     read, modify and execute specific files and directories) for other
+    users, including any of those that are by default reserved for root.
+
+    A [15]rootkit is a set of [16]software tools secretly installed by an
+     intruder into a [17]computer that allows such intruder to use that
+    computer for its own, usually nefarious, purposes when desired. Well
+    designed rootkits are able to obtain root access (i.e., access to the
+    root account rather than just to a user account) and to hide most or
+                all traces of their presence and activities.
+
+    The use of the term root for the all-powerful administrative user may
+    have arisen from the fact that root is the only account having write
+    permissions (i.e., permission to modify files) in the root directory.
+     The root directory, in turn, takes its name from the fact that the
+   [18]filesystems (i.e., the entire hierarchy of directories that is used
+    to organize files) in Unix-like operating systems have been designed
+       with a [19]tree-like (although inverted) structure in which all
+   directories branch off from a single directory that is analogous to the
+                               root of a tree.
+
+      The original [20]UNIX operating system, on which Linux and other
+   Unix-like systems are based, was designed from the very beginning as a
+   multi-user system because personal computers did not yet exist and each
+        user was connected to the mainframe computer (i.e., a large,
+   centralized computer) via a dumb (i.e., very simple) terminal. Thus it
+     was necessary to have a mechanism for separating and protecting the
+     files of the individual users while allowing them to use the system
+    simultaneously. It was also necessary to have a means for enabling a
+   system administrator to perform such tasks as entering user directories
+   and files to correct individual problems, granting and revoking powers
+    for ordinary users, and accessing critical system files to repair or
+                             upgrade the system.
+   Every user account is automatically assigned an identification number,
+                                     the
+     [21]UID (i.e., user ID), by a Unix-like system, and the system uses
+    these numbers instead of the user names to identify and keep track of
+      the users. Root always has a UID of zero. This can be verified by
+      logging in as root (if using a home computer or other system that
+   permits this operation) and running the [22]echo command to display the
+                       UID of the current user, i.e.,
+
+     echo $UID
+
+     echo is used to repeat on the screen what is typed in after it. The
+    dollar sign preceding UID tells echo to display its value rather than
+                                  its name.
+
+    The UID for root (as well as for all other users) can also be seen by
+    looking at [23]/etc/passwd, which is the configuration file for user
+    [24]data. This file can be viewed (by default by all users) by using
+    the [25]cat command (which is commonly employed to read files), i.e.,
+
+     cat /etc/passwd | less
+
+      The output of cat /etc/passwd in this example is [26]piped (i.e.,
+    transferred) to the less command to allow it to be read one screenful
+      at a time, which is useful if the file is a long one. The line of
+                  output for root will look something like
+    root:x:0:0:root:/root:/bin/bash. The first column shows the user name
+      and the third column shows the UID, which can be seen to be zero.
+
+   The permissions system in Unix-like operating systems is set by default
+   to prevent access by ordinary users to critical parts of the system and
+   to files and directories belonging to other users. Thus, it can be very
+      tempting for users new to such systems, especially those who are
+     accustomed to systems with a weak permissions system or without any
+    permissions system (e.g., Microsoft Windows or the older versions of
+     the Macintosh), to bypass this permissions system on their personal
+   computers by logging directly into the root account and staying there.
+      Although this provides momentary relief, it should be avoided and
+       ordinary work on the system should be done via an ordinary user
+                                  account.
+
+   This is because it is very easy to damage a Unix-like system when using
+   it as root -- much easier than to damage most other types of operating
+   systems. The designers of most other operating systems devised methods
+      of protecting the system and data to compensate for the lack of a
+                       [27]robust permissions system.
+
+    However, an important principle of Unix-like operating systems is the
+   provision of maximum flexibility to configure the system, and thus the
+   root user is fully empowered. Unix-like systems assume that the system
+   administrator knows exactly what he or she is doing and that only such
+   individual(s) will be using the root account. Thus, there is virtually
+   no safety net for the root user in the event of a careless error, such
+    as damaging or deleting a critical system file (which could make the
+                         entire system inoperable).
+
+   Adding to the danger of routinely using the system as root is the fact
+       that all [28]processes (i.e., [29]instances of [30]programs in
+   execution) started by the root user have root privileges. Because even
+    the most widely used and well-tested [31]application programs contain
+    numerous programming errors (due to the huge amount of code required
+      and its great complexity), a skilled attacker can often find and
+    exploit such an error to obtain control of a system when a program is
+    run with root privileges rather than using an ordinary user account,
+                      with its very limited privileges.
+
+   A critical means for preventing users from directly damaging Unix-like
+    systems or increasing the vulnerability of such systems to damage by
+        others is the avoidance of using the root account except when
+     absolutely necessary, even by knowledgeable and experienced system
+   administrators. That is, rather than routinely logging into the system
+   as root, administrators should log in with their ordinary user accounts
+   and then use commands, such as [32]su, [33]kdesu and sudo, that provide
+    them with root privileges only as needed and without requiring a new
+                                   login.
+
+         For example, to become root with su merely requires typing
+
+     su
+
+     at the [34]command line (i.e., in the all-text mode), pressing the
+   Enter key and supplying the root password. The account of the previous
+   user can be returned to by pressing the Ctrl and d keys simultaneously
+         or by typing the word exit and then pressing the Enter key.
+
+   The security associated with using su can be increased by using its -c
+    [35]option, which terminates it and causes an immediate return to the
+    former user account after the current command has completed execution
+         or after any program that it has launched has been closed.
+
+   Tasks that require root privileges include moving files or directories
+   into or out of system directories (i.e., directories that are critical
+   to the functioning of the operating system), copying files into system
+   directories, granting or revoking user privileges, some system repairs,
+    and the installation of some application programs. By default, it is
+    not necessary to be root to be able to read most configuration files
+      and [36]documentation files in system directories, although it is
+                    necessary to be root to modify them.
+
+     Root privileges are usually required for installing software in RPM
+    (Red Hat Package Manager) package format because of the need to write
+     to system directories. If an application program is being compiled
+    (i.e., converted into runnable form) from [37]source code (i.e., its
+    original, human-readable form), however, it can usually be configured
+    to install and run from a user's home directory. Root privileges are
+    not needed by an ordinary user to compile and install software in its
+      home directory. Compiling software as root should be avoided for
+                              security reasons.
+
+   On large systems used by businesses and other organizations, there will
+   likely be several system administrators. Each will have its own account
+    in which it will ordinarily work (and the activities of which will be
+   automatically recorded in system logs for security and repair purposes)
+    but will also have access to the root account for use when necessary.
+   The system administrator(s) might grant limited root privileges to some
+               individuals, such as assistant administrators.
+
+   Created May 29, 2005. Updated October 27, 2007.
+   Copyright © 2005 - 2007 The Linux Information Project. All Rights
+   Reserved.
+
+References
+
+   1. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/index.html
+   2. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/command.html
+   3. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/file.html
+   4. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/linuxdef.html
+   5. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/unix-like.html
+   6. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/operating_system.html
+   7. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/root_directory.html
+   8. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/directory.html
+   9. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/forward_slash.html
+  10. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/slash_root.html
+  11. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/home_directory.html
+  12. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/login_def.html
+  13. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/home.html
+  14. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/permissions.html
+  15. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/rootkit.html
+  16. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/software.html
+  17. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/computer.html
+  18. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/filesystem.html
+  19. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/directory_tree.html
+  20. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/unix_upper.html
+  21. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/uid.html
+  22. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/echo.html
+  23. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/etc_passwd.html
+  24. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/data.html
+  25. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/cat.html
+  26. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/pipe.html
+  27. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/robust.html
+  28. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/process.html
+  29. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/instance.html
+  30. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/program.html
+  31. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/appslist.html
+  32. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/su.html
+  33. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/kdesu.html
+  34. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/command_line.html
+  35. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/option.html
+  36. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/documentation.html
+  37. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/source_code.html

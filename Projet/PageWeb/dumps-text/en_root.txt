@@ -1,0 +1,9 @@
+   REFRESH(390 sec):
+   [1]file://localhost/home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspir
+   ations/en_root.html
+
+   Enable JavaScript and cookies to continue
+
+References
+
+   1. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_root.html

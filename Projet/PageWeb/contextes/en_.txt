@@ -1,0 +1,498 @@
+   [17]Subscribe / [18]Log in / [19]New account
+
+What chroot() is really for
+
+   By Jake Edge
+   October 3, 2007
+
+   The chroot() system call is often misunderstood, as it can appear to do
+   much more than it actually does. The confusion arises because it
+   appears to some to be a security tool - there are limited security uses
+--
+   debugging, and legacy library usage.
+
+   What chroot() actually does is fairly simple, it modifies pathname
+   lookups for a process and its children so that any reference to a path
+   starting '/' will effectively have the new root, which is passed as the
+   single argument, prepended onto the path. The current working directory
+   is left unchanged and relative paths can still refer to files outside
+   of the new root.
+
+   Calls to chroot() do not stack, with additional calls essentially
+   overwriting the existing one. It can only be called by privileged
+   programs and can be trivially bypassed by those who can call it as man
+   2 chroot describes:
+    This  call does not change the current working directory, so that after
+    the call '.' can be outside the tree rooted at '/'.  In particular, the
+    superuser  can  escape from a 'chroot jail' by doing 'mkdir foo; chroot
+    foo; cd ..'.
+
+   The use of the term "chroot jail" in the manpage is unfortunate as it
+   may help perpetuate a common misconception about chroot(). It often
+   gets mentioned in the same context as the "jail" calls for the BSDs,
+   but it has little in common with them. A BSD jail is a
+   mini-virtualization that partitions a system into multiple virtual
+   systems each of which can have its own root account. chroot() has none
+   of that sophistication.
+
+   A [20]patch posted to the linux-kernel mailing list was aimed at fixing
+   the "hole" described in the manpage, but led, instead, to a rather
+   contentious thread. The patch changes chroot() by setting the current
+   working directory to the new root if it was not already somewhere
+   underneath it. This violates POSIX and other standards, which specify
+   the current behavior, as well as numerous typical use cases for
+   chroot(). In addition, as was forcefully pointed out in the thread,
+   there are innumerable ways for a privileged process to access files
+   that are not underneath the new root. Even if it did not run afoul of
+   the standards, there is no point in fixing something that is so
+   trivially bypassed in other ways.
+--
+   The proponents of fixing the problem that they see - even if most of
+   the kernel hackers disagree - seem to believe that, while you can
+   circumvent a chroot() call, it should not be possible by using chroot()
+   itself. It is an argument that didn't seem to get anywhere for a pretty
+   simple reason: chroot() is not meant to be a security-oriented access
+   control mechanism. It is, instead, a way to run processes with a
+   partitioned view of the filesystem.
+
+   There are reasonable uses of chroot() for very limited security
+   purposes. Daemons that do not run as root can be placed into their own
+   filesystem subtree - bind/named and Apache are sometimes run this way -
+   to prevent any access outside of it. That will work, even if the daemon
+   gets exploited, as long as there is no way to elevate privileges after
+   the exploit. For example, if there are vulnerable setuid() programs
+   accessible from within the chroot(), full filesystem access is
+   possible.
+
+   chroot() is a useful call, many install programs use it, as do programs
+   that need to see a consistent set of older libraries, but it has very
+   limited use in security applications. It does not provide a sandbox
+   that can be used to test suspicious code, that code might escalate its
+   privilege and access anything it wished. Maintaining an up-to-date
+   chroot() environment adds an additional burden on administrators as
+   well; update tools do nothing to help keep utilities secure if they
+   live outside of the normal places. It is probably safest to avoid using
+   it as any kind of security tool.
+   Index entries for this article
+   [21]Security [22]chroot()
+   [23]Security [24]Jails
+   __________________________________________
+--
+   Log in to post comments
+
+What chroot() is really for
+
+   Posted Oct 4, 2007 4:29 UTC (Thu) by sweikart (guest, #4276) [[25]Link]
+   A good overview of using chroot for security can be found at:
+
+   [26]http://kerneltrap.org/Linux/Abusing_chroot#comment-273655
+
+   > Maintaining an up-to-date chroot() environment adds an additional
+   > burden on administrators as well; update tools do nothing to help
+   > keep utilities secure if they live outside of the normal places.
+
+   Various people have written scripts that will create chroot jails;
+   I'm not sure sure how many of them will also update chroot jails.
+
+   When you write a chroot-jail builder-script, it's not that hard to
+   write it to either create a new jail or update an existing jail
+   (I've written my scripts that way).
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 4, 2007 10:29 UTC (Thu) by pointwood (guest, #2814)
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 4, 2007 11:18 UTC (Thu) by petebull (guest, #7857)
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 4, 2007 19:17 UTC (Thu) by sbergman27 (guest, #10767)
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 4, 2007 23:07 UTC (Thu) by smoogen (subscriber, #97)
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 5, 2007 4:04 UTC (Fri) by wahern (subscriber, #37304)
+--
+   Lost in this whole debate is something called portability. As a
+   developer, I'm not going to write software with the expectation that
+   the user will run it in UML or a BSD jail. Fact is, chroot is available
+   on every single Unix system, with identical semantics. I'll write my
+   software as best I can so that diligent users can run software in a
+   jail, but just because others can or would isn't reason to persuade me
+   not to use chroot.
+
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 5, 2007 12:38 UTC (Fri) by addw (guest, #1771) [[33]Link]
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 5, 2007 15:46 UTC (Fri) by jond (subscriber, #37669)
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 5, 2007 20:29 UTC (Fri) by wahern (subscriber, #37304)
+   [[35]Link] (2 responses)
+   That chroot doesn't work? I can also point you to many advisories that
+   have shown that chroot also contained an exploit. OpenSSH, BIND, Apache
+   (OpenBSD), OpenNTP, djbdns, and qmail all use chroot, and the use of
+   chroot has mitigated the impact of serious and widespread code
+   exploits.
+
+   chroot is not _the_ answer. In all this debate, either here or on LKML,
+   I have yet to see anybody mistakingly suggest that chroot _alone_ is a
+   sufficient measure. All of these straw men arguments that say that
+   chroot shouldn't be used because chroot _alone_ isn't sufficient are
+   fallacious.
+
+   I'm only sticking to my guns because these forums are archived, and I
+   don't want to see a student or junior engineer come to me in 10 years
+   and say they didn't use chroot, though they trivially could have,
+   because they were told it was useless.
+
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 6, 2007 1:40 UTC (Sat) by wahern (subscriber, #37304)
+   [[36]Link]
+   Oops. By "contained an exploit" I meant that an exploit was limited or
+   curtailed, not that the chroot use itself was related to an exploit.
+   (Though, like any interface, chroot could feasibly be part of an attack
+   vector. As described in this thread, use of chroot is questionable when
+   an administrator has to duplicate sensitive files for a chroot'd
+   environment.)
+
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 11, 2007 7:12 UTC (Thu) by gat3way (guest, #47864)
+   [[37]Link]
+   Nope, chroot() works and this is its expected behavior.
+
+   And BTW there are quite a lot of ways to escape it as long as you're
+   already a root. You can for example mount filesystems on some
+   occasions.
+
+   Who said chroot() must provide security...against someone that already
+   has root privilleges on that system???
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 4, 2007 15:09 UTC (Thu) by ebiederm (subscriber, #35028)
+--
+   Look at the mount namespace in the kernel.
+
+   That can give the same effect as chroot but without being able to
+   escape.
+
+--
+   itself
+   the ongoing work on namespaces can help. Ultimately though while the
+   namespaces can help improve security just like chroot that isn't their
+   primary point.
+
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 4, 2007 22:18 UTC (Thu) by dowdle (subscriber, #659)
+   [[39]Link] (1 responses)
+   The article mentions FreeBSD jails and how their chroot jail is a
+   mini-virtualization.
+
+--
+   of those require a modified kernel... but they do work well, are
+   mature, and offer additional features like resource management,
+   separate root user and accounts, and in the case of OpenVZ,
+   checkpointing (offline and online/live migration).
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 5, 2007 3:34 UTC (Fri) by jordanb (guest, #45668) [[40]Link]
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 4, 2007 17:12 UTC (Thu) by wahern (subscriber, #37304)
+   [[41]Link] (10 responses)
+   The advice to not use chroot() for "security" is just plain wrong.
+   "Security" involves innumerable facets of programming. To say that
+   because something doesn't address all of them simultaneously, and thus
+   shouldn't be used at all, is... I can't even begin to describe how
+   wrong that advice is. The proper way to use chroot() in a
+   security-conscious application is:
+
+   chroot()
+   chdir()
+   setuid()
+--
+   One of the best rules of thumb in writing secure software is
+   minimization: minimize the resources used; minimize the resources
+   available; minimize privilege; minimize, minimize, minimize. chroot()
+   fits perfectly into that paradigm.
+
+   When people starting thinking that its better to run a daemon inside
+   VMWare because somebody suggests chroot() is useless shows just how
+   misleading that advice was (and running VMWare isn't exactly
+   minimization, either, when you consider you're adding millions of lines
+   of code to your software stack). Just because unplugging your computer
+   from the network is "more secure" than having an internet connection
+   doesn't mean its either practical or even advisable. chroot() is
+   practical and useful for enhancing the security profile of a Unix
+   application, period.
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 4, 2007 21:09 UTC (Thu) by ckelso (guest, #43128) [[42]Link]
+   (9 responses)
+   The only valid argument for using chroot is that you are ignorant or
+   distrusting of your filesystem, user and group permissions. chroot
+   isn't adding anything to the security of the daemon. Having a daemon
+   running with a low access system account, what is the difference
+   between having it in a chroot and not having it there? That's simple,
+   access to things on the system that aren't known secure. It doesn't
+   enhance your applications security at all. It mitigates your
+--
+
+   I don't disagree with the rule of least access. I just don't agree that
+   chroot is enhancing the security of the daemon. If the daemon itself is
+   insecure, you should simply not have it on your system, chroot or not.
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 4, 2007 21:46 UTC (Thu) by wahern (subscriber, #37304)
+   [[43]Link]
+   That's not a valid argument at all. Why? Because the PROGRAMMER makes
+   the decision to use chroot, not the rest of the world. The real
+   argument is, do you trust the diligence of the many thousands or
+   MILLIONS of ADMINISTRATORS as a whole, not just the best ones; and do
+--
+   (like, maybe they just don't have the time to modify all the stupid
+   SUID applications on a modern Linux installation), and if you are the
+   least bit humble, then chroot()+chdir()+setuid()--if it fits the design
+   and purpose of the application--is a valuable tool.
+
+--
+   aggregate, improve the robustness of the application substantively.
+
+   The problem is that people believe that using chroot is a hack. Its not
+   a hack. By that measure, not running daemons as root is just as much a
+   hack, because if its "insecure, you should simply not have it on your
+   system". Using chroot is, on its own merits, a useful interface to
+   marginally increase the robustness of your application. That's as much
+   as you can say about anything when writing software, and its all the
+--
+
+   Also, this notion that you need to maintain a whole separate file
+   system for chroot'd applications is nonsense. I've written dozens of
+   daemons which can chroot into empty directories. Sure chroot'd Apache
+   is a PITA if you're using Perl modules. In those cases clearly chroot
+   conflicts with the functionality of the application. There are lots of
+   these cases where file system resources, and process permissions create
+   headaches. Many people--and companies--stubbornly run applications as
+   root because its more convenient. Cases of idiots and cases where doing
+   something is justifiable are not arguments for throwing away a
+   technique completely.
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 5, 2007 11:56 UTC (Fri) by Klavs (guest, #10563) [[44]Link]
+   (4 responses)
+   Chroot definetely has it's uses in the security field.
+
+   The apache example is a good one. One should always have several layers
+   of security, and putting apache in a chroot is such a layer - and a
+   good one at that. The "risk" of someone finding a bug in some website
+   software is VERY high - even if it's your own software and you've been
+--
+
+   Also - it is a VERY good idea to mount /tmp none-executable (if in a
+   chroot - there's a limit to what the executable can do though :) and to
+   have a seperate DB-user for the user (ie. what the casual
+   browser/internet user sees) and the admin section, and remember the
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 5, 2007 15:47 UTC (Fri) by jond (subscriber, #37669)
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 5, 2007 22:04 UTC (Fri) by giraffedata (guest, #1954)
+--
+
+   Then you'd probably want to make sure that loader isn't present in your
+   chroot jail. I assume you're talking about glibc's ld-linux.so, which
+   is an essential part of running programs that use dynamically linked
+   libraries. Chroot jails I've seen have statically linked programs and
+   don't need it.
+
+   Incidentally, if this is really an issue -- people want to have shared
+   libraries within a chroot jail and still stop people from running
+   programs they created themselves in /tmp -- it would not be hard to
+   disable ld-linux.so's ability to run programs like that. The ability to
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 11, 2007 8:48 UTC (Thu) by tbleher (guest, #48307)
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 7, 2007 17:56 UTC (Sun) by thedevil (guest, #32913)
+   [[48]Link]
+   >> The apache example is a good one. One should always have several
+   layers of security, and putting apache in a chroot is such a layer -
+   and a good one at that. The "risk" of someone finding a bug in some
+   website software is VERY high - even if it's your own software and
+--
+
+   How do you enable per-user web directories (typically ~/public_html) if
+   the webserver is chrooted?
+
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 6, 2007 23:22 UTC (Sat) by acorliss (guest, #3710)
+--
+   designed to read files from a filesystem (like an http or ftp server).
+
+   Chroot isn't the be-all, end-all to this problem, but it's certainly a
+   portable and effective tool that should be used along with others.
+
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Aug 20, 2015 8:24 UTC (Thu) by Wupme (guest, #104124) [[50]Link]
+--
+   Which is way higher than yours will ever be.
+
+   chroot doesn't add any security, and it was never designed for this
+   anyway.
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Aug 20, 2015 15:28 UTC (Thu) by raven667 (subscriber, #5198)
+   [[51]Link]
+   > If the daemon itself is insecure, you should simply not have it on
+   your system, chroot or not.
+
+   LOL, WUT?
+--
+   data other than what the application normally processes.
+
+   chroot() is a limited way to handle this, the first version of
+   containers, there are better ways to do this now with VMs and
+   Namespaces and SELinux and seccomp and Capsicum, etc. etc. which can
+--
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 5, 2007 12:49 UTC (Fri) by BenHutchings (subscriber, #37955)
+   [[52]Link] (1 responses)
+   chroot() isn't specified by POSIX, so changing its behaviour wouldn't
+   break the standard (though it might break some applications).
+   Reply to this comment
+
+What chroot() is really for
+
+   Posted Oct 5, 2007 14:04 UTC (Fri) by nix (subscriber, #2304)
+--
+   Reply to this comment
+
+chroot jail
+
+   Posted Oct 12, 2007 1:06 UTC (Fri) by dpotapov (guest, #46495)
+   [[54]Link]
+   I believe that the term "chroot jail" is essentially correct as it does
+   not allow non-root processes to escape it, but people who believe they
+   can keep omnipotent root in "chroot jail" know nothing about *nix.
+
+   So, usefulness of "chroot jail" from the security point of view is to
+   run applications like Apache in the environment where there is no suid
+   programs, which may have vulnerabilities leading to gaining the root
+   access.
+
+   If you have to have some suid programs in the chroot environment, you
+   can use SELinux's capacities to limited what they can do, so
+   dramatically decrease possibility that a newly found bug can be used to
+   gain the root access.
+   Reply to this comment
+
+Chroot is useful for security purposes
+
+   Posted Oct 12, 2007 19:04 UTC (Fri) by pm101 (guest, #3011) [[55]Link]
+   Chroot can mitigate a large number of security vulnerabilities.
+   Recently, adobe.com was cracked when someone found that URLs to the
+   effect of:
+--
+   would return arbitrary files on the filesystem. This basic exploit
+   allowed reading basic files because a CGI script forgot to sanitize
+   inputs used as filenames. If Adobe has used a chroot jail, this would
+   have been bad, but couldn't be escalated to provide access to execute
+   programs. It wouldn't have even allowed people to view files in users'
+   home directories or unrelated places.
+
+   Because of the lack of chroot jail, it could be escalated to getting
+   the password file, which could then presumably be combined with a
+   dictionary attack to get a few passwords, and log into the machine.
+
+   Any security tool misused, including chroot, can cause more problems
+   than it solves. chroot is not a sandbox for running hostile code, and
+   should not be used as such. That said, chroot is a valuable part of a
+   good security toolbox. It is useful for running legacy software with
+   legacy libraries as well, fixing broken installs (I often boot from a
+   CD, and chroot to the hard drive), and other things, but I use it first
+   and foremost as a (somewhat limited) security tool to prevent a limited
+   set of exploits from escalating.
+--
+  20. file:///Articles/252806/
+  21. file:///Security/Index/
+  22. file:///Security/Index/#chroot
+  23. file:///Security/Index/
+  24. file:///Security/Index/#Jails
+  25. file:///Articles/253007/
+  26. http://kerneltrap.org/Linux/Abusing_chroot#comment-273655
+  27. file:///Articles/253062/
+  28. file:///Articles/253071/

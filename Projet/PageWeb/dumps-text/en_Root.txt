@@ -1,0 +1,2574 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Function
+     * [30]2 Anatomy
+     * [31]3 Root system architecture (RSA)
+       (BUTTON) Toggle Root system architecture (RSA) subsection
+          + [32]3.1 Definition
+          + [33]3.2 Terms and components
+     * [34]4 Growth
+       (BUTTON) Toggle Growth subsection
+          + [35]4.1 Regulation
+     * [36]5 Shade avoidance response
+     * [37]6 Types
+       (BUTTON) Toggle Types subsection
+          + [38]6.1 Specialized
+     * [39]7 Depths
+       (BUTTON) Toggle Depths subsection
+          + [40]7.1 Records
+     * [41]8 Evolutionary history
+     * [42]9 Environmental interactions
+     * [43]10 Plant interactions
+     * [44]11 Soil interactions
+     * [45]12 Nutrient absorption
+     * [46]13 Economic importance
+     * [47]14 See also
+     * [48]15 References
+     * [49]16 Further reading
+     * [50]17 External links
+
+   [ ] Toggle the table of contents
+
+Root
+
+   [ ] 126 languages
+     * [51]Afrikaans
+     * [52]a+l+e+r+b+y+tm
+     * [53]Aragonés
+     * [54]Armãneashti
+     * [55]Asturianu
+     * [56]Atikamekw
+     * [57]Avañe'e?
+     * [58]Aymar aru
+     * [59]Az@rbaycanca
+     * [60]t+r+©g+h+
+     * [61]¬¾²¾
+     * [62]Belaruskaya
+     * [63]Belaruskaya (tarashkeviica)
+     * [64]Bikol Central
+     * [65]B"lgarski
+     * [66]Boarisch
+     * [67]¼¡²
+     * [68]Bosanski
+     * [69]Català
+     * [70]CHvashla
+     * [71]Cestina
+     * [72]Dansk
+     * [73]Deutsch
+     * [74]Dolnoserbski
+     * [75]Eesti
+     * [76]Ellynika'
+     * [77]Español
+     * [78]Esperanto
+     * [79]Euskara
+     * [80]f+a+r+s+
+     * [81]Français
+     * [82]Frysk
+     * [83]Gaeilge
+     * [84]Gaelg
+     * [85]Gàidhlig
+     * [86]Galego
+     * [87]­´
+     * [88]Hausa
+     * [89]¡µ¥¥¶
+     * [90]¹¿¨¦
+     * [91]Hornjoserbsce
+     * [92]Hrvatski
+     * [93]Ido
+     * [94]Bahasa Indonesia
+     * [95]Iñupiatun
+     * [96]Iron
+     * [97]Íslenska
+     * [98]Italiano
+     * [99]E+B+R+J+T+
+     * [100]Jawa
+     * [101]¨¨¡
+     * [102]¥ £
+     * [103]azasha
+     * [104]Kiswahili
+     * [105]Kreyòl ayisyen
+     * [106]Kurdî
+     * [107]Kyrgyzcha
+     * [108]Latina
+     * [109]Latviesu
+     * [110]Lietuviu
+     * [111]Limburgs
+     * [112]Lingála
+     * [113]Magyar
+     * [114]Makedonski
+     * [115]Malagasy
+     * [116]®²¯¾³
+     * [117]Bahasa Melayu
+     * [118]©± / Mìng-de<?>ng-ngu--:¯
+     * [119]Mongol
+     * [120]¼º¬¬¬
+     * [121]Nahuatl
+     * [122]Nederlands
+     * [123]¨ª¾²
+     * [124]¨ª¾² ­¾·¾
+     * [125]¥¬
+     * [126]Napulitano
+     * [127]Norsk bokmål
+     * [128]Norsk nynorsk
+     * [129]Nouormand
+     * [130]Occitan
+     * [131]Olyk marij
+     * [132]Oromoo
+     * [133]O;Szbekcha / v%zbekcha
+     * [134]ª°¾¬
+     * [135]Pangcah
+     * [136]p+n+g+a+b+
+     * [137]Plattdüütsch
+     * [138]Polski
+     * [139]Português
+     * [140]Româna
+     * [141]Runa Simi
+     * [142]Russkij
+     * [143]Sakizaya
+     * [144]Shqip
+     * [145]Simple English
+     * [146]Slovencina
+     * [147]Slovenscina
+     * [148]Soomaaliga
+     * [149]Srpski / srpski
+     * [150]Srpskohrvatski / srpskohrvatski
+     * [151]Sunda
+     * [152]Suomi
+     * [153]Svenska
+     * [154]Tagalog
+     * [155]¤®¿´
+     * [156]Taclh-.it
+     * [157]¤²
+     * [158]¢
+     * [159]To·ik£
+     * [160]£³©
+     * [161]Türkçe
+     * [162]Tyap
+     * [163]Ukrayins'ka
+     * [164]a+r+d+w+
+     * [165]yHy+i+r+tc / Uyghurche
+     * [166]Vahcuengh
+     * [167]Vèneto
+     * [168]Tie>'ng Vie>-.t
+     * [169]Walon
+     * [170]Winaray
+     * [171]´­
+     * [172]J+J+iD+J+Sh
+     * [173]µ
+     * [174]Zemaiteska
+     * [175]­
+     * [176]Bajau Sama
+
+   [177]Edit links
+
+     * [178]Article
+     * [179]Talk
+
+   [ ] English
+
+     * [180]Read
+     * [181]Edit
+     * [182]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [183]Read
+     * [184]Edit
+     * [185]View history
+
+   General
+     * [186]What links here
+     * [187]Related changes
+     * [188]Upload file
+     * [189]Special pages
+     * [190]Permanent link
+     * [191]Page information
+     * [192]Cite this page
+     * [193]Get shortened URL
+     * [194]Download QR code
+
+   Print/export
+     * [195]Download as PDF
+     * [196]Printable version
+
+   In other projects
+     * [197]Wikimedia Commons
+     * [198]Wikiquote
+     * [199]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Basal organ of a vascular plant
+   This article is about the part of a plant. For other uses, see
+   [200]Root (disambiguation).
+   "Rooted" redirects here. For the 1969 play and TV movie adaptation, see
+   [201]Rooted (film). For the song, see [202]Ciara discography.
+   [203][220px-Primary_and_secondary_cotton_roots.jpg] Primary and
+   secondary roots in a [204]cotton plant
+
+   In [205]vascular plants, the roots are the [206]organs of a plant that
+   are modified to provide anchorage for the plant and take in water and
+   nutrients into the plant body, which allows plants to grow taller and
+   faster.^[207][1] They are most often below the surface of the
+   [208]soil, but roots can also be [209]aerial or aerating, that is,
+   growing up above the ground or especially above water.^[210][2]
+
+Function
+
+   [[211]edit]
+
+   The major functions of roots are [212]absorption of water, [213]plant
+   nutrition and anchoring of the plant body to the ground.^[214][3]
+
+Anatomy
+
+   [[215]edit]
+   [216][220px-CSIRO_ScienceImage_11626_Barley_root.jpg] The cross-section
+   of a [217]barley root
+
+   Root morphology is divided into four zones: the [218]root cap, the
+   [219]apical meristem, the elongation zone, and the hair.^[220][4] The
+   [221]root cap of new roots helps the root penetrate the soil. These
+   root caps are sloughed off as the root goes deeper creating a slimy
+   surface that provides lubrication. The apical meristem behind the root
+   cap produces new root cells that elongate. Then, root hairs form that
+   absorb water and mineral nutrients from the soil.^[222][5] The first
+   root in seed producing plants is the [223]radicle, which expands from
+   the plant embryo after seed germination.
+
+   When dissected, the arrangement of the cells in a root is [224]root
+   hair, [225]epidermis, [226]epiblem, [227]cortex, [228]endodermis,
+   [229]pericycle and, lastly, the [230]vascular tissue in the centre of a
+   root to transport the water absorbed by the root to other places of the
+   plant.^[[231]clarification needed]
+   [232][220px-Ranunculus_Root_Cross_Section.png] Ranunculus root cross
+   section
+
+   Perhaps the most striking characteristic of roots that distinguishes
+   them from other plant organs such as stem-branches and leaves is that
+   roots have an endogenous^[233][6] origin, i.e., they originate and
+   develop from an inner layer of the mother axis, such as
+   [234]pericycle.^[235][7] In contrast, stem-branches and leaves are
+   exogenous, i.e., they start to develop from the cortex, an outer layer.
+
+   In response to the concentration of nutrients, roots also synthesise
+   [236]cytokinin, which acts as a signal as to how fast the shoots can
+   grow. Roots often function in storage of food and nutrients. The roots
+   of most vascular plant species enter into symbiosis with certain
+   [237]fungi to form [238]mycorrhizae, and a large range of other
+   organisms including [239]bacteria also closely associate with
+   roots.^[240][8]
+   [241][220px-Kiental_entre_Herrsching_y_Andechs%2C_Alemania_2012-05-01%2
+   C_DD_12.JPG] Large, mature tree roots above the soil
+
+Root system architecture (RSA)
+
+   [[242]edit]
+   [243][220px-Tree_Roots_at_Riverside.jpg] Tree roots at [244]Cliffs of
+   the Neuse State Park
+
+Definition
+
+   [[245]edit]
+
+   In its simplest form, the term root system architecture (RSA) refers to
+   the spatial configuration of a plant's root system. This system can be
+   extremely complex and is dependent upon multiple factors such as the
+   species of the plant itself, the composition of the soil and the
+   availability of nutrients.^[246][9] Root architecture plays the
+   important role of providing a secure supply of nutrients and water as
+   well as anchorage and support.
+
+   The configuration of root systems serves to structurally support the
+   plant, compete with other plants and for uptake of nutrients from the
+   soil.^[247][10] Roots grow to specific conditions, which, if changed,
+   can impede a plant's growth. For example, a root system that has
+   developed in dry soil may not be as efficient in flooded soil, yet
+   plants are able to adapt to other changes in the environment, such as
+   seasonal changes.^[248][10]
+
+Terms and components
+
+   [[249]edit]
+
+   The main terms used to classify the architecture of a root system
+   are:^[250][11]
+   Branch magnitude Number of links (exterior or interior)
+   Topology Pattern of branching ([251]Herringbone, [252]Dichotomous,
+   [253]Radial)
+   Link length Distance between branches
+   Root angle Radial angle of a lateral root's base around the parent
+   root's circumference, the angle of a lateral root from its parent root,
+   and the angle an entire system spreads.
+   Link radius Diameter of root
+
+   All components of the root architecture are regulated through a complex
+   interaction between genetic responses and responses due to
+   environmental stimuli. These developmental stimuli are categorised as
+   intrinsic, the genetic and nutritional influences, or extrinsic, the
+   environmental influences and are interpreted by [254]signal
+   transduction pathways.^[255][12]
+
+   Extrinsic factors affecting root architecture include gravity, light
+   exposure, water and oxygen, as well as the availability or lack of
+   nitrogen, phosphorus, sulphur, aluminium and sodium chloride. The main
+   hormones (intrinsic stimuli) and respective pathways responsible for
+   root architecture development include:
+   [256]Auxin Lateral root formation, maintenance of apical dominance and
+   [257]adventitious root formation.
+   [258]Cytokinins Cytokinins regulate root apical meristem size and
+   promote lateral root elongation.
+   [259]Ethylene Promotes crown root formation.
+   [260]Gibberellins Together with ethylene, they promote crown primordia
+   growth and elongation. Together with auxin, they promote root
+   elongation. Gibberellins also inhibit lateral root primordia
+   initiation.
+
+Growth
+
+   [[261]edit]
+   [262][220px-Root_of_a_Tree.JPG] Roots of trees
+
+   Early root growth is one of the functions of the apical meristem
+   located near the tip of the root. The meristem cells more or less
+   continuously divide, producing more meristem, [263]root cap cells
+   (these are sacrificed to protect the meristem), and undifferentiated
+   root cells. The latter become the primary tissues of the root, first
+   undergoing elongation, a process that pushes the root tip forward in
+   the growing medium. Gradually these cells differentiate and mature into
+   specialized cells of the root tissues.^[264][13]
+
+   Growth from apical meristems is known as primary growth, which
+   encompasses all elongation. Secondary growth encompasses all growth in
+   diameter, a major component of [265]woody plant tissues and many
+   nonwoody plants. For example, storage roots of [266]sweet potato have
+   secondary growth but are not woody. Secondary growth occurs at the
+   [267]lateral meristems, namely the [268]vascular cambium and [269]cork
+   cambium. The former forms [270]secondary xylem and [271]secondary
+   phloem, while the latter forms the [272]periderm.
+
+   In plants with secondary growth, the vascular cambium, originating
+   between the xylem and the phloem, forms a [273]cylinder of tissue along
+   the [274]stem and root.^[[275]citation needed] The vascular cambium
+   forms new cells on both the inside and outside of the cambium cylinder,
+   with those on the inside forming secondary xylem cells, and those on
+   the outside forming secondary phloem cells. As secondary xylem
+   accumulates, the "girth" (lateral dimensions) of the stem and root
+   increases. As a result, tissues beyond the secondary phloem including
+   the epidermis and cortex, in many cases tend to be pushed outward and
+   are eventually "sloughed off" (shed).^[[276]citation needed]
+
+   At this point, the cork cambium begins to form the periderm, consisting
+   of protective [277]cork cells. The walls of cork cells contains
+   [278]suberin thickenings, which is an extra cellular complex
+   biopolymer.^[279][14] The suberin thickenings functions by providing a
+   physical barrier, protection against pathogens and by preventing water
+   loss from the surrounding tissues. In addition, it also aids the
+   process of wound healing in plants.^[280][15] It is also postulated
+   that suberin could be a component of the apoplastic barrier (present at
+   the outer cell layers of roots) which prevents toxic compounds from
+   entering the root and reduces radial oxygen loss (ROL) from the
+   [281]aerenchyma during waterlogging.^[282][16] In roots, the cork
+   cambium originates in the [283]pericycle, a component of the vascular
+   cylinder.^[284][16]
+
+   The vascular cambium produces new layers of secondary xylem
+   annually.^[[285]citation needed] The xylem vessels are dead at maturity
+   (in some) but are responsible for most water transport through the
+   vascular tissue in stems and roots.
+   Tree roots at Port Jackson
+
+   Tree roots usually grow to three times the diameter of the branch
+   spread, only half of which lie underneath the trunk and canopy. The
+   roots from one side of a tree usually supply nutrients to the foliage
+   on the same side. Some families however, such as [286]Sapindaceae (the
+   [287]maple family), show no correlation between root location and where
+   the root supplies nutrients on the plant.^[288][17]
+
+Regulation
+
+   [[289]edit]
+
+   There is a correlation of roots using the process of [290]plant
+   perception to sense their physical environment to grow,^[291][18]
+   including the sensing of light,^[292][19] and physical barriers. Plants
+   also sense gravity and respond through auxin pathways,^[293][20]
+   resulting in [294]gravitropism. Over time, roots can crack foundations,
+   snap water lines, and lift sidewalks. Research has shown that roots
+   have ability to recognize 'self' and 'non-self' roots in same soil
+   environment.^[295][21]
+
+   The correct environment of [296]air, mineral [297]nutrients and
+   [298]water directs plant roots to grow in any direction to meet the
+   plant's needs. Roots will shy or shrink away from dry^[299][22] or
+   other poor soil conditions.
+
+   [300]Gravitropism directs roots to grow downward at [301]germination,
+   the growth mechanism of plants that also causes the shoot to grow
+   upward.^[302][23] Different types of roots such as primary, seminal,
+   lateral and crown are maintained at different gravitropic setpoint
+   angles i.e. the direction in which they grow. Recent research show that
+   root angle in cereal crops such as barley and wheat is regulated by a
+   novel gene called Enhanced Gravitropism 1 (EGT1).^[303][24]
+
+   Research indicates that plant roots growing in search of productive
+   nutrition can sense and avoid soil compaction through diffusion of the
+   gas [304]ethylene.^[305][25]
+   [306][220px-ArabidopsisLatRoot.jpg] Fluorescent imaging of an emerging
+   lateral root
+
+Shade avoidance response
+
+   [[307]edit]
+
+   In order to avoid shade, plants utilize a shade avoidance response.
+   When a plant is under dense vegetation, the presence of other
+   vegetation nearby will cause the plant to avoid lateral growth and
+   experience an increase in upward shoot, as well as downward root
+   growth. In order to escape shade, plants adjust their root
+   architecture, most notably by decreasing the length and amount of
+   lateral roots emerging from the primary root. Experimentation of mutant
+   variants of [308]Arabidopsis thaliana found that plants sense the Red
+   to Far Red light ratio that enters the plant through photoreceptors
+   known as [309]phytochromes.^[310][26] Nearby plant leaves will absorb
+   red light and reflect far-red light, which will cause the ratio red to
+   far red light to lower. The phytochrome PhyA that senses this Red to
+   Far Red light ratio is localized in both the root system as well as the
+   shoot system of plants, but through knockout mutant experimentation, it
+   was found that root localized PhyA does not sense the light ratio,
+   whether directly or axially, that leads to changes in the lateral root
+   architecture.^[311][26] Research instead found that shoot localized
+   PhyA is the phytochrome responsible for causing these architectural
+   changes of the lateral root. Research has also found that phytochrome
+   completes these architectural changes through the manipulation of auxin
+   distribution in the root of the plant.^[312][26] When a low enough Red
+   to Far Red ratio is sensed by PhyA, the phyA in the shoot will be
+   mostly in its active form.^[313][27] In this form, PhyA stabilize the
+   [314]transcription factor HY5 causing it to no longer be degraded as it
+   is when phyA is in its inactive form. This stabilized transcription
+   factor is then able to be transported to the roots of the plant through
+   the [315]phloem, where it proceeds to induce its own transcription as a
+   way to amplify its signal. In the roots of the plant HY5 functions to
+   inhibit an auxin response factor known as ARF19, a response factor
+   responsible for the translation of PIN3 and LAX3, two well known auxin
+   transporting [316]proteins.^[317][27] Thus, through manipulation of
+   ARF19, the level and activity of [318]auxin transporters PIN3 and LAX3
+   is inhibited.^[319][27] Once inhibited, auxin levels will be low in
+   areas where lateral root emergence normally occurs, resulting in a
+   failure for the plant to have the emergence of the lateral root
+   primordium through the root [320]pericycle. With this complex
+   manipulation of Auxin transport in the roots, lateral root emergence
+   will be inhibited in the roots and the root will instead elongate
+   downwards, promoting vertical plant growth in an attempt to avoid
+   shade.^[321][26]^[322][27]
+
+   Research of Arabidopsis has led to the discovery of how this auxin
+   mediated root response works. In an attempt to discover the role that
+   [323]phytochrome plays in lateral root development, Salisbury et al.
+   (2007) worked with Arabidopsis thaliana grown on agar plates. Salisbury
+   et al. used wild type plants along with varying protein knockout and
+   gene knockout Arabidopsis mutants to observe the results these
+   mutations had on the root architecture, protein presence, and gene
+   expression. To do this, Salisbury et al. used GFP fluorescence along
+   with other forms of both macro and microscopic imagery to observe any
+   changes various mutations caused. From these research, Salisbury et al.
+   were able to theorize that shoot located phytochromes alter auxin
+   levels in roots, controlling lateral root development and overall root
+   architecture.^[324][26] In the experiments of van Gelderen et al.
+   (2018), they wanted to see if and how it is that the shoot of
+   A. thaliana alters and affects root development and root architecture.
+   To do this, they took Arabidopsis plants, grew them in [325]agar gel,
+   and exposed the roots and shoots to separate sources of light. From
+   here, they altered the different wavelengths of light the shoot and
+   root of the plants were receiving and recorded the lateral root
+   density, amount of lateral roots, and the general architecture of the
+   lateral roots. To identify the function of specific photoreceptors,
+   proteins, genes, and hormones, they utilized various Arabidopsis
+   knockout mutants and observed the resulting changes in lateral roots
+   architecture. Through their observations and various experiments, van
+   Gelderen et al. were able to develop a mechanism for how root detection
+   of Red to Far-red light ratios alter lateral root
+   development.^[326][27]
+
+Types
+
+   [[327]edit]
+   This section does not [328]cite any [329]sources. Please help
+   [330]improve this section by [331]adding citations to reliable sources.
+   Unsourced material may be challenged and [332]removed. (March 2010)
+   ([333]Learn how and when to remove this message)
+
+   A true root system consists of a primary root and secondary roots (or
+   [334]lateral roots).
+     * the diffuse root system: the primary root is not dominant; the
+       whole root system is fibrous and branches in all directions. Most
+       common in [335]monocots. The main function of the fibrous root is
+       to anchor the plant.
+
+Specialized
+
+   [[336]edit]
+   [337][220px-Prop_roots_of_Maize_plant.jpg] Stilt roots of maize
+   plant[338]Microscope image of a ross section of a pearl millet root, a
+   circular fluorescent blue root containing a bright blue inner region
+   (stele) with several smaller lateral roots emerging Cross section of an
+   adventitous crown root of pearl millet (Pennisetum
+   glaucum)[339][220px-Adventitious_roots_on_Odontonema_aka_Firespike.jpg]
+   Roots forming above ground on a cutting of an Odontonema
+   ("Firespike")[340][220px-Mangroves.jpg] Aerating roots of a
+   [341]mangrove[342][220px-Root_tip.JPG] The growing tip of a fine
+   root[343][220px-Aerial_root.jpg] Aerial
+   root[344][220px-Socratea_exorriza2002_03_12.JPG] The stilt roots of
+   [345]Socratea exorrhiza[346][220px-Visible_roots.jpg] Visible roots
+
+   The roots, or parts of roots, of many plant species have become
+   specialized to serve adaptive purposes besides the two primary
+   functions^[[347]clarification needed], described in the introduction.
+     * Adventitious roots arise out-of-sequence from the more usual root
+       formation of branches of a primary root, and instead originate from
+       the stem, branches, leaves, or old woody roots. They commonly occur
+       in [348]monocots and pteridophytes, but also in many [349]dicots,
+       such as [350]clover (Trifolium), [351]ivy (Hedera), [352]strawberry
+       (Fragaria) and [353]willow (Salix). Most aerial roots and stilt
+       roots are adventitious. In some conifers adventitious roots can
+       form the largest part of the root system. Adventitious root
+       formation is enhanced in many plant species during (partial)
+       submergence, to increase gas exchange and storage of gases like
+       oxygen.^[354][28] Distinct types of adventitious roots can be
+       classified and are dependent on morphology, growth dynamics and
+       function.^[355][29]^[356][30]
+     * Aerating roots (or knee root or knee or pneumatophores): roots
+       rising above the ground, especially above water such as in some
+       [357]mangrove genera ([358]Avicennia, [359]Sonneratia). In some
+       plants like Avicennia the erect roots have a large number of
+       breathing pores for exchange of gases.
+     * [360]Aerial roots: roots entirely above the ground, such as in ivy
+       (Hedera) or in [361]epiphytic [362]orchids. Many aerial roots are
+       used to receive water and nutrient intake directly from the air -
+       from fogs, dew or humidity in the air.^[363][31] Some rely on leaf
+       systems to gather rain or humidity and even store it in scales or
+       pockets. Other aerial roots, such as [364]mangrove aerial roots,
+       are used for aeration and not for water absorption. Other aerial
+       roots are used mainly for structure, functioning as prop roots, as
+       in [365]maize or anchor roots or as the trunk in [366]strangler
+       fig. In some Epiphytes - plants living above the surface on other
+       plants, aerial roots serve for reaching to water sources or
+       reaching the surface, and then functioning as regular surface
+       roots.^[367][31]
+     * [368]Canopy roots/arboreal roots: roots that form when tree
+       branches support mats of epiphytes and detritus, which hold water
+       and nutrients in the canopy. They grow out into these mats, likely
+       to utilize the available nutrients and moisture.^[369][32]
+     * Coarse roots: roots that have undergone secondary thickening and
+       have a woody structure. These roots have some ability to absorb
+       water and nutrients, but their main function is transport and to
+       provide a structure to connect the smaller diameter, fine roots to
+       the rest of the plant.
+     * Contractile roots: roots that pull bulbs or corms of [370]monocots,
+       such as [371]hyacinth and [372]lily, and some [373]taproots, such
+       as [374]dandelion, deeper in the soil through expanding radially
+       and contracting longitudinally. They have a wrinkled
+       surface.^[375][33]
+     * Coralloid roots: similar to root nodules, these provide nitrogen to
+       the plant. They are often larger than nodules, branched, and
+       located at or near the soil surface, and harbor nitrogen-fixing
+       [376]cyanobacteria. They are only found in [377]cycads.
+     * [378]Dimorphic root systems: roots with two distinctive forms for
+       two separate functions
+     * [379]Fine roots: typically primary roots <2 mm diameter that have
+       the function of water and nutrient uptake. They are often heavily
+       branched and support mycorrhizas. These roots may be short lived,
+       but are replaced by the plant in an ongoing process of root
+       'turnover'.
+     * Haustorial roots: roots of parasitic plants that can absorb water
+       and nutrients from another plant, such as in [380]mistletoe (Viscum
+       album) and [381]dodder.
+     * Propagative roots: roots that form adventitious buds that develop
+       into aboveground shoots, termed [382]suckers, which form new
+       plants, as in [383]common milkweed (Asclepias syriaca), [384]Canada
+       thistle (Cirsium arvense), and many others.^[385][34]
+     * Photosynthetic roots: roots that are green and photosynthesize,
+       providing sugar to the plant. They are similar to
+       [386]phylloclades. Several orchids have these, such as
+       [387]Dendrophylax and [388]Taeniophyllum.
+     * [389]Proteoid roots or cluster roots: dense clusters of rootlets of
+       limited growth that develop under low [390]phosphate or low
+       [391]iron conditions in [392]Proteaceae and some plants from the
+       following families [393]Betulaceae, [394]Casuarinaceae,
+       [395]Elaeagnaceae, [396]Moraceae, [397]Fabaceae and
+       [398]Myricaceae.
+     * [399]Root nodules: roots that harbor nitrogen-fixing soil bacteria.
+       These are often very short and rounded. Root nodules are found in
+       virtually all [400]legumes.
+     * Stilt roots: adventitious support roots, common among
+       [401]mangroves. They grow down from lateral branches, branching in
+       the soil.
+     * Storage roots: roots modified for storage of food or water, such as
+       [402]carrots and [403]beets. They include some [404]taproots and
+       tuberous roots.
+     * Structural roots: large roots that have undergone considerable
+       secondary thickening and provide mechanical support to woody plants
+       and trees.
+     * Surface roots: roots that proliferate close below the soil surface,
+       exploiting water and easily available nutrients. Where conditions
+       are close to optimum in the surface layers of soil, the growth of
+       surface roots is encouraged and they commonly become the dominant
+       roots.
+     * Tuberous roots: fleshy and enlarged lateral roots for food or water
+       storage, e.g. [405]sweet potato. A type of storage root distinct
+       from taproot.
+
+Depths
+
+   [[406]edit]
+   [407][220px-Exposed_mango_tree_roots.jpg] Cross section of a [408]mango
+   tree
+
+   The distribution of vascular plant roots within soil depends on plant
+   form, the spatial and temporal availability of water and nutrients, and
+   the physical properties of the soil. The deepest roots are generally
+   found in deserts and temperate coniferous forests; the shallowest in
+   tundra, boreal forest and temperate grasslands. The deepest observed
+   living root, at least 60 metres (200 ft) below the ground surface, was
+   observed during the excavation of an open-pit mine in Arizona, US. Some
+   roots can grow as deep as the tree is high. The majority of roots on
+   most plants are however found relatively close to the surface where
+   nutrient availability and aeration are more favourable for growth.
+   Rooting depth may be physically restricted by rock or compacted soil
+   close below the surface, or by anaerobic soil conditions.
+
+Records
+
+   [[409]edit]
+   [410][220px-Tree_roots2.jpg] [411]Ficus tree with [412]buttress roots
+   Species Location Maximum rooting depth (m)
+   References^[413][35]^[414][36]
+   [415]Boscia albitrunca Kalahari desert 68 Jennings (1974)
+   [416]Juniperus monosperma Colorado Plateau 61 Cannon (1960)
+   [417]Eucalyptus sp. Australian forest 61 Jennings (1971)
+   [418]Acacia erioloba Kalahari desert 60 Jennings (1974)
+   [419]Prosopis juliflora Arizona desert 53.3 Phillips (1963)
+
+Evolutionary history
+
+   [[420]edit]
+   Further information: [421]Evolution of plants § Evolution of roots
+
+   The fossil record of roots--or rather, infilled voids where roots
+   rotted after death--spans back to the late [422]Silurian, about
+   430 million years ago.^[423][37] Their identification is difficult,
+   because casts and molds of roots are so similar in appearance to animal
+   burrows. They can be discriminated using a range of features.^[424][38]
+   The evolutionary development of roots likely happened from the
+   modification of shallow [425]rhizomes (modified horizontal stems) which
+   anchored primitive vascular plants combined with the development of
+   filamentous outgrowths (called [426]rhizoids) which anchored the plants
+   and conducted water to the plant from the soil.^[427][39]
+
+Environmental interactions
+
+   [[428]edit]
+   [429][220px-Cycas_revoluta_coralloid_roots.JPG] Coralloid roots of
+   [430]Cycas revoluta
+
+   Light has been shown to have some impact on roots, but its not been
+   studied as much as the effect of light on other plant systems. Early
+   research in the 1930s found that light decreased the effectiveness of
+   [431]Indole-3-acetic acid on adventitious root initiation. Studies of
+   the pea in the 1950s shows that lateral root formation was inhibited by
+   light, and in the early 1960s researchers found that light could induce
+   positive [432]gravitropic responses in some situations. The effects of
+   light on root elongation has been studied for [433]monocotyledonous and
+   [434]dicotyledonous plants, with the majority of studies finding that
+   light inhibited root elongation, whether pulsed or continuous. Studies
+   of [435]Arabidopsis in the 1990s showed negative [436]phototropism and
+   inhibition of the elongation of root hairs in light sensed by
+   [437]phyB.^[438][40]
+
+   Certain plants, namely [439]Fabaceae, form [440]root nodules in order
+   to associate and form a symbiotic relationship with nitrogen-fixing
+   bacteria called [441]rhizobia. Owing to the high energy required to fix
+   nitrogen from the atmosphere, the bacteria take carbon compounds from
+   the plant to fuel the process. In return, the plant takes nitrogen
+   compounds produced from ammonia by the bacteria.^[442][41]
+
+   Soil temperature is a factor that effects [443]root initiation and
+   length. Root length is usually impacted more dramatically by
+   temperature than overall mass, where cooler temperatures tend to cause
+   more lateral growth because downward extension is limited by cooler
+   temperatures at subsoil levels. Needs vary by plant species, but in
+   temperate regions cool temperatures may limit root systems. Cool
+   temperature species like [444]oats, [445]rapeseed, [446]rye, [447]wheat
+   fare better in lower temperatures than summer [448]annuals like
+   [449]maize and [450]cotton. Researchers have found that plants like
+   cotton develop wider and shorter [451]taproots in cooler temperatures.
+   The first root originating from the seed usually has a wider diameter
+   than root branches, so smaller root diameters are expected if
+   temperatures increase root initiation. Root diameter also decreases
+   when the root elongates.^[452][42]
+
+Plant interactions
+
+   [[453]edit]
+
+   Plants can interact with one another in their environment through their
+   root systems. Studies have demonstrated that plant-plant interaction
+   occurs among root systems via the soil as a medium. Researchers have
+   tested whether plants growing in ambient conditions would change their
+   behavior if a nearby plant was exposed to drought conditions.^[454][43]
+   Since nearby plants showed no changes in [455]stomatal aperture
+   researchers believe the drought signal spread through the roots and
+   soil, not through the air as a volatile chemical signal.^[456][44]
+
+Soil interactions
+
+   [[457]edit]
+
+   Soil microbiota can suppress both disease and beneficial root symbionts
+   (mycorrhizal fungi are easier to establish in sterile soil).
+   Inoculation with soil bacteria can increase internode extension, yield
+   and quicken flowering. The migration of bacteria along the root varies
+   with natural soil conditions. For example, research has found that the
+   root systems of wheat seeds inoculated with [458]Azotobacter showed
+   higher populations in soils favorable to Azotobacter growth. Some
+   studies have been unsuccessful in increasing the levels of certain
+   microbes (such as [459]P. fluorescens) in natural soil without prior
+   sterilization.^[460][45]
+
+   Grass root systems are beneficial at reducing [461]soil erosion by
+   holding the soil together. [462]Perennial grasses that grow wild in
+   rangelands contribute organic matter to the soil when their old roots
+   decay after attacks by beneficial [463]fungi, [464]protozoa, bacteria,
+   insects and worms release nutrients.^[465][5]
+
+   Scientists have observed significant diversity of the microbial cover
+   of roots at around 10 percent of three week old root segments covered.
+   On younger roots there was even low coverage, but even on 3-month-old
+   roots the coverage was only around 37%. Before the 1970s, scientists
+   believed that the majority of the root surface was covered by
+   microorganisms.^[466][5]
+
+Nutrient absorption
+
+   [[467]edit]
+
+   Researchers studying [468]maize seedlings found that calcium absorption
+   was greatest in the [469]apical root segment, and potassium at the base
+   of the root. Along other root segments absorption was similar. Absorbed
+   potassium is transported to the root tip, and to a lesser extent other
+   parts of the root, then also to the shoot and grain. Calcium transport
+   from the apical segment is slower, mostly transported upward and
+   accumulated in stem and shoot.^[470][46]
+
+   Researchers found that partial deficiencies of K or P did not change
+   the [471]fatty acid composition of [472]phosphatidyl choline in
+   [473]Brassica napus L. plants. Calcium deficiency did, on the other
+   hand, lead to a marked decline of [474]polyunsaturated compounds that
+   would be expected to have negative impacts for integrity of the plant
+   [475]membrane, that could effect some properties like its permeability,
+   and is needed for the [476]ion uptake activity of the root
+   membranes.^[477][47]
+
+Economic importance
+
+   [[478]edit]
+   [479][220px-Roots_and_Soil_Erosion.jpg] Roots can also protect the
+   environment by holding the soil to reduce soil
+   erosion.[480][220px-World_Primary_Crops_Harvested_Area_By_Commodity_Gro
+   up.svg.png] Roots and tubers are some of the most widely harvested
+   crops in the world.
+
+   The term [481]root crops refers to any edible underground plant
+   structure, but many root crops are actually stems, such as [482]potato
+   tubers. Edible roots include [483]cassava, [484]sweet potato,
+   [485]beet, [486]carrot, [487]rutabaga, [488]turnip, [489]parsnip,
+   [490]radish, [491]yam and [492]horseradish. Spices obtained from roots
+   include [493]sassafras, [494]angelica, [495]sarsaparilla and
+   [496]licorice.
+
+   [497]Sugar beet is an important source of sugar. [498]Yam roots are a
+   source of [499]estrogen compounds used in [500]birth control pills. The
+   fish [501]poison and [502]insecticide [503]rotenone is obtained from
+   roots of [504]Lonchocarpus spp. Important medicines from roots are
+   [505]ginseng, [506]aconite, [507]ipecac, [508]gentian and
+   [509]reserpine. Several legumes that have nitrogen-fixing root nodules
+   are used as green manure crops, which provide nitrogen fertilizer for
+   other crops when plowed under. Specialized [510]bald cypress roots,
+   termed knees, are sold as souvenirs, lamp bases and carved into folk
+   art. [511]Native Americans used the flexible roots of [512]white spruce
+   for basketry.
+
+   [513]Tree roots can heave and destroy [514]concrete sidewalks and crush
+   or clog buried pipes.^[515][48] The aerial roots of [516]strangler fig
+   have damaged ancient [517]Mayan [518]temples in [519]Central America
+   and the temple of [520]Angkor Wat in [521]Cambodia.
+
+   Trees stabilize soil on a slope prone to [522]landslides. The [523]root
+   hairs work as an anchor on the soil.
+
+   [524]Vegetative propagation of plants via cuttings depends on
+   adventitious root formation. Hundreds of millions of plants are
+   propagated via [525]cuttings annually including [526]chrysanthemum,
+   [527]poinsettia, [528]carnation, ornamental [529]shrubs and many
+   [530]houseplants.
+
+   Roots can also protect the environment by holding the soil to reduce
+   soil erosion. This is especially important in areas such as [531]sand
+   dunes.
+   [532][220px-OnionBulbRoots.jpg] Roots on onion bulbs
+
+See also
+
+   [[533]edit]
+     * [534]Absorption of water
+     * [535]Cypress knee
+     * [536]Drought rhizogenesis
+     * [537]Fibrous root system
+     * [538]Mycorrhiza - root symbiosis in which individual hyphae
+       extending from the mycelium of a fungus colonize the roots of a
+       host plant.
+     * [539]Mycorrhizal network
+     * [540]Plant physiology
+     * [541]Rhizosphere - region of soil around the root influenced by
+       root secretions and microorganisms present
+     * [542]Root cutting
+     * [543]Rooting powder
+     * [544]Stolon
+     * [545]Tanada effect
+     * [546]Taproot
+
+References
+
+   [[547]edit]
+    1. [548]^ Harley Macdonald & Donovan Stevens (3 September 2019).
+       [549]Biotechnology and Plant Biology. EDTECH. pp. 141-.
+       [550]ISBN [551]978-1-83947-180-3.
+    2. [552]^ Nguyen, Linh Thuy My; Hoang, Hanh Thi; Choi, Eunho; Park,
+       Pil Sun (2023-07-05). [553]"Distribution of mangroves with
+       different aerial root morphologies at accretion and erosion sites
+       in Ca Mau Province, Vietnam". Estuarine, Coastal and Shelf Science.
+       287: 108324. [554]Bibcode:[555]2023ECSS..28708324N.
+       [556]doi:[557]10.1016/j.ecss.2023.108324. [558]ISSN [559]0272-7714.
+    3. [560]^ [561]"Plant parts=Roots". University of Illinois Extension.
+    4. [562]^ Yaacov Okon (24 November 1993). [563]Azospirillum/Plant
+       Associations. CRC Press. pp. 77-. [564]ISBN [565]978-0-8493-4925-6.
+    5. ^ [566]^a [567]^b [568]^c [569]"Backyard Gardener: Understanding
+       Plant Roots". University of Arizona Cooperative Extension.
+    6. [570]^ Gangulee HC, Das KS, Datta CT, Sen S. College Botany.
+       Vol. 1. Kolkata: New Central Book Agency.
+    7. [571]^ Dutta AC, Dutta TC. BOTANY For Degree Students (6th ed.).
+       Oxford University Press.
+    8. [572]^ Sheldrake, Merlin (2020). Entangled Life. Bodley Head.
+       p. 148. [573]ISBN [574]978-1847925206.
+    9. [575]^ Malamy JE (2005). [576]"Intrinsic and environmental response
+       pathways that regulate root system architecture". Plant, Cell &
+       Environment. 28 (1): 67-77. [577]Bibcode:[578]2005PCEnv..28...67M.
+       [579]doi:[580]10.1111/j.1365-3040.2005.01306.x.
+       [581]PMID [582]16021787.
+   10. ^ [583]^a [584]^b Caldwell MM, Dawson TE, Richards JH (January
+       1998). "Hydraulic lift: consequences of water efflux from the roots
+       of plants". Oecologia. 113 (2): 151-161.
+       [585]Bibcode:[586]1998Oecol.113..151C.
+       [587]doi:[588]10.1007/s004420050363. [589]PMID [590]28308192.
+       [591]S2CID [592]24181646.
+   11. [593]^ Fitter AH (1991). "The ecological significance of root
+       system architecture: an economic approach". In Atkinson D (ed.).
+       Plant Root Growth: An Ecological Perspective. Blackwell.
+       pp. 229-243.
+   12. [594]^ Malamy JE, Ryan KS (November 2001). [595]"Environmental
+       regulation of lateral root initiation in Arabidopsis". Plant
+       Physiology. 127 (3): 899-909. [596]doi:[597]10.1104/pp.010406.
+       [598]PMC [599]129261. [600]PMID [601]11706172.
+   13. [602]^ Russell PJ, Hertz PE, McMillan B (2013). [603]Biology: The
+       Dynamic Science. Cengage Learning. p. 750.
+       [604]ISBN [605]978-1-285-41534-5. [606]Archived from the original
+       on 2018-01-21. Retrieved 2017-04-24.
+   14. [607]^ [608]"Suberin - an overview | ScienceDirect Topics".
+       www.sciencedirect.com. Retrieved 2021-08-31.
+   15. [609]^ [610]"Suberin Form & Function - Mark Bernards - Western
+       University". www.uwo.ca. Retrieved 2021-08-31.
+   16. ^ [611]^a [612]^b Watanabe, Kohtaro; Nishiuchi, Shunsaku;
+       Kulichikhin, Konstantin; Nakazono, Mikio (2013). [613]"Does suberin
+       accumulation in plant roots contribute to waterlogging tolerance?".
+       Frontiers in Plant Science. 4: 178.
+       [614]doi:[615]10.3389/fpls.2013.00178. [616]ISSN [617]1664-462X.
+       [618]PMC [619]3683634. [620]PMID [621]23785371.
+   17. [622]^ van den Driessche, R. (1974-07-01). [623]"Prediction of
+       mineral nutrient status of trees by foliar analysis". The Botanical
+       Review. 40 (3): 347-394. [624]Bibcode:[625]1974BotRv..40..347V.
+       [626]doi:[627]10.1007/BF02860066. [628]ISSN [629]1874-9372.
+       [630]S2CID [631]29919924 - via Springer.
+   18. [632]^ Nakagawa Y, Katagiri T, Shinozaki K, Qi Z, Tatsumi H,
+       Furuichi T, et al. (February 2007). [633]"Arabidopsis plasma
+       membrane protein crucial for Ca2+ influx and touch sensing in
+       roots". Proceedings of the National Academy of Sciences of the
+       United States of America. 104 (9): 3639-44.
+       [634]Bibcode:[635]2007PNAS..104.3639N.
+       [636]doi:[637]10.1073/pnas.0607703104. [638]PMC [639]1802001.
+       [640]PMID [641]17360695.
+   19. [642]^ [643]UV-B light sensing mechanism discovered in plant roots,
+       San Francisco State University, December 8, 2008
+   20. [644]^ Marchant A, Kargul J, May ST, Muller P, Delbarre A,
+       Perrot-Rechenmann C, Bennett MJ (April 1999). [645]"AUX1 regulates
+       root gravitropism in Arabidopsis by facilitating auxin uptake
+       within root apical tissues". The EMBO Journal. 18 (8): 2066-73.
+       [646]doi:[647]10.1093/emboj/18.8.2066. [648]PMC [649]1171291.
+       [650]PMID [651]10205161.
+   21. [652]^ Hodge A (June 2009). [653]"Root decisions". Plant, Cell &
+       Environment. 32 (6): 628-40. [654]Bibcode:[655]2009PCEnv..32..628H.
+       [656]doi:[657]10.1111/j.1365-3040.2008.01891.x.
+       [658]PMID [659]18811732.
+   22. [660]^ Carminati A, Vetterlein D, Weller U, Vogel HJ, Oswald SE
+       (2009). "When roots lose contact". Vadose Zone Journal. 8 (3):
+       805-809. [661]Bibcode:[662]2009VZJ.....8..805C.
+       [663]doi:[664]10.2136/vzj2008.0147. [665]S2CID [666]128600212.
+   23. [667]^ Chen R, Rosen E, Masson PH (June 1999). [668]"Gravitropism
+       in higher plants". Plant Physiology. 120 (2): 343-50.
+       [669]doi:[670]10.1104/pp.120.2.343. [671]PMC [672]1539215.
+       [673]PMID [674]11541950.
+   24. [675]^ Fusi, Riccardo; Rosignoli, Serena; Lou, Haoyu; Sangiorgi,
+       Giuseppe; Bovina, Riccardo; Pattem, Jacob K.; Borkar, Aditi N.;
+       Lombardi, Marco; Forestan, Cristian; Milner, Sara G.; Davis, Jayne
+       L.; Lale, Aneesh; Kirschner, Gwendolyn K.; Swarup, Ranjan;
+       Tassinari, Alberto; Pandey, Bipin K.; York, Larry M.; Atkinson,
+       Brian S.; Sturrock, Craig J.; Mooney, Sacha J.; Hochholdinger,
+       Frank; Tucker, Matthew R.; Himmelbach, Axel; Stein, Nils; Mascher,
+       Martin; Nagel, Kerstin A.; De Gara, Laura; Simmonds, James; Uauy,
+       Cristobal; Tuberosa, Roberto; Lynch, Jonathan P.; Yakubov, Gleb E.;
+       Bennett, Malcolm J.; Bhosale, Rahul; Salvi, Silvio (2 August 2022).
+       [676]"Root angle is controlled by EGT1 in cereal crops employing an
+       antigravitropic mechanism". Proceedings of the National Academy of
+       Sciences. 119 (31): e2201350119.
+       [677]Bibcode:[678]2022PNAS..11901350F.
+       [679]doi:[680]10.1073/pnas.2201350119. [681]PMC [682]9351459.
+       [683]PMID [684]35881796. [685]S2CID [686]251104211.
+   25. [687]^ Pandey, Bipin K.; Huang, Guoqiang; Bhosale, Rahul; Hartman,
+       Sjon; Sturrock, Craig J.; Jose, Lottie; Martin, Olivier C.; Karady,
+       Michal; Voesenek, Laurentius A. C. J.; Ljung, Karin; Lynch,
+       Jonathan P. (2021-01-15). [688]"Plant roots sense soil compaction
+       through restricted ethylene diffusion". Science. 371 (6526):
+       276-280. [689]Bibcode:[690]2021Sci...371..276P.
+       [691]doi:[692]10.1126/science.abf3013. [693]hdl:[694]1874/418726.
+       [695]ISSN [696]0036-8075. [697]PMID [698]33446554.
+       [699]S2CID [700]231606782.
+   26. ^ [701]^a [702]^b [703]^c [704]^d [705]^e Salisbury FJ, Hall A,
+       Grierson CS, Halliday KJ (May 2007). [706]"Phytochrome coordinates
+       Arabidopsis shoot and root development". The Plant Journal. 50 (3):
+       429-38. [707]doi:[708]10.1111/j.1365-313x.2007.03059.x.
+       [709]PMID [710]17419844.
+   27. ^ [711]^a [712]^b [713]^c [714]^d [715]^e van Gelderen K, Kang C,
+       Paalman R, Keuskamp D, Hayes S, Pierik R (January 2018).
+       [716]"Far-Red Light Detection in the Shoot Regulates Lateral Root
+       Development through the HY5 Transcription Factor". The Plant Cell.
+       30 (1): 101-116. [717]Bibcode:[718]2018PlanC..30..101V.
+       [719]doi:[720]10.1105/tpc.17.00771. [721]PMC [722]5810572.
+       [723]PMID [724]29321188.
+   28. [725]^ Ayi, Qiaoli; Zeng, Bo; Liu, Jianhui; Li, Siqi; van Bodegom,
+       Peter M.; Cornelissen, Johannes H. C. (October 2016). [726]"Oxygen
+       absorption by adventitious roots promotes the survival of
+       completely submerged terrestrial plants". Annals of Botany. 118
+       (4): 675-683. [727]doi:[728]10.1093/aob/mcw051.
+       [729]PMC [730]5055620. [731]PMID [732]27063366.
+   29. [733]^ Lin, Chen; Ogorek, Lucas León Peralta; Liu, Dan; Pedersen,
+       Ole; Sauter, Margret (11 January 2023). [734]"A quantitative trait
+       locus conferring flood tolerance to deepwater rice regulates the
+       formation of two distinct types of aquatic adventitious roots". New
+       Phytologist. 238 (4): 1403-1419.
+       [735]Bibcode:[736]2023NewPh.238.1403L.
+       [737]doi:[738]10.1111/nph.18678. [739]PMID [740]36519256.
+       [741]S2CID [742]254769152.
+   30. [743]^ Maric, Aida; Hartman, Sjon (11 March 2023). [744]"The leaf
+       sheath promotes prolonged flooding protection by giving rise to
+       specialized adventitious roots". New Phytologist. 238 (4):
+       1337-1339. [745]Bibcode:[746]2023NewPh.238.1337M.
+       [747]doi:[748]10.1111/nph.18824. [749]PMID [750]36905344.
+       [751]S2CID [752]257438007.
+   31. ^ [753]^a [754]^b Nowak EJ, Martin CE (1997). [755]"Physiological
+       and anatomical responses to water deficits in the CAM epiphyte
+       Tillandsia ionantha (Bromeliaceae)". International Journal of Plant
+       Sciences. 158 (6): 818-826. [756]doi:[757]10.1086/297495.
+       [758]hdl:[759]1808/9858. [760]JSTOR [761]2475361.
+       [762]S2CID [763]85888916.
+   32. [764]^ Nadkarni NM (November 1981). "Canopy roots: convergent
+       evolution in rainforest nutrient cycles". Science. 214 (4524):
+       1023-4. [765]Bibcode:[766]1981Sci...214.1023N.
+       [767]doi:[768]10.1126/science.214.4524.1023.
+       [769]PMID [770]17808667. [771]S2CID [772]778003.
+   33. [773]^ Pütz N (2002). "Contractile roots". In Waisel Y., Eshel A.,
+       Kafkafi U. (eds.). Plant roots: The hidden half (3rd ed.). New
+       York: Marcel Dekker. pp. 975-987.
+   34. [774]^ Namuth-Covert, Deana; Kohmetscher, Amy. [775]"3.3 Vegetative
+       Forms of Reproduction: Modified Roots". Principles of Weed Control.
+       [776]Montreal: [777]Pressbooks. Retrieved October 13, 2024.
+       "Examples of plants with modified roots: Common milkweed (Asclepias
+       syriaca) and Canada thistle (Cirsium arvense)."
+   35. [778]^ Canadell J, Jackson RB, Ehleringer JB, Mooney HA, Sala OE,
+       Schulze ED (December 1996). "Maximum rooting depth of vegetation
+       types at the global scale". Oecologia. 108 (4): 583-595.
+       [779]Bibcode:[780]1996Oecol.108..583C.
+       [781]doi:[782]10.1007/BF00329030. [783]PMID [784]28307789.
+       [785]S2CID [786]2092130.
+   36. [787]^ Stonea EL, Kaliszb PJ (1 December 1991). "On the maximum
+       extent of tree roots". Forest Ecology and Management. 46 (1-2):
+       59-102. [788]Bibcode:[789]1991ForEM..46...59S.
+       [790]doi:[791]10.1016/0378-1127(91)90245-Q.
+   37. [792]^ Retallack GJ (1986). [793]"The fossil record of soils"
+       (PDF). In Wright VP (ed.). Paleosols: their Recognition and
+       Interpretation. Oxford: Blackwell. pp. 1-57. [794]Archived (PDF)
+       from the original on 2017-01-07.
+   38. [795]^ Hillier R, Edwards D, Morrissey LB (2008). "Sedimentological
+       evidence for rooting structures in the Early Devonian Anglo-Welsh
+       Basin (UK), with speculation on their producers". Palaeogeography,
+       Palaeoclimatology, Palaeoecology. 270 (3-4): 366-380.
+       [796]Bibcode:[797]2008PPP...270..366H.
+       [798]doi:[799]10.1016/j.palaeo.2008.01.038.
+   39. [800]^ Amram Eshel; Tom Beeckman (17 April 2013). [801]Plant Roots:
+       The Hidden Half, Fourth Edition. CRC Press. pp. 1-.
+       [802]ISBN [803]978-1-4398-4649-0.
+   40. [804]^ Kurata, Tetsuya (1997). "Light-stimulated root elongation in
+       Arabidopsis thaliana". Journal of Plant Physiology. 151 (3):
+       345-351. [805]Bibcode:[806]1997JPPhy.151..346K.
+       [807]doi:[808]10.1016/S0176-1617(97)80263-5.
+       [809]hdl:[810]2115/44841.
+   41. [811]^ Postgate, J. (1998). Nitrogen Fixation (3rd ed.). Cambridge,
+       UK: Cambridge University Press.
+   42. [812]^ Lal, Rattan (2006). [813]Encyclopedia of Soil Science. CRC
+       Press. [814]ISBN [815]978-0-8493-5054-2.
+   43. [816]^ Chamovitz, Daniel. (21 November 2017). What a plant knows :
+       a field guide to the senses. Farrar, Straus and Giroux.
+       [817]ISBN [818]9780374537128. [819]OCLC [820]1041421612.
+   44. [821]^ Falik O, Mordoch Y, Ben-Natan D, Vanunu M, Goldstein O,
+       Novoplansky A (July 2012). [822]"Plant responsiveness to root-root
+       communication of stress cues". Annals of Botany. 110 (2): 271-80.
+       [823]doi:[824]10.1093/aob/mcs045. [825]PMC [826]3394639.
+       [827]PMID [828]22408186.
+   45. [829]^ Bowen GD, Rovira AD (1976). "Microbial Colonization of Plant
+       Roots". Annu. Rev. Phytopathol. 14: 121-144.
+       [830]doi:[831]10.1146/annurev.py.14.090176.001005.
+   46. [832]^ Plant Roots and their Environment. Elsevier. 1988. p. 17.
+   47. [833]^ Plant Roots and their Environment. Elsevier. 1988. p. 25.
+   48. [834]^ Zahniser, David (2008-02-21). [835]"City to pass the bucks
+       on sidewalks?". [836]The Los Angeles Times. Retrieved 2023-03-30.
+
+Further reading
+
+   [[837]edit]
+     *
+
+   Baldocchi DD, Xu L (October 2007). "What limits evaporation from
+   Mediterranean oak woodlands-The supply of moisture in the soil,
+   physiological control by plants or the demand by the atmosphere?".
+   Advances in Water Resources. 30 (10): 2113-22.
+   [838]Bibcode:[839]2007AdWR...30.2113B.
+   [840]doi:[841]10.1016/j.advwatres.2006.06.013.
+
+     Brundrett, M. C. (2002). [842]"Coevolution of roots and mycorrhizas
+   of land plants". New Phytologist. 154 (2): 275-304.
+   [843]Bibcode:[844]2002NewPh.154..275B.
+   [845]doi:[846]10.1046/j.1469-8137.2002.00397.x.
+   [847]PMID [848]33873429.
+
+     Clark L (2004). [849]"Primary Root Structure and Development -
+   lecture notes" (PDF). Archived from [850]the original (PDF) on 3
+   January 2006.
+
+     Coutts MP (1987). "Developmental processes in tree root systems".
+   Canadian Journal of Forest Research. 17 (8): 761-767.
+   [851]Bibcode:[852]1987CaJFR..17..761C. [853]doi:[854]10.1139/x87-122.
+
+     Raven JA, Edwards D (2001). "Roots: evolutionary origins and
+   biogeochemical significance". Journal of Experimental Botany. 52 (Suppl
+   1): 381-401. [855]doi:[856]10.1093/jxb/52.suppl_1.381.
+   [857]PMID [858]11326045.
+
+     Schenk HJ, Jackson RB (2002). "The global biogeography of roots".
+   Ecological Monographs. 72 (3): 311-328. [859]doi:[860]10.2307/3100092.
+   [861]JSTOR [862]3100092.
+
+     Sutton RF, Tinus RW (1983). "Root and root system terminology".
+   Forest Science Monograph. 24: 137.
+
+     Phillips WS (1963). "Depth of roots in soil". Ecology. 44 (2): 424.
+   [863]Bibcode:[864]1963Ecol...44..424P. [865]doi:[866]10.2307/1932198.
+   [867]JSTOR [868]1932198.
+
+     Caldwell MM, Dawson TE, Richards JH (1998). "Hydraulic lift:
+   consequences of water efflux from the roots of plants". Oecologia. 113
+   (2): 151-161. [869]Bibcode:[870]1998Oecol.113..151C.
+   [871]doi:[872]10.1007/s004420050363. [873]PMID [874]28308192.
+   [875]S2CID [876]24181646.
+
+External links
+
+   [[877]edit]
+
+   Wikimedia Commons has media related to [878]Roots.
+
+   Wikiquote has quotations related to [879]Root.
+
+     * [880]Botany - University of Arkansas at Little Rock
+     * [881]Time-lapse photography of root growth on [882]YouTube
+
+     * [883]v
+     * [884]t
+     * [885]e
+
+   [886]Botany
+
+     * [887]History
+     * [888]Outline
+
+   [889]Subdisciplines
+
+     * [890]Archaeobotany
+     * [891]Astrobotany
+     * [892]Bryology
+     * [893]Dendrology
+     * [894]Ethnobotany
+     * [895]Paleobotany
+     * [896]Phycology
+     * [897]Phytochemistry
+     * [898]Phytogeography
+          + [899]Geobotany
+     * [900]Plant anatomy
+     * [901]Plant ecology
+     * [902]Plant intelligence
+     * [903]Plant pathology
+     * [904]Plant physiology
+
+   [905]Plant groups
+
+     * [906]Algae
+     * [907]Archaeplastida
+     * [908]Bryophyte
+     * [909]Non-vascular plants
+     * [910]Vascular plants
+     * [911]Fern
+     * [912]Lycophyte
+     * [913]Spermatophytes
+     * [914]Gymnosperm
+     * [915]Angiosperm
+
+   [916]Plant anatomy
+
+     * [917]Plant morphology
+       ([918]glossary)
+
+   [919]Plant cells
+     * [920]Cell wall
+     * [921]Phragmoplast
+     * [922]Plastid
+     * [923]Plasmodesma
+     * [924]Vacuole
+
+   [925]Tissues
+     * [926]Cork
+     * [927]Ground tissue
+          + [928]Mesophyll
+     * [929]Meristem
+     * [930]Storage organs
+     * [931]Vascular tissue
+          + [932]Vascular bundle
+     * [933]Wood
+
+   Vegetative
+     * [934]Bulb
+     * Root
+     * [935]Rhizoid
+     * [936]Rhizome
+     * [937]Shoot
+          + [938]Bud
+          + [939]Leaf
+               o [940]Cataphyll
+               o [941]Petiole
+          + [942]Sessility
+          + [943]Stem
+
+   [944]Reproductive
+   (incl. Flower)
+     * [945]Archegonium
+     * [946]Antheridium
+     * [947]Androecium
+          + [948]Pollen
+          + [949]Stamen
+               o [950]Anther
+               o [951]Filament
+          + [952]Staminode
+          + [953]Tapetum
+     * [954]Flower
+          + [955]Aestivation
+          + [956]Flower development
+          + [957]Floral diagram
+          + [958]Floral formula
+          + [959]Floral symmetry
+          + [960]Whorl
+     * [961]Fruit
+          + [962]Anatomy
+          + [963]Berry
+          + [964]Capsule
+          + [965]Nut
+          + [966]Pyrena
+          + [967]Seed
+               o [968]Dispersal
+               o [969]Endosperm
+     * [970]Gametophyte
+     * [971]Gynandrium
+     * [972]Gynoecium
+          + [973]Carpel
+               o [974]Ovary
+                    # [975]Locule
+                    # [976]Ovule
+               o [977]Stigma
+               o [978]Style
+     * [979]Hypanthium (Floral cup)
+     * [980]Inflorescence
+          + [981]Bract
+          + [982]Pedicellate
+          + [983]Raceme
+          + [984]Umbel
+     * [985]Perianth
+          + [986]Tepal
+          + [987]Petal
+          + [988]Sepal
+     * [989]Plant embryo
+     * [990]Receptacle
+     * [991]Sporophyll
+     * [992]Sporophyte
+
+   Surface structures
+     * [993]Cuticle
+     * [994]Epicuticular wax
+     * [995]Epidermis
+     * [996]Nectar
+     * [997]Stoma
+     * [998]Thorns, spines, and prickles
+     * [999]Trichome
+
+   [1000]Plant physiology
+   Materials
+
+     * [1001]Aleurone
+     * [1002]Apical dominance
+     * [1003]Bulk flow
+     * [1004]Cellulose
+     * [1005]Nutrition
+     * [1006]Photosynthesis
+          + [1007]Chlorophyll
+     * [1008]Phytomelanin
+     * [1009]Plant hormones
+     * [1010]Respiration
+          + [1011]Gas Exchange
+          + [1012]Cellular respiration
+     * [1013]Sap
+     * [1014]Starch
+     * [1015]Sugar
+     * [1016]Transpiration
+     * [1017]Turgor pressure
+
+   Plant growth
+   and habit
+
+     * [1018]Habit
+          + [1019]Cushion plants
+          + [1020]Rosettes
+          + [1021]Shrubs
+               o [1022]Prostrate shrubs
+               o [1023]Subshrubs
+          + [1024]Succulent plants
+          + [1025]Trees
+          + [1026]Vines
+               o [1027]Lianas
+     * [1028]Herbaceous plants
+     * [1029]Secondary growth
+     * [1030]Woody plants
+
+   [1031]Reproduction
+
+     * [1032]Evolution
+     * [1033]Ecology
+
+     * [1034]Alternation of generations
+     * [1035]Double fertilization
+     * [1036]Evolutionary development
+     * [1037]Evolutionary history
+          + [1038]timeline
+     * [1039]Flora
+     * [1040]Germination
+     * [1041]Pollination
+          + [1042]Artificial
+          + [1043]Pollinators
+          + [1044]Pollen tube
+          + [1045]Self
+     * [1046]Sporangium
+          + [1047]Microsporangia
+               o [1048]Microspore
+          + [1049]Megasporangium
+               o [1050]Megaspore
+          + [1051]Spore
+
+   [1052]Plant taxonomy
+
+     * [1053]Biological classification
+     * [1054]Botanical nomenclature
+          + [1055]Botanical name
+          + [1056]Correct name
+          + [1057]Author citation
+          + [1058]International Code of Nomenclature (ICN)
+          + [1059]ICN for Cultivated Plants (ICNCP)
+     * [1060]Cultivated plant taxonomy
+          + [1061]Citrus taxonomy
+          + [1062]Cultigen
+               o [1063]Cultivar
+               o [1064]Group
+               o [1065]Grex
+     * [1066]History of plant systematics
+     * [1067]Herbarium
+     * [1068]International Association for Plant Taxonomy (IAPT)
+     * [1069]Plant taxonomy systems
+     * [1070]Taxonomic rank
+
+   Practice
+
+     * [1071]Agronomy
+     * [1072]Floriculture
+     * [1073]Forestry
+     * [1074]Horticulture
+     * [1075]Phytochemical
+
+     * Lists
+     * Related topics
+
+     * [1076]Botanical terms
+     * [1077]Botanists
+          + [1078]by author abbreviation
+     * [1079]Botanical expeditions
+     * [1080]Individual trees
+     * [1081]Plants
+
+     * [1082]Category
+
+   [1083]Authority control databases [1084]Edit this at Wikidata
+   National
+     * [1085]Germany
+     * [1086]United States
+     * [1087]France
+     * [1088]BnF data
+     * [1089]Japan
+     * [1090]Czech Republic
+     * [1091]Israel
+
+    Other
+     * [1092]Terminologia Anatomica
+
+   Retrieved from
+   "[1093]https://en.wikipedia.org/w/index.php?title=Root&oldid=1264856792
+   "
+
+   [1094]Category:
+     * [1095]Plant roots
+
+   Hidden categories:
+     * [1096]Articles with short description
+     * [1097]Short description is different from Wikidata
+     * [1098]Wikipedia articles needing clarification from March 2016
+     * [1099]All articles with unsourced statements
+     * [1100]Articles with unsourced statements from March 2016
+     * [1101]Articles needing additional references from March 2010
+     * [1102]All articles needing additional references
+     * [1103]Commons category link is on Wikidata
+
+     * This page was last edited on 23 December 2024, at 22:24 (UTC).
+     * Text is available under the [1104]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [1105]Terms of Use and
+       [1106]Privacy Policy. Wikipedia® is a registered trademark of the
+       [1107]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [1108]Privacy policy
+     * [1109]About Wikipedia
+     * [1110]Disclaimers
+     * [1111]Contact Wikipedia
+     * [1112]Code of Conduct
+     * [1113]Developers
+     * [1114]Statistics
+     * [1115]Cookie statement
+     * [1116]Mobile view
+
+     * [1117]Wikimedia Foundation
+     * [1118]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/Root
+   2. file:///w/index.php?title=Root&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Root&returntoquery=default%3D
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Root&returntoquery=default%3D
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Root&returntoquery=default%3D
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Root&returntoquery=default%3D
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html
+  29. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Function
+  30. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Anatomy
+  31. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Root_system_architecture_(RSA)
+  32. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Definition
+  33. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Terms_and_components
+  34. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Growth
+  35. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Regulation
+  36. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Shade_avoidance_response
+  37. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Types
+  38. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Specialized
+  39. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Depths
+  40. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Records
+  41. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Evolutionary_history
+  42. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Environmental_interactions
+  43. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Plant_interactions
+  44. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Soil_interactions
+  45. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Nutrient_absorption
+  46. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Economic_importance
+  47. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#See_also
+  48. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#References
+  49. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#Further_reading
+  50. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#External_links
+  51. https://af.wikipedia.org/wiki/Wortel
+  52. https://ar.wikipedia.org/wiki/%D8%AC%D8%B0%D8%B1
+  53. https://an.wikipedia.org/wiki/Radiz
+  54. https://roa-rup.wikipedia.org/wiki/Ar%C3%A2d%C3%A2%C8%9Bin%C3%A2
+  55. https://ast.wikipedia.org/wiki/Raiga%C3%B1u_(bot%C3%A1nica)
+  56. https://atj.wikipedia.org/wiki/Otapi
+  57. https://gn.wikipedia.org/wiki/Tapo
+  58. https://ay.wikipedia.org/wiki/Saphi
+  59. https://az.wikipedia.org/wiki/K%C3%B6k_(orqan)
+  60. https://azb.wikipedia.org/wiki/%DA%A9%D9%88%DA%A9
+  61. https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A7%82%E0%A6%B2_(%E0%A6%89%E0%A6%A6%E0%A7%8D%E0%A6%AD%E0%A6%BF%E0%A6%A6%E0%A6%AC%E0%A6%BF%E0%A6%A6%E0%A7%8D%E0%A6%AF%E0%A6%BE)
+  62. https://be.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%BD%D1%8C_%D1%80%D0%B0%D1%81%D0%BB%D1%96%D0%BD%D1%8B
+  63. https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%BD%D1%8C
+  64. https://bcl.wikipedia.org/wiki/Gamot
+  65. https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD
+  66. https://bar.wikipedia.org/wiki/Wuazn
+  67. https://bo.wikipedia.org/wiki/%E0%BD%A2%E0%BE%A9%E0%BC%8B%E0%BD%96%E0%BC%8D
+  68. https://bs.wikipedia.org/wiki/Korijen_(biljka)
+  69. https://ca.wikipedia.org/wiki/Arrel_(bot%C3%A0nica)
+  70. https://cv.wikipedia.org/wiki/%D0%A2%D1%8B%D0%BC%D0%B0%D1%80
+  71. https://cs.wikipedia.org/wiki/Ko%C5%99en
+  72. https://da.wikipedia.org/wiki/Rod_(plantedel)
+  73. https://de.wikipedia.org/wiki/Wurzel_(Pflanze)
+  74. https://dsb.wikipedia.org/wiki/K%C3%B3rje%C5%84
+  75. https://et.wikipedia.org/wiki/Juur
+  76. https://el.wikipedia.org/wiki/%CE%A1%CE%AF%CE%B6%CE%B1_(%CE%B2%CE%BF%CF%84%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE)
+  77. https://es.wikipedia.org/wiki/Ra%C3%ADz_(bot%C3%A1nica)
+  78. https://eo.wikipedia.org/wiki/Radiko_(planto)
+  79. https://eu.wikipedia.org/wiki/Sustrai
+  80. https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D8%B4%D9%87
+  81. https://fr.wikipedia.org/wiki/Racine_(botanique)
+  82. https://fy.wikipedia.org/wiki/Woartel_(plant)
+  83. https://ga.wikipedia.org/wiki/Fr%C3%A9amh_(planda)
+  84. https://gv.wikipedia.org/wiki/Fraue
+  85. https://gd.wikipedia.org/wiki/Freumh
+  86. https://gl.wikipedia.org/wiki/Ra%C3%ADz
+  87. https://ko.wikipedia.org/wiki/%EB%BF%8C%EB%A6%AC
+  88. https://ha.wikipedia.org/wiki/Tushen
+  89. https://hy.wikipedia.org/wiki/%D4%B1%D6%80%D5%B4%D5%A1%D5%BF_(%D5%A2%D5%B8%D6%82%D5%BD%D5%A1%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6)
+  90. https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%A1%E0%A4%BC_(%E0%A4%B5%E0%A4%A8%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BF)
+  91. https://hsb.wikipedia.org/wiki/Korje%C5%84
+  92. https://hr.wikipedia.org/wiki/Korijen_(biljke)
+  93. https://io.wikipedia.org/wiki/Radiko_(botaniko)
+  94. https://id.wikipedia.org/wiki/Akar
+  95. https://ik.wikipedia.org/wiki/Amaaq
+  96. https://os.wikipedia.org/wiki/%D0%A3%D0%B8%D0%B4%D0%B0%D0%B3
+  97. https://is.wikipedia.org/wiki/R%C3%B3t_(planta)
+  98. https://it.wikipedia.org/wiki/Radice_(botanica)
+  99. https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%A8%D7%A9
+ 100. https://jv.wikipedia.org/wiki/Oyod
+ 101. https://kn.wikipedia.org/wiki/%E0%B2%AC%E0%B3%87%E0%B2%B0%E0%B3%81
+ 102. https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%94%E1%83%A1%E1%83%95%E1%83%98
+ 103. https://kk.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BC%D1%8B%D1%80_(%D3%A9%D1%81%D1%96%D0%BC%D0%B4%D1%96%D0%BA_%D0%BE%D1%80%D0%B3%D0%B0%D0%BD%D1%8B)
+ 104. https://sw.wikipedia.org/wiki/Mizizi
+ 105. https://ht.wikipedia.org/wiki/Rasin
+ 106. https://ku.wikipedia.org/wiki/Reh
+ 107. https://ky.wikipedia.org/wiki/%D0%A2%D0%B0%D0%BC%D1%8B%D1%80
+ 108. https://la.wikipedia.org/wiki/Radix_(botanica)
+ 109. https://lv.wikipedia.org/wiki/Sakne
+ 110. https://lt.wikipedia.org/wiki/%C5%A0aknis
+ 111. https://li.wikipedia.org/wiki/Root_(biologie)
+ 112. https://ln.wikipedia.org/wiki/Nt%C3%ADna
+ 113. https://hu.wikipedia.org/wiki/Gy%C3%B6k%C3%A9r
+ 114. https://mk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD
+ 115. https://mg.wikipedia.org/wiki/Faka
+ 116. https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%87%E0%B4%B0%E0%B5%8D
+ 117. https://ms.wikipedia.org/wiki/Akar
+ 118. https://cdo.wikipedia.org/wiki/G%E1%B9%B3%CC%86ng-g%E1%B9%B3%CC%86ng
+ 119. https://mn.wikipedia.org/wiki/%D0%A3%D1%80%D0%B3%D0%B0%D0%BC%D0%BB%D1%8B%D0%BD_%D2%AF%D0%BD%D0%B4%D1%8D%D1%81
+ 120. https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%99%E1%80%BC%E1%80%85%E1%80%BA
+ 121. https://nah.wikipedia.org/wiki/Tlanelhuatl
+ 122. https://nl.wikipedia.org/wiki/Wortel_(plant)
+ 123. https://ne.wikipedia.org/wiki/%E0%A4%9C%E0%A4%B0%E0%A4%BE
+ 124. https://new.wikipedia.org/wiki/%E0%A4%B9%E0%A4%BE_(%E0%A4%AE%E0%A4%BE)
+ 125. https://ja.wikipedia.org/wiki/%E6%A0%B9
+ 126. https://nap.wikipedia.org/wiki/Rareca
+ 127. https://no.wikipedia.org/wiki/Rot
+ 128. https://nn.wikipedia.org/wiki/R%C3%B8ter
+ 129. https://nrm.wikipedia.org/wiki/Rach%C3%A8ne
+ 130. https://oc.wikipedia.org/wiki/Rai%C3%A7_(botanica)
+ 131. https://mhr.wikipedia.org/wiki/%D0%92%D0%BE%D0%B6
+ 132. https://om.wikipedia.org/wiki/Caaroo
+ 133. https://uz.wikipedia.org/wiki/Ildiz_(o%CA%BBsimlik)
+ 134. https://pa.wikipedia.org/wiki/%E0%A8%9C%E0%A9%9C%E0%A9%8D%E0%A8%B9
+ 135. https://ami.wikipedia.org/wiki/Tapangan
+ 136. https://pnb.wikipedia.org/wiki/%D8%AC%DA%91%DA%BE
+ 137. https://nds.wikipedia.org/wiki/W%C3%B6rtel_(Plant)
+ 138. https://pl.wikipedia.org/wiki/Korze%C5%84
+ 139. https://pt.wikipedia.org/wiki/Raiz
+ 140. https://ro.wikipedia.org/wiki/R%C4%83d%C4%83cin%C4%83
+ 141. https://qu.wikipedia.org/wiki/Saphi
+ 142. https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D1%8C
+ 143. https://szy.wikipedia.org/wiki/lamit
+ 144. https://sq.wikipedia.org/wiki/Rr%C3%ABnja
+ 145. https://simple.wikipedia.org/wiki/Root
+ 146. https://sk.wikipedia.org/wiki/Kore%C5%88_(botanika)
+ 147. https://sl.wikipedia.org/wiki/Korenina
+ 148. https://so.wikipedia.org/wiki/Wabka
+ 149. https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD
+ 150. https://sh.wikipedia.org/wiki/Korijen
+ 151. https://su.wikipedia.org/wiki/Akar
+ 152. https://fi.wikipedia.org/wiki/Juuri
+ 153. https://sv.wikipedia.org/wiki/Rot
+ 154. https://tl.wikipedia.org/wiki/Ugat_(halaman)
+ 155. https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AF%87%E0%AE%B0%E0%AF%8D
+ 156. https://shi.wikipedia.org/wiki/A%E1%BA%93ur
+ 157. https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B1%87%E0%B0%B0%E0%B1%81
+ 158. https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%81
+ 159. https://tg.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D0%B0
+ 160. https://chr.wikipedia.org/wiki/%E1%8E%A4%E1%8E%BE%E1%8F%8D%E1%8F%95%E1%8E%B5
+ 161. https://tr.wikipedia.org/wiki/K%C3%B6k
+ 162. https://kcg.wikipedia.org/wiki/A%CC%B1nan
+ 163. https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%96%D0%BD%D1%8C
+ 164. https://ur.wikipedia.org/wiki/%D8%AC%DA%91
+ 165. https://ug.wikipedia.org/wiki/%D9%8A%D9%89%D9%84%D8%AA%D9%89%D8%B2
+ 166. https://za.wikipedia.org/wiki/Rag
+ 167. https://vec.wikipedia.org/wiki/Raiza_(bot%C3%A0nega)
+ 168. https://vi.wikipedia.org/wiki/R%E1%BB%85
+ 169. https://wa.wikipedia.org/wiki/Raecene
+ 170. https://war.wikipedia.org/wiki/Gam%C3%B3t
+ 171. https://wuu.wikipedia.org/wiki/%E6%A0%B9
+ 172. https://yi.wikipedia.org/wiki/%D7%95%D7%95%D7%90%D7%A8%D7%A6%D7%9C
+ 173. https://zh-yue.wikipedia.org/wiki/%E6%A0%B9
+ 174. https://bat-smg.wikipedia.org/wiki/%C5%A0akn%C4%97s
+ 175. https://zh.wikipedia.org/wiki/%E6%A0%B9
+ 176. https://bdr.wikipedia.org/wiki/Gamut
+ 177. https://www.wikidata.org/wiki/Special:EntityPage/Q41500#sitelinks-wikipedia
+ 178. file:///wiki/Root
+ 179. file:///wiki/Talk:Root
+ 180. file:///wiki/Root
+ 181. file:///w/index.php?title=Root&action=edit
+ 182. file:///w/index.php?title=Root&action=history
+ 183. file:///wiki/Root
+ 184. file:///w/index.php?title=Root&action=edit
+ 185. file:///w/index.php?title=Root&action=history
+ 186. file:///wiki/Special:WhatLinksHere/Root
+ 187. file:///wiki/Special:RecentChangesLinked/Root
+ 188. file:///wiki/Wikipedia:File_Upload_Wizard
+ 189. file:///wiki/Special:SpecialPages
+ 190. file:///w/index.php?title=Root&oldid=1264856792
+ 191. file:///w/index.php?title=Root&action=info
+ 192. file:///w/index.php?title=Special:CiteThisPage&page=Root&id=1264856792&wpFormIdentifier=titleform
+ 193. file:///w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DRoot%26default%3D
+ 194. file:///w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DRoot%26default%3D
+ 195. file:///w/index.php?title=Special:DownloadAsPdf&page=Root&action=show-download-screen
+ 196. file:///w/index.php?title=Root&printable=yes
+ 197. https://commons.wikimedia.org/wiki/Root
+ 198. https://en.wikiquote.org/wiki/Root
+ 199. https://www.wikidata.org/wiki/Special:EntityPage/Q41500
+ 200. file:///wiki/Root_(disambiguation)
+ 201. file:///wiki/Rooted_(film)
+ 202. file:///wiki/Ciara_discography
+ 203. file:///wiki/File:Primary_and_secondary_cotton_roots.jpg
+ 204. file:///wiki/Cotton
+ 205. file:///wiki/Vascular_plant
+ 206. file:///wiki/Plant_organ
+ 207. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-Stevens2019-1
+ 208. file:///wiki/Soil
+ 209. file:///wiki/Aerial_root
+ 210. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-2
+ 211. file:///w/index.php?title=Root&action=edit&section=1
+ 212. file:///wiki/Absorption_of_water
+ 213. file:///wiki/Plant_nutrition
+ 214. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-3
+ 215. file:///w/index.php?title=Root&action=edit&section=2
+ 216. file:///wiki/File:CSIRO_ScienceImage_11626_Barley_root.jpg
+ 217. file:///wiki/Hordeum_vulgare
+ 218. file:///wiki/Root_cap
+ 219. file:///wiki/Apical_meristem
+ 220. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-Okon1993-4
+ 221. file:///wiki/Root_cap
+ 222. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-arizona-5
+ 223. file:///wiki/Radicle
+ 224. file:///wiki/Root_hair
+ 225. file:///wiki/Epidermis_(botany)
+ 226. file:///wiki/Epiblem
+ 227. file:///wiki/Cortex_(botany)
+ 228. file:///wiki/Endodermis
+ 229. file:///wiki/Pericycle
+ 230. file:///wiki/Vascular_tissue
+ 231. file:///wiki/Wikipedia:Please_clarify
+ 232. file:///wiki/File:Ranunculus_Root_Cross_Section.png
+ 233. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-6
+ 234. file:///wiki/Pericycle
+ 235. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-7
+ 236. file:///wiki/Cytokinin
+ 237. file:///wiki/Fungi
+ 238. file:///wiki/Mycorrhiza
+ 239. file:///wiki/Bacteria
+ 240. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-8
+ 241. file:///wiki/File:Kiental_entre_Herrsching_y_Andechs,_Alemania_2012-05-01,_DD_12.JPG
+ 242. file:///w/index.php?title=Root&action=edit&section=3
+ 243. file:///wiki/File:Tree_Roots_at_Riverside.jpg
+ 244. file:///wiki/Cliffs_of_the_Neuse_State_Park
+ 245. file:///w/index.php?title=Root&action=edit&section=4
+ 246. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-9
+ 247. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:0-10
+ 248. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:0-10
+ 249. file:///w/index.php?title=Root&action=edit&section=5
+ 250. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-Fitter-11
+ 251. file:///wiki/Herringbone_pattern
+ 252. file:///wiki/Dichotomous
+ 253. file:///wiki/Radial_symmetry
+ 254. file:///wiki/Signal_transduction_pathways
+ 255. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-Malamy-12
+ 256. file:///wiki/Auxin
+ 257. https://academic.oup.com/plphys/article/170/2/603/6114063
+ 258. file:///wiki/Cytokinins
+ 259. file:///wiki/Ethylene
+ 260. file:///wiki/Gibberellins
+ 261. file:///w/index.php?title=Root&action=edit&section=6
+ 262. file:///wiki/File:Root_of_a_Tree.JPG
+ 263. file:///wiki/Root_cap
+ 264. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-Russell_Hertz_McMillan_2013-13
+ 265. file:///wiki/Woody_plant
+ 266. file:///wiki/Sweet_potato
+ 267. file:///wiki/Lateral_meristem
+ 268. file:///wiki/Vascular_cambium
+ 269. file:///wiki/Cork_cambium
+ 270. file:///wiki/Secondary_xylem
+ 271. file:///wiki/Secondary_phloem
+ 272. file:///wiki/Periderm
+ 273. file:///wiki/Cylinder_(geometry)
+ 274. file:///wiki/Plant_stem
+ 275. file:///wiki/Wikipedia:Citation_needed
+ 276. file:///wiki/Wikipedia:Citation_needed
+ 277. file:///wiki/Cork_(material)
+ 278. file:///wiki/Suberin
+ 279. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-14
+ 280. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-15
+ 281. file:///wiki/Aerenchyma
+ 282. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-ReferenceA-16
+ 283. file:///wiki/Pericycle
+ 284. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-ReferenceA-16
+ 285. file:///wiki/Wikipedia:Citation_needed
+ 286. file:///wiki/Sapindaceae
+ 287. file:///wiki/Maple
+ 288. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-17
+ 289. file:///w/index.php?title=Root&action=edit&section=7
+ 290. file:///wiki/Plant_perception_(physiology)
+ 291. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-18
+ 292. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-19
+ 293. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-20
+ 294. file:///wiki/Gravitropism
+ 295. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-21
+ 296. file:///wiki/Aeration
+ 297. file:///wiki/Nutrients
+ 298. file:///wiki/Water
+ 299. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-22
+ 300. file:///wiki/Gravitropism
+ 301. file:///wiki/Germination
+ 302. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-23
+ 303. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-24
+ 304. file:///wiki/Ethylene
+ 305. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-25
+ 306. file:///wiki/File:ArabidopsisLatRoot.jpg
+ 307. file:///w/index.php?title=Root&action=edit&section=8
+ 308. file:///wiki/Arabidopsis_thaliana
+ 309. file:///wiki/Phytochrome
+ 310. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:02-26
+ 311. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:02-26
+ 312. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:02-26
+ 313. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:1-27
+ 314. file:///wiki/Transcription_factor
+ 315. file:///wiki/Phloem
+ 316. file:///wiki/Protein
+ 317. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:1-27
+ 318. file:///wiki/Auxin
+ 319. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:1-27
+ 320. file:///wiki/Pericycle
+ 321. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:02-26
+ 322. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:1-27
+ 323. file:///wiki/Phytochrome
+ 324. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:02-26
+ 325. file:///wiki/Agar
+ 326. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:1-27
+ 327. file:///w/index.php?title=Root&action=edit&section=9
+ 328. file:///wiki/Wikipedia:Citing_sources
+ 329. file:///wiki/Wikipedia:Verifiability
+ 330. file:///wiki/Special:EditPage/Root
+ 331. file:///wiki/Help:Referencing_for_beginners
+ 332. file:///wiki/Wikipedia:Verifiability#Burden_of_evidence
+ 333. file:///wiki/Help:Maintenance_template_removal
+ 334. file:///wiki/Lateral_roots
+ 335. file:///wiki/Monocots
+ 336. file:///w/index.php?title=Root&action=edit&section=10
+ 337. file:///wiki/File:Prop_roots_of_Maize_plant.jpg
+ 338. file:///wiki/File:Pearl_Millet_Adventitious_root.jpg
+ 339. file:///wiki/File:Adventitious_roots_on_Odontonema_aka_Firespike.jpg
+ 340. file:///wiki/File:Mangroves.jpg
+ 341. file:///wiki/Mangrove
+ 342. file:///wiki/File:Root_tip.JPG
+ 343. file:///wiki/File:Aerial_root.jpg
+ 344. file:///wiki/File:Socratea_exorriza2002_03_12.JPG
+ 345. file:///wiki/Socratea_exorrhiza
+ 346. file:///wiki/File:Visible_roots.jpg
+ 347. file:///wiki/Wikipedia:Please_clarify
+ 348. file:///wiki/Monocot
+ 349. file:///wiki/Dicot
+ 350. file:///wiki/Clover
+ 351. file:///wiki/Ivy
+ 352. file:///wiki/Strawberry
+ 353. file:///wiki/Willow
+ 354. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-28
+ 355. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-29
+ 356. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-30
+ 357. file:///wiki/Mangrove
+ 358. file:///wiki/Avicennia
+ 359. file:///wiki/Sonneratia
+ 360. file:///wiki/Aerial_roots
+ 361. file:///wiki/Epiphyte
+ 362. file:///wiki/Orchid
+ 363. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-deficit-31
+ 364. file:///wiki/Mangrove
+ 365. file:///wiki/Maize
+ 366. file:///wiki/Strangler_fig
+ 367. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-deficit-31
+ 368. file:///wiki/Canopy_root
+ 369. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-32
+ 370. file:///wiki/Monocot
+ 371. file:///wiki/Hyacinth_(plant)
+ 372. file:///wiki/Lily
+ 373. file:///wiki/Taproot
+ 374. file:///wiki/Dandelion
+ 375. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-33
+ 376. file:///wiki/Cyanobacteria
+ 377. file:///wiki/Cycad
+ 378. file:///wiki/Dimorphic_root_system
+ 379. file:///wiki/Fine_root
+ 380. file:///wiki/Mistletoe
+ 381. file:///wiki/Dodder
+ 382. file:///wiki/Basal_shoot
+ 383. file:///wiki/Asclepias_syriaca
+ 384. file:///wiki/Cirsium_arvense
+ 385. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-34
+ 386. file:///wiki/Phylloclade
+ 387. file:///wiki/Dendrophylax
+ 388. file:///wiki/Taeniophyllum
+ 389. file:///wiki/Proteoid_root
+ 390. file:///wiki/Phosphate
+ 391. file:///wiki/Iron
+ 392. file:///wiki/Proteaceae
+ 393. file:///wiki/Betulaceae
+ 394. file:///wiki/Casuarinaceae
+ 395. file:///wiki/Elaeagnaceae
+ 396. file:///wiki/Moraceae
+ 397. file:///wiki/Fabaceae
+ 398. file:///wiki/Myricaceae
+ 399. file:///wiki/Root_nodule
+ 400. file:///wiki/Legume
+ 401. file:///wiki/Mangrove
+ 402. file:///wiki/Carrot
+ 403. file:///wiki/Beet
+ 404. file:///wiki/Taproot
+ 405. file:///wiki/Sweet_potato
+ 406. file:///w/index.php?title=Root&action=edit&section=11
+ 407. file:///wiki/File:Exposed_mango_tree_roots.jpg
+ 408. file:///wiki/Mango
+ 409. file:///w/index.php?title=Root&action=edit&section=12
+ 410. file:///wiki/File:Tree_roots2.jpg
+ 411. file:///wiki/Ficus
+ 412. file:///wiki/Buttress_root
+ 413. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-35
+ 414. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-36
+ 415. file:///wiki/Boscia_albitrunca
+ 416. file:///wiki/Juniperus_monosperma
+ 417. file:///wiki/Eucalyptus
+ 418. file:///wiki/Acacia_erioloba
+ 419. file:///wiki/Prosopis_juliflora
+ 420. file:///w/index.php?title=Root&action=edit&section=13
+ 421. file:///wiki/Evolution_of_plants#Evolution_of_roots
+ 422. file:///wiki/Silurian
+ 423. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-Retallack1986-37
+ 424. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-Hillier2008-38
+ 425. file:///wiki/Rhizomes
+ 426. file:///wiki/Rhizoid
+ 427. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-EshelBeeckman2013-39
+ 428. file:///w/index.php?title=Root&action=edit&section=14
+ 429. file:///wiki/File:Cycas_revoluta_coralloid_roots.JPG
+ 430. file:///wiki/Cycas_revoluta
+ 431. file:///wiki/Indole-3-acetic_acid
+ 432. file:///wiki/Gravitropic
+ 433. file:///wiki/Monocotyledonous
+ 434. file:///wiki/Dicotyledonous
+ 435. file:///wiki/Arabidopsis
+ 436. file:///wiki/Phototropism
+ 437. file:///wiki/PhyB
+ 438. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-jpp1997-40
+ 439. file:///wiki/Fabaceae
+ 440. file:///wiki/Root_nodules
+ 441. file:///wiki/Rhizobia
+ 442. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-41
+ 443. file:///w/index.php?title=Root_initiation&action=edit&redlink=1
+ 444. file:///wiki/Oats
+ 445. file:///wiki/Rapeseed
+ 446. file:///wiki/Rye
+ 447. file:///wiki/Wheat
+ 448. file:///wiki/Annual_plant
+ 449. file:///wiki/Maize
+ 450. file:///wiki/Cotton
+ 451. file:///wiki/Taproot
+ 452. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-encyclopedia-42
+ 453. file:///w/index.php?title=Root&action=edit&section=15
+ 454. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:2-43
+ 455. file:///wiki/Stoma
+ 456. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-:3-44
+ 457. file:///w/index.php?title=Root&action=edit&section=16
+ 458. file:///wiki/Azotobacter
+ 459. file:///wiki/P._fluorescens
+ 460. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-Bowen-45
+ 461. file:///wiki/Soil_erosion
+ 462. file:///wiki/Perennial
+ 463. file:///wiki/Fungi
+ 464. file:///wiki/Protozoa
+ 465. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-arizona-5
+ 466. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-arizona-5
+ 467. file:///w/index.php?title=Root&action=edit&section=17
+ 468. file:///wiki/Maize
+ 469. file:///wiki/Apical_meristem
+ 470. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-46
+ 471. file:///wiki/Fatty_acid
+ 472. file:///wiki/Phosphatidyl_choline
+ 473. file:///wiki/Brassica_napus_L.
+ 474. file:///wiki/Polyunsaturated
+ 475. file:///wiki/Membrane
+ 476. file:///wiki/Ion
+ 477. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-47
+ 478. file:///w/index.php?title=Root&action=edit&section=18
+ 479. file:///wiki/File:Roots_and_Soil_Erosion.jpg
+ 480. file:///wiki/File:World_Primary_Crops_Harvested_Area_By_Commodity_Group.svg
+ 481. file:///wiki/Root_crop
+ 482. file:///wiki/Potato
+ 483. file:///wiki/Cassava
+ 484. file:///wiki/Sweet_potato
+ 485. file:///wiki/Beet
+ 486. file:///wiki/Carrot
+ 487. file:///wiki/Rutabaga
+ 488. file:///wiki/Turnip
+ 489. file:///wiki/Parsnip
+ 490. file:///wiki/Radish
+ 491. file:///wiki/Yam_(vegetable)
+ 492. file:///wiki/Horseradish
+ 493. file:///wiki/Sassafras
+ 494. file:///wiki/Angelica
+ 495. file:///wiki/Smilax_regelii
+ 496. file:///wiki/Licorice
+ 497. file:///wiki/Sugar_beet
+ 498. file:///wiki/Yam_(vegetable)
+ 499. file:///wiki/Estrogen
+ 500. file:///wiki/Birth_control_pill
+ 501. file:///wiki/Poison
+ 502. file:///wiki/Insecticide
+ 503. file:///wiki/Rotenone
+ 504. file:///wiki/Lonchocarpus
+ 505. file:///wiki/Ginseng
+ 506. file:///wiki/Aconitum
+ 507. file:///wiki/Syrup_of_ipecac
+ 508. file:///wiki/Gentian
+ 509. file:///wiki/Reserpine
+ 510. file:///wiki/Bald_cypress
+ 511. file:///wiki/Indigenous_peoples_of_the_Americas
+ 512. file:///wiki/Picea_glauca
+ 513. file:///wiki/Tree
+ 514. file:///wiki/Concrete
+ 515. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_note-48
+ 516. file:///wiki/Strangler_fig
+ 517. file:///wiki/Maya_architecture
+ 518. file:///wiki/Temple
+ 519. file:///wiki/Central_America
+ 520. file:///wiki/Angkor_Wat
+ 521. file:///wiki/Cambodia
+ 522. file:///wiki/Landslides
+ 523. file:///wiki/Root_hair
+ 524. file:///wiki/Vegetative_propagation
+ 525. file:///wiki/Cuttings_(plants)
+ 526. file:///wiki/Chrysanthemum
+ 527. file:///wiki/Poinsettia
+ 528. file:///wiki/Carnation
+ 529. file:///wiki/Shrub
+ 530. file:///wiki/Houseplants
+ 531. file:///wiki/Sand_dunes
+ 532. file:///wiki/File:OnionBulbRoots.jpg
+ 533. file:///w/index.php?title=Root&action=edit&section=19
+ 534. file:///wiki/Absorption_of_water
+ 535. file:///wiki/Cypress_knee
+ 536. file:///wiki/Drought_rhizogenesis
+ 537. file:///wiki/Fibrous_root_system
+ 538. file:///wiki/Mycorrhiza
+ 539. file:///wiki/Mycorrhizal_network
+ 540. file:///wiki/Plant_physiology
+ 541. file:///wiki/Rhizosphere
+ 542. file:///wiki/Root_cutting
+ 543. file:///wiki/Auxin
+ 544. file:///wiki/Stolon
+ 545. file:///wiki/Tanada_effect
+ 546. file:///wiki/Taproot
+ 547. file:///w/index.php?title=Root&action=edit&section=20
+ 548. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-Stevens2019_1-0
+ 549. https://books.google.com/books?id=Y-fEDwAAQBAJ&pg=PA141
+ 550. file:///wiki/ISBN_(identifier)
+ 551. file:///wiki/Special:BookSources/978-1-83947-180-3
+ 552. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-2
+ 553. https://doi.org/10.1016%2Fj.ecss.2023.108324
+ 554. file:///wiki/Bibcode_(identifier)
+ 555. https://ui.adsabs.harvard.edu/abs/2023ECSS..28708324N
+ 556. file:///wiki/Doi_(identifier)
+ 557. https://doi.org/10.1016%2Fj.ecss.2023.108324
+ 558. file:///wiki/ISSN_(identifier)
+ 559. https://search.worldcat.org/issn/0272-7714
+ 560. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-3
+ 561. https://web.extension.illinois.edu/gpe/case1/c1facts2a.html
+ 562. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-Okon1993_4-0
+ 563. https://books.google.com/books?id=I07BKGI8rboC&pg=PA77
+ 564. file:///wiki/ISBN_(identifier)
+ 565. file:///wiki/Special:BookSources/978-0-8493-4925-6
+ 566. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-arizona_5-0
+ 567. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-arizona_5-1
+ 568. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-arizona_5-2
+ 569. https://cals.arizona.edu/yavapai/anr/hort/byg/archive/understandingplantroots.html
+ 570. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-6
+ 571. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-7
+ 572. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-8
+ 573. file:///wiki/ISBN_(identifier)
+ 574. file:///wiki/Special:BookSources/978-1847925206
+ 575. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-9
+ 576. https://doi.org/10.1111%2Fj.1365-3040.2005.01306.x
+ 577. file:///wiki/Bibcode_(identifier)
+ 578. https://ui.adsabs.harvard.edu/abs/2005PCEnv..28...67M
+ 579. file:///wiki/Doi_(identifier)
+ 580. https://doi.org/10.1111%2Fj.1365-3040.2005.01306.x
+ 581. file:///wiki/PMID_(identifier)
+ 582. https://pubmed.ncbi.nlm.nih.gov/16021787
+ 583. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:0_10-0
+ 584. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:0_10-1
+ 585. file:///wiki/Bibcode_(identifier)
+ 586. https://ui.adsabs.harvard.edu/abs/1998Oecol.113..151C
+ 587. file:///wiki/Doi_(identifier)
+ 588. https://doi.org/10.1007%2Fs004420050363
+ 589. file:///wiki/PMID_(identifier)
+ 590. https://pubmed.ncbi.nlm.nih.gov/28308192
+ 591. file:///wiki/S2CID_(identifier)
+ 592. https://api.semanticscholar.org/CorpusID:24181646
+ 593. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-Fitter_11-0
+ 594. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-Malamy_12-0
+ 595. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC129261
+ 596. file:///wiki/Doi_(identifier)
+ 597. https://doi.org/10.1104%2Fpp.010406
+ 598. file:///wiki/PMC_(identifier)
+ 599. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC129261
+ 600. file:///wiki/PMID_(identifier)
+ 601. https://pubmed.ncbi.nlm.nih.gov/11706172
+ 602. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-Russell_Hertz_McMillan_2013_13-0
+ 603. https://books.google.com/books?id=dVIWAAAAQBAJ&pg=PT1365
+ 604. file:///wiki/ISBN_(identifier)
+ 605. file:///wiki/Special:BookSources/978-1-285-41534-5
+ 606. https://web.archive.org/web/20180121201126/https://books.google.com/books?id=dVIWAAAAQBAJ&pg=PT1365
+ 607. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-14
+ 608. https://www.sciencedirect.com/topics/medicine-and-dentistry/suberin
+ 609. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-15
+ 610. https://www.uwo.ca/biology/faculty/bernards/research/suberin_form__function.html
+ 611. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-ReferenceA_16-0
+ 612. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-ReferenceA_16-1
+ 613. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3683634
+ 614. file:///wiki/Doi_(identifier)
+ 615. https://doi.org/10.3389%2Ffpls.2013.00178
+ 616. file:///wiki/ISSN_(identifier)
+ 617. https://search.worldcat.org/issn/1664-462X
+ 618. file:///wiki/PMC_(identifier)
+ 619. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3683634
+ 620. file:///wiki/PMID_(identifier)
+ 621. https://pubmed.ncbi.nlm.nih.gov/23785371
+ 622. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-17
+ 623. https://doi.org/10.1007/BF02860066
+ 624. file:///wiki/Bibcode_(identifier)
+ 625. https://ui.adsabs.harvard.edu/abs/1974BotRv..40..347V
+ 626. file:///wiki/Doi_(identifier)
+ 627. https://doi.org/10.1007%2FBF02860066
+ 628. file:///wiki/ISSN_(identifier)
+ 629. https://search.worldcat.org/issn/1874-9372
+ 630. file:///wiki/S2CID_(identifier)
+ 631. https://api.semanticscholar.org/CorpusID:29919924
+ 632. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-18
+ 633. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1802001
+ 634. file:///wiki/Bibcode_(identifier)
+ 635. https://ui.adsabs.harvard.edu/abs/2007PNAS..104.3639N
+ 636. file:///wiki/Doi_(identifier)
+ 637. https://doi.org/10.1073%2Fpnas.0607703104
+ 638. file:///wiki/PMC_(identifier)
+ 639. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1802001
+ 640. file:///wiki/PMID_(identifier)
+ 641. https://pubmed.ncbi.nlm.nih.gov/17360695
+ 642. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-19
+ 643. http://phys.org/news147979343.html
+ 644. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-20
+ 645. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1171291
+ 646. file:///wiki/Doi_(identifier)
+ 647. https://doi.org/10.1093%2Femboj%2F18.8.2066
+ 648. file:///wiki/PMC_(identifier)
+ 649. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1171291
+ 650. file:///wiki/PMID_(identifier)
+ 651. https://pubmed.ncbi.nlm.nih.gov/10205161
+ 652. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-21
+ 653. https://doi.org/10.1111%2Fj.1365-3040.2008.01891.x
+ 654. file:///wiki/Bibcode_(identifier)
+ 655. https://ui.adsabs.harvard.edu/abs/2009PCEnv..32..628H
+ 656. file:///wiki/Doi_(identifier)
+ 657. https://doi.org/10.1111%2Fj.1365-3040.2008.01891.x
+ 658. file:///wiki/PMID_(identifier)
+ 659. https://pubmed.ncbi.nlm.nih.gov/18811732
+ 660. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-22
+ 661. file:///wiki/Bibcode_(identifier)
+ 662. https://ui.adsabs.harvard.edu/abs/2009VZJ.....8..805C
+ 663. file:///wiki/Doi_(identifier)
+ 664. https://doi.org/10.2136%2Fvzj2008.0147
+ 665. file:///wiki/S2CID_(identifier)
+ 666. https://api.semanticscholar.org/CorpusID:128600212
+ 667. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-23
+ 668. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1539215
+ 669. file:///wiki/Doi_(identifier)
+ 670. https://doi.org/10.1104%2Fpp.120.2.343
+ 671. file:///wiki/PMC_(identifier)
+ 672. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1539215
+ 673. file:///wiki/PMID_(identifier)
+ 674. https://pubmed.ncbi.nlm.nih.gov/11541950
+ 675. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-24
+ 676. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9351459
+ 677. file:///wiki/Bibcode_(identifier)
+ 678. https://ui.adsabs.harvard.edu/abs/2022PNAS..11901350F
+ 679. file:///wiki/Doi_(identifier)
+ 680. https://doi.org/10.1073%2Fpnas.2201350119
+ 681. file:///wiki/PMC_(identifier)
+ 682. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9351459
+ 683. file:///wiki/PMID_(identifier)
+ 684. https://pubmed.ncbi.nlm.nih.gov/35881796
+ 685. file:///wiki/S2CID_(identifier)
+ 686. https://api.semanticscholar.org/CorpusID:251104211
+ 687. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-25
+ 688. https://www.science.org/doi/10.1126/science.abf3013
+ 689. file:///wiki/Bibcode_(identifier)
+ 690. https://ui.adsabs.harvard.edu/abs/2021Sci...371..276P
+ 691. file:///wiki/Doi_(identifier)
+ 692. https://doi.org/10.1126%2Fscience.abf3013
+ 693. file:///wiki/Hdl_(identifier)
+ 694. https://hdl.handle.net/1874%2F418726
+ 695. file:///wiki/ISSN_(identifier)
+ 696. https://search.worldcat.org/issn/0036-8075
+ 697. file:///wiki/PMID_(identifier)
+ 698. https://pubmed.ncbi.nlm.nih.gov/33446554
+ 699. file:///wiki/S2CID_(identifier)
+ 700. https://api.semanticscholar.org/CorpusID:231606782
+ 701. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:02_26-0
+ 702. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:02_26-1
+ 703. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:02_26-2
+ 704. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:02_26-3
+ 705. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:02_26-4
+ 706. https://doi.org/10.1111%2Fj.1365-313x.2007.03059.x
+ 707. file:///wiki/Doi_(identifier)
+ 708. https://doi.org/10.1111%2Fj.1365-313x.2007.03059.x
+ 709. file:///wiki/PMID_(identifier)
+ 710. https://pubmed.ncbi.nlm.nih.gov/17419844
+ 711. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:1_27-0
+ 712. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:1_27-1
+ 713. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:1_27-2
+ 714. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:1_27-3
+ 715. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:1_27-4
+ 716. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5810572
+ 717. file:///wiki/Bibcode_(identifier)
+ 718. https://ui.adsabs.harvard.edu/abs/2018PlanC..30..101V
+ 719. file:///wiki/Doi_(identifier)
+ 720. https://doi.org/10.1105%2Ftpc.17.00771
+ 721. file:///wiki/PMC_(identifier)
+ 722. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5810572
+ 723. file:///wiki/PMID_(identifier)
+ 724. https://pubmed.ncbi.nlm.nih.gov/29321188
+ 725. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-28
+ 726. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5055620
+ 727. file:///wiki/Doi_(identifier)
+ 728. https://doi.org/10.1093%2Faob%2Fmcw051
+ 729. file:///wiki/PMC_(identifier)
+ 730. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5055620
+ 731. file:///wiki/PMID_(identifier)
+ 732. https://pubmed.ncbi.nlm.nih.gov/27063366
+ 733. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-29
+ 734. https://doi.org/10.1111%2Fnph.18678
+ 735. file:///wiki/Bibcode_(identifier)
+ 736. https://ui.adsabs.harvard.edu/abs/2023NewPh.238.1403L
+ 737. file:///wiki/Doi_(identifier)
+ 738. https://doi.org/10.1111%2Fnph.18678
+ 739. file:///wiki/PMID_(identifier)
+ 740. https://pubmed.ncbi.nlm.nih.gov/36519256
+ 741. file:///wiki/S2CID_(identifier)
+ 742. https://api.semanticscholar.org/CorpusID:254769152
+ 743. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-30
+ 744. https://doi.org/10.1111%2Fnph.18824
+ 745. file:///wiki/Bibcode_(identifier)
+ 746. https://ui.adsabs.harvard.edu/abs/2023NewPh.238.1337M
+ 747. file:///wiki/Doi_(identifier)
+ 748. https://doi.org/10.1111%2Fnph.18824
+ 749. file:///wiki/PMID_(identifier)
+ 750. https://pubmed.ncbi.nlm.nih.gov/36905344
+ 751. file:///wiki/S2CID_(identifier)
+ 752. https://api.semanticscholar.org/CorpusID:257438007
+ 753. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-deficit_31-0
+ 754. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-deficit_31-1
+ 755. http://kuscholarworks.ku.edu/dspace/bitstream/1808/9858/1/Martin_IntJPlan
+ 756. file:///wiki/Doi_(identifier)
+ 757. https://doi.org/10.1086%2F297495
+ 758. file:///wiki/Hdl_(identifier)
+ 759. https://hdl.handle.net/1808%2F9858
+ 760. file:///wiki/JSTOR_(identifier)
+ 761. https://www.jstor.org/stable/2475361
+ 762. file:///wiki/S2CID_(identifier)
+ 763. https://api.semanticscholar.org/CorpusID:85888916
+ 764. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-32
+ 765. file:///wiki/Bibcode_(identifier)
+ 766. https://ui.adsabs.harvard.edu/abs/1981Sci...214.1023N
+ 767. file:///wiki/Doi_(identifier)
+ 768. https://doi.org/10.1126%2Fscience.214.4524.1023
+ 769. file:///wiki/PMID_(identifier)
+ 770. https://pubmed.ncbi.nlm.nih.gov/17808667
+ 771. file:///wiki/S2CID_(identifier)
+ 772. https://api.semanticscholar.org/CorpusID:778003
+ 773. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-33
+ 774. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-34
+ 775. https://ohiostate.pressbooks.pub/crpsoil2422t/chapter/3-3-vegetative-forms-of-reproduction/
+ 776. file:///wiki/Montreal
+ 777. file:///wiki/Pressbooks
+ 778. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-35
+ 779. file:///wiki/Bibcode_(identifier)
+ 780. https://ui.adsabs.harvard.edu/abs/1996Oecol.108..583C
+ 781. file:///wiki/Doi_(identifier)
+ 782. https://doi.org/10.1007%2FBF00329030
+ 783. file:///wiki/PMID_(identifier)
+ 784. https://pubmed.ncbi.nlm.nih.gov/28307789
+ 785. file:///wiki/S2CID_(identifier)
+ 786. https://api.semanticscholar.org/CorpusID:2092130
+ 787. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-36
+ 788. file:///wiki/Bibcode_(identifier)
+ 789. https://ui.adsabs.harvard.edu/abs/1991ForEM..46...59S
+ 790. file:///wiki/Doi_(identifier)
+ 791. https://doi.org/10.1016%2F0378-1127%2891%2990245-Q
+ 792. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-Retallack1986_37-0
+ 793. http://blogs.uoregon.edu/gregr/files/2013/07/paleosols1986fossilrecordofsoils-1vqnwyo.pdf
+ 794. https://web.archive.org/web/20170107005159/http://blogs.uoregon.edu/gregr/files/2013/07/paleosols1986fossilrecordofsoils-1vqnwyo.pdf
+ 795. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-Hillier2008_38-0
+ 796. file:///wiki/Bibcode_(identifier)
+ 797. https://ui.adsabs.harvard.edu/abs/2008PPP...270..366H
+ 798. file:///wiki/Doi_(identifier)
+ 799. https://doi.org/10.1016%2Fj.palaeo.2008.01.038
+ 800. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-EshelBeeckman2013_39-0
+ 801. https://books.google.com/books?id=SkDNBQAAQBAJ&pg=SA1-PA2
+ 802. file:///wiki/ISBN_(identifier)
+ 803. file:///wiki/Special:BookSources/978-1-4398-4649-0
+ 804. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-jpp1997_40-0
+ 805. file:///wiki/Bibcode_(identifier)
+ 806. https://ui.adsabs.harvard.edu/abs/1997JPPhy.151..346K
+ 807. file:///wiki/Doi_(identifier)
+ 808. https://doi.org/10.1016%2FS0176-1617%2897%2980263-5
+ 809. file:///wiki/Hdl_(identifier)
+ 810. https://hdl.handle.net/2115%2F44841
+ 811. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-41
+ 812. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-encyclopedia_42-0
+ 813. https://books.google.com/books?id=627Qopsj7bsC
+ 814. file:///wiki/ISBN_(identifier)
+ 815. file:///wiki/Special:BookSources/978-0-8493-5054-2
+ 816. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:2_43-0
+ 817. file:///wiki/ISBN_(identifier)
+ 818. file:///wiki/Special:BookSources/9780374537128
+ 819. file:///wiki/OCLC_(identifier)
+ 820. https://search.worldcat.org/oclc/1041421612
+ 821. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-:3_44-0
+ 822. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3394639
+ 823. file:///wiki/Doi_(identifier)
+ 824. https://doi.org/10.1093%2Faob%2Fmcs045
+ 825. file:///wiki/PMC_(identifier)
+ 826. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3394639
+ 827. file:///wiki/PMID_(identifier)
+ 828. https://pubmed.ncbi.nlm.nih.gov/22408186
+ 829. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-Bowen_45-0
+ 830. file:///wiki/Doi_(identifier)
+ 831. https://doi.org/10.1146%2Fannurev.py.14.090176.001005
+ 832. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-46
+ 833. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-47
+ 834. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root.html#cite_ref-48
+ 835. https://www.latimes.com/archives/la-xpm-2008-feb-21-me-sidewalk21-story.html
+ 836. file:///wiki/The_Los_Angeles_Times
+ 837. file:///w/index.php?title=Root&action=edit&section=21
+ 838. file:///wiki/Bibcode_(identifier)
+ 839. https://ui.adsabs.harvard.edu/abs/2007AdWR...30.2113B
+ 840. file:///wiki/Doi_(identifier)
+ 841. https://doi.org/10.1016%2Fj.advwatres.2006.06.013
+ 842. https://doi.org/10.1046%2Fj.1469-8137.2002.00397.x
+ 843. file:///wiki/Bibcode_(identifier)
+ 844. https://ui.adsabs.harvard.edu/abs/2002NewPh.154..275B
+ 845. file:///wiki/Doi_(identifier)
+ 846. https://doi.org/10.1046%2Fj.1469-8137.2002.00397.x
+ 847. file:///wiki/PMID_(identifier)
+ 848. https://pubmed.ncbi.nlm.nih.gov/33873429
+ 849. https://web.archive.org/web/20060103160847/http://www.eeob.iastate.edu/classes/bot404/docs/404root104.pdf
+ 850. http://www.eeob.iastate.edu/classes/bot404/docs/404root104.pdf
+ 851. file:///wiki/Bibcode_(identifier)
+ 852. https://ui.adsabs.harvard.edu/abs/1987CaJFR..17..761C
+ 853. file:///wiki/Doi_(identifier)
+ 854. https://doi.org/10.1139%2Fx87-122
+ 855. file:///wiki/Doi_(identifier)
+ 856. https://doi.org/10.1093%2Fjxb%2F52.suppl_1.381
+ 857. file:///wiki/PMID_(identifier)
+ 858. https://pubmed.ncbi.nlm.nih.gov/11326045
+ 859. file:///wiki/Doi_(identifier)
+ 860. https://doi.org/10.2307%2F3100092
+ 861. file:///wiki/JSTOR_(identifier)
+ 862. https://www.jstor.org/stable/3100092
+ 863. file:///wiki/Bibcode_(identifier)
+ 864. https://ui.adsabs.harvard.edu/abs/1963Ecol...44..424P
+ 865. file:///wiki/Doi_(identifier)
+ 866. https://doi.org/10.2307%2F1932198
+ 867. file:///wiki/JSTOR_(identifier)
+ 868. https://www.jstor.org/stable/1932198
+ 869. file:///wiki/Bibcode_(identifier)
+ 870. https://ui.adsabs.harvard.edu/abs/1998Oecol.113..151C
+ 871. file:///wiki/Doi_(identifier)
+ 872. https://doi.org/10.1007%2Fs004420050363
+ 873. file:///wiki/PMID_(identifier)
+ 874. https://pubmed.ncbi.nlm.nih.gov/28308192
+ 875. file:///wiki/S2CID_(identifier)
+ 876. https://api.semanticscholar.org/CorpusID:24181646
+ 877. file:///w/index.php?title=Root&action=edit&section=22
+ 878. https://commons.wikimedia.org/wiki/Category:Roots
+ 879. https://en.wikiquote.org/wiki/Special:Search/Root
+ 880. https://web.archive.org/web/20090425083339/http://ualr.edu/botany/
+ 881. https://www.youtube.com/watch?v=7WID7ObQPjE
+ 882. file:///wiki/YouTube_video_(identifier)
+ 883. file:///wiki/Template:Botany
+ 884. file:///wiki/Template_talk:Botany
+ 885. file:///wiki/Special:EditPage/Template:Botany
+ 886. file:///wiki/Botany
+ 887. file:///wiki/History_of_botany
+ 888. file:///wiki/Outline_of_botany
+ 889. file:///wiki/Branches_of_botany
+ 890. file:///wiki/Archaeobotany
+ 891. file:///wiki/Astrobotany
+ 892. file:///wiki/Bryology
+ 893. file:///wiki/Dendrology
+ 894. file:///wiki/Ethnobotany
+ 895. file:///wiki/Paleobotany
+ 896. file:///wiki/Phycology
+ 897. file:///wiki/Phytochemistry
+ 898. file:///wiki/Phytogeography
+ 899. file:///wiki/Geobotanical_prospecting
+ 900. file:///wiki/Plant_anatomy
+ 901. file:///wiki/Plant_ecology
+ 902. file:///wiki/Plant_intelligence
+ 903. file:///wiki/Plant_pathology
+ 904. file:///wiki/Plant_physiology
+ 905. file:///wiki/Plant
+ 906. file:///wiki/Algae
+ 907. file:///wiki/Archaeplastida
+ 908. file:///wiki/Bryophyte
+ 909. file:///wiki/Non-vascular_plant
+ 910. file:///wiki/Vascular_plant
+ 911. file:///wiki/Fern
+ 912. file:///wiki/Lycophyte
+ 913. file:///wiki/Spermatophyte
+ 914. file:///wiki/Gymnosperm
+ 915. file:///wiki/Flowering_plant
+ 916. file:///wiki/Plant_anatomy
+ 917. file:///wiki/Plant_morphology
+ 918. file:///wiki/Glossary_of_plant_morphology
+ 919. file:///wiki/Plant_cell
+ 920. file:///wiki/Cell_wall
+ 921. file:///wiki/Phragmoplast
+ 922. file:///wiki/Plastid
+ 923. file:///wiki/Plasmodesma
+ 924. file:///wiki/Vacuole
+ 925. file:///wiki/Tissue_(biology)
+ 926. file:///wiki/Cork_cambium
+ 927. file:///wiki/Ground_tissue
+ 928. file:///wiki/Leaf#Mesophyll
+ 929. file:///wiki/Meristem
+ 930. file:///wiki/Storage_organ
+ 931. file:///wiki/Vascular_tissue
+ 932. file:///wiki/Vascular_bundle
+ 933. file:///wiki/Wood
+ 934. file:///wiki/Bulb
+ 935. file:///wiki/Rhizoid
+ 936. file:///wiki/Rhizome
+ 937. file:///wiki/Shoot_(botany)
+ 938. file:///wiki/Bud
+ 939. file:///wiki/Leaf
+ 940. file:///wiki/Cataphyll
+ 941. file:///wiki/Petiole_(botany)
+ 942. file:///wiki/Sessility_(botany)
+ 943. file:///wiki/Plant_stem
+ 944. file:///wiki/Plant_reproductive_morphology
+ 945. file:///wiki/Archegonium
+ 946. file:///wiki/Antheridium
+ 947. file:///wiki/Stamen
+ 948. file:///wiki/Pollen
+ 949. file:///wiki/Stamen
+ 950. file:///wiki/Anther
+ 951. file:///wiki/Stamen#Morphology_and_terminology
+ 952. file:///wiki/Staminode
+ 953. file:///wiki/Tapetum_(botany)
+ 954. file:///wiki/Flower
+ 955. file:///wiki/Aestivation_(botany)
+ 956. file:///wiki/ABC_model_of_flower_development
+ 957. file:///wiki/Floral_diagram
+ 958. file:///wiki/Floral_formula
+ 959. file:///wiki/Floral_symmetry
+ 960. file:///wiki/Whorl_(botany)
+ 961. file:///wiki/Fruit
+ 962. file:///wiki/Fruit_anatomy
+ 963. file:///wiki/Berry_(botany)
+ 964. file:///wiki/Capsule_(fruit)
+ 965. file:///wiki/Nut_(fruit)
+ 966. file:///wiki/Pyrena
+ 967. file:///wiki/Seed
+ 968. file:///wiki/Seed_dispersal
+ 969. file:///wiki/Endosperm
+ 970. file:///wiki/Gametophyte
+ 971. file:///wiki/Column_(botany)
+ 972. file:///wiki/Gynoecium
+ 973. file:///wiki/Carpel
+ 974. file:///wiki/Ovary_(botany)
+ 975. file:///wiki/Locule
+ 976. file:///wiki/Ovule
+ 977. file:///wiki/Stigma_(botany)
+ 978. file:///wiki/Style_(botany)
+ 979. file:///wiki/Hypanthium
+ 980. file:///wiki/Inflorescence
+ 981. file:///wiki/Bract
+ 982. file:///wiki/Pedicel_(botany)
+ 983. file:///wiki/Raceme
+ 984. file:///wiki/Umbel
+ 985. file:///wiki/Perianth
+ 986. file:///wiki/Tepal
+ 987. file:///wiki/Petal
+ 988. file:///wiki/Sepal
+ 989. file:///wiki/Embryo#Plant_embryos
+ 990. file:///wiki/Receptacle_(botany)
+ 991. file:///wiki/Sporophyll
+ 992. file:///wiki/Sporophyte
+ 993. file:///wiki/Plant_cuticle
+ 994. file:///wiki/Epicuticular_wax
+ 995. file:///wiki/Epidermis_(botany)
+ 996. file:///wiki/Nectar
+ 997. file:///wiki/Stoma
+ 998. file:///wiki/Thorns,_spines,_and_prickles
+ 999. file:///wiki/Trichome
+1000. file:///wiki/Plant_physiology
+1001. file:///wiki/Aleurone
+1002. file:///wiki/Apical_dominance
+1003. file:///wiki/Bulk_movement
+1004. file:///wiki/Cellulose
+1005. file:///wiki/Plant_nutrition
+1006. file:///wiki/Photosynthesis
+1007. file:///wiki/Chlorophyll
+1008. file:///wiki/Phytomelanin
+1009. file:///wiki/Plant_hormone
+1010. file:///wiki/Respiratory_system#Plants
+1011. file:///wiki/Gas_exchange#Plants
+1012. file:///wiki/Cellular_respiration
+1013. file:///wiki/Sap
+1014. file:///wiki/Starch
+1015. file:///wiki/Sugar
+1016. file:///wiki/Transpiration
+1017. file:///wiki/Turgor_pressure
+1018. file:///wiki/Habit_(biology)#Structure
+1019. file:///wiki/Cushion_plant
+1020. file:///wiki/Rosette_(botany)
+1021. file:///wiki/Shrub
+1022. file:///wiki/Prostrate_shrub
+1023. file:///wiki/Subshrub
+1024. file:///wiki/Succulent_plant
+1025. file:///wiki/Tree
+1026. file:///wiki/Vine
+1027. file:///wiki/Liana
+1028. file:///wiki/Herbaceous_plant
+1029. file:///wiki/Secondary_growth
+1030. file:///wiki/Woody_plant
+1031. file:///wiki/Plant_reproduction
+1032. file:///wiki/Plant_evolution
+1033. file:///wiki/Plant_ecology
+1034. file:///wiki/Alternation_of_generations
+1035. file:///wiki/Double_fertilization
+1036. file:///wiki/Plant_evolutionary_developmental_biology
+1037. file:///wiki/Evolutionary_history_of_plants
+1038. file:///wiki/Timeline_of_plant_evolution
+1039. file:///wiki/Flora
+1040. file:///wiki/Germination
+1041. file:///wiki/Pollination
+1042. file:///wiki/Artificial_pollination
+1043. file:///wiki/Pollinator
+1044. file:///wiki/Pollen_tube
+1045. file:///wiki/Self-pollination
+1046. file:///wiki/Sporangium
+1047. file:///wiki/Microsporangia
+1048. file:///wiki/Microspore
+1049. file:///wiki/Sporangium
+1050. file:///wiki/Megaspore
+1051. file:///wiki/Spore
+1052. file:///wiki/Plant_taxonomy
+1053. file:///wiki/Taxonomy_(biology)
+1054. file:///wiki/Botanical_nomenclature
+1055. file:///wiki/Botanical_name
+1056. file:///wiki/Correct_name
+1057. file:///wiki/Author_citation_(botany)
+1058. file:///wiki/International_Code_of_Nomenclature_for_algae,_fungi,_and_plants
+1059. file:///wiki/International_Code_of_Nomenclature_for_Cultivated_Plants
+1060. file:///wiki/Cultivated_plant_taxonomy
+1061. file:///wiki/Citrus_taxonomy
+1062. file:///wiki/Cultigen
+1063. file:///wiki/Cultivar
+1064. file:///wiki/Cultivar_group
+1065. file:///wiki/Grex_(horticulture)
+1066. file:///wiki/History_of_plant_systematics
+1067. file:///wiki/Herbarium
+1068. file:///wiki/International_Association_for_Plant_Taxonomy
+1069. file:///wiki/List_of_systems_of_plant_taxonomy
+1070. file:///wiki/Taxonomic_rank
+1071. file:///wiki/Agronomy
+1072. file:///wiki/Floriculture
+1073. file:///wiki/Forestry
+1074. file:///wiki/Horticulture
+1075. file:///wiki/Phytochemical
+1076. file:///wiki/Glossary_of_botanical_terms
+1077. file:///wiki/List_of_botanists
+1078. file:///wiki/List_of_botanists_by_author_abbreviation_(W%E2%80%93Z)
+1079. file:///wiki/Botanical_expeditions
+1080. file:///wiki/List_of_individual_trees
+1081. file:///wiki/Lists_of_plants
+1082. file:///wiki/Category:Botany
+1083. file:///wiki/Help:Authority_control
+1084. https://www.wikidata.org/wiki/Q41500#identifiers
+1085. https://d-nb.info/gnd/4136391-7
+1086. https://id.loc.gov/authorities/sh85115375
+1087. https://catalogue.bnf.fr/ark:/12148/cb11964942g
+1088. https://data.bnf.fr/ark:/12148/cb11964942g
+1089. https://id.ndl.go.jp/auth/ndlna/00568062
+1090. https://aleph.nkp.cz/F/?func=find-c&local_base=aut&ccl_term=ica=ph198766&CON_LNG=ENG
+1091. https://www.nli.org.il/en/authorities/987007546265205171
+1092. http://tools.wmflabs.org/wikidata-externalid-url/?p=1323&url_prefix=https:%2F%2Fwww.unifr.ch%2Fifaa%2FPublic%2FEntryPage%2FTA98%20Tree%2FEntity%20TA98%20EN%2F&url_suffix=%20Entity%20TA98%20EN.htm&id=A14.2.03.002
+1093. https://en.wikipedia.org/w/index.php?title=Root&oldid=1264856792
+1094. file:///wiki/Help:Category
+1095. file:///wiki/Category:Plant_roots
+1096. file:///wiki/Category:Articles_with_short_description
+1097. file:///wiki/Category:Short_description_is_different_from_Wikidata
+1098. file:///wiki/Category:Wikipedia_articles_needing_clarification_from_March_2016
+1099. file:///wiki/Category:All_articles_with_unsourced_statements
+1100. file:///wiki/Category:Articles_with_unsourced_statements_from_March_2016
+1101. file:///wiki/Category:Articles_needing_additional_references_from_March_2010
+1102. file:///wiki/Category:All_articles_needing_additional_references
+1103. file:///wiki/Category:Commons_category_link_is_on_Wikidata
+1104. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+1105. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+1106. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+1107. https://wikimediafoundation.org/
+1108. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+1109. file:///wiki/Wikipedia:About
+1110. file:///wiki/Wikipedia:General_disclaimer
+1111. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+1112. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+1113. https://developer.wikimedia.org/
+1114. https://stats.wikimedia.org/#/en.wikipedia.org
+1115. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+1116. file://en.m.wikipedia.org/w/index.php?title=Root&default=&mobileaction=toggle_view_mobile
+1117. https://wikimediafoundation.org/
+1118. https://www.mediawiki.org/
+
+   Hidden links:
+1120. file://localhost/wiki/File:Tree_branches_and_roots.jpg
+1121. file://localhost/wiki/File:Question_book-new.svg
+1122. file://localhost/wiki/File:Commons-logo.svg
+1123. file://localhost/wiki/File:Wikiquote-logo.svg

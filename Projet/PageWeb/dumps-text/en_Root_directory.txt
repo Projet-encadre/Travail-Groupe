@@ -1,0 +1,434 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Unix-like systems
+       (BUTTON) Toggle Unix-like systems subsection
+          + [30]1.1 chroot
+          + [31]1.2 Super-root
+     * [32]2 DOS/Windows systems
+     * [33]3 Related uses
+     * [34]4 See also
+     * [35]5 References
+
+   [ ] Toggle the table of contents
+
+Root directory
+
+   [ ] 21 languages
+     * [36]a+l+e+r+b+y+tm
+     * [37]Deutsch
+     * [38]Eesti
+     * [39]Español
+     * [40]Euskara
+     * [41]f+a+r+s+
+     * [42]Français
+     * [43]­´
+     * [44]Bahasa Indonesia
+     * [45]Italiano
+     * [46]E+B+R+J+T+
+     * [47]azasha
+     * [48]Nederlands
+     * [49]¥¬
+     * [50]Norsk bokmål
+     * [51]Olyk marij
+     * [52]Polski
+     * [53]Português
+     * [54]Türkçe
+     * [55]Ukrayins'ka
+     * [56]­
+
+   [57]Edit links
+
+     * [58]Article
+     * [59]Talk
+
+   [ ] English
+
+     * [60]Read
+     * [61]Edit
+     * [62]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [63]Read
+     * [64]Edit
+     * [65]View history
+
+   General
+     * [66]What links here
+     * [67]Related changes
+     * [68]Upload file
+     * [69]Special pages
+     * [70]Permanent link
+     * [71]Page information
+     * [72]Cite this page
+     * [73]Get shortened URL
+     * [74]Download QR code
+
+   Print/export
+     * [75]Download as PDF
+     * [76]Printable version
+
+   In other projects
+     * [77]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   First or top-most directory in a hierarchy
+   For other uses, see [78]Root (disambiguation).
+   [79][220px-OpenIndiana_2015_Console_LS.png] View of the root directory
+   in the [80]OpenIndiana operating system
+
+   In a [81]computer [82]file system, and primarily used in the [83]Unix
+   and [84]Unix-like [85]operating systems, the root directory is the
+   first or top-most [86]directory in a hierarchy.^[87][1] It can be
+   likened to the trunk of a [88]tree, as the starting point where all
+   branches originate from. The root file system is the file system
+   contained on the same [89]disk partition on which the root directory is
+   located; it is the filesystem on top of which all other file systems
+   are [90]mounted as the system boots up.^[91][2]
+
+Unix-like systems
+
+   [[92]edit]
+
+   Unix abstracts the nature of this tree hierarchy entirely and in Unix
+   and Unix-like systems the root directory is denoted by the / (slash)
+   sign. Though the root directory is conventionally referred to as /, the
+   directory entry itself has no name - its path is the "empty" part
+   before the initial directory separator character (/). All file system
+   entries, including mounted file systems are "branches" of this
+   root.^[93][1]
+
+chroot
+
+   [[94]edit]
+
+   In UNIX-like operating systems, each [95]process has its own idea of
+   what the root directory is. For most processes this is the same as the
+   system's actual root directory, but it can be changed by calling the
+   [96]chroot [97]system call. This is typically done to create a secluded
+   environment to run software that requires legacy libraries and
+   sometimes to simplify software installation and debugging. Chroot is
+   not meant to be used for enhanced security as the processes inside can
+   break out.^[98][3]
+
+Super-root
+
+   [[99]edit]
+   See also: [100]Newcastle Connection
+
+   Some Unix systems support a directory below the root directory.
+   Normally, "/.." points back to the same [101]inode as "/", however,
+   under [102]MUNIX [[103]de], this can be changed to point to a
+   super-root directory, where remote trees can be
+   mounted.^[104][4]^[105][5] If, for example, two workstations "pcs2a"
+   and "pcs2b" were connected via "connectnodes" and "uunite" startup
+   script, "/../pcs2b" could be used to access the root directory of
+   "pcs2b" from "pcs2a".
+
+DOS/Windows systems
+
+   [[106]edit]
+
+   Under [107]DOS, [108]OS/2, and [109]Microsoft Windows, each partition
+   has a drive letter assignment (e.g. the C partition is labeled C:\) and
+   there is no public root directory on it.
+
+Related uses
+
+   [[110]edit]
+
+   On many [111]Unixes, there is also a directory named
+   /root (pronounced "slash root").^[112][6] This is the [113]home
+   directory of the 'root' [114]superuser. On many [115]Mac and [116]iOS
+   systems this superuser home directory is /var/root.^[117][6]
+
+   A [118]home page's [119]URL usually points to the root of the
+   respective [120]website's [121]domain name.
+
+See also
+
+   [[122]edit]
+     * [123]Filesystem Hierarchy Standard (FHS)
+     * [124]Parent directory
+     * [125]Working directory
+
+References
+
+   [[126]edit]
+    1. ^ [127]^a [128]^b [129]"Root Directory Definition". techterms.com.
+       [130]Archived from the original on 2020-10-26. Retrieved
+       2020-03-14.
+    2. [131]^ [132]"Root Filesystem Definition by The Linux Information
+       Project". LInfo.org. [133]Archived from the original on 2021-07-10.
+       Retrieved 2020-03-14.
+    3. [134]^ [135]"What chroot() is really for". LWN.net. [136]Archived
+       from the original on 2020-11-12. Retrieved 2014-02-12.
+    4. [137]^ Brownbridge, David R.; Marshall, Lindsay F.; [138]Randell,
+       Brian (1982). [139]"The Newcastle Connection" (PDF). Software:
+       Practice and Experience. 12: 1147-1162.
+       [140]doi:[141]10.1002/spe.4380121206. [142]S2CID [143]1840438.
+       Archived from [144]the original (PDF) on 2016-08-16. Retrieved
+       2016-08-16.
+    5. [145]^ Callaghan, Brent (2000). NFS Illustrated. [146]Addison
+       Wesley. [147]ISBN [148]0-201-32570-5.
+    6. ^ [149]^a [150]^b [151]"Root Definition". LInfo.org. The Linux
+       Information Project. 2007-10-27. [152]Archived from the original on
+       2021-05-08. Retrieved 2021-11-03.
+
+     * [153]icon [154]Technology portal
+
+   Retrieved from
+   "[155]https://en.wikipedia.org/w/index.php?title=Root_directory&oldid=1
+   250720794"
+   [156]Category:
+     * [157]File system directories
+
+   Hidden categories:
+     * [158]Articles with short description
+     * [159]Short description matches Wikidata
+
+     * This page was last edited on 12 October 2024, at 03:39 (UTC).
+     * Text is available under the [160]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [161]Terms of Use and
+       [162]Privacy Policy. Wikipedia® is a registered trademark of the
+       [163]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [164]Privacy policy
+     * [165]About Wikipedia
+     * [166]Disclaimers
+     * [167]Contact Wikipedia
+     * [168]Code of Conduct
+     * [169]Developers
+     * [170]Statistics
+     * [171]Cookie statement
+     * [172]Mobile view
+
+     * [173]Wikimedia Foundation
+     * [174]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/Root_directory
+   2. file:///w/index.php?title=Root_directory&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Root+directory&returntoquery=default%3D
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Root+directory&returntoquery=default%3D
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Root+directory&returntoquery=default%3D
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Root+directory&returntoquery=default%3D
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html
+  29. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#Unix-like_systems
+  30. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#chroot
+  31. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#Super-root
+  32. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#DOS/Windows_systems
+  33. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#Related_uses
+  34. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#See_also
+  35. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#References
+  36. https://ar.wikipedia.org/wiki/%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D8%AC%D8%B0%D8%B1
+  37. https://de.wikipedia.org/wiki/Stammverzeichnis
+  38. https://et.wikipedia.org/wiki/Juurkaust
+  39. https://es.wikipedia.org/wiki/Directorio_ra%C3%ADz
+  40. https://eu.wikipedia.org/wiki/Erro_direktorio
+  41. https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%DB%8C%D8%B1%DA%A9%D8%AA%D9%88%D8%B1%DB%8C_%D8%B1%DB%8C%D8%B4%D9%87
+  42. https://fr.wikipedia.org/wiki/R%C3%A9pertoire_racine
+  43. https://ko.wikipedia.org/wiki/%EB%A3%A8%ED%8A%B8_%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC
+  44. https://id.wikipedia.org/wiki/Direktori_akar
+  45. https://it.wikipedia.org/wiki/Root_(informatica)
+  46. https://he.wikipedia.org/wiki/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA_%D7%A9%D7%95%D7%A8%D7%A9
+  47. https://kk.wikipedia.org/wiki/%D0%A2%D2%AF%D0%BF%D0%BA%D1%96_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3
+  48. https://nl.wikipedia.org/wiki/Rootdirectory
+  49. https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%88%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA
+  50. https://no.wikipedia.org/wiki/Rotkatalog
+  51. https://mhr.wikipedia.org/wiki/%D0%A2%D3%B1%D2%A5%D0%B2%D0%BE%D0%B6_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3
+  52. https://pl.wikipedia.org/wiki/Katalog_g%C5%82%C3%B3wny
+  53. https://pt.wikipedia.org/wiki/Diret%C3%B3rio_raiz
+  54. https://tr.wikipedia.org/wiki/K%C3%B6k_dizin
+  55. https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D0%B8%D0%B9_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3
+  56. https://zh.wikipedia.org/wiki/%E6%A0%B9%E7%9B%AE%E5%BD%95
+  57. https://www.wikidata.org/wiki/Special:EntityPage/Q972090#sitelinks-wikipedia
+  58. file:///wiki/Root_directory
+  59. file:///wiki/Talk:Root_directory
+  60. file:///wiki/Root_directory
+  61. file:///w/index.php?title=Root_directory&action=edit
+  62. file:///w/index.php?title=Root_directory&action=history
+  63. file:///wiki/Root_directory
+  64. file:///w/index.php?title=Root_directory&action=edit
+  65. file:///w/index.php?title=Root_directory&action=history
+  66. file:///wiki/Special:WhatLinksHere/Root_directory
+  67. file:///wiki/Special:RecentChangesLinked/Root_directory
+  68. file:///wiki/Wikipedia:File_Upload_Wizard
+  69. file:///wiki/Special:SpecialPages
+  70. file:///w/index.php?title=Root_directory&oldid=1250720794
+  71. file:///w/index.php?title=Root_directory&action=info
+  72. file:///w/index.php?title=Special:CiteThisPage&page=Root_directory&id=1250720794&wpFormIdentifier=titleform
+  73. file:///w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DRoot_directory%26default%3D
+  74. file:///w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DRoot_directory%26default%3D
+  75. file:///w/index.php?title=Special:DownloadAsPdf&page=Root_directory&action=show-download-screen
+  76. file:///w/index.php?title=Root_directory&printable=yes
+  77. https://www.wikidata.org/wiki/Special:EntityPage/Q972090
+  78. file:///wiki/Root_(disambiguation)
+  79. file:///wiki/File:OpenIndiana_2015_Console_LS.png
+  80. file:///wiki/OpenIndiana
+  81. file:///wiki/Computing
+  82. file:///wiki/File_system
+  83. file:///wiki/Unix
+  84. file:///wiki/Unix-like
+  85. file:///wiki/Operating_system
+  86. file:///wiki/Directory_(computing)
+  87. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_note-:1-1
+  88. file:///wiki/Tree_(data_structure)
+  89. file:///wiki/Disk_Partition_Recovery
+  90. file:///wiki/Mount_(computing)
+  91. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_note-2
+  92. file:///w/index.php?title=Root_directory&action=edit&section=1
+  93. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_note-:1-1
+  94. file:///w/index.php?title=Root_directory&action=edit&section=2
+  95. file:///wiki/Process_(computing)
+  96. file:///wiki/Chroot
+  97. file:///wiki/System_call
+  98. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_note-3
+  99. file:///w/index.php?title=Root_directory&action=edit&section=3
+ 100. file:///wiki/Newcastle_Connection
+ 101. file:///wiki/Inode
+ 102. file:///wiki/MUNIX
+ 103. https://de.wikipedia.org/wiki/MUNIX
+ 104. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_note-Newcastle_1982-4
+ 105. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_note-Callaghan_2000-5
+ 106. file:///w/index.php?title=Root_directory&action=edit&section=4
+ 107. file:///wiki/DOS
+ 108. file:///wiki/OS/2
+ 109. file:///wiki/Microsoft_Windows
+ 110. file:///w/index.php?title=Root_directory&action=edit&section=5
+ 111. file:///wiki/Unix
+ 112. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_note-LInfo_2007-6
+ 113. file:///wiki/Home_directory
+ 114. file:///wiki/Superuser
+ 115. file:///wiki/Mac_(computer)
+ 116. file:///wiki/IOS
+ 117. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_note-LInfo_2007-6
+ 118. file:///wiki/Home_page
+ 119. file:///wiki/URL
+ 120. file:///wiki/Website
+ 121. file:///wiki/Domain_name
+ 122. file:///w/index.php?title=Root_directory&action=edit&section=6
+ 123. file:///wiki/Filesystem_Hierarchy_Standard
+ 124. file:///wiki/Parent_directory
+ 125. file:///wiki/Working_directory
+ 126. file:///w/index.php?title=Root_directory&action=edit&section=7
+ 127. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_ref-:1_1-0
+ 128. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_ref-:1_1-1
+ 129. https://techterms.com/definition/root_directory
+ 130. https://web.archive.org/web/20201026093038/https://techterms.com/definition/root_directory
+ 131. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_ref-2
+ 132. http://www.linfo.org/root_filesystem.html
+ 133. https://web.archive.org/web/20210710200056/http://www.linfo.org/root_filesystem.html
+ 134. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_ref-3
+ 135. https://lwn.net/Articles/252794/
+ 136. https://web.archive.org/web/20201112024828/https://lwn.net/Articles/252794/
+ 137. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_ref-Newcastle_1982_4-0
+ 138. file:///wiki/Brian_Randell
+ 139. https://web.archive.org/web/20160816184205/http://www.cs.ncl.ac.uk/research/pubs/articles/papers/399.pdf
+ 140. file:///wiki/Doi_(identifier)
+ 141. https://doi.org/10.1002%2Fspe.4380121206
+ 142. file:///wiki/S2CID_(identifier)
+ 143. https://api.semanticscholar.org/CorpusID:1840438
+ 144. http://www.cs.ncl.ac.uk/publications/articles/papers/399.pdf
+ 145. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_ref-Callaghan_2000_5-0
+ 146. file:///wiki/Addison_Wesley
+ 147. file:///wiki/ISBN_(identifier)
+ 148. file:///wiki/Special:BookSources/0-201-32570-5
+ 149. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_ref-LInfo_2007_6-0
+ 150. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_directory.html#cite_ref-LInfo_2007_6-1
+ 151. http://www.linfo.org/root.html
+ 152. https://web.archive.org/web/20210508093525/http://www.linfo.org/root.html
+ 153. file:///wiki/File:Noun-technology.svg
+ 154. file:///wiki/Portal:Technology
+ 155. https://en.wikipedia.org/w/index.php?title=Root_directory&oldid=1250720794
+ 156. file:///wiki/Help:Category
+ 157. file:///wiki/Category:File_system_directories
+ 158. file:///wiki/Category:Articles_with_short_description
+ 159. file:///wiki/Category:Short_description_matches_Wikidata
+ 160. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 161. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 162. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 163. https://wikimediafoundation.org/
+ 164. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 165. file:///wiki/Wikipedia:About
+ 166. file:///wiki/Wikipedia:General_disclaimer
+ 167. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 168. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 169. https://developer.wikimedia.org/
+ 170. https://stats.wikimedia.org/#/en.wikipedia.org
+ 171. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 172. file://en.m.wikipedia.org/w/index.php?title=Root_directory&default=&mobileaction=toggle_view_mobile
+ 173. https://wikimediafoundation.org/
+ 174. https://www.mediawiki.org/

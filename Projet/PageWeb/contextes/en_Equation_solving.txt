@@ -1,0 +1,52 @@
+   a solution is a value or a collection of values (one for each unknown)
+   such that, when [122]substituted for the unknowns, the equation becomes
+   an [123]equality. A solution of an equation is often called a root of
+   the equation, particularly but not only for [124]polynomial equations.
+   The set of all solutions of an equation is its [125]solution set.
+--
+          {\displaystyle 4x^{5}-x^{3}-3=0}
+
+   (by using the [197]rational root theorem), and
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   mentioned above. In some other cases, in particular if the equation is
+   in one unknown, it is possible to solve the equation for
+   [202]rational-valued unknowns (see [203]Rational root theorem), and
+   then find solutions to the Diophantine equation by restricting the
+   solution set to integer-valued solutions. For example, the polynomial
+--
+          {\displaystyle (x,y)=\pi _{1}^{-1}(c)=(c,0).}
+
+   Examples of inverse functions include the [208]nth root (inverse of
+   x^n); the [209]logarithm (inverse of a^x); the [210]inverse
+   trigonometric functions; and [211]Lambert's W function (inverse of
+--
+
+   With more complicated equations in real or [215]complex numbers, simple
+   methods to solve equations can fail. Often, [216]root-finding
+   algorithms like the [217]Newton-Raphson method can be used to find a
+   numerical solution to an equation, which, for some applications, can be
+--
+ 195. file:///wiki/Quadratic_formula
+ 196. file:///wiki/Bring_radical
+ 197. file:///wiki/Rational_root_theorem
+ 198. file:///wiki/Quadratic_equation
+ 199. file:///w/index.php?title=Equation_solving&action=edit&section=8
+--
+ 201. file:///wiki/Integer
+ 202. file:///wiki/Rational_number
+ 203. file:///wiki/Rational_root_theorem
+ 204. file:///w/index.php?title=Equation_solving&action=edit&section=9
+ 205. file:///wiki/Inverse_problem
+ 206. file:///wiki/Inverse_function
+ 207. file:///wiki/Projection_(mathematics)
+ 208. file:///wiki/Nth_root
+ 209. file:///wiki/Logarithm
+ 210. file:///wiki/Inverse_trigonometric_function
+--
+ 214. file:///w/index.php?title=Equation_solving&action=edit&section=11
+ 215. file:///wiki/Complex_number
+ 216. file:///wiki/Root-finding_algorithm
+ 217. file:///wiki/Newton%E2%80%93Raphson_method
+ 218. file:///wiki/Numerical_linear_algebra#Solutions_of_linear_systems

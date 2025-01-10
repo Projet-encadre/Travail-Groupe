@@ -1,0 +1,59 @@
+    1. [1]Home
+    2. [2]Features
+    3. [3]Roots Dictionary
+    4. [4]Word Frequency
+    5. [5]Deconstructor
+--
+   ____________________
+
+[36]Roots Dictionary
+
+   There is a detailed Pal-.i Roots Dictionary included in DPD. Clicking
+   on any root will take you to a special page containing all the root
+   information.
+
+   roots dict1
+
+[37]Root Info
+
+   Root info contains comprehensive information from classical grammars.
+
+   roots dict2
+
+[38]Root Matrix
+
+   Root matrix lists every word derived from a root, ordered according to
+   part of speech (verbs, participles, nouns, adjectives and adverbs) and
+   according to mode of the verb (causative, passive, intensive,
+   denominative, etc.).
+
+   root matrix
+
+   The result is a comprehensive table of how the root appears within
+   Pal-.i texts, useful for teachers and students alike.
+
+[39]Root Families
+
+   Each root family contains every word with the same prefix and root.
+
+   roots dict3
+
+   These are very useful for seeing the range of nuanced meanings that a
+   prefix and root combination produces.
+
+References
+--
+   1. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/titlepage.html
+   2. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/features.html
+   3. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/rootdict.html
+   4. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/frequency.html
+   5. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/deconstructor.html
+--
+  34. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/contact.html
+  35. https://digitalpalidictionary.github.io/rus/
+  36. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_rootdict.html.html#roots-dictionary
+  37. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_rootdict.html.html#root-info
+  38. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_rootdict.html.html#root-matrix
+  39. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_rootdict.html.html#root-families
+
+   Hidden links:

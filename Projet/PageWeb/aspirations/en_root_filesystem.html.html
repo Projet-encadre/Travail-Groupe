@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "DTD/xhtml1-transitional.dtd">
+<html xmlns= "http://www.w3.org/1999/xhtml">
+<head> 
+
+<link rel="stylesheet" type="text/css" href="belug1.css" />
+
+<title>Root filesystem definition by The Linux Information Project</title></head>
+
+<body bgcolor="#ffffff">
+
+<a href="index.html">LINFO</a>
+
+<br /><center><h1>Root Filesystem Definition</h1></center><br />
+
+<table width="100%"><tbody><tr><td width="10%"></td><td width="80%">
+
+<br />
+
+<p>
+The <i>root filesystem</i> is the <a href="filesystem.html"><i>filesystem</i></a> that is contained on the same <a href="partition.html"><i>partition</i></a> on which the <a href="root_directory.html"><i>root directory</i></a> is located, and it is the filesystem on which all the other filesystems are <i>mounted</i> (i.e., logically attached to the system) as the system is <a href="boot.html"><i>booted up</i></a> (i.e., started up). 
+</p>
+
+<p>
+A partition is a logically independent section of a hard disk drive (HDD). A filesystem is a hierarchy of directories (also referred to as a <a href="directory_tree.html"><i>directory tree</i></a>) that is used to organize files on a computer system. On <a href="linuxdef.html">Linux</a> and and other <a href="unix-like.html">Unix-like</a> <a href="operating_systems_list.html">operating systems</a>, the directories start with the root directory, which contains a series of subdirectories, each of which, in turn, contains further subdirectories, etc. A variant of this definition is the part of the entire hierarchy of directories (i.e., of the directory tree) that is located on a single partition or disk. 
+</p>
+
+<p>
+The exact contents of the root filesystem will vary according to the computer, but they will include the files that are necessary for booting the system and for bringing it up to such a state that the other filesystems can be mounted as well as tools for fixing a broken system and for recovering lost files from backups. The contents will include the root directory together with a minimal set of subdirectories and files including <i>/boot</i>, <i>/dev</i>, <i>/etc</i>, <a href="bin.html"><i>/bin</i></a>, <a href="sbin.html"><i>/sbin</i></a> and sometimes <i>/tmp</i> (for temporary files). 
+</p>
+
+<p>
+Only the root filesystem is available when a system is brought up in <i>single user mode</i>. Single user mode is a way of booting a damaged system that has very limited capabilities so that repairs can be made to it. After repairs have been completed, the other filesystems that are located on different partitions or on different media can then be <i>mounted</i> on (i.e., attached to) the root filesystem in order to restore full system functionality. The directories on which they are mounted are called <a href="mount_point.html"><i>mount points</i></a>.
+</p>
+
+<p>
+The root filesystem should generally be small, because it contains critical files and a small, infrequently modified filesystem has a better chance of not becoming corrupted. A corrupted root filesystem will generally mean that the system becomes <i>unbootable</i> (i.e., unstartable) from the HDD, and must be booted by special means (e.g., from a <i>boot floppy</i>).
+</p>
+
+<p>
+A filesystem can be mounted anywhere in the directory tree; it does not necessarily need to be mounted on the root filesystem. For example, it is possible (and very common) to have one filesystem mounted at a mount point on the root filesystem, and another filesystem mounted at a mount point contained in that filesystem.
+</p>
+
+
+
+
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+
+<p class="copy">Created April 18, 2006.<br />
+Copyright &#169; 2006 The Linux Information Project. All Rights Reserved.</p>
+
+</td><td width="10%"></td></tr></tbody></table>
+
+</body></html>

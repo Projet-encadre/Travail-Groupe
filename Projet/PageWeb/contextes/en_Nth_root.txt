@@ -1,0 +1,1061 @@
+     * [30]2 Definition and notation
+       (BUTTON) Toggle Definition and notation subsection
+          + [31]2.1 Square roots
+          + [32]2.2 Cube roots
+     * [33]3 Identities and properties
+     * [34]4 Simplified form of a radical expression
+     * [35]5 Infinite series
+     * [36]6 Computing principal roots
+       (BUTTON) Toggle Computing principal roots subsection
+          + [37]6.1 Using Newton's method
+          + [38]6.2 Digit-by-digit calculation of principal roots of
+            decimal (base 10) numbers
+               o [39]6.2.1 Examples
+          + [40]6.3 Logarithmic calculation
+     * [41]7 Geometric constructibility
+     * [42]8 Complex roots
+       (BUTTON) Toggle Complex roots subsection
+          + [43]8.1 Square roots
+          + [44]8.2 Roots of unity
+          + [45]8.3 nth roots
+     * [46]9 Solving polynomials
+     * [47]10 Proof of irrationality for non-perfect nth power x
+--
+   [ ] Toggle the table of contents
+
+nth root
+
+   [ ] 70 languages
+--
+   From Wikipedia, the free encyclopedia
+   Arithmetic operation, inverse of nth power
+   This article is about nth-roots of real and complex numbers. For other
+   uses, see [143]Root (disambiguation) § Mathematics.
+
+   This article needs additional citations for [144]verification. Please
+   help [145]improve this article by [146]adding citations to reliable
+   sources. Unsourced material may be challenged and removed.
+   Find sources: [147]"Nth root" - [148]news · [149]newspapers ·
+   [150]books · [151]scholar · [152]JSTOR (October 2022) ([153]Learn how
+   and when to remove this message)
+
+   In [154]mathematics, an nth root of a [155]number x is a number r (the
+   root) which, when [156]raised to the power of the [157]positive integer
+   n, yields x:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+
+   The integer n is called the index or degree, and the number x of which
+   the root is taken is the radicand. A root of degree 2 is called a
+   [158]square root and a root of degree 3, a [159]cube root. Roots of
+   higher degree are referred by using [160]ordinal numbers, as in fourth
+   root, twentieth root, etc. The computation of an nth root is a root
+   extraction.
+
+   For example, 3 is a square root of 9, since 3^2 = 9, and -3 is also a
+   square root of 9, since (-3)^2 = 9.
+
+   The nth root of x is written as
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+--
+   encoding="application/x-tex">{\displaystyle {\sqrt {\phantom
+   {x}}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {\phantom {x}}}} . The square root is usually
+   written without the n as just &#8288;
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}} &#8288;. Taking the nth root of a number is
+   the [162]inverse operation of [163]exponentiation,^[164][1] and can be
+   written as a [165]fractional exponent:
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD">
+   <mo>/</mo> </mrow> <mi>n</mi> </mrow> </msup> <mo>.</mo> </mstyle>
+--
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}} denotes the positive square root of x and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}} denotes the positive real nth root. A
+   negative real number -x has no real-valued square roots, but when x is
+   treated as a complex number it has two [166]imaginary square roots,
+   &#8288;
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+
+   In general, any non-zero [168]complex number has n distinct
+   complex-valued nth roots, equally distributed around a complex circle
+   of constant [169]absolute value. (The nth root of 0 is zero with
+   [170]multiplicity n, and this circle degenerates to a point.)
+   Extracting the nth roots of a complex number x can thus be taken to be
+   a [171]multivalued function. By convention the [172]principal value of
+   this function, called the principal root and denoted &#8288;
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}} &#8288;, is taken to be the nth root
+   with the greatest real part and in the special case when x is a
+   negative real number, the one with a positive [173]imaginary part. The
+   principal root of a positive real number is thus also a positive real
+   number. As a [174]function, the principal root is [175]continuous in
+   the whole [176]complex plane, except along the negative real axis.
+
+   An unresolved root, especially one using the radical symbol, is
+   sometimes referred to as a surd^[177][2] or a radical.^[178][3] Any
+   expression containing a radical, whether it is a square root, a cube
+   root, or a higher root, is called a radical expression, and if it
+   contains no [179]transcendental functions or [180]transcendental
+   numbers it is called an [181]algebraic expression.
+--
+   {\text{power}}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{power}}}
+   nth root ( SQRT )
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>radicand</mtext> </mrow> </mstyle> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>degree</mtext> </mrow> </mroot> </mrow>
+   <mspace width="thinmathspace" /> <mo>=</mo> <mspace
+   width="thinmathspace" /> </mstyle> </mstyle> </mrow> <annotation
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>root</mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   {\text{root}}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{root}}}
+   [193]Logarithm (log)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+     * [196]e
+
+   Roots are used for determining the [197]radius of convergence of a
+   [198]power series with the [199]root test. The nth roots of 1 are
+   called [200]roots of unity and play a fundamental role in various areas
+   of mathematics, such as [201]number theory, [202]theory of equations,
+   and [203]Fourier transform.
+--
+   [[204]edit]
+
+   Main articles: [205]Square root § History, and [206]Cube root § History
+
+   An archaic term for the operation of taking nth roots is
+   radication.^[207][4]^[208][5]
+
+--
+   [[209]edit]
+
+   [210][220px-NegativeOne4Root.svg.png] The four 4th roots of -1,
+   none of which are real[211][220px-NegativeOne3Root.svg.png] The three
+   3rd roots of -1,
+   one of which is a negative real
+
+   An nth root of a number x, where n is a positive integer, is any of the
+   n real or complex numbers r whose nth power is x:
+
+--
+   {\displaystyle r^{n}=x.}
+
+   Every positive [212]real number x has a single positive nth root,
+   called the [213]principal nth root, which is written
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}} . For n equal to 2 this is called the
+   principal square root and the n is omitted. The nth root can also be
+   represented using [214]exponentiation as x^1/n.
+
+   For even values of n, positive numbers also have a negative nth root,
+   while negative numbers do not have a real nth root. For odd values of
+   n, every negative number x has a real negative nth root. For example,
+   -2 has a real 5th root,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mrow> <mo>-</mo> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </mroot> </mrow> <mo>=</mo>
+   <mo>-</mo> <mn>1.148698354</mn> <mo>...</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   {\sqrt[{5}]{-2}}=-1.148698354\ldots }</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{5}]{-2}}=-1.148698354\ldots } but -2 does not
+   have any real 6th roots.
+
+   Every non-zero number x, real or [215]complex, has n different complex
+   number nth roots. (In the case x is real, this count includes any real
+   nth roots.) The only complex root of 0 is 0.
+
+   The nth roots of almost all numbers (all integers except the nth
+   powers, and all rationals except the quotients of two nth powers) are
+   [216]irrational. For example,
+--
+   {\displaystyle {\sqrt {2}}=1.414213562\ldots }
+
+   All nth roots of rational numbers are [217]algebraic numbers, and all
+   nth roots of integers are [218]algebraic integers.
+
+   The term "surd" traces back to [219]Al-Khwarizmi (c. 825), who referred
+--
+   surdus (meaning "deaf" or "mute"). [220]Gerard of Cremona (c. 1150),
+   [221]Fibonacci (1202), and then [222]Robert Recorde (1551) all used the
+   term to refer to unresolved irrational roots, that is, expressions of
+   the form
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>r</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{r}}}</annotation> </semantics> :MATH]
+--
+   surds.^[225][7]
+
+Square roots
+
+   [[226]edit]
+
+   Main article: [227]Square root
+
+   [228][220px-Square-root_function.svg.png] The graph
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>y</mi> <mo>=</mo> <mo>±</mo>
+--
+   {\displaystyle y=\pm {\sqrt {x}}} .
+
+   A square root of a number x is a number r which, when [229]squared,
+   becomes x:
+
+--
+   {\displaystyle r^{2}=x.}
+
+   Every positive real number has two square roots, one positive and one
+   negative. For example, the two square roots of 25 are 5 and -5. The
+   positive square root is also known as the principal square root, and is
+   denoted with a radical sign:
+
+--
+
+   Since the square of every real number is nonnegative, negative numbers
+   do not have real square roots. However, for every negative real number
+   there are two [230]imaginary square roots. For example, the square
+   roots of -25 are 5i and -5i, where [231]i represents a number whose
+   square is -1.
+
+Cube roots
+
+   [[232]edit]
+
+   Main article: [233]Cube root
+
+   [234][220px-Cube-root_function.svg.png] The graph
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>y</mi> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   y={\sqrt[{3}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle y={\sqrt[{3}]{x}}} .
+
+   A cube root of a number x is a number r whose [235]cube is x:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   {\displaystyle r^{3}=x.}
+
+   Every real number x has exactly one real cube root, written
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{3}]{x}}}</annotation> </semantics> :MATH]
+--
+   left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em
+   2em 0em 2em 0em 2em 0em" displaystyle="true"> <mtr> <mtd> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mn>8</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> </mtd>
+   <mtd> <mi></mi> <mo>=</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mo>-</mo> <mn>8</mn> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+   </mtd> <mtd> <mi></mi> <mo>=</mo> <mo>-</mo> <mn>2.</mn> </mtd> </mtr>
+   </mtable> </mrow> </mstyle> </mrow> <annotation
+--
+   }
+
+   Every real number has two additional [236]complex cube roots.
+
+Identities and properties
+--
+   [[237]edit]
+
+   Expressing the degree of an nth root in its exponent form, as in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+--
+   x^{1/n}}</annotation> </semantics> :MATH]
+   {\displaystyle x^{1/n}} , makes it easier to manipulate powers and
+   roots. If
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi>
+   </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>=</mo> <mo stretchy="false">(</mo> <msup>
+   <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msup>
+   <msup> <mo stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+--
+   stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi>
+   </mrow> </msup> <mo>=</mo> <mo stretchy="false">(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> <msup> <mo
+   stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi>
+   </mrow> </msup> <mo>.</mo> </mstyle> </mrow> <annotation
+--
+   })^{m}.}
+
+   Every non-negative number has exactly one non-negative real nth root,
+   and so the rules for operations with surds involving non-negative
+   radicands
+--
+   left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em
+   2em 0em 2em 0em 2em 0em" displaystyle="true"> <mtr> <mtd> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mi>a</mi> <mi>b</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+   </mtd> <mtd> <mi></mi> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mi>b</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+   </mtd> </mtr> <mtr> <mtd> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mfrac> <mi>a</mi> <mi>b</mi> </mfrac> <mrow class="MJX-TeXAtom-ORD">
+   <mi>n</mi> </mrow> </mroot> </mrow> </mtd> <mtd> <mi></mi> <mo>=</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mroot> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> <mroot> <mi>b</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mfrac>
+   </mrow> </mtd> </mtr> </mtable> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+--
+   {\sqrt[{n}]{a}}{\sqrt[{n}]{b}}}\end{aligned}}}
+
+   Subtleties can occur when taking the nth roots of negative or
+   [239]complex numbers. For instance:
+
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>×</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot>
+   </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mrow>
+   <mi>a</mi> <mi>b</mi> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   </mrow> </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt[{n}]{a}}\times
+   {\sqrt[{n}]{b}}={\sqrt[{n}]{ab}}}</annotation> </semantics> :MATH]
+--
+   {\displaystyle \textstyle {\sqrt {32/5}}} in simplified form, we can
+   proceed as follows. First, look for a perfect square under the square
+   root sign and remove it:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mn>1</mn> <mrow> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot>
+   </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mi>b</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+   </mrow> </mfrac> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mrow> <mrow class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> <mo>-</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mi>a</mi> <mi>b</mi>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot>
+   </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <msup>
+   <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+   </mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow>
+   </mroot> </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot>
+   </mrow> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> <mo>-</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mi>a</mi> <mi>b</mi>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot>
+   </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <msup>
+   <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+   </mrow> <mo>)</mo> </mrow> </mrow> </mfrac> </mrow> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow>
+   </mroot> </mrow> <mo>-</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mrow> <mi>a</mi> <mi>b</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mn>3</mn> </mrow> </mroot> </mrow> <mo>+</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>b</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> </mrow>
+   <mrow> <mi>a</mi> <mo>+</mo> <mi>b</mi> </mrow> </mfrac> </mrow>
+   <mo>.</mo> </mstyle> </mrow> <annotation
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>r</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mi>q</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{r}}={\sqrt[{n}]{p}}/{\sqrt[{n}]{q}}}</annotation>
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{p}}}</annotation> </semantics> :MATH]
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>q</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{q}}}</annotation> </semantics> :MATH]
+--
+   [[249]edit]
+
+   The radical or root may be represented by the [250]infinite series:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   [251]binomial series.
+
+Computing principal roots
+
+   [[252]edit]
+--
+   [[253]edit]
+
+   The nth root of a number A can be computed with [254]Newton's method,
+   which starts with an initial guess x[0] and then iterates using the
+   [255]recurrence relation
+--
+   for all the first factor of each term.
+
+   For example, to find the fifth root of 34, we plug in n = 5, A = 34 and
+   x[0] = 2 (initial guess). The first 5 iterations are, approximately:
+
+--
+
+   Newton's method can be modified to produce various [257]generalized
+   continued fractions for the nth root. For example,
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mrow> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   </mrow> </msup> <mo>+</mo> <mi>y</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> <mo>=</mo>
+   <mi>x</mi> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+   <mpadded width="0" height="8.6pt" depth="3pt"> <mrow /> </mpadded>
+--
+   }}}}}}}}}}}}.}
+
+Digit-by-digit calculation of principal roots of decimal (base 10) numbers
+
+   [[258]edit]
+
+   [259][220px-PascalForDecimalRoots.svg.png] [260]Pascal's triangle
+   showing
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   {\displaystyle P(4,1)=4} .
+
+   Building on the [261]digit-by-digit calculation of a square root, it
+   can be seen that the formula used there,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   x^{2}+20xp\leq c}</annotation> </semantics> :MATH]
+   {\displaystyle x^{2}+20xp\leq c} , follows a pattern involving Pascal's
+   triangle. For the nth root of a number
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> <mo
+--
+   </semantics> :MATH]
+   {\displaystyle y} . Using this more general expression, any positive
+   principal root can be computed, digit-by-digit, as follows.
+
+   Write the original number in decimal form. The numbers are written
+   similar to the [262]long division algorithm, and, as in long division,
+   the root will be written on the line above. Now separate the digits
+   into groups of digits equating to the root being taken, starting from
+   the decimal point and going both left and right. The decimal point of
+   the root will be above the decimal point of the radicand. One digit of
+   the root will appear above each group of digits of the original number.
+
+   Beginning with the left-most group of digits, do the following
+--
+            encoding="application/x-tex">{\displaystyle p}</annotation>
+            </semantics> :MATH]
+            {\displaystyle p} be the part of the root found so far,
+            ignoring any decimal point. (For the first step,
+            [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+            encoding="application/x-tex">{\displaystyle x}</annotation>
+            </semantics> :MATH]
+            {\displaystyle x} as the next digit of the root, i.e., above
+            the group of digits you just brought down. Thus the next p
+            will be the old p times 10 plus x.
+--
+   how and when to remove this message)
+
+   Find the square root of 152.2756.
+          1  2. 3  4
+       /
+--
+   Algorithm terminates: Answer is 12.34
+
+   Find the cube root of 4192 truncated to the nearest thousandth.
+        1   6.  1   2   4
+ 3  /
+--
+2 + 10^2·3·1612^2·5^1
+
+   The desired precision is achieved. The cube root of 4192 is 16.124...
+
+Logarithmic calculation
+--
+   [[267]edit]
+
+   The principal nth root of a positive number can be computed using
+   [268]logarithms. Starting from the equation that defines r as an nth
+   root of x, namely
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>r</mi> <mrow
+--
+   </semantics> :MATH]
+   {\displaystyle r^{n}=x,} with x positive and therefore its principal
+   root r also positive, one takes logarithms of both sides (any [269]base
+   of the logarithm will do) to obtain
+
+--
+   \quad \log _{b}r={\frac {\log _{b}x}{n}}.}
+
+   The root r is recovered from this by taking the [270]antilog:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+
+   For the case in which x is negative and n is odd, there is one real
+   root r which is also negative. This can be found by first multiplying
+   both sides of the defining equation by -1 to obtain
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+
+   The [272]ancient Greek mathematicians knew how to [273]use compass and
+   straightedge to construct a length equal to the square root of a given
+   length, when an auxiliary line of unit length is given. In 1837
+   [274]Pierre Wantzel proved that an nth root of a given length cannot be
+   constructed if n is not a power of 2.^[275][11]
+
+Complex roots
+
+   [[276]edit]
+
+   Every [277]complex number other than 0 has n different nth roots.
+
+Square roots
+
+   [[278]edit]
+
+   [279][220px-Imaginary2Root.svg.png] The square roots of i
+
+   The two square roots of a complex number are always negatives of each
+   other. For example, the square roots of -4 are 2i and -2i, and the
+   square roots of i are
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   -{\tfrac {1}{\sqrt {2}}}(1+i).}
+
+   If we express a complex number in [280]polar form, then the square root
+   can be obtained by taking the square root of the radius and halving the
+   angle:
+
+--
+   /2}.}
+
+   A principal root of a complex number may be chosen in various ways, for
+   example
+
+--
+   negative real axis with -p < th <= p.
+
+   Using the first(last) branch cut the principal square root
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+--
+   mathematical software like [284]Matlab or [285]Scilab.
+
+Roots of unity
+
+   [[286]edit]
+
+   Main article: [287]Root of unity
+
+   [288][220px-3rd_roots_of_unity.svg.png] The three 3rd roots of 1
+
+   The number 1 has n different nth roots in the complex plane, namely
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   }{n}}\right)+i\sin \left({\frac {2\pi }{n}}\right).}
+
+   These roots are evenly spaced around the [289]unit circle in the
+   complex plane, at angles which are multiples of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle 2\pi
+   /n}</annotation> </semantics> :MATH]
+   {\displaystyle 2\pi /n} . For example, the square roots of unity are 1
+   and -1, and the fourth roots of unity are 1,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>i</mi> </mstyle> </mrow>
+--
+   {\displaystyle -i} .
+
+nth roots
+
+   [[290]edit]
+
+   [291][250px-Visualisation_complex_number_roots.svg.png] Geometric
+   representation of the 2nd to 6th roots of a complex number z, in polar
+   form re^if  where r = |z | and f = arg z. If z is real, f = 0 or p.
+   Principal roots are shown in black.
+
+   Every complex number has n different nth roots in the complex plane.
+   These are
+
+--
+   \omega ^{n-1},}
+
+   where y is a single nth root, and 1, w, w^2, ... w^n-1 are the nth
+   roots of unity. For example, the four different fourth roots of 2 are
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow>
+   </mroot> </mrow> <mo>,</mo> <mspace width="1em" /> <mi>i</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mn>2</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </mroot> </mrow> <mo>,</mo>
+   <mspace width="1em" /> <mo>-</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow>
+   </mroot> </mrow> <mo>,</mo> <mspace width="1em" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>and</mtext> </mrow> <mspace width="1em"
+   /> <mo>-</mo> <mi>i</mi> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </mroot>
+   </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt[{4}]{2}},\quad
+--
+   -{\sqrt[{4}]{2}},\quad {\text{and}}\quad -i{\sqrt[{4}]{2}}.}
+
+   In [292]polar form, a single nth root may be found by the formula
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mrow> <mi>r</mi> <msup> <mi>e</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> <mi>th</mi> </mrow> </msup> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+   <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> <mo> ·
+   </mo> <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi>
+   <mi>th</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+--
+
+   Here r is the magnitude (the modulus, also called the [293]absolute
+   value) of the number whose root is to be taken; if the number can be
+   written as a+bi then
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   {\displaystyle \tan \theta =b/a.}
+
+   Thus finding nth roots in the complex plane can be segmented into two
+   steps. First, the magnitude of all the nth roots is the nth root of the
+   magnitude of the original number. Second, the angle between the
+   positive horizontal axis and a ray from the origin to one of the nth
+   roots is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>th</mi> <mrow
+--
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \theta } is the angle defined in the same way for the
+   number whose root is being taken. Furthermore, all n of the nth roots
+   are at equally spaced angles from each other.
+
+   If n is even, a complex number's nth roots, of which there are an even
+   number, come in [294]additive inverse pairs, so that if a number r[1]
+   is one of the nth roots then r[2] = -r[1] is another. This is because
+   raising the latter's coefficient -1 to the nth power for even n yields
+   1: that is, (-r[1])^n = (-1)^n × r[1]^n = r[1]^n.
+
+   As with square roots, the formula above does not define a
+   [295]continuous function over the entire complex plane, but instead has
+   a [296]branch cut at points where th / n is discontinuous.
+--
+   [[297]edit]
+
+   See also: [298]Root-finding algorithms
+
+   It was once [299]conjectured that all [300]polynomial equations could
+   be [301]solved algebraically (that is, that all roots of a
+   [302]polynomial could be expressed in terms of a finite number of
+   radicals and [303]elementary operations). However, while this is true
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>=</mo> <mi>a</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}=a}</annotation> </semantics> :MATH]
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+--
+
+     * [310]Geometric mean
+     * [311]Twelfth root of two
+
+References
+--
+   [[312]edit]
+
+    1. [313]^ [314]"Lesson Explainer: nth Roots: Integers". Retrieved 22
+       July 2023.
+    2. [315]^ Bansal, R.K. (2006). [316]New Approach to CBSE Mathematics
+--
+     * [361]Subtraction (1)
+     * [362]Division (2)
+     * Root extraction (3)
+     * [363]Super-root (4)
+
+   Inverse for right argument
+--
+
+   Retrieved from
+   "[374]https://en.wikipedia.org/w/index.php?title=Nth_root&oldid=1265710
+   577"
+
+--
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/Nth_root
+   2. file:///w/index.php?title=Nth_root&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+--
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Nth+root&returntoquery=default%3D
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Nth+root&returntoquery=default%3D
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Nth+root&returntoquery=default%3D
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Nth+root&returntoquery=default%3D
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html
+  29. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#History
+  30. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Definition_and_notation
+  31. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Square_roots
+  32. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Cube_roots
+  33. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Identities_and_properties
+  34. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Simplified_form_of_a_radical_expression
+  35. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Infinite_series
+  36. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Computing_principal_roots
+  37. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Using_Newton's_method
+  38. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Digit-by-digit_calculation_of_principal_roots_of_decimal_(base_10)_numbers
+  39. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Examples
+  40. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Logarithmic_calculation
+  41. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Geometric_constructibility
+  42. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Complex_roots
+  43. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Square_roots_2
+  44. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Roots_of_unity
+  45. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#nth_roots
+  46. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Solving_polynomials
+  47. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#Proof_of_irrationality_for_non-perfect_nth_power_x
+  48. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#See_also
+  49. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#References
+  50. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#External_links
+  51. https://af.wikipedia.org/wiki/Wortelgetal
+  52. https://ar.wikipedia.org/wiki/%D8%AC%D8%B0%D8%B1_%D9%86%D9%88%D9%86%D9%8A
+--
+ 101. https://qu.wikipedia.org/wiki/Yupay_saphi
+ 102. https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D1%8C_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)
+ 103. https://simple.wikipedia.org/wiki/Nth_root
+ 104. https://sk.wikipedia.org/wiki/Odmocnina
+ 105. https://sl.wikipedia.org/wiki/Korenjenje
+--
+ 120. https://zh.wikipedia.org/wiki/%E6%96%B9%E6%A0%B9
+ 121. https://www.wikidata.org/wiki/Special:EntityPage/Q601053#sitelinks-wikipedia
+ 122. file:///wiki/Nth_root
+ 123. file:///wiki/Talk:Nth_root
+ 124. file:///wiki/Nth_root
+ 125. file:///w/index.php?title=Nth_root&action=edit
+ 126. file:///w/index.php?title=Nth_root&action=history
+ 127. file:///wiki/Nth_root
+ 128. file:///w/index.php?title=Nth_root&action=edit
+ 129. file:///w/index.php?title=Nth_root&action=history
+ 130. file:///wiki/Special:WhatLinksHere/Nth_root
+ 131. file:///wiki/Special:RecentChangesLinked/Nth_root
+ 132. file:///wiki/Wikipedia:File_Upload_Wizard
+ 133. file:///wiki/Special:SpecialPages
+ 134. file:///w/index.php?title=Nth_root&oldid=1265710577
+ 135. file:///w/index.php?title=Nth_root&action=info
+ 136. file:///w/index.php?title=Special:CiteThisPage&page=Nth_root&id=1265710577&wpFormIdentifier=titleform
+ 137. file:///w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DNth_root%26default%3D
+ 138. file:///w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DNth_root%26default%3D
+ 139. file:///w/index.php?title=Special:DownloadAsPdf&page=Nth_root&action=show-download-screen
+ 140. file:///w/index.php?title=Nth_root&printable=yes
+ 141. https://en.wikibooks.org/wiki/A_Guide_to_the_GRE/Radicals
+ 142. https://www.wikidata.org/wiki/Special:EntityPage/Q601053
+ 143. file:///wiki/Root_(disambiguation)#Mathematics
+ 144. file:///wiki/Wikipedia:Verifiability
+ 145. file:///wiki/Special:EditPage/Nth_root
+ 146. file:///wiki/Help:Referencing_for_beginners
+ 147. https://www.google.com/search?as_eq=wikipedia&q=%22Nth+root%22
+ 148. https://www.google.com/search?tbm=nws&q=%22Nth+root%22+-wikipedia&tbs=ar:1
+ 149. https://www.google.com/search?&q=%22Nth+root%22&tbs=bkt:s&tbm=bks
+ 150. https://www.google.com/search?tbs=bks:1&q=%22Nth+root%22+-wikipedia
+ 151. https://scholar.google.com/scholar?q=%22Nth+root%22
+ 152. https://www.jstor.org/action/doBasicSearch?Query=%22Nth+root%22&acc=on&wc=on
+ 153. file:///wiki/Help:Maintenance_template_removal
+ 154. file:///wiki/Mathematics
+--
+ 156. file:///wiki/Exponentiation
+ 157. file:///wiki/Positive_integer
+ 158. file:///wiki/Square_root
+ 159. file:///wiki/Cube_root
+ 160. file:///wiki/Ordinal_numeral
+ 161. file:///wiki/Radical_symbol
+ 162. file:///wiki/Inverse_function#Squaring_and_square_root_functions
+ 163. file:///wiki/Exponentiation
+ 164. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_note-1
+ 165. file:///wiki/Fraction_(mathematics)
+ 166. file:///wiki/Imaginary_number
+--
+ 168. file:///wiki/Complex_number
+ 169. file:///wiki/Absolute_value#Complex_numbers
+ 170. file:///wiki/Multiple_root
+ 171. file:///wiki/Multivalued_function
+ 172. file:///wiki/Principal_value
+--
+ 175. file:///wiki/Continuous_function
+ 176. file:///wiki/Complex_plane
+ 177. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_note-2
+ 178. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_note-silver-3
+ 179. file:///wiki/Transcendental_functions
+ 180. file:///wiki/Transcendental_numbers
+--
+ 197. file:///wiki/Radius_of_convergence
+ 198. file:///wiki/Power_series
+ 199. file:///wiki/Root_test
+ 200. file:///wiki/Roots_of_unity
+ 201. file:///wiki/Number_theory
+ 202. file:///wiki/Theory_of_equations
+ 203. file:///wiki/Fourier_transform
+ 204. file:///w/index.php?title=Nth_root&action=edit&section=1
+ 205. file:///wiki/Square_root#History
+ 206. file:///wiki/Cube_root#History
+ 207. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_note-4
+ 208. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_note-5
+ 209. file:///w/index.php?title=Nth_root&action=edit&section=2
+ 210. file:///wiki/File:NegativeOne4Root.svg
+ 211. file:///wiki/File:NegativeOne3Root.svg
+ 212. file:///wiki/Real_number
+ 213. file:///wiki/Principal_value
+--
+ 221. file:///wiki/Fibonacci
+ 222. file:///wiki/Robert_Recorde
+ 223. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_note-6
+ 224. file:///wiki/Quadratic_irrational_number
+ 225. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_note-7
+ 226. file:///w/index.php?title=Nth_root&action=edit&section=3
+ 227. file:///wiki/Square_root
+ 228. file:///wiki/File:Square-root_function.svg
+ 229. file:///wiki/Square_(algebra)
+ 230. file:///wiki/Imaginary_number
+ 231. file:///wiki/Imaginary_unit
+ 232. file:///w/index.php?title=Nth_root&action=edit&section=4
+ 233. file:///wiki/Cube_root
+ 234. file:///wiki/File:Cube-root_function.svg
+ 235. file:///wiki/Cube_(algebra)
+ 236. file:///wiki/Complex_number
+ 237. file:///w/index.php?title=Nth_root&action=edit&section=5
+ 238. file:///wiki/Non-negative_number
+ 239. file:///wiki/Complex_number
+ 240. file:///w/index.php?title=Nth_root&action=edit&section=6
+ 241. file:///wiki/Nested_radical
+ 242. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_note-8
+ 243. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_note-9
+ 244. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_note-10
+ 245. file:///wiki/Factorization#Sum/difference_of_two_cubes
+ 246. file:///wiki/Nested_radical
+ 247. file:///wiki/Galois_theory
+ 248. file:///wiki/Canonical_form
+ 249. file:///w/index.php?title=Nth_root&action=edit&section=7
+ 250. file:///wiki/Infinite_series
+ 251. file:///wiki/Binomial_series
+ 252. file:///w/index.php?title=Nth_root&action=edit&section=8
+ 253. file:///w/index.php?title=Nth_root&action=edit&section=9
+ 254. file:///wiki/Newton%27s_method
+ 255. file:///wiki/Recurrence_relation
+ 256. file:///wiki/Exponentiation
+ 257. file:///wiki/Generalized_continued_fraction#Roots_of_positive_numbers
+ 258. file:///w/index.php?title=Nth_root&action=edit&section=10
+ 259. file:///wiki/File:PascalForDecimalRoots.svg
+ 260. file:///wiki/Pascal%27s_triangle
+ 261. file:///wiki/Methods_of_computing_square_roots#Decimal_(base_10)
+ 262. file:///wiki/Long_division
+ 263. file:///w/index.php?title=Nth_root&action=edit&section=11
+ 264. file:///wiki/Wikipedia:Manual_of_Style
+ 265. https://en.wikipedia.org/w/index.php?title=Nth_root&action=edit
+ 266. file:///wiki/Help:Maintenance_template_removal
+ 267. file:///w/index.php?title=Nth_root&action=edit&section=12
+ 268. file:///wiki/Logarithm
+ 269. file:///wiki/Logarithm#Particular_bases
+ 270. file:///wiki/Antilog
+ 271. file:///w/index.php?title=Nth_root&action=edit&section=13
+ 272. file:///wiki/Ancient_Greek_mathematicians
+ 273. file:///wiki/Compass-and-straightedge_construction
+ 274. file:///wiki/Pierre_Wantzel
+ 275. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_note-11
+ 276. file:///w/index.php?title=Nth_root&action=edit&section=14
+ 277. file:///wiki/Complex_number
+ 278. file:///w/index.php?title=Nth_root&action=edit&section=15
+ 279. file:///wiki/File:Imaginary2Root.svg
+ 280. file:///wiki/Polar_form
+ 281. file:///wiki/Branch_cut
+--
+ 284. file:///wiki/Matlab
+ 285. file:///wiki/Scilab
+ 286. file:///w/index.php?title=Nth_root&action=edit&section=16
+ 287. file:///wiki/Root_of_unity
+ 288. file:///wiki/File:3rd_roots_of_unity.svg
+ 289. file:///wiki/Unit_circle
+ 290. file:///w/index.php?title=Nth_root&action=edit&section=17
+ 291. file:///wiki/File:Visualisation_complex_number_roots.svg
+ 292. file:///wiki/Polar_form
+ 293. file:///wiki/Absolute_value
+--
+ 295. file:///wiki/Continuous_function
+ 296. file:///wiki/Branch_cut
+ 297. file:///w/index.php?title=Nth_root&action=edit&section=18
+ 298. file:///wiki/Root-finding_algorithms
+ 299. file:///wiki/Conjecture
+ 300. file:///wiki/Polynomial_equation
+--
+ 306. file:///wiki/Abel%E2%80%93Ruffini_theorem
+ 307. file:///wiki/Quintic_equation
+ 308. file:///w/index.php?title=Nth_root&action=edit&section=19
+ 309. file:///w/index.php?title=Nth_root&action=edit&section=20
+ 310. file:///wiki/Geometric_mean
+ 311. file:///wiki/Twelfth_root_of_two
+ 312. file:///w/index.php?title=Nth_root&action=edit&section=21
+ 313. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_ref-1
+ 314. https://www.nagwa.com/en/explainers/985195836913
+ 315. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_ref-2
+ 316. https://books.google.com/books?id=1C4iQNUWLBwC&pg=PA25
+ 317. file:///wiki/ISBN_(identifier)
+ 318. file:///wiki/Special:BookSources/978-81-318-0013-3
+ 319. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_ref-silver_3-0
+ 320. https://archive.org/details/algebratrigonome00silv
+ 321. file:///wiki/ISBN_(identifier)
+ 322. file:///wiki/Special:BookSources/978-0-13-021270-2
+ 323. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_ref-4
+ 324. https://www.merriam-webster.com/dictionary/radication
+ 325. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_ref-5
+ 326. https://web.archive.org/web/20180403112348/https://en.oxforddictionaries.com/definition/radication
+ 327. https://en.oxforddictionaries.com/definition/radication
+ 328. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_ref-6
+ 329. http://jeff560.tripod.com/s.html
+ 330. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_ref-7
+ 331. file:///wiki/G._H._Hardy
+ 332. https://archive.org/details/coursepuremath00hardrich/page/n36/mode/2up
+ 333. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_ref-8
+ 334. https://books.google.com/books?id=etTbP0rItQ4C&q=editions:q0hGn6PkOxsC
+ 335. file:///wiki/ISBN_(identifier)
+ 336. file:///wiki/Special:BookSources/978-0-8400-6421-9
+ 337. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_ref-9
+ 338. http://www.eecs.berkeley.edu/~fateman/papers/radcan.pdf
+ 339. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_ref-10
+ 340. file:///wiki/Doi_(identifier)
+ 341. https://doi.org/10.1016%2FS0747-7171%2885%2980014-6
+ 342. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Nth_root.html#cite_ref-11
+ 343. file:///wiki/Monsieur
+ 344. http://visualiseur.bnf.fr/ConsulterElementNum?O=NUMM-16381&Deb=374&Fin=380&E=PDF
+ 345. file:///w/index.php?title=Nth_root&action=edit&section=22
+ 346. https://en.wiktionary.org/wiki/surd
+ 347. https://en.wiktionary.org/wiki/radical
+--
+ 361. file:///wiki/Subtraction
+ 362. file:///wiki/Division_(mathematics)
+ 363. file:///wiki/Super-root
+ 364. file:///wiki/Primitive_recursive_function#Predecessor
+ 365. file:///wiki/Subtraction
+--
+ 372. file:///wiki/Knuth%27s_up-arrow_notation
+ 373. file:///wiki/Steinhaus%E2%80%93Moser_notation
+ 374. https://en.wikipedia.org/w/index.php?title=Nth_root&oldid=1265710577
+ 375. file:///wiki/Help:Category
+ 376. file:///wiki/Category:Elementary_algebra
+--
+ 396. https://stats.wikimedia.org/#/en.wikipedia.org
+ 397. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 398. file://en.m.wikipedia.org/w/index.php?title=Nth_root&default=&mobileaction=toggle_view_mobile
+ 399. https://wikimediafoundation.org/
+ 400. https://www.mediawiki.org/

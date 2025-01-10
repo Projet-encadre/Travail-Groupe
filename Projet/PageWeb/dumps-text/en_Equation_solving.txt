@@ -1,0 +1,1049 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Overview
+     * [30]2 Solution sets
+     * [31]3 Methods of solution
+       (BUTTON) Toggle Methods of solution subsection
+          + [32]3.1 Brute force, trial and error, inspired guess
+          + [33]3.2 Elementary algebra
+          + [34]3.3 Systems of linear equations
+          + [35]3.4 Polynomial equations
+          + [36]3.5 Diophantine equations
+          + [37]3.6 Inverse functions
+          + [38]3.7 Factorization
+          + [39]3.8 Numerical methods
+          + [40]3.9 Matrix equations
+          + [41]3.10 Differential equations
+     * [42]4 See also
+     * [43]5 References
+
+   [ ] Toggle the table of contents
+
+Equation solving
+
+   [ ] 31 languages
+     * [44]a+l+e+r+b+y+tm
+     * [45]Asturianu
+     * [46]Bash¡ortsa
+     * [47]Català
+     * [48]Deutsch
+     * [49]Español
+     * [50]Euskara
+     * [51]f+a+r+s+
+     * [52]Galego
+     * [53]¡µ¥¥¶
+     * [54]¹¿¨¦
+     * [55]Hrvatski
+     * [56]Italiano
+     * [57]E+B+R+J+T+
+     * [58]¨¨¡
+     * [59]Latina
+     * [60]®²¯¾³
+     * [61]Nederlands
+     * [62]Português
+     * [63]Russkij
+     * [64]Simple English
+     * [65]©w+r+d+
+     * [66]Srpski / srpski
+     * [67]¤®¿´
+     * [68]Tatarcha / tatarça
+     * [69]Türkçe
+     * [70]Ukrayins'ka
+     * [71]Tie>'ng Vie>-.t
+     * [72]´­
+     * [73]µ
+     * [74]­
+
+   [75]Edit links
+
+     * [76]Article
+     * [77]Talk
+
+   [ ] English
+
+     * [78]Read
+     * [79]Edit
+     * [80]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [81]Read
+     * [82]Edit
+     * [83]View history
+
+   General
+     * [84]What links here
+     * [85]Related changes
+     * [86]Upload file
+     * [87]Special pages
+     * [88]Permanent link
+     * [89]Page information
+     * [90]Cite this page
+     * [91]Get shortened URL
+     * [92]Download QR code
+
+   Print/export
+     * [93]Download as PDF
+     * [94]Printable version
+
+   In other projects
+     * [95]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Finding values for variables that make an equation true
+   [96][50px-Question_book-new.svg.png]
+   This article relies largely or entirely on a [97]single source.
+   Relevant discussion may be found on the [98]talk page. Please help
+   [99]improve this article by [100]introducing citations to additional
+   sources.
+   Find sources: [101]"Equation solving" - [102]news · [103]newspapers ·
+   [104]books · [105]scholar · [106]JSTOR (December 2009)
+   "Solution (mathematics)" redirects here. For solutions of constraint
+   satisfaction problems, see [107]Constraint satisfaction problem
+   § Resolution. For solutions of mathematical optimization problems, see
+   [108]Feasible solution.
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mover> <munder> <mrow> <mi>x</mi> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mo>-</mo> <mi>b</mi>
+   <mo>±</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <msup> <mi>b</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>-</mo>
+   <mn>4</mn> <mi>a</mi> <mi>c</mi> </msqrt> </mrow> </mrow> <mrow>
+   <mn>2</mn> <mi>a</mi> </mrow> </mfrac> </mrow> </mrow> <mrow />
+   </munder> <mrow /> </mover> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\overset {}{\underset
+   {}{x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}}}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\overset {}{\underset {}{x={\frac {-b\pm {\sqrt
+   {b^{2}-4ac}}}{2a}}}}}}
+   The [109]quadratic formula, the symbolic solution of the [110]quadratic
+   equation ax^2 + bx + c = 0
+   [111]Illustration of Newton's method An example of using
+   [112]Newton-Raphson method to solve numerically the equation f(x) = 0
+
+   In [113]mathematics, to solve an equation is to find its solutions,
+   which are the values ([114]numbers, [115]functions, [116]sets, etc.)
+   that fulfill the condition stated by the [117]equation, consisting
+   generally of two [118]expressions related by an [119]equals sign. When
+   seeking a solution, one or more [120]variables are designated as
+   [121]unknowns. A solution is an assignment of values to the unknown
+   variables that makes the equality in the equation true. In other words,
+   a solution is a value or a collection of values (one for each unknown)
+   such that, when [122]substituted for the unknowns, the equation becomes
+   an [123]equality. A solution of an equation is often called a root of
+   the equation, particularly but not only for [124]polynomial equations.
+   The set of all solutions of an equation is its [125]solution set.
+
+   An equation may be solved either [126]numerically or symbolically.
+   Solving an equation numerically means that only numbers are admitted as
+   solutions. Solving an equation symbolically means that expressions can
+   be used for representing the solutions.
+
+   For example, the equation x + y = 2x - 1 is solved for the unknown x by
+   the expression x = y + 1, because substituting y + 1 for x in the
+   equation results in (y + 1) + y = 2(y + 1) - 1, a true statement. It is
+   also possible to take the variable y to be the unknown, and then the
+   equation is solved by y = x - 1. Or x and y can both be treated as
+   unknowns, and then there are many solutions to the equation; a symbolic
+   solution is (x, y) = (a + 1, a), where the variable a may take any
+   value. Instantiating a symbolic solution with specific numbers gives a
+   numerical solution; for example, a = 0 gives (x, y) = (1, 0) (that is,
+   x = 1, y = 0), and a = 1 gives (x, y) = (2, 1).
+
+   The distinction between known variables and unknown variables is
+   generally made in the statement of the problem, by phrases such as "an
+   equation in x and y", or "solve for x and y", which indicate the
+   unknowns, here x and y. However, it is common to reserve x, y, z, ...
+   to denote the unknowns, and to use a, b, c, ... to denote the known
+   variables, which are often called [127]parameters. This is typically
+   the case when considering [128]polynomial equations, such as
+   [129]quadratic equations. However, for some problems, all variables may
+   assume either role.
+
+   Depending on the context, solving an equation may consist to find
+   either any solution (finding a single solution is enough), all
+   solutions, or a solution that satisfies further properties, such as
+   belonging to a given [130]interval. When the task is to find the
+   solution that is the best under some criterion, this is an
+   [131]optimization problem. Solving an optimization problem is generally
+   not referred to as "equation solving", as, generally, solving methods
+   start from a particular solution for finding a better solution, and
+   repeating the process until finding eventually the best solution.
+
+Overview
+
+   [[132]edit]
+
+   One general form of an equation is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>f</mi> <mrow>
+          <mo>(</mo> <mrow> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <mo>...</mo> <mo>,</mo> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mrow>
+          <mo>)</mo> </mrow> <mo>=</mo> <mi>c</mi> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          f\left(x_{1},\dots ,x_{n}\right)=c,}</annotation> </semantics>
+          :MATH]
+          {\displaystyle f\left(x_{1},\dots ,x_{n}\right)=c,}
+
+   where f is a [133]function, x[1], ..., x[n] are the unknowns, and c is
+   a constant. Its solutions are the elements of the [134]inverse image
+   ([135]fiber)
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>f</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>-</mo> <mn>1</mn> </mrow> </msup>
+          <mo stretchy="false">(</mo> <mi>c</mi> <mo
+          stretchy="false">)</mo> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-OPEN"> <mo
+          maxsize="1.2em" minsize="1.2em">{</mo> </mrow> </mrow> <mo
+          stretchy="false">(</mo> <msub> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <mo>...</mo> <mo>,</mo> <msub> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> <mo>(-</mo> <mi>D</mi> <mo>&#x2223;</mo>
+          <mi>f</mi> <mrow> <mo>(</mo> <mrow> <msub> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <mo>...</mo> <mo>,</mo> <msub> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mrow>
+          <mo>)</mo> </mrow> <mo>=</mo> <mi>c</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-CLOSE"> <mo
+          maxsize="1.2em" minsize="1.2em">}</mo> </mrow> </mrow>
+          <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle f^{-1}(c)={\bigl
+          \{}(a_{1},\dots ,a_{n})\in D\mid f\left(a_{1},\dots
+          ,a_{n}\right)=c{\bigr \}},}</annotation> </semantics> :MATH]
+          {\displaystyle f^{-1}(c)={\bigl \{}(a_{1},\dots ,a_{n})\in D\mid
+          f\left(a_{1},\dots ,a_{n}\right)=c{\bigr \}},}
+
+   where D is the [136]domain of the function f. The set of solutions can
+   be the [137]empty set (there are no solutions), a [138]singleton (there
+   is exactly one solution), finite, or infinite (there are infinitely
+   many solutions).
+
+   For example, an equation such as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>3</mn> <mi>x</mi>
+          <mo>+</mo> <mn>2</mn> <mi>y</mi> <mo>=</mo> <mn>21</mn>
+          <mi>z</mi> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          3x+2y=21z,}</annotation> </semantics> :MATH]
+          {\displaystyle 3x+2y=21z,}
+
+   with unknowns x, y and z, can be put in the above form by subtracting
+   21z from both sides of the equation, to obtain
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>3</mn> <mi>x</mi>
+          <mo>+</mo> <mn>2</mn> <mi>y</mi> <mo>-</mo> <mn>21</mn>
+          <mi>z</mi> <mo>=</mo> <mn>0</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          3x+2y-21z=0}</annotation> </semantics> :MATH]
+          {\displaystyle 3x+2y-21z=0}
+
+   In this particular case there is not just one solution, but an infinite
+   set of solutions, which can be written using [139]set builder notation
+   as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-OPEN"> <mo
+          maxsize="1.2em" minsize="1.2em">{</mo> </mrow> </mrow> <mo
+          stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>y</mi>
+          <mo>,</mo> <mi>z</mi> <mo stretchy="false">)</mo>
+          <mo>&#x2223;</mo> <mn>3</mn> <mi>x</mi> <mo>+</mo> <mn>2</mn>
+          <mi>y</mi> <mo>-</mo> <mn>21</mn> <mi>z</mi> <mo>=</mo>
+          <mn>0</mn> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-CLOSE"> <mo maxsize="1.2em"
+          minsize="1.2em">}</mo> </mrow> </mrow> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\bigl \{}(x,y,z)\mid 3x+2y-21z=0{\bigr \}}.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\bigl \{}(x,y,z)\mid 3x+2y-21z=0{\bigr \}}.}
+
+   One particular solution is x = 0, y = 0, z = 0. Two other solutions are
+   x = 3, y = 6, z = 1, and x = 8, y = 9, z = 2. There is a unique
+   [140]plane in [141]three-dimensional space which passes through the
+   three points with these [142]coordinates, and this plane is the set of
+   all points whose coordinates are solutions of the equation.
+
+Solution sets
+
+   [[143]edit]
+   [144][220px-Ellipse_in_coordinate_system_with_semi-axes_labelled.svg.pn
+   g] The solution set of the equation &#8288;x^2/4&#8288; + y^2 = 1 forms
+   an [145]ellipse when interpreted as a set of [146]Cartesian coordinate
+   pairs.
+   Main article: [147]Solution set
+
+   The [148]solution set of a given set of equations or [149]inequalities
+   is the [150]set of all its solutions, a solution being a [151]tuple of
+   values, one for each [152]unknown, that satisfies all the equations or
+   inequalities. If the [153]solution set is empty, then there are no
+   values of the unknowns that satisfy simultaneously all equations and
+   inequalities.
+
+   For a simple example, consider the equation
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+          <mn>2.</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          x^{2}=2.}</annotation> </semantics> :MATH]
+          {\displaystyle x^{2}=2.}
+
+   This equation can be viewed as a [154]Diophantine equation, that is, an
+   equation for which only [155]integer solutions are sought. In this
+   case, the solution set is the [156]empty set, since 2 is not the
+   [157]square of an integer. However, if one searches for [158]real
+   solutions, there are two solutions, SQRT 2 and - SQRT 2; in other
+   words, the solution set is { SQRT 2, - SQRT 2}.
+
+   When an equation contains several unknowns, and when one has several
+   equations with more unknowns than equations, the solution set is often
+   infinite. In this case, the solutions cannot be listed. For
+   representing them, a [159]parametrization is often useful, which
+   consists of expressing the solutions in terms of some of the unknowns
+   or auxiliary variables. This is always possible when all the equations
+   are [160]linear.
+
+   Such infinite solution sets can naturally be interpreted as
+   [161]geometric shapes such as [162]lines, [163]curves (see picture),
+   [164]planes, and more generally [165]algebraic varieties or
+   [166]manifolds. In particular, [167]algebraic geometry may be viewed as
+   the study of solution sets of [168]algebraic equations.
+
+Methods of solution
+
+   [[169]edit]
+
+   The methods for solving equations generally depend on the type of
+   equation, both the kind of expressions in the equation and the kind of
+   values that may be assumed by the unknowns. The variety in types of
+   equations is large, and so are the corresponding methods. Only a few
+   specific types are mentioned below.
+
+   In general, given a class of equations, there may be no known
+   systematic method ([170]algorithm) that is guaranteed to work. This may
+   be due to a lack of mathematical knowledge; some problems were only
+   solved after centuries of effort. But this also reflects that, in
+   general, no such method can exist: some problems are known to be
+   [171]unsolvable by an algorithm, such as [172]Hilbert's tenth problem,
+   which was proved unsolvable in 1970.
+
+   For several classes of equations, algorithms have been found for
+   solving them, some of which have been implemented and incorporated in
+   [173]computer algebra systems, but often require no more sophisticated
+   technology than pencil and paper. In some other cases, [174]heuristic
+   methods are known that are often successful but that are not guaranteed
+   to lead to success.
+
+Brute force, trial and error, inspired guess
+
+   [[175]edit]
+
+   If the solution set of an equation is restricted to a finite set (as is
+   the case for equations in [176]modular arithmetic, for example), or can
+   be limited to a finite number of possibilities (as is the case with
+   some [177]Diophantine equations), the solution set can be found by
+   [178]brute force, that is, by testing each of the possible values
+   ([179]candidate solutions). It may be the case, though, that the number
+   of possibilities to be considered, although finite, is so huge that an
+   [180]exhaustive search is not practically feasible; this is, in fact, a
+   requirement for strong [181]encryption methods.
+
+   As with all kinds of [182]problem solving, [183]trial and error may
+   sometimes yield a solution, in particular where the form of the
+   equation, or its similarity to another equation with a known solution,
+   may lead to an "inspired guess" at the solution. If a guess, when
+   tested, fails to be a solution, consideration of the way in which it
+   fails may lead to a modified guess.
+
+Elementary algebra
+
+   [[184]edit]
+
+   Equations involving linear or simple rational functions of a single
+   real-valued unknown, say x, such as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>8</mn> <mi>x</mi>
+          <mo>+</mo> <mn>7</mn> <mo>=</mo> <mn>4</mn> <mi>x</mi>
+          <mo>+</mo> <mn>35</mn> <mspace width="1em" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mtext>or</mtext> </mrow> <mspace
+          width="1em" /> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+          <mn>4</mn> <mi>x</mi> <mo>+</mo> <mn>9</mn> </mrow> <mrow>
+          <mn>3</mn> <mi>x</mi> <mo>+</mo> <mn>4</mn> </mrow> </mfrac>
+          </mrow> <mo>=</mo> <mn>2</mn> <mspace width="thinmathspace" />
+          <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 8x+7=4x+35\quad
+          {\text{or}}\quad {\frac {4x+9}{3x+4}}=2\,,}</annotation>
+          </semantics> :MATH]
+          {\displaystyle 8x+7=4x+35\quad {\text{or}}\quad {\frac
+          {4x+9}{3x+4}}=2\,,}
+
+   can be solved using the methods of [185]elementary algebra.
+
+Systems of linear equations
+
+   [[186]edit]
+
+   Smaller [187]systems of linear equations can be solved likewise by
+   methods of elementary algebra. For solving larger systems, algorithms
+   are used that are based on [188]linear algebra. See [189]Gaussian
+   elimination and [190]numerical solution of linear systems.
+
+Polynomial equations
+
+   [[191]edit]
+   Main article: [192]Solving polynomial equations
+   See also: [193]System of polynomial equations
+
+   [194]Polynomial equations of degree up to four can be solved exactly
+   using algebraic methods, of which the [195]quadratic formula is the
+   simplest example. Polynomial equations with a degree of five or higher
+   require in general numerical methods (see below) or special functions
+   such as [196]Bring radicals, although some specific cases may be
+   solvable algebraically, for example
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>4</mn> <msup>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow>
+          </msup> <mo>-</mo> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> <mo>-</mo>
+          <mn>3</mn> <mo>=</mo> <mn>0</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          4x^{5}-x^{3}-3=0}</annotation> </semantics> :MATH]
+          {\displaystyle 4x^{5}-x^{3}-3=0}
+
+   (by using the [197]rational root theorem), and
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow> </msup> <mo>-</mo>
+          <mn>5</mn> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>3</mn> </mrow> </msup> <mo>+</mo> <mn>6</mn> <mo>=</mo>
+          <mn>0</mn> <mspace width="thinmathspace" /> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          x^{6}-5x^{3}+6=0\,,}</annotation> </semantics> :MATH]
+          {\displaystyle x^{6}-5x^{3}+6=0\,,}
+
+   (by using the substitution x = z^1/3
+   , which simplifies this to a [198]quadratic equation in z).
+
+Diophantine equations
+
+   [[199]edit]
+
+   In [200]Diophantine equations the solutions are required to be
+   [201]integers. In some cases a brute force approach can be used, as
+   mentioned above. In some other cases, in particular if the equation is
+   in one unknown, it is possible to solve the equation for
+   [202]rational-valued unknowns (see [203]Rational root theorem), and
+   then find solutions to the Diophantine equation by restricting the
+   solution set to integer-valued solutions. For example, the polynomial
+   equation
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>2</mn> <msup>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow>
+          </msup> <mo>-</mo> <mn>5</mn> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup> <mo>-</mo>
+          <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn>
+          </mrow> </msup> <mo>-</mo> <mn>7</mn> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <mn>2</mn> <mi>x</mi> <mo>+</mo> <mn>3</mn> <mo>=</mo>
+          <mn>0</mn> <mspace width="thinmathspace" /> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          2x^{5}-5x^{4}-x^{3}-7x^{2}+2x+3=0\,}</annotation> </semantics>
+          :MATH]
+          {\displaystyle 2x^{5}-5x^{4}-x^{3}-7x^{2}+2x+3=0\,}
+
+   has as rational solutions x = -&#8288;1/2&#8288;
+   and x = 3, and so, viewed as a Diophantine equation, it has the unique
+   solution x = 3.
+
+   In general, however, Diophantine equations are among the most difficult
+   equations to solve.
+
+Inverse functions
+
+   [[204]edit]
+   See also: [205]Inverse problem
+
+   In the simple case of a function of one variable, say, h(x), we can
+   solve an equation of the form h(x) = c for some constant c by
+   considering what is known as the [206]inverse function of h.
+
+   Given a function h : A -> B, the inverse function, denoted h^-1 and
+   defined as h^-1 : B -> A, is a function such that
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>h</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>-</mo> <mn>1</mn> </mrow> </msup>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-OPEN">
+          <mo maxsize="1.2em" minsize="1.2em">(</mo> </mrow> </mrow>
+          <mi>h</mi> <mo stretchy="false">(</mo> <mi>x</mi> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-CLOSE"> <mo maxsize="1.2em"
+          minsize="1.2em">)</mo> </mrow> </mrow> <mo>=</mo> <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-OPEN">
+          <mo maxsize="1.2em" minsize="1.2em">(</mo> </mrow> </mrow>
+          <msup> <mi>h</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>-</mo>
+          <mn>1</mn> </mrow> </msup> <mo stretchy="false">(</mo>
+          <mi>x</mi> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-CLOSE"> <mo
+          maxsize="1.2em" minsize="1.2em">)</mo> </mrow> </mrow>
+          <mo>=</mo> <mi>x</mi> <mspace width="thinmathspace" />
+          <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle h^{-1}{\bigl
+          (}h(x){\bigr )}=h{\bigl (}h^{-1}(x){\bigr )}=x\,.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle h^{-1}{\bigl (}h(x){\bigr )}=h{\bigl
+          (}h^{-1}(x){\bigr )}=x\,.}
+
+   Now, if we apply the inverse function to both sides of h(x) = c, where
+   c is a constant value in B, we obtain
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mtable columnalign="right left right
+          left right left right left right left right left"
+          rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em
+          0em 2em 0em" displaystyle="true"> <mtr> <mtd> <msup> <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>-</mo> <mn>1</mn> </mrow>
+          </msup> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-OPEN"> <mo maxsize="1.2em"
+          minsize="1.2em">(</mo> </mrow> </mrow> <mi>h</mi> <mo
+          stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-CLOSE">
+          <mo maxsize="1.2em" minsize="1.2em">)</mo> </mrow> </mrow>
+          </mtd> <mtd> <mi></mi> <mo>=</mo> <msup> <mi>h</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>-</mo> <mn>1</mn> </mrow> </msup>
+          <mo stretchy="false">(</mo> <mi>c</mi> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <mi>x</mi>
+          </mtd> <mtd> <mi></mi> <mo>=</mo> <msup> <mi>h</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>-</mo> <mn>1</mn> </mrow> </msup>
+          <mo stretchy="false">(</mo> <mi>c</mi> <mo
+          stretchy="false">)</mo> </mtd> </mtr> </mtable> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\begin{aligned}h^{-1}{\bigl (}h(x){\bigr
+          )}&=h^{-1}(c)\\x&=h^{-1}(c)\\\end{aligned}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\begin{aligned}h^{-1}{\bigl (}h(x){\bigr
+          )}&=h^{-1}(c)\\x&=h^{-1}(c)\\\end{aligned}}}
+
+   and we have found the solution to the equation. However, depending on
+   the function, the inverse may be difficult to be defined, or may not be
+   a function on all of the set B (only on some subset), and have many
+   values at some point.
+
+   If just one solution will do, instead of the full solution set, it is
+   actually sufficient if only the functional identity
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>h</mi> <mrow>
+          <mo>(</mo> <mrow> <msup> <mi>h</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>-</mo> <mn>1</mn> </mrow> </msup>
+          <mo stretchy="false">(</mo> <mi>x</mi> <mo
+          stretchy="false">)</mo> </mrow> <mo>)</mo> </mrow> <mo>=</mo>
+          <mi>x</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          h\left(h^{-1}(x)\right)=x}</annotation> </semantics> :MATH]
+          {\displaystyle h\left(h^{-1}(x)\right)=x}
+
+   holds. For example, the [207]projection p[1] : R^2 -> R defined by
+   p[1](x, y) = x has no post-inverse, but it has a pre-inverse p^-1
+   [1] defined by p^-1
+   [1](x) = (x, 0). Indeed, the equation p[1](x, y) = c is solved by
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+          <mi>x</mi> <mo>,</mo> <mi>y</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <msubsup> <mi>p</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>1</mn> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mo>-</mo>
+          <mn>1</mn> </mrow> </msubsup> <mo stretchy="false">(</mo>
+          <mi>c</mi> <mo stretchy="false">)</mo> <mo>=</mo> <mo
+          stretchy="false">(</mo> <mi>c</mi> <mo>,</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle (x,y)=\pi
+          _{1}^{-1}(c)=(c,0).}</annotation> </semantics> :MATH]
+          {\displaystyle (x,y)=\pi _{1}^{-1}(c)=(c,0).}
+
+   Examples of inverse functions include the [208]nth root (inverse of
+   x^n); the [209]logarithm (inverse of a^x); the [210]inverse
+   trigonometric functions; and [211]Lambert's W function (inverse of
+   xe^x).
+
+Factorization
+
+   [[212]edit]
+
+   If the left-hand side expression of an equation P = 0 can be
+   [213]factorized as P = QR, the solution set of the original solution
+   consists of the union of the solution sets of the two equations Q = 0
+   and R = 0. For example, the equation
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>tan</mi>
+          <mo>&#x2061;</mo> <mi>x</mi> <mo>+</mo> <mi>cot</mi>
+          <mo>&#x2061;</mo> <mi>x</mi> <mo>=</mo> <mn>2</mn> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \tan x+\cot x=2}</annotation> </semantics> :MATH]
+          {\displaystyle \tan x+\cot x=2}
+
+   can be rewritten, using the identity tan x cot x = 1 as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msup> <mi>tan</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>&#x2061;</mo> <mi>x</mi> <mo>-</mo> <mn>2</mn> <mi>tan</mi>
+          <mo>&#x2061;</mo> <mi>x</mi> <mo>+</mo> <mn>1</mn> </mrow>
+          <mrow> <mi>tan</mi> <mo>&#x2061;</mo> <mi>x</mi> </mrow>
+          </mfrac> </mrow> <mo>=</mo> <mn>0</mn> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\frac {\tan ^{2}x-2\tan x+1}{\tan x}}=0,}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\frac {\tan ^{2}x-2\tan x+1}{\tan x}}=0,}
+
+   which can be factorized into
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mrow> <mo>(</mo> <mrow>
+          <mi>tan</mi> <mo>&#x2061;</mo> <mi>x</mi> <mo>-</mo> <mn>1</mn>
+          </mrow> <mo>)</mo> </mrow> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mrow> <mi>tan</mi> <mo>&#x2061;</mo>
+          <mi>x</mi> </mrow> </mfrac> </mrow> <mo>=</mo> <mn>0.</mn>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac {\left(\tan
+          x-1\right)^{2}}{\tan x}}=0.}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {\left(\tan x-1\right)^{2}}{\tan x}}=0.}
+
+   The solutions are thus the solutions of the equation tan x = 1, and are
+   thus the set
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mstyle displaystyle="false"
+          scriptlevel="0"> <mfrac> <mi>p</mi> <mn>4</mn> </mfrac>
+          </mstyle> </mrow> <mo>+</mo> <mi>k</mi> <mi>p</mi> <mo>,</mo>
+          <mspace width="1em" /> <mi>k</mi> <mo>=</mo> <mn>0</mn>
+          <mo>,</mo> <mo>±</mo> <mn>1</mn> <mo>,</mo> <mo>±</mo>
+          <mn>2</mn> <mo>,</mo> <mo>...</mo> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          x={\tfrac {\pi }{4}}+k\pi ,\quad k=0,\pm 1,\pm 2,\ldots
+          .}</annotation> </semantics> :MATH]
+          {\displaystyle x={\tfrac {\pi }{4}}+k\pi ,\quad k=0,\pm 1,\pm
+          2,\ldots .}
+
+Numerical methods
+
+   [[214]edit]
+
+   With more complicated equations in real or [215]complex numbers, simple
+   methods to solve equations can fail. Often, [216]root-finding
+   algorithms like the [217]Newton-Raphson method can be used to find a
+   numerical solution to an equation, which, for some applications, can be
+   entirely sufficient to solve some problem. There are also
+   [218]numerical methods for systems of linear equations.
+
+Matrix equations
+
+   [[219]edit]
+
+   Equations involving [220]matrices and [221]vectors of [222]real numbers
+   can often be solved by using methods from [223]linear algebra.
+
+Differential equations
+
+   [[224]edit]
+
+   There is a vast body of methods for solving various kinds of
+   [225]differential equations, both [226]numerically and
+   [227]analytically. A particular class of problem that can be considered
+   to belong here is [228]integration, and the analytic methods for
+   solving this kind of problems are now called [229]symbolic
+   integration.^[[230]citation needed] Solutions of differential equations
+   can be [231]implicit or explicit.^[232][1]
+
+See also
+
+   [[233]edit]
+     * [234]Extraneous and missing solutions
+     * [235]Simultaneous equations
+     * [236]Equating coefficients
+     * [237]Solving the geodesic equations
+     * [238]Unification (computer science) -- solving equations involving
+       symbolic expressions
+
+References
+
+   [[239]edit]
+    1. [240]^ Dennis G. Zill (15 March 2012). [241]A First Course in
+       Differential Equations with Modeling Applications. Cengage
+       Learning. [242]ISBN [243]978-1-285-40110-2.
+
+   Retrieved from
+   "[244]https://en.wikipedia.org/w/index.php?title=Equation_solving&oldid
+   =1252541599"
+
+   [245]Categories:
+     * [246]Equations
+     * [247]Inverse functions
+     * [248]Unification (computer science)
+
+   Hidden categories:
+     * [249]Articles with short description
+     * [250]Short description matches Wikidata
+     * [251]Articles needing additional references from December 2009
+     * [252]All articles needing additional references
+     * [253]All articles with unsourced statements
+     * [254]Articles with unsourced statements from July 2019
+
+     * This page was last edited on 21 October 2024, at 20:25 (UTC).
+     * Text is available under the [255]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [256]Terms of Use and
+       [257]Privacy Policy. Wikipedia® is a registered trademark of the
+       [258]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [259]Privacy policy
+     * [260]About Wikipedia
+     * [261]Disclaimers
+     * [262]Contact Wikipedia
+     * [263]Code of Conduct
+     * [264]Developers
+     * [265]Statistics
+     * [266]Cookie statement
+     * [267]Mobile view
+
+     * [268]Wikimedia Foundation
+     * [269]Powered by MediaWiki
+
+References
+
+   1. file://en.m.wikipedia.org/wiki/Equation_solving
+   2. file:///w/index.php?title=Equation_solving&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Equation+solving&returntoquery=default%3D
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Equation+solving&returntoquery=default%3D
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Equation+solving&returntoquery=default%3D
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Equation+solving&returntoquery=default%3D
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html
+  29. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Overview
+  30. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Solution_sets
+  31. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Methods_of_solution
+  32. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Brute_force,_trial_and_error,_inspired_guess
+  33. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Elementary_algebra
+  34. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Systems_of_linear_equations
+  35. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Polynomial_equations
+  36. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Diophantine_equations
+  37. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Inverse_functions
+  38. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Factorization
+  39. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Numerical_methods
+  40. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Matrix_equations
+  41. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#Differential_equations
+  42. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#See_also
+  43. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#References
+  44. https://ar.wikipedia.org/wiki/%D8%AD%D9%84_(%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D8%A9)
+  45. https://ast.wikipedia.org/wiki/Resoluci%C3%B3n_d%27ecuaciones
+  46. https://ba.wikipedia.org/wiki/%D0%A2%D0%B8%D0%B3%D0%B5%D2%99%D0%BB%D3%99%D0%BC%D3%99%D0%BD%D0%B5_%D1%81%D1%8B%D2%93%D0%B0%D1%80%D1%8B%D1%83
+  47. https://ca.wikipedia.org/wiki/Resoluci%C3%B3_d%27equacions
+  48. https://de.wikipedia.org/wiki/L%C3%B6sen_von_Gleichungen
+  49. https://es.wikipedia.org/wiki/Resoluci%C3%B3n_de_ecuaciones
+  50. https://eu.wikipedia.org/wiki/Ekuazioak_ebaztea
+  51. https://fa.wikipedia.org/wiki/%D8%AD%D9%84_%D9%85%D8%B9%D8%A7%D8%AF%D9%84%D9%87
+  52. https://gl.wikipedia.org/wiki/Resoluci%C3%B3n_de_ecuaci%C3%B3ns
+  53. https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%BE%D5%A1%D5%BD%D5%A1%D6%80%D5%B4%D5%A1%D5%B6_%D5%AC%D5%B8%D6%82%D5%AE%D5%B8%D6%82%D5%B4
+  54. https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A5%80%E0%A4%95%E0%A4%B0%E0%A4%A3_%E0%A4%95%E0%A4%BE_%E0%A4%B9%E0%A4%B2
+  55. https://hr.wikipedia.org/wiki/Rje%C5%A1avanje_jednad%C5%BEbi
+  56. https://it.wikipedia.org/wiki/Risoluzione_di_un%27equazione
+  57. https://he.wikipedia.org/wiki/%D7%A4%D7%AA%D7%A8%D7%95%D7%9F_%D7%9E%D7%A9%D7%95%D7%95%D7%90%D7%95%D7%AA
+  58. https://kn.wikipedia.org/wiki/%E0%B2%B8%E0%B2%AE%E0%B3%80%E0%B2%95%E0%B2%B0%E0%B2%A3%E0%B2%A6_%E0%B2%AE%E0%B3%82%E0%B2%B2
+  59. https://la.wikipedia.org/wiki/Solutio_aequationis
+  60. https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%AE%E0%B4%B5%E0%B4%BE%E0%B4%95%E0%B5%8D%E0%B4%AF%E0%B4%A8%E0%B4%BF%E0%B5%BC%E0%B4%A6%E0%B5%8D%E0%B4%A7%E0%B4%BE%E0%B4%B0%E0%B4%A3%E0%B4%82
+  61. https://nl.wikipedia.org/wiki/Oplossen_van_vergelijkingen
+  62. https://pt.wikipedia.org/wiki/Resolu%C3%A7%C3%A3o_de_equa%C3%A7%C3%B5es
+  63. https://ru.wikipedia.org/wiki/%D0%A0%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D1%83%D1%80%D0%B0%D0%B2%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F
+  64. https://simple.wikipedia.org/wiki/Equation_solving
+  65. https://ckb.wikipedia.org/wiki/%D8%B4%DB%8C%DA%A9%D8%A7%D8%B1%DA%A9%D8%B1%D8%AF%D9%86%DB%8C_%DA%BE%D8%A7%D9%88%DA%A9%DB%8E%D8%B4%DB%95
+  66. https://sr.wikipedia.org/wiki/Re%C5%A1avanje_jedna%C4%8Dina
+  67. https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%AE%E0%AE%A9%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%88%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%80%E0%AE%B0%E0%AF%8D%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B2%E0%AF%8D
+  68. https://tt.wikipedia.org/wiki/%D0%A2%D0%B8%D0%B3%D0%B5%D0%B7%D0%BB%D3%99%D0%BC%D3%99%D0%BD%D0%B5_%D1%87%D1%8B%D0%B3%D0%B0%D1%80%D1%83
+  69. https://tr.wikipedia.org/wiki/Denklem_%C3%A7%C3%B6zme
+  70. https://uk.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B7%D0%B2%27%D1%8F%D0%B7%D0%B0%D0%BD%D0%BD%D1%8F_%D1%80%D1%96%D0%B2%D0%BD%D1%8F%D0%BD%D1%8C
+  71. https://vi.wikipedia.org/wiki/Gi%E1%BA%A3i_ph%C6%B0%C6%A1ng_tr%C3%ACnh
+  72. https://wuu.wikipedia.org/wiki/%E8%A7%A3%E6%96%B9%E7%A8%8B
+  73. https://zh-yue.wikipedia.org/wiki/%E8%A7%A3%E6%96%B9%E7%A8%8B
+  74. https://zh.wikipedia.org/wiki/%E6%96%B9%E7%A8%8B%E6%B1%82%E8%A7%A3
+  75. https://www.wikidata.org/wiki/Special:EntityPage/Q1879820#sitelinks-wikipedia
+  76. file:///wiki/Equation_solving
+  77. file:///wiki/Talk:Equation_solving
+  78. file:///wiki/Equation_solving
+  79. file:///w/index.php?title=Equation_solving&action=edit
+  80. file:///w/index.php?title=Equation_solving&action=history
+  81. file:///wiki/Equation_solving
+  82. file:///w/index.php?title=Equation_solving&action=edit
+  83. file:///w/index.php?title=Equation_solving&action=history
+  84. file:///wiki/Special:WhatLinksHere/Equation_solving
+  85. file:///wiki/Special:RecentChangesLinked/Equation_solving
+  86. file:///wiki/Wikipedia:File_Upload_Wizard
+  87. file:///wiki/Special:SpecialPages
+  88. file:///w/index.php?title=Equation_solving&oldid=1252541599
+  89. file:///w/index.php?title=Equation_solving&action=info
+  90. file:///w/index.php?title=Special:CiteThisPage&page=Equation_solving&id=1252541599&wpFormIdentifier=titleform
+  91. file:///w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DEquation_solving%26default%3D
+  92. file:///w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DEquation_solving%26default%3D
+  93. file:///w/index.php?title=Special:DownloadAsPdf&page=Equation_solving&action=show-download-screen
+  94. file:///w/index.php?title=Equation_solving&printable=yes
+  95. https://www.wikidata.org/wiki/Special:EntityPage/Q1879820
+  96. file:///wiki/File:Question_book-new.svg
+  97. file:///wiki/Wikipedia:Articles_with_a_single_source
+  98. file:///wiki/Talk:Equation_solving##
+  99. https://en.wikipedia.org/w/index.php?title=Equation_solving&action=edit
+ 100. file:///wiki/Help:Referencing_for_beginners
+ 101. https://www.google.com/search?as_eq=wikipedia&q=%22Equation+solving%22
+ 102. https://www.google.com/search?tbm=nws&q=%22Equation+solving%22+-wikipedia&tbs=ar:1
+ 103. https://www.google.com/search?&q=%22Equation+solving%22&tbs=bkt:s&tbm=bks
+ 104. https://www.google.com/search?tbs=bks:1&q=%22Equation+solving%22+-wikipedia
+ 105. https://scholar.google.com/scholar?q=%22Equation+solving%22
+ 106. https://www.jstor.org/action/doBasicSearch?Query=%22Equation+solving%22&acc=on&wc=on
+ 107. file:///wiki/Constraint_satisfaction_problem#Resolution
+ 108. file:///wiki/Feasible_solution
+ 109. file:///wiki/Quadratic_formula
+ 110. file:///wiki/Quadratic_equation
+ 111. file:///wiki/File:NewtonIteration_Ani.gif
+ 112. file:///wiki/Newton%E2%80%93Raphson_method
+ 113. file:///wiki/Mathematics
+ 114. file:///wiki/Number
+ 115. file:///wiki/Function_(mathematics)
+ 116. file:///wiki/Set_(mathematics)
+ 117. file:///wiki/Equation
+ 118. file:///wiki/Expression_(mathematics)
+ 119. file:///wiki/Equals_sign
+ 120. file:///wiki/Variable_(mathematics)
+ 121. file:///wiki/Indeterminate_(variable)
+ 122. file:///wiki/Substitution_(algebra)
+ 123. file:///wiki/Equality_(mathematics)
+ 124. file:///wiki/Polynomial_equation
+ 125. file:///wiki/Solution_set
+ 126. file:///wiki/Numerical_mathematics
+ 127. file:///wiki/Parameter
+ 128. file:///wiki/Polynomial_equation
+ 129. file:///wiki/Quadratic_equation
+ 130. file:///wiki/Interval_(mathematics)
+ 131. file:///wiki/Optimization_problem
+ 132. file:///w/index.php?title=Equation_solving&action=edit&section=1
+ 133. file:///wiki/Function_(mathematics)
+ 134. file:///wiki/Inverse_image
+ 135. file:///wiki/Fiber_(mathematics)
+ 136. file:///wiki/Domain_of_a_function
+ 137. file:///wiki/Empty_set
+ 138. file:///wiki/Singleton_(mathematics)
+ 139. file:///wiki/Set_builder_notation
+ 140. file:///wiki/Plane_(geometry)
+ 141. file:///wiki/Three-dimensional_space
+ 142. file:///wiki/Coordinates
+ 143. file:///w/index.php?title=Equation_solving&action=edit&section=2
+ 144. file:///wiki/File:Ellipse_in_coordinate_system_with_semi-axes_labelled.svg
+ 145. file:///wiki/Ellipse
+ 146. file:///wiki/Cartesian_coordinate
+ 147. file:///wiki/Solution_set
+ 148. file:///wiki/Solution_set
+ 149. file:///wiki/Inequality_(mathematics)
+ 150. file:///wiki/Set_(mathematics)
+ 151. file:///wiki/Tuple
+ 152. file:///wiki/Unknown_(mathematics)
+ 153. file:///wiki/Solution_set
+ 154. file:///wiki/Diophantine_equation
+ 155. file:///wiki/Integer
+ 156. file:///wiki/Empty_set
+ 157. file:///wiki/Square_(algebra)
+ 158. file:///wiki/Real_number
+ 159. file:///wiki/Parametrization_(geometry)
+ 160. file:///wiki/Linear_equation
+ 161. file:///wiki/Geometry
+ 162. file:///wiki/Line_(geometry)
+ 163. file:///wiki/Curve_(geometry)
+ 164. file:///wiki/Plane_(geometry)
+ 165. file:///wiki/Algebraic_variety
+ 166. file:///wiki/Manifold
+ 167. file:///wiki/Algebraic_geometry
+ 168. file:///wiki/Algebraic_equation
+ 169. file:///w/index.php?title=Equation_solving&action=edit&section=3
+ 170. file:///wiki/Algorithm
+ 171. file:///wiki/Unsolvable_problem
+ 172. file:///wiki/Hilbert%27s_tenth_problem
+ 173. file:///wiki/Computer_algebra_system
+ 174. file:///wiki/Heuristic
+ 175. file:///w/index.php?title=Equation_solving&action=edit&section=4
+ 176. file:///wiki/Modular_arithmetic
+ 177. file:///wiki/Diophantine_equation
+ 178. file:///wiki/Brute-force_search
+ 179. file:///wiki/Candidate_solutions
+ 180. file:///wiki/Exhaustive_search
+ 181. file:///wiki/Encryption
+ 182. file:///wiki/Problem_solving
+ 183. file:///wiki/Trial_and_error
+ 184. file:///w/index.php?title=Equation_solving&action=edit&section=5
+ 185. file:///wiki/Elementary_algebra
+ 186. file:///w/index.php?title=Equation_solving&action=edit&section=6
+ 187. file:///wiki/System_of_linear_equations
+ 188. file:///wiki/Linear_algebra
+ 189. file:///wiki/Gaussian_elimination
+ 190. file:///wiki/Numerical_solution_of_linear_systems
+ 191. file:///w/index.php?title=Equation_solving&action=edit&section=7
+ 192. file:///wiki/Polynomial#Solving_polynomial_equations
+ 193. file:///wiki/System_of_polynomial_equations
+ 194. file:///wiki/Polynomial
+ 195. file:///wiki/Quadratic_formula
+ 196. file:///wiki/Bring_radical
+ 197. file:///wiki/Rational_root_theorem
+ 198. file:///wiki/Quadratic_equation
+ 199. file:///w/index.php?title=Equation_solving&action=edit&section=8
+ 200. file:///wiki/Diophantine_equations
+ 201. file:///wiki/Integer
+ 202. file:///wiki/Rational_number
+ 203. file:///wiki/Rational_root_theorem
+ 204. file:///w/index.php?title=Equation_solving&action=edit&section=9
+ 205. file:///wiki/Inverse_problem
+ 206. file:///wiki/Inverse_function
+ 207. file:///wiki/Projection_(mathematics)
+ 208. file:///wiki/Nth_root
+ 209. file:///wiki/Logarithm
+ 210. file:///wiki/Inverse_trigonometric_function
+ 211. file:///wiki/Lambert%27s_W_function
+ 212. file:///w/index.php?title=Equation_solving&action=edit&section=10
+ 213. file:///wiki/Factorization
+ 214. file:///w/index.php?title=Equation_solving&action=edit&section=11
+ 215. file:///wiki/Complex_number
+ 216. file:///wiki/Root-finding_algorithm
+ 217. file:///wiki/Newton%E2%80%93Raphson_method
+ 218. file:///wiki/Numerical_linear_algebra#Solutions_of_linear_systems
+ 219. file:///w/index.php?title=Equation_solving&action=edit&section=12
+ 220. file:///wiki/Matrix_(mathematics)
+ 221. file:///wiki/Vector_(mathematics_and_physics)
+ 222. file:///wiki/Real_number
+ 223. file:///wiki/Linear_algebra
+ 224. file:///w/index.php?title=Equation_solving&action=edit&section=13
+ 225. file:///wiki/Differential_equation
+ 226. file:///wiki/Numerical_mathematics
+ 227. file:///wiki/Calculus
+ 228. file:///wiki/Integral
+ 229. file:///wiki/Symbolic_integration
+ 230. file:///wiki/Wikipedia:Citation_needed
+ 231. file:///wiki/Implicit_function
+ 232. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#cite_note-Zill2012-1
+ 233. file:///w/index.php?title=Equation_solving&action=edit&section=14
+ 234. file:///wiki/Extraneous_and_missing_solutions
+ 235. file:///wiki/Simultaneous_equations
+ 236. file:///wiki/Equating_coefficients
+ 237. file:///wiki/Solving_the_geodesic_equations
+ 238. file:///wiki/Unification_(computer_science)
+ 239. file:///w/index.php?title=Equation_solving&action=edit&section=15
+ 240. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Equation_solving.html#cite_ref-Zill2012_1-0
+ 241. https://books.google.com/books?id=pasKAAAAQBAJ&q=solution
+ 242. file:///wiki/ISBN_(identifier)
+ 243. file:///wiki/Special:BookSources/978-1-285-40110-2
+ 244. https://en.wikipedia.org/w/index.php?title=Equation_solving&oldid=1252541599
+ 245. file:///wiki/Help:Category
+ 246. file:///wiki/Category:Equations
+ 247. file:///wiki/Category:Inverse_functions
+ 248. file:///wiki/Category:Unification_(computer_science)
+ 249. file:///wiki/Category:Articles_with_short_description
+ 250. file:///wiki/Category:Short_description_matches_Wikidata
+ 251. file:///wiki/Category:Articles_needing_additional_references_from_December_2009
+ 252. file:///wiki/Category:All_articles_needing_additional_references
+ 253. file:///wiki/Category:All_articles_with_unsourced_statements
+ 254. file:///wiki/Category:Articles_with_unsourced_statements_from_July_2019
+ 255. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 256. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 257. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 258. https://wikimediafoundation.org/
+ 259. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 260. file:///wiki/Wikipedia:About
+ 261. file:///wiki/Wikipedia:General_disclaimer
+ 262. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 263. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 264. https://developer.wikimedia.org/
+ 265. https://stats.wikimedia.org/#/en.wikipedia.org
+ 266. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 267. file://en.m.wikipedia.org/w/index.php?title=Equation_solving&default=&mobileaction=toggle_view_mobile
+ 268. https://wikimediafoundation.org/
+ 269. https://www.mediawiki.org/

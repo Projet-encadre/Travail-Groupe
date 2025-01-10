@@ -1,0 +1,729 @@
+   #[1]alternate [2]Edit this page [3]Wikipedia (en) [4]Wikipedia Atom
+   feed
+
+   [5]Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * [6]Main page
+     * [7]Contents
+     * [8]Current events
+     * [9]Random article
+     * [10]About Wikipedia
+     * [11]Contact us
+
+   Contribute
+     * [12]Help
+     * [13]Learn to edit
+     * [14]Community portal
+     * [15]Recent changes
+     * [16]Upload file
+
+   [17]Wikipedia The Free Encyclopedia
+   [18]Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * [19]Donate
+     * [20]Create account
+     * [21]Log in
+
+   [ ] Personal tools
+     * [22]Donate
+     * [23]Create account
+     * [24]Log in
+
+   Pages for logged out editors [25]learn more
+     * [26]Contributions
+     * [27]Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * [28](Top)
+     * [29]1 Description
+     * [30]2 Applications
+     * [31]3 Criticisms
+     * [32]4 See also
+     * [33]5 References
+     * [34]6 External links
+
+   [ ] Toggle the table of contents
+
+ROOT
+
+   [ ] 12 languages
+     * [35]Deutsch
+     * [36]Español
+     * [37]Français
+     * [38]¹¿¨¦
+     * [39]Italiano
+     * [40]¥¬
+     * [41]Polski
+     * [42]Russkij
+     * [43]¢
+     * [44]Türkçe
+     * [45]Ukrayins'ka
+     * [46]µ
+
+   [47]Edit links
+
+     * [48]Article
+     * [49]Talk
+
+   [ ] English
+
+     * [50]Read
+     * [51]Edit
+     * [52]View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * [53]Read
+     * [54]Edit
+     * [55]View history
+
+   General
+     * [56]What links here
+     * [57]Related changes
+     * [58]Upload file
+     * [59]Special pages
+     * [60]Permanent link
+     * [61]Page information
+     * [62]Cite this page
+     * [63]Get shortened URL
+     * [64]Download QR code
+
+   Print/export
+     * [65]Download as PDF
+     * [66]Printable version
+
+   In other projects
+     * [67]Wikimedia Commons
+     * [68]Wikibooks
+     * [69]Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Data analysis software
+   This article is about the computing library developed by CERN. For the
+   part of a plant, see [70]Root. For other uses, see [71]Root
+   (disambiguation).
+
+   CAPTION: ROOT
+
+   [72][297px-ROOT_Logo.png]
+   [73][220px-CMS_ROOT_plot.png]
+   The CMS experiments presented on July 4, 2012, the status of the
+   Standard Model Higgs search. All plots presented that day used ROOT.
+   [74]Original author(s) René Brun, Fons Rademakers ^[75][1]
+      [76]Developer(s)    [77]CERN^[78][2]
+   [79]Stable release
+   6.28/00 / February 3, 2023; 22 months ago (2023-02-03)
+   [80]Repository
+     * [81]github.com/root-project/root [82]Edit this at Wikidata
+
+   Written in [83]C++
+   [84]Operating system [85]Microsoft Windows, [86]OS X, [87]Linux,
+   [88]Solaris, [89]IBM AIX
+   [90]Platform [91]IA-32, [92]x86-64
+   [93]Size 86-327 [94]MB
+   [95]Type [96]Data analysis, [97]Plotting
+   [98]License [99]LGPL/[100]GPL
+   Website [101]root.cern
+
+   ROOT is an [102]object-oriented [103]computer program and [104]library
+   developed by [105]CERN. It was originally designed for [106]particle
+   physics [107]data analysis and contains several features specific to
+   the field, but it is also used in other applications such as
+   [108]astronomy and [109]data mining. The latest minor release is 6.32,
+   as of 2024-05-26.^[110][3]
+
+Description
+
+   [[111]edit]
+
+   CERN maintained the [112]CERN Program Library written in [113]FORTRAN
+   for many years. Its development and maintenance were discontinued in
+   2003 in favour of ROOT, which is written in the [114]C++ programming
+   language. ROOT development was initiated by René Brun and Fons
+   Rademakers in 1994. Some parts are published under the [115]GNU Lesser
+   General Public License (LGPL) and others are based on [116]GNU General
+   Public License (GPL) software, and are thus also published under the
+   terms of the GPL. It provides [117]platform independent access to a
+   computer's graphics subsystem and [118]operating system using
+   [119]abstract layers. Parts of the abstract platform are: a
+   [120]graphical user interface and a [121]GUI builder, container
+   classes, [122]reflection, a C++ [123]script and [124]command line
+   [125]interpreter ([126]CINT in version 5, [127]cling in version 6),
+   object [128]serialization and [129]persistence.
+
+   The packages provided by ROOT include those for
+     * [130]Histogramming and [131]graphing to view and analyze
+       [132]distributions and [133]functions,
+     * [134]curve fitting (regression analysis) and minimization of
+       [135]functionals,
+     * [136]statistics tools used for [137]data analysis,
+     * [138]matrix algebra,
+     * [139]four-vector computations, as used in [140]high energy physics,
+     * standard [141]mathematical functions,
+     * [142]multivariate data analysis, e.g. using [143]neural networks,
+     * image manipulation, used, for instance, to analyze
+       [144]astronomical pictures,
+     * access to distributed data (in the context of the [145]Grid),
+     * [146]distributed computing, to parallelize [147]data analyses,
+     * [148]persistence and [149]serialization of objects, which can cope
+       with changes in class definitions of persistent data,
+     * access to [150]databases,
+     * [151]3D [152]visualizations (geometry),
+     * creating files in various graphics formats, like [153]PDF,
+       [154]PostScript, [155]PNG, [156]SVG, [157]LaTeX, etc.
+     * interfacing [158]Python code in both directions,
+     * interfacing [159]Monte Carlo [160]event generators.
+
+   [161][220px-Atlas_ROOT_plot.png] The ATLAS experiments presented on 4
+   July 2012 the status of the Standard Model Higgs search. All the plots
+   presented that day were created in ROOT.
+
+   A key feature of ROOT is a data container called tree, with its
+   substructures branches and leaves. A tree can be seen as a sliding
+   window to the raw data, as stored in a file. Data from the next entry
+   in the file can be retrieved by advancing the index in the tree. This
+   avoids memory allocation problems associated with object creation, and
+   allows the tree to act as a lightweight container while handling
+   buffering invisibly.
+
+   ROOT is designed for high [162]computing efficiency, as it is required
+   to process data from the [163]Large Hadron Collider's experiments
+   estimated at several [164]petabytes per year. As of 2009^[165][update]
+   ROOT is mainly used in [166]data analysis and [167]data acquisition in
+   [168]particle physics (high energy physics) experiments, and most
+   current^[169][update] experimental plots and results in those subfields
+   are obtained using ROOT.
+
+   The inclusion of a C++ interpreter ([170]CINT until version 5.34, Cling
+   from version 6.00) makes this package very versatile as it can be used
+   in interactive, scripted and compiled modes in a manner similar to
+   commercial products like [171]MATLAB.
+
+   On July 4, 2012 the ATLAS and CMS LHC's experiments presented the
+   status of the Standard Model Higgs search. [172]All data plotting
+   presented that day used ROOT.
+
+Applications
+
+   [[173]edit]
+
+   Several particle physics collaborations have written software based on
+   ROOT, often in favor of using more generic solutions (e.g. using ROOT
+   containers instead of [174]STL).
+     * Some of the running particle physics experiments using software
+       based on ROOT
+          + [175]ALICE
+          + [176]ATLAS
+          + [177]BaBar experiment
+          + [178]Belle Experiment (an electron positron collider at KEK
+            (Japan))
+          + [179]Belle II experiment (successor of the Belle experiment)
+          + [180]BES III
+          + CB-ELSA/TAPS
+          + [181]CMS
+          + [182]COMPASS experiment (Common Muon and Proton Apparatus for
+            Structure and Spectroscopy)
+          + [183]CUORE (Cryogenic Underground Observatory for Rare Events)
+          + [184]D0 experiment
+          + [185]GlueX Experiment
+          + [186]GRAPES-3 (Gamma Ray Astronomy PeV EnergieS)
+          + [187]H1 (particle detector) at HERA collider at DESY, Hamburg
+          + [188]LHCb
+          + [189]MINERnA (Main Injector Experiment for n-A)
+          + [190]MINOS (Main injector neutrino oscillation search)
+          + [191]NA61 experiment (SPS Heavy Ion and Neutrino Experiment)
+          + [192]NOnA
+          + [193]OPERA experiment
+          + [194]PHENIX detector
+          + PHOBOS experiment at [195]Relativistic Heavy Ion Collider
+          + [196]SNO+
+          + [197]STAR detector (Solenoidal Tracker at RHIC)
+          + [198]T2K experiment
+     * Future particle physics experiments currently developing software
+       based on ROOT
+          + [199]Mu2e
+          + Compressed Baryonic Matter experiment (CBM)
+          + [200]PANDA experiment (antiProton Annihilation at Darmstadt
+            (PANDA))
+          + [201]Deep Underground Neutrino Experiment (DUNE)
+          + [202]Hyper-Kamiokande (HK (Japan))
+     * Astrophysics ([203]X-ray and [204]gamma-ray astronomy,
+       [205]astroparticle physics) projects using ROOT
+          + [206]AGILE
+          + [207]Alpha Magnetic Spectrometer (AMS)
+          + [208]Antarctic Impulse Transient Antenna (ANITA)
+          + [209]ANTARES neutrino detector
+          + [210]CRESST (Dark Matter Search)
+          + [211]DMTPC
+          + [212]DEAP-3600/[213]Cryogenic Low-Energy Astrophysics with
+            Neon(CLEAN)
+          + [214]Fermi Gamma-ray Space Telescope
+          + [215]ICECUBE
+          + [216]HAWC
+          + [217]High Energy Stereoscopic System (H.E.S.S.)
+          + [218]Hitomi (ASTRO-H)
+          + [219]MAGIC
+          + [220]Milagro
+          + [221]Pierre Auger Observatory
+          + [222]VERITAS
+          + [223]PAMELA
+          + POLAR
+          + [224]PoGOLite
+
+Criticisms
+
+   [[225]edit]
+
+   Criticisms of ROOT include its difficulty for beginners, as well as
+   various aspects of its design and implementation. Frequent causes of
+   frustration include extreme [226]code bloat, heavy use of global
+   variables,^[227][4] and an overcomplicated class hierarchy. From time
+   to time these issues are discussed on the ROOT users mailing
+   list.^[228][5]^[229][6] While scientists dissatisfied with ROOT have in
+   the past managed to work around its flaws,^[230][7] some of the
+   shortcomings are regularly addressed by the ROOT team. The CINT
+   interpreter, for example, has been replaced by the Cling
+   interpreter,^[231][8] and numerous bugs are fixed with every release.
+
+See also
+
+   [[232]edit]
+
+     * [233]Free and open-source software portal
+
+     * [234]Matplotlib - a plotting and analysis system for [235]Python
+     * [236]SciPy - a scientific data analysis system for [237]Python,
+       based on the [238]NumPy classes
+     * [239]Perl Data Language - a set of array programming extensions to
+       the [240]Perl programming language
+     * [241]HippoDraw - an alternative C++-based data analysis system
+     * [242]Java Analysis Studio - a Java-based AIDA-compliant data
+       analysis system
+     * [243]R programming language
+     * [244]AIDA (computing) - open interfaces and formats for particle
+       physics data processing
+     * [245]Geant4 - a platform for the simulation of the passage of
+       particles through matter using Monte Carlo methods
+     * [246]PAW
+     * [247]IGOR Pro
+     * [248]Scientific Linux
+     * [249]Scientific computing
+     * [250]OpenDX
+     * [251]OpenScientist
+     * [252]CERN Program Library - legacy program library written in
+       Fortran77, still available but not updated
+
+References
+
+   [[253]edit]
+
+    1. [254]^ [255]"Project Founders". root.cern. Retrieved 2019-06-19.
+    2. [256]^ [257]"ROOT Team". root.cern. Retrieved 2022-02-10.
+    3. [258]^ [259]"ROOT Version 6.32 Release Notes". root.cern. Retrieved
+       2024-08-27.
+    4. [260]^ Buckley, Andy (2007-08-27). [261]"The problem with ROOT
+       (a.k.a. The ROOT of all Evil)". InsectNation. Retrieved 3 May 2016.
+    5. [262]^ [263]"Re: Wikipedia criticism about root". Retrieved 3 May
+       2016.
+    6. [264]^ [265]"RE: Re: Wikipedia criticism about root". Retrieved 3
+       May 2016.
+    7. [266]^ [267]"What is ROOT?". 1 June 2009. Retrieved 3 May 2016.
+    8. [268]^ [269]"ROOT Version 6.06 Release Notes". 2 June 2015.
+       Retrieved 3 May 2016.
+
+External links
+
+   [[270]edit]
+
+   Wikibooks has a book on the topic of: [271]ROOT
+
+     * [272]The ROOT System Home Page
+     * [273]Image galleries
+     * [274]ROOT User's Guide
+     * [275]ROOT Reference Guide
+     * [276]ROOT Forum
+     * [277]The RooFit Toolkit for Data Modeling, an extension to ROOT to
+       facilitate [278]maximum likelihood fits
+     * The [279]Toolkit for Multivariate Data Analysis with ROOT (TMVA) is
+       a ROOT-integrated project providing a machine learning environment
+       for the processing and evaluation of multivariate classification,
+       both binary and multi class, and regression techniques targeting
+       applications in high-energy physics ([280]here or [281]here).
+
+   Retrieved from
+   "[282]https://en.wikipedia.org/w/index.php?title=ROOT&oldid=1242622799"
+
+   [283]Categories:
+     * [284]C++ libraries
+     * [285]Data analysis software
+     * [286]Data management software
+     * [287]Experimental particle physics
+     * [288]Free physics software
+     * [289]Free plotting software
+     * [290]Free science software
+     * [291]Free software programmed in C++
+     * [292]Numerical software
+     * [293]Physics software
+     * [294]Plotting software
+     * [295]CERN software
+
+   Hidden categories:
+     * [296]Articles with short description
+     * [297]Short description matches Wikidata
+     * [298]Articles containing potentially dated statements from 2009
+     * [299]All articles containing potentially dated statements
+
+     * This page was last edited on 27 August 2024, at 20:18 (UTC).
+     * Text is available under the [300]Creative Commons
+       Attribution-ShareAlike 4.0 License; additional terms may apply. By
+       using this site, you agree to the [301]Terms of Use and
+       [302]Privacy Policy. Wikipedia® is a registered trademark of the
+       [303]Wikimedia Foundation, Inc., a non-profit organization.
+
+     * [304]Privacy policy
+     * [305]About Wikipedia
+     * [306]Disclaimers
+     * [307]Contact Wikipedia
+     * [308]Code of Conduct
+     * [309]Developers
+     * [310]Statistics
+     * [311]Cookie statement
+     * [312]Mobile view
+
+     * [313]Wikimedia Foundation
+     * [314]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/ROOT
+   2. file:///w/index.php?title=ROOT&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+   8. file:///wiki/Portal:Current_events
+   9. file:///wiki/Special:Random
+  10. file:///wiki/Wikipedia:About
+  11. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+  12. file:///wiki/Help:Contents
+  13. file:///wiki/Help:Introduction
+  14. file:///wiki/Wikipedia:Community_portal
+  15. file:///wiki/Special:RecentChanges
+  16. file:///wiki/Wikipedia:File_upload_wizard
+  17. file:///wiki/Main_Page
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=ROOT&returntoquery=default%3D
+  21. file:///w/index.php?title=Special:UserLogin&returnto=ROOT&returntoquery=default%3D
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=ROOT&returntoquery=default%3D
+  24. file:///w/index.php?title=Special:UserLogin&returnto=ROOT&returntoquery=default%3D
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html
+  29. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#Description
+  30. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#Applications
+  31. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#Criticisms
+  32. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#See_also
+  33. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#References
+  34. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#External_links
+  35. https://de.wikipedia.org/wiki/ROOT
+  36. https://es.wikipedia.org/wiki/ROOT_(programa)
+  37. https://fr.wikipedia.org/wiki/ROOT
+  38. https://hi.wikipedia.org/wiki/ROOT_(%E0%A4%B8%E0%A5%89%E0%A4%AB%E0%A5%8D%E0%A4%9F%E0%A4%B5%E0%A5%87%E0%A4%AF%E0%A4%B0)
+  39. https://it.wikipedia.org/wiki/ROOT
+  40. https://ja.wikipedia.org/wiki/ROOT
+  41. https://pl.wikipedia.org/wiki/ROOT
+  42. https://ru.wikipedia.org/wiki/ROOT
+  43. https://th.wikipedia.org/wiki/ROOT
+  44. https://tr.wikipedia.org/wiki/ROOT
+  45. https://uk.wikipedia.org/wiki/ROOT
+  46. https://zh-yue.wikipedia.org/wiki/ROOT
+  47. https://www.wikidata.org/wiki/Special:EntityPage/Q947171#sitelinks-wikipedia
+  48. file:///wiki/ROOT
+  49. file:///wiki/Talk:ROOT
+  50. file:///wiki/ROOT
+  51. file:///w/index.php?title=ROOT&action=edit
+  52. file:///w/index.php?title=ROOT&action=history
+  53. file:///wiki/ROOT
+  54. file:///w/index.php?title=ROOT&action=edit
+  55. file:///w/index.php?title=ROOT&action=history
+  56. file:///wiki/Special:WhatLinksHere/ROOT
+  57. file:///wiki/Special:RecentChangesLinked/ROOT
+  58. file:///wiki/Wikipedia:File_Upload_Wizard
+  59. file:///wiki/Special:SpecialPages
+  60. file:///w/index.php?title=ROOT&oldid=1242622799
+  61. file:///w/index.php?title=ROOT&action=info
+  62. file:///w/index.php?title=Special:CiteThisPage&page=ROOT&id=1242622799&wpFormIdentifier=titleform
+  63. file:///w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DROOT%26default%3D
+  64. file:///w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DROOT%26default%3D
+  65. file:///w/index.php?title=Special:DownloadAsPdf&page=ROOT&action=show-download-screen
+  66. file:///w/index.php?title=ROOT&printable=yes
+  67. https://commons.wikimedia.org/wiki/Category:ROOT
+  68. https://en.wikibooks.org/wiki/ROOT
+  69. https://www.wikidata.org/wiki/Special:EntityPage/Q947171
+  70. file:///wiki/Root
+  71. file:///wiki/Root_(disambiguation)
+  72. file:///wiki/File:ROOT_Logo.png
+  73. file:///wiki/File:CMS_ROOT_plot.png
+  74. file:///wiki/Programmer
+  75. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_note-1
+  76. file:///wiki/Programmer
+  77. file:///wiki/CERN
+  78. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_note-2
+  79. file:///wiki/Software_release_life_cycle
+  80. file:///wiki/Repository_(version_control)
+  81. https://github.com/root-project/root
+  82. https://www.wikidata.org/wiki/Q947171#P1324
+  83. file:///wiki/C%2B%2B
+  84. file:///wiki/Operating_system
+  85. file:///wiki/Microsoft_Windows
+  86. file:///wiki/OS_X
+  87. file:///wiki/Linux
+  88. file:///wiki/Solaris_(operating_system)
+  89. file:///wiki/IBM_AIX
+  90. file:///wiki/Computing_platform
+  91. file:///wiki/IA-32
+  92. file:///wiki/X86-64
+  93. file:///wiki/File_size
+  94. file:///wiki/Megabytes
+  95. file:///wiki/Software_categories#Categorization_approaches
+  96. file:///wiki/Data_analysis
+  97. file:///wiki/Plot_(graphics)
+  98. file:///wiki/Software_license
+  99. file:///wiki/LGPL
+ 100. file:///wiki/GPL
+ 101. http://root.cern/
+ 102. file:///wiki/Object-oriented_programming
+ 103. file:///wiki/Computer_program
+ 104. file:///wiki/Library_(computing)
+ 105. file:///wiki/CERN
+ 106. file:///wiki/Particle_physics
+ 107. file:///wiki/Data_analysis
+ 108. file:///wiki/Astronomy
+ 109. file:///wiki/Data_mining
+ 110. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_note-3
+ 111. file:///w/index.php?title=ROOT&action=edit&section=1
+ 112. file:///wiki/CERN_Program_Library
+ 113. file:///wiki/FORTRAN
+ 114. file:///wiki/C%2B%2B
+ 115. file:///wiki/GNU_Lesser_General_Public_License
+ 116. file:///wiki/GNU_General_Public_License
+ 117. file:///wiki/Platform_independent
+ 118. file:///wiki/Operating_system
+ 119. file:///wiki/Abstraction_(computer_science)
+ 120. file:///wiki/Graphical_user_interface
+ 121. file:///wiki/Graphical_user_interface_builder
+ 122. file:///wiki/Reflection_(computer_science)
+ 123. file:///wiki/Scripting_language
+ 124. file:///wiki/Command_line
+ 125. file:///wiki/Interpreter_(computing)
+ 126. file:///wiki/CINT
+ 127. file:///w/index.php?title=Cling_(command_line_interpreter)&action=edit&redlink=1
+ 128. file:///wiki/Serialization
+ 129. file:///wiki/Persistence_(computer_science)
+ 130. file:///wiki/Histogram
+ 131. file:///wiki/Graph_of_a_function
+ 132. file:///wiki/Distribution_(mathematics)
+ 133. file:///wiki/Function_(mathematics)
+ 134. file:///wiki/Curve_fitting
+ 135. file:///wiki/Functional_(mathematics)
+ 136. file:///wiki/Statistics
+ 137. file:///wiki/Data_analysis
+ 138. file:///wiki/Matrix_(mathematics)
+ 139. file:///wiki/Four-vector
+ 140. file:///wiki/High_energy_physics
+ 141. file:///wiki/Function_(mathematics)
+ 142. file:///wiki/Multivariate_analysis
+ 143. file:///wiki/Artificial_neural_network
+ 144. file:///wiki/Astronomical
+ 145. file:///wiki/Grid_computing
+ 146. file:///wiki/Distributed_computing
+ 147. file:///wiki/Data_analysis
+ 148. file:///wiki/Persistence_(computer_science)
+ 149. file:///wiki/Serialization
+ 150. file:///wiki/Databases
+ 151. file:///wiki/3D_computer_graphics
+ 152. file:///wiki/Visualization_(graphic)
+ 153. file:///wiki/PDF
+ 154. file:///wiki/PostScript
+ 155. file:///wiki/Portable_Network_Graphics
+ 156. file:///wiki/Scalable_Vector_Graphics
+ 157. file:///wiki/LaTeX
+ 158. file:///wiki/Python_(programming_language)
+ 159. file:///wiki/Monte_Carlo_method
+ 160. file:///wiki/Event_generator
+ 161. file:///wiki/File:Atlas_ROOT_plot.png
+ 162. file:///wiki/Computer_performance
+ 163. file:///wiki/Large_Hadron_Collider
+ 164. file:///wiki/Petabyte
+ 165. https://en.wikipedia.org/w/index.php?title=ROOT&action=edit
+ 166. file:///wiki/Data_analysis
+ 167. file:///wiki/Data_acquisition
+ 168. file:///wiki/Particle_physics
+ 169. https://en.wikipedia.org/w/index.php?title=ROOT&action=edit
+ 170. file:///wiki/CINT
+ 171. file:///wiki/MATLAB
+ 172. https://root.cern/gallery/#higgs-plots
+ 173. file:///w/index.php?title=ROOT&action=edit&section=2
+ 174. file:///wiki/Standard_Template_Library
+ 175. file:///wiki/A_Large_Ion_Collider_Experiment
+ 176. file:///wiki/ATLAS_experiment
+ 177. file:///wiki/BaBar_experiment
+ 178. file:///wiki/Belle_Experiment
+ 179. file:///wiki/Belle_II_experiment
+ 180. file:///wiki/BES_III
+ 181. file:///wiki/Compact_Muon_Solenoid
+ 182. file:///wiki/COMPASS_experiment
+ 183. file:///wiki/CUORE
+ 184. file:///wiki/D0_experiment
+ 185. file:///wiki/GlueX
+ 186. file:///wiki/GRAPES-3
+ 187. file:///wiki/H1_(particle_detector)
+ 188. file:///wiki/LHCb
+ 189. file:///wiki/MINER%CE%BDA
+ 190. file:///wiki/MINOS
+ 191. file:///wiki/NA61_experiment
+ 192. file:///wiki/NO%CE%BDA
+ 193. file:///wiki/OPERA_experiment
+ 194. file:///wiki/PHENIX_detector
+ 195. file:///wiki/Relativistic_Heavy_Ion_Collider
+ 196. file:///wiki/SNO%2B
+ 197. file:///wiki/STAR_detector
+ 198. file:///wiki/T2K_experiment
+ 199. file:///wiki/Mu2e
+ 200. file:///wiki/PANDA_experiment
+ 201. file:///wiki/Deep_Underground_Neutrino_Experiment
+ 202. file:///wiki/Hyper-Kamiokande
+ 203. file:///wiki/X-ray_astronomy
+ 204. file:///wiki/Gamma_ray_astronomy
+ 205. file:///wiki/Astroparticle_physics
+ 206. file:///wiki/AGILE_(satellite)
+ 207. file:///wiki/Alpha_Magnetic_Spectrometer
+ 208. file:///wiki/Antarctic_Impulse_Transient_Antenna
+ 209. file:///wiki/ANTARES_(telescope)
+ 210. file:///wiki/Cryogenic_Rare_Event_Search_with_Superconducting_Thermometers
+ 211. file:///wiki/Dark_Matter_Time_Projection_Chamber
+ 212. file:///wiki/DEAP
+ 213. file:///wiki/Cryogenic_Low-Energy_Astrophysics_with_Neon
+ 214. file:///wiki/Fermi_Gamma-ray_Space_Telescope
+ 215. file:///wiki/IceCube_Neutrino_Detector
+ 216. file:///wiki/High_Altitude_Water_Cherenkov_Experiment
+ 217. file:///wiki/High_Energy_Stereoscopic_System
+ 218. file:///wiki/Hitomi_(satellite)
+ 219. file:///wiki/MAGIC_(telescope)
+ 220. file:///wiki/Milagro_(experiment)
+ 221. file:///wiki/Pierre_Auger_Observatory
+ 222. file:///wiki/VERITAS
+ 223. file:///wiki/Payload_for_Antimatter_Matter_Exploration_and_Light-nuclei_Astrophysics
+ 224. file:///wiki/PoGOLite
+ 225. file:///w/index.php?title=ROOT&action=edit&section=3
+ 226. file:///wiki/Code_bloat
+ 227. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_note-4
+ 228. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_note-5
+ 229. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_note-6
+ 230. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_note-7
+ 231. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_note-8
+ 232. file:///w/index.php?title=ROOT&action=edit&section=4
+ 233. file:///wiki/Portal:Free_and_open-source_software
+ 234. file:///wiki/Matplotlib
+ 235. file:///wiki/Python_(programming_language)
+ 236. file:///wiki/SciPy
+ 237. file:///wiki/Python_(programming_language)
+ 238. file:///wiki/NumPy
+ 239. file:///wiki/Perl_Data_Language
+ 240. file:///wiki/Perl
+ 241. file:///wiki/HippoDraw
+ 242. file:///wiki/Java_Analysis_Studio
+ 243. file:///wiki/R_(programming_language)
+ 244. file:///wiki/AIDA_(computing)
+ 245. file:///wiki/Geant4
+ 246. file:///wiki/Physics_Analysis_Workstation
+ 247. file:///wiki/IGOR_Pro
+ 248. file:///wiki/Scientific_Linux
+ 249. file:///wiki/Scientific_computing
+ 250. file:///wiki/OpenDX
+ 251. file:///wiki/OpenScientist
+ 252. file:///wiki/CERN_Program_Library
+ 253. file:///w/index.php?title=ROOT&action=edit&section=5
+ 254. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_ref-1
+ 255. https://root.cern/about/project_founders/
+ 256. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_ref-2
+ 257. https://root.cern/about/team/
+ 258. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_ref-3
+ 259. https://root.cern/doc/v632/release-notes.html
+ 260. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_ref-4
+ 261. http://insectnation.org/articles/problems-with-root.html
+ 262. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_ref-5
+ 263. http://root.cern.ch/root/roottalk/roottalk06/0763.html
+ 264. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_ref-6
+ 265. http://root.cern.ch/root/roottalk/roottalk06/0782.html
+ 266. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_ref-7
+ 267. https://root.cern/about/
+ 268. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_ROOT.html#cite_ref-8
+ 269. https://root.cern/releases/release-60600/
+ 270. file:///w/index.php?title=ROOT&action=edit&section=6
+ 271. https://en.wikibooks.org/wiki/ROOT
+ 272. https://root.cern/
+ 273. https://root.cern/gallery
+ 274. https://root.cern/drupal/content/users-guide
+ 275. https://root.cern/doc/master/index.html
+ 276. https://root-forum.cern.ch/
+ 277. https://root.cern/manual/roofit/
+ 278. file:///wiki/Maximum_likelihood
+ 279. https://root.cern/manual/tmva/
+ 280. http://tmva.sourceforge.net/
+ 281. https://sourceforge.net/p/tmva/wiki/Home/
+ 282. https://en.wikipedia.org/w/index.php?title=ROOT&oldid=1242622799
+ 283. file:///wiki/Help:Category
+ 284. file:///wiki/Category:C%2B%2B_libraries
+ 285. file:///wiki/Category:Data_analysis_software
+ 286. file:///wiki/Category:Data_management_software
+ 287. file:///wiki/Category:Experimental_particle_physics
+ 288. file:///wiki/Category:Free_physics_software
+ 289. file:///wiki/Category:Free_plotting_software
+ 290. file:///wiki/Category:Free_science_software
+ 291. file:///wiki/Category:Free_software_programmed_in_C%2B%2B
+ 292. file:///wiki/Category:Numerical_software
+ 293. file:///wiki/Category:Physics_software
+ 294. file:///wiki/Category:Plotting_software
+ 295. file:///wiki/Category:CERN_software
+ 296. file:///wiki/Category:Articles_with_short_description
+ 297. file:///wiki/Category:Short_description_matches_Wikidata
+ 298. file:///wiki/Category:Articles_containing_potentially_dated_statements_from_2009
+ 299. file:///wiki/Category:All_articles_containing_potentially_dated_statements
+ 300. file:///wiki/Wikipedia:Text_of_the_Creative_Commons_Attribution-ShareAlike_4.0_International_License
+ 301. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use
+ 302. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 303. https://wikimediafoundation.org/
+ 304. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy
+ 305. file:///wiki/Wikipedia:About
+ 306. file:///wiki/Wikipedia:General_disclaimer
+ 307. file://en.wikipedia.org/wiki/Wikipedia:Contact_us
+ 308. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 309. https://developer.wikimedia.org/
+ 310. https://stats.wikimedia.org/#/en.wikipedia.org
+ 311. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 312. file://en.m.wikipedia.org/w/index.php?title=ROOT&default=&mobileaction=toggle_view_mobile
+ 313. https://wikimediafoundation.org/
+ 314. https://www.mediawiki.org/
+
+   Hidden links:
+ 316. file://localhost/wiki/File:Wikibooks-logo-en-noslogan.svg

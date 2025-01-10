@@ -1,0 +1,54 @@
+   [1]LINFO
+
+                         Root Filesystem Definition
+
+   The root filesystem is the [2]filesystem that is contained on the same
+   [3]partition on which the [4]root directory is located, and it is the
+   filesystem on which all the other filesystems are mounted (i.e.,
+   logically attached to the system) as the system is [5]booted up (i.e.,
+--
+   a [6]directory tree) that is used to organize files on a computer
+   system. On [7]Linux and and other [8]Unix-like [9]operating systems,
+   the directories start with the root directory, which contains a series
+   of subdirectories, each of which, in turn, contains further
+   subdirectories, etc. A variant of this definition is the part of the
+--
+   located on a single partition or disk.
+
+   The exact contents of the root filesystem will vary according to the
+   computer, but they will include the files that are necessary for
+   booting the system and for bringing it up to such a state that the
+   other filesystems can be mounted as well as tools for fixing a broken
+   system and for recovering lost files from backups. The contents will
+   include the root directory together with a minimal set of
+   subdirectories and files including /boot, /dev, /etc, [10]/bin,
+   [11]/sbin and sometimes /tmp (for temporary files).
+
+   Only the root filesystem is available when a system is brought up in
+   single user mode. Single user mode is a way of booting a damaged system
+   that has very limited capabilities so that repairs can be made to it.
+   After repairs have been completed, the other filesystems that are
+   located on different partitions or on different media can then be
+   mounted on (i.e., attached to) the root filesystem in order to restore
+   full system functionality. The directories on which they are mounted
+   are called [12]mount points.
+
+   The root filesystem should generally be small, because it contains
+   critical files and a small, infrequently modified filesystem has a
+   better chance of not becoming corrupted. A corrupted root filesystem
+   will generally mean that the system becomes unbootable (i.e.,
+   unstartable) from the HDD, and must be booted by special means (e.g.,
+--
+
+   A filesystem can be mounted anywhere in the directory tree; it does not
+   necessarily need to be mounted on the root filesystem. For example, it
+   is possible (and very common) to have one filesystem mounted at a mount
+   point on the root filesystem, and another filesystem mounted at a mount
+   point contained in that filesystem.
+
+--
+   2. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/filesystem.html
+   3. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/partition.html
+   4. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/root_directory.html
+   5. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/boot.html
+   6. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/directory_tree.html

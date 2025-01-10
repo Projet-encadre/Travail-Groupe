@@ -1,0 +1,962 @@
+     * [31]3 Group properties
+       (BUTTON) Toggle Group properties subsection
+          + [32]3.1 Group of all roots of unity
+          + [33]3.2 Group of nth roots of unity
+          + [34]3.3 Galois group of the primitive nth roots of unity
+          + [35]3.4 Galois group of the real part of the primitive roots
+            of unity
+     * [36]4 Trigonometric expression
+--
+   [ ] Toggle the table of contents
+
+Root of unity
+
+   [ ] 28 languages
+--
+   help [100]improve this article by [101]adding citations to reliable
+   sources. Unsourced material may be challenged and removed.
+   Find sources: [102]"Root of unity" - [103]news · [104]newspapers ·
+   [105]books · [106]scholar · [107]JSTOR (April 2012) ([108]Learn how and
+   when to remove this message)
+
+   [109][220px-One5Root.svg.png] The 5th roots of unity (blue points) in
+   the [110]complex plane
+
+   In [111]mathematics, a root of unity, occasionally called a [112]de
+   Moivre number, is any [113]complex number that yields 1 when
+   [114]raised to some positive [115]integer power n. Roots of unity are
+   used in many branches of mathematics, and are especially important in
+   [116]number theory, the theory of [117]group characters, and the
+   [118]discrete Fourier transform.
+
+   Roots of unity can be defined in any [119]field. If the
+   [120]characteristic of the field is zero, the roots are complex numbers
+   that are also [121]algebraic integers. For fields with a positive
+   characteristic, the roots belong to a [122]finite field, and,
+   [123]conversely, every nonzero element of a finite field is a root of
+   unity. Any [124]algebraically closed field contains exactly n nth roots
+   of unity, except when n is a multiple of the (positive) characteristic
+   of the field.
+--
+
+   [[125]edit]
+   [126][220px-Visualisation_complex_number_roots.svg.png] Geometric
+   representation of the 2nd to 6th root of a general complex number in
+   polar form. For the nth root of unity, set r = 1 and f = 0. The
+   principal root is in black.
+
+   An nth root of unity, where n is a positive integer, is a number z
+   satisfying the [127]equation^[128][1]^[129][2]
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   encoding="application/x-tex">{\displaystyle z^{n}=1.}</annotation>
+   </semantics> :MATH]
+   {\displaystyle z^{n}=1.} Unless otherwise specified, the roots of unity
+   may be taken to be [130]complex numbers (including the number 1, and
+   the number -1 if n is [131]even, which are complex with a zero
+   [132]imaginary part), and in this case, the nth roots of unity
+   are^[133][3]
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   {2k\pi }{n}}+i\sin {\frac {2k\pi }{n}},\qquad k=0,1,\dots ,n-1.}
+
+   However, the defining equation of roots of unity is meaningful over any
+   [134]field (and even over any [135]ring) F, and this allows considering
+   roots of unity in F. Whichever is the field F, the roots of unity in F
+   are either complex numbers, if the [136]characteristic of F is 0, or,
+   otherwise, belong to a [137]finite field. Conversely, every nonzero
+   element in a finite field is a root of unity in that field. See
+   [138]Root of unity modulo n and [139]Finite field for further details.
+
+   An nth root of unity is said to be primitive
+   if it is not an mth root of unity for some smaller m, that is
+   if^[140][4]^[141][5]
+
+--
+          for }}m=1,2,3,\ldots ,n-1.}
+
+   If n is a [142]prime number, then all nth roots of unity, except 1, are
+   primitive.^[143][6]
+
+   In the above formula in terms of exponential and trigonometric
+   functions, the primitive nth roots of unity are those for which k and n
+   are [144]coprime integers.
+
+   Subsequent sections of this article will comply with complex roots of
+   unity. For the case of roots of unity in fields of nonzero
+   characteristic, see [145]Finite field § Roots of unity. For the case of
+   roots of unity in rings of [146]modular integers, see [147]Root of
+   unity modulo n.
+
+--
+   [[148]edit]
+
+   Every nth root of unity z is a primitive ath root of unity for some a
+   <= n, which is the smallest positive integer such that z^a = 1.
+
+   Any integer power of an nth root of unity is also an nth root of
+   unity,^[149][7] as
+
+--
+
+   This is also true for negative exponents. In particular, the
+   [150]reciprocal of an nth root of unity is its [151]complex conjugate,
+   and is also an nth root of unity:^[152][8]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+          {\displaystyle {\frac {1}{z}}=z^{-1}=z^{n-1}={\bar {z}}.}
+
+   If z is an nth root of unity and a =3 b (mod n) then z^a = z^b. Indeed,
+   by the definition of [153]congruence modulo n, a = b + kn for some
+   integer k, and hence
+--
+   is the remainder of the [154]Euclidean division of a by n.
+
+   Let z be a primitive nth root of unity. Then the powers z, z^2, ...,
+   z^n-1, z^n = z^0 = 1 are nth roots of unity and are all distinct. (If
+   z^a = z^b where 1 <= a < b <= n, then z^b-a = 1, which would imply that
+   z would not be primitive.) This implies that z, z^2, ..., z^n-1, z^n =
+   z^0 = 1 are all of the nth roots of unity, since an nth-[155]degree
+   [156]polynomial equation over a field (in this case the field of
+   complex numbers) has at most n solutions.
+
+   From the preceding, it follows that, if z is a primitive nth root of
+   unity, then
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   </semantics> :MATH]
+   {\displaystyle z^{a}=z^{b},} but the converse may be false, as shown by
+   the following example. If n = 4, a non-primitive nth root of unity is z
+   = -1, and one has
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   {\displaystyle 2\not \equiv 4{\pmod {4}}.}
+
+   Let z be a primitive nth root of unity. A power w = z^k of z is a
+   primitive ath root of unity for
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+          {kn}{k\gcd(k,n)}}={\frac {n}{\gcd(k,n)}}.}
+
+   Thus, if k and n are [160]coprime, z^k is also a primitive nth root of
+   unity, and therefore there are f(n) distinct primitive nth roots of
+   unity (where f is [161]Euler's totient function). This implies that if
+   n is a prime number, all the roots except +1 are primitive.
+
+   In other words, if R(n) is the set of all nth roots of unity and P(n)
+   is the set of primitive ones, R(n) is a [162]disjoint union of the
+   P(n):
+--
+   [[165]edit]
+
+Group of all roots of unity
+
+   [[166]edit]
+
+   The product and the [167]multiplicative inverse of two roots of unity
+   are also roots of unity. In fact, if x^m = 1 and y^n = 1, then (x^-1)^m
+   = 1, and (xy)^k = 1, where k is the [168]least common multiple of m and
+   n.
+
+   Therefore, the roots of unity form an [169]abelian group under
+   multiplication. This [170]group is the [171]torsion subgroup of the
+   [172]circle group.
+
+Group of nth roots of unity
+
+   [[173]edit]
+
+   For an integer n, the product and the multiplicative inverse of two nth
+   roots of unity are also nth roots of unity. Therefore, the nth roots of
+   unity form an abelian group under multiplication.
+
+   Given a primitive nth root of unity w, the other nth roots are powers
+   of w. This means that the group of the nth roots of unity is a
+   [174]cyclic group. It is worth remarking that the term of cyclic group
+   originated from the fact that this group is a [175]subgroup of the
+   [176]circle group.
+
+Galois group of the primitive nth roots of unity
+
+   [[177]edit]
+--
+   <annotation encoding="application/x-tex">{\displaystyle \mathbb {Q}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} } by a primitive nth root of unity w. As
+   every nth root of unity is a power of w, the [180]field
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+--
+   encoding="application/x-tex">{\displaystyle \mathbb {Q} (\omega
+   )}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\omega )} contains all nth roots of unity,
+   and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   {\displaystyle \mathbb {Q} .}
+
+   If k is an integer, w^k is a primitive nth root of unity if and only if
+   k and n are [182]coprime. In this case, the map
+
+--
+   encoding="application/x-tex">{\displaystyle \mathbb {Q} (\omega
+   )}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\omega )} , which maps every nth root of
+   unity to its kth power. Every automorphism of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+
+   This shows that this Galois group is [189]abelian, and implies thus
+   that the primitive roots of unity may be expressed in terms of
+   [190]radicals.
+
+Galois group of the real part of the primitive roots of unity
+
+   [[191]edit]
+   Main article: [192]Minimal polynomial of 2cos(2pi/n)
+
+   The real part of the primitive roots of unity are related to one
+   another as roots of the [193]minimal polynomial of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>cos</mi>
+--
+   encoding="application/x-tex">{\displaystyle 2\cos(2\pi
+   /n).}</annotation> </semantics> :MATH]
+   {\displaystyle 2\cos(2\pi /n).} The roots of the minimal polynomial are
+   just twice the real part; these roots form a cyclic Galois group.
+
+Trigonometric expression
+
+   [[194]edit]
+   [195][220px-3rd_roots_of_unity_correction.svg.png] The cube roots of
+   unity
+
+--
+
+   Setting x = &#8288;2p/n&#8288;
+   gives a primitive nth root of unity - one gets
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+          {\displaystyle \cos {\frac {2\pi }{n}}+i\sin {\frac {2\pi }{n}}}
+
+   is a primitive nth root of unity.
+
+   This formula shows that in the [198]complex plane the nth roots of
+   unity are at the vertices of a [199]regular n-sided polygon inscribed
+   in the [200]unit circle, with one vertex at 1 (see the plots for n = 3
+   and n = 5 on the right). This geometric fact accounts for the term
+   "cyclotomic" in such phrases as [201]cyclotomic field and
+   [202]cyclotomic polynomial; it is from the Greek roots "[203]cyclo"
+   (circle) plus "[204]tomos" (cut, divide).
+
+--
+
+   which is valid for all real x, can be used to put the formula for the
+   nth roots of unity into the form
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+
+   It follows from the discussion in the previous section that this is a
+   primitive nth-root if and only if the fraction &#8288;k/n&#8288;
+   is in lowest terms; that is, that k and n are coprime. An
+   [206]irrational number that can be expressed as the [207]real part of
+   the root of unity; that is, as
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>cos</mi> <mo>&#x2061;</mo> <mo
+--
+   [[209]edit]
+
+   The nth roots of unity are, by definition, the [210]roots of the
+   [211]polynomial x^n - 1, and are thus [212]algebraic numbers. As this
+   polynomial is not [213]irreducible (except for n = 1), the primitive
+   nth roots of unity are roots of an irreducible polynomial (over the
+   integers) of lower degree, called the nth [214]cyclotomic polynomial,
+   and often denoted F[n]. The degree of F[n] is given by [215]Euler's
+   totient function, which counts (among other things) the number of
+   primitive nth roots of unity.^[216][9] The roots of F[n] are exactly
+   the primitive nth roots of unity.
+
+   [217]Galois theory can be used to show that the cyclotomic polynomials
+--
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{1}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{1}}} is not convenient, because it contains
+   non-primitive roots, such as 1, which are not roots of the cyclotomic
+   polynomial, and because it does not give the real and imaginary parts
+   separately.) This means that, for each positive integer n, there exists
+   an expression built from integers by root extractions, additions,
+   subtractions, multiplications, and divisions (and nothing else), such
+   that the primitive nth roots of unity are exactly the set of values
+   that can be obtained by choosing values for the root extractions (k
+   possible values for a kth root). (For more details see
+   [218]§ Cyclotomic fields, below.)
+
+   Gauss [219]proved that a primitive nth root of unity can be expressed
+   using only [220]square roots, addition, subtraction, multiplication and
+   division if and only if it is possible to [221]construct with compass
+   and straightedge the [222]regular n-gon. This is the case [223]if and
+--
+   two and [225]Fermat primes that are all different.
+
+   If z is a primitive nth root of unity, the same is true for 1/z, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>r</mi> <mo>=</mo> <mi>z</mi>
+--
+   <annotation encoding="application/x-tex">{\displaystyle
+   R_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle R_{n}} that has r as a root may be deduced from F[n] by
+   the standard manipulation on reciprocal polynomials, and the primitive
+   nth roots of unity may be deduced from the roots of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>R</mi> <mrow
+--
+   </semantics> :MATH]
+   {\displaystyle z^{2}-rz+1=0.} That is, the real part of the primitive
+   root is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+--
+   <annotation encoding="application/x-tex">{\displaystyle
+   R_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle R_{n}} is an irreducible polynomial whose roots are all
+   real. Its degree is a power of two, if and only if n is a product of a
+   power of two by a product (possibly [228]empty) of distinct Fermat
+   primes, and the regular n-gon is constructible with compass and
+   straightedge. Otherwise, it is solvable in radicals, but one are in the
+   [229]casus irreducibilis, that is, every expression of the roots in
+   terms of radicals involves nonreal radicals.
+
+--
+   [[230]edit]
+     * For n = 1, the cyclotomic polynomial is F[1](x) = x - 1 Therefore,
+       the only primitive first root of unity is 1, which is a
+       non-primitive nth root of unity for every n > 1.
+     * As F[2](x) = x + 1, the only primitive second (square) root of
+       unity is -1, which is also a non-primitive nth root of unity for
+       every even n > 2. With the preceding case, this completes the list
+       of [231]real roots of unity.
+     * As F[3](x) = x^2 + x + 1, the primitive third ([232]cube) roots of
+       unity, which are the roots of this [233]quadratic polynomial, are
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+--
+       {\displaystyle {\frac {-1+i{\sqrt {3}}}{2}},\ {\frac {-1-i{\sqrt
+       {3}}}{2}}.}
+     * As F[4](x) = x^2 + 1, the two primitive fourth roots of unity are i
+       and -i.
+     * As F[5](x) = x^4 + x^3 + x^2 + x + 1, the four primitive fifth
+       roots of unity are the roots of this [234]quartic polynomial, which
+       may be explicitly solved in terms of radicals, giving the roots
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+--
+       {\displaystyle \varepsilon } may take the two values 1 and -1 (the
+       same value in the two occurrences).
+     * As F[6](x) = x^2 - x + 1, there are two primitive sixth roots of
+       unity, which are the negatives (and also the square roots) of the
+       two primitive cube roots:
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+--
+       {\displaystyle {\frac {1+i{\sqrt {3}}}{2}},\ {\frac {1-i{\sqrt
+       {3}}}{2}}.}
+     * As 7 is not a Fermat prime, the seventh roots of unity are the
+       first that require [235]cube roots. There are 6 primitive seventh
+       roots of unity, which are pairwise [236]complex conjugate. The sum
+       of a root and its conjugate is twice its real part. These three
+       sums are the three real roots of the cubic polynomial
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msup> <mi>r</mi> <mrow
+--
+       encoding="application/x-tex">{\displaystyle
+       r^{3}+r^{2}-2r-1,}</annotation> </semantics> :MATH]
+       {\displaystyle r^{3}+r^{2}-2r-1,} and the primitive seventh roots
+       of unity are
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+       </semantics> :MATH]
+       {\displaystyle {\frac {r}{2}}\pm i{\sqrt {1-{\frac {r^{2}}{4}}}},}
+       where r runs over the roots of the above polynomial. As for every
+       cubic polynomial, these roots may be expressed in terms of square
+       and cube roots. However, as these three roots are all real, this is
+       [237]casus irreducibilis, and any such expression involves non-real
+       cube roots.
+     * As F[8](x) = x^4 + 1, the four primitive eighth roots of unity are
+       the square roots of the primitive fourth roots, ± i. They are thus
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>±</mo> <mrow
+--
+       {\displaystyle \pm {\frac {\sqrt {2}}{2}}\pm i{\frac {\sqrt
+       {2}}{2}}.}
+     * See [238]Heptadecagon for the real part of a 17th root of unity.
+
+Periodicity
+--
+   [[239]edit]
+
+   If z is a primitive nth root of unity, then the sequence of powers
+
+          ... , z^-1, z^0, z^1, ...
+--
+
+   can be expressed as a [242]linear combination of powers of a primitive
+   nth root of unity:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   [245]amplitude.
+
+   Choosing for the primitive nth root of unity
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   [[247]edit]
+
+   Let SR(n) be the sum of all the nth roots of unity, primitive or not.
+   Then
+
+--
+
+   This is an immediate consequence of [248]Vieta's formulas. In fact, the
+   nth roots of unity being the roots of the polynomial X^ n - 1, their
+   sum is the [249]coefficient of degree n - 1, which is either 1 or 0
+   according whether n = 1 or n > 1.
+
+   Alternatively, for n = 1 there is nothing to prove, and for n > 1 there
+   exists a root z != 1 - since the set S of all the nth roots of unity is
+   a [250]group, z S = S, so the sum satisfies z SR(n) = SR(n), whence
+   SR(n) = 0.
+
+   Let SP(n) be the sum of all the primitive nth roots of unity. Then
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+
+   In the section [252]Elementary properties, it was shown that if R(n) is
+   the set of all nth roots of unity and P(n) is the set of primitive
+   ones, R(n) is a disjoint union of the P(n):
+
+--
+   This is the special case c[n](1) of [254]Ramanujan's sum
+   c[n](s),^[255][10] defined as the sum of the sth powers of the
+   primitive nth roots of unity:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+          z^{j'\cdot k}=n\cdot \delta _{j,j'}}
+
+   where d is the [258]Kronecker delta and z is any primitive nth root of
+   unity.
+
+--
+          {\displaystyle p(z)=z^{n}-1}
+
+   are precisely the nth roots of unity, each with [270]multiplicity 1.
+   The nth [271]cyclotomic polynomial is defined by the fact that its
+   zeros are precisely the primitive nth roots of unity, each with
+   multiplicity 1.
+
+--
+          {\displaystyle \Phi _{n}(z)=\prod _{k=1}^{\varphi (n)}(z-z_{k})}
+
+   where z[1], z[2], z[3], ..., z[f(n)] are the primitive nth roots of
+   unity, and f(n) is [272]Euler's totient function. The polynomial
+   F[n](z) has integer coefficients and is an [273]irreducible polynomial
+--
+   and expanding via the [276]binomial theorem.
+
+   Every nth root of unity is a primitive dth root of unity for exactly
+   one positive [277]divisor d of n. This implies that^[278][9]
+
+--
+          F[8](z) = (z^8 - 1) · (z^4 - 1)^-1 = z^4 + 1
+
+   If p is a [282]prime number, then all the pth roots of unity except 1
+   are primitive pth roots. Therefore,^[283][6]
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi
+--
+   then d £ F[p](d) if and only if d =3 1 (mod p).
+
+   Cyclotomic polynomials are solvable in [290]radicals, as roots of unity
+   are themselves radicals. Moreover, there exist more informative radical
+   expressions for nth roots of unity with the additional
+   property^[291][12] that every value of the expression obtained by
+   choosing values of the radicals (for example, signs of square roots) is
+   a primitive nth root of unity. This was already shown by [292]Gauss in
+   1797.^[293][13] Efficient [294]algorithms exist for calculating such
+   expressions.^[295][14]
+--
+   [[296]edit]
+
+   The nth roots of unity form under multiplication a [297]cyclic group of
+   [298]order n, and in fact these groups comprise all of the [299]finite
+   subgroups of the [300]multiplicative group of the complex number field.
+   A [301]generator for this cyclic group is a primitive nth root of
+   unity.
+
+   The nth roots of unity form an irreducible [302]representation of any
+   cyclic group of order n. The orthogonality relationship also follows
+   from [303]group-theoretic principles as described in [304]Character
+   group.
+
+   The roots of unity appear as entries of the [305]eigenvectors of any
+   [306]circulant matrix; that is, matrices that are invariant under
+   cyclic shifts, a fact that also follows from [307]group representation
+--
+   Main article: [315]Cyclotomic field
+
+   By adjoining a primitive nth root of unity to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+--
+   i/n)).}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\exp(2\pi i/n)).} This [317]field contains
+   all nth roots of unity and is the [318]splitting field of the nth
+   cyclotomic polynomial over
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   this is an [324]abelian extension. Every [325]subfield of a cyclotomic
+   field is an abelian extension of the rationals. It follows that every
+   nth root of unity may be expressed in term of k-roots, with various k
+   not exceeding f(n). In these cases [326]Galois theory can be written
+   out explicitly in terms of [327]Gaussian periods: this theory from the
+--
+
+   [[333]edit]
+   [334][220px-Roots_of_unity%2C_golden_ratio.svg.png] In the [335]complex
+   plane, the red points are the fifth roots of unity, and the black
+   points are the sums of a fifth root of unity and its complex
+   conjugate.[336][160px-Star_polygon_8-2.svg.png] In the complex plane,
+   the corners of the two squares are the eighth roots of unity
+
+   For n = 1, 2, both roots of unity [337]1 and [338]-1 are [339]integers.
+
+   For three values of n, the roots of unity are [340]quadratic integers:
+     * For n = 3, 6 they are [341]Eisenstein integers ([342]D = -3).
+     * For n = 4 they are [343]Gaussian integers (D = -1): see
+       [344]Imaginary unit.
+
+   For four other values of n, the primitive roots of unity are not
+   quadratic integers, but the sum of any root of unity with its
+   [345]complex conjugate (also an nth root of unity) is a quadratic
+   integer.
+
+   For n = 5, 10, none of the non-real roots of unity (which satisfy a
+   [346]quartic equation) is a quadratic integer, but the sum z + z = 2
+   [347]Re z of each root with its complex conjugate (also a 5th root of
+   unity) is an element of the [348]ring [349]Z[&#8288;1 +  SQRT
+   5/2&#8288;] (D = 5). For two pairs of non-real 5th roots of unity these
+   sums are [350]inverse [351]golden ratio and [352]minus golden ratio.
+
+   For n = 8, for any root of unity z + z equals to either 0, ±2, or
+   ±[353] SQRT 2 (D = 2).
+
+   For n = 12, for any root of unity, z + z equals to either 0, ±1, ±2 or
+   ±[354] SQRT 3 (D = 3).
+
+--
+     * [357]Circle group, the unit complex numbers
+     * [358]Cyclotomic field
+     * [359]Group scheme of roots of unity
+     * [360]Dirichlet character
+     * [361]Ramanujan's sum
+--
+       Classical Problems, Volume 14. Cambridge University Press.
+       pp. 84-86. [368]ISBN [369]978-0-88385-032-9.
+    2. [370]^ Lang, Serge (2002). [371]"Roots of unity". Algebra.
+       Springer. pp. 276-277. [372]ISBN [373]978-0-387-95385-4.
+    3. [374]^ Meserve, Bruce E. (1982). Fundamental Concepts of Algebra.
+--
+   [465]ISBN [466]0-387-94762-0.
+
+     [467]Derbyshire, John (2006). "Roots of Unity". [468]Unknown
+   Quantity. Washington, D.C.: [469]Joseph Henry Press.
+   [470]ISBN [471]0-309-09657-X.
+--
+     * [488]Quadratic irrational number
+     * [489]Rational number
+     * Root of unity
+     * [490]Salem number
+     * [491]Silver ratio (s)
+     * [492]Square root of 2
+     * [493]Square root of 3
+     * [494]Square root of 5
+     * [495]Square root of 6
+     * [496]Square root of 7
+     * [497]Supergolden ratio (q)
+     * [498]Supersilver ratio (*s)
+     * [499]Twelfth root of 2
+
+   [500]icon [501]Mathematics portal
+
+   Retrieved from
+   "[502]https://en.wikipedia.org/w/index.php?title=Root_of_unity&oldid=12
+   45628090"
+
+--
+
+   Visible links:
+   1. file://en.m.wikipedia.org/wiki/Root_of_unity
+   2. file:///w/index.php?title=Root_of_unity&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Special:RecentChanges&feed=atom
+   5. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#bodyContent
+   6. file:///wiki/Main_Page
+   7. file:///wiki/Wikipedia:Contents
+--
+  18. file:///wiki/Special:Search
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  20. file:///w/index.php?title=Special:CreateAccount&returnto=Root+of+unity&returntoquery=default%3D
+  21. file:///w/index.php?title=Special:UserLogin&returnto=Root+of+unity&returntoquery=default%3D
+  22. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=en.wikipedia.org&uselang=en
+  23. file:///w/index.php?title=Special:CreateAccount&returnto=Root+of+unity&returntoquery=default%3D
+  24. file:///w/index.php?title=Special:UserLogin&returnto=Root+of+unity&returntoquery=default%3D
+  25. file:///wiki/Help:Introduction
+  26. file:///wiki/Special:MyContributions
+  27. file:///wiki/Special:MyTalk
+  28. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html
+  29. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#General_definition
+  30. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Elementary_properties
+  31. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Group_properties
+  32. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Group_of_all_roots_of_unity
+  33. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Group_of_nth_roots_of_unity
+  34. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Galois_group_of_the_primitive_nth_roots_of_unity
+  35. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Galois_group_of_the_real_part_of_the_primitive_roots_of_unity
+  36. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Trigonometric_expression
+  37. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Algebraic_expression
+  38. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Explicit_expressions_in_low_degrees
+  39. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Periodicity
+  40. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Summation
+  41. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Orthogonality
+  42. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Cyclotomic_polynomials
+  43. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Cyclic_groups
+  44. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Cyclotomic_fields
+  45. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Relation_to_quadratic_integers
+  46. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#See_also
+  47. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Notes
+  48. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#References
+  49. https://ar.wikipedia.org/wiki/%D8%AC%D8%B0%D9%88%D8%B1_%D8%A7%D9%84%D9%88%D8%AD%D8%AF%D8%A9_(%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA)
+  50. https://ca.wikipedia.org/wiki/Arrel_de_la_unitat
+--
+  76. https://zh.wikipedia.org/wiki/%E5%8D%95%E4%BD%8D%E6%A0%B9
+  77. https://www.wikidata.org/wiki/Special:EntityPage/Q756747#sitelinks-wikipedia
+  78. file:///wiki/Root_of_unity
+  79. file:///wiki/Talk:Root_of_unity
+  80. file:///wiki/Root_of_unity
+  81. file:///w/index.php?title=Root_of_unity&action=edit
+  82. file:///w/index.php?title=Root_of_unity&action=history
+  83. file:///wiki/Root_of_unity
+  84. file:///w/index.php?title=Root_of_unity&action=edit
+  85. file:///w/index.php?title=Root_of_unity&action=history
+  86. file:///wiki/Special:WhatLinksHere/Root_of_unity
+  87. file:///wiki/Special:RecentChangesLinked/Root_of_unity
+  88. file:///wiki/Wikipedia:File_Upload_Wizard
+  89. file:///wiki/Special:SpecialPages
+  90. file:///w/index.php?title=Root_of_unity&oldid=1245628090
+  91. file:///w/index.php?title=Root_of_unity&action=info
+  92. file:///w/index.php?title=Special:CiteThisPage&page=Root_of_unity&id=1245628090&wpFormIdentifier=titleform
+  93. file:///w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DRoot_of_unity%26default%3D
+  94. file:///w/index.php?title=Special:QrCode&url=https%3A%2F%2Fen.wikipedia.org%2Fw%2Findex.php%3Ftitle%3DRoot_of_unity%26default%3D
+  95. file:///w/index.php?title=Special:DownloadAsPdf&page=Root_of_unity&action=show-download-screen
+  96. file:///w/index.php?title=Root_of_unity&printable=yes
+  97. https://commons.wikimedia.org/wiki/Category:Roots_of_unity
+  98. https://www.wikidata.org/wiki/Special:EntityPage/Q756747
+  99. file:///wiki/Wikipedia:Verifiability
+ 100. file:///wiki/Special:EditPage/Root_of_unity
+ 101. file:///wiki/Help:Referencing_for_beginners
+ 102. https://www.google.com/search?as_eq=wikipedia&q=%22Root+of+unity%22
+ 103. https://www.google.com/search?tbm=nws&q=%22Root+of+unity%22+-wikipedia&tbs=ar:1
+ 104. https://www.google.com/search?&q=%22Root+of+unity%22&tbs=bkt:s&tbm=bks
+ 105. https://www.google.com/search?tbs=bks:1&q=%22Root+of+unity%22+-wikipedia
+ 106. https://scholar.google.com/scholar?q=%22Root+of+unity%22
+ 107. https://www.jstor.org/action/doBasicSearch?Query=%22Root+of+unity%22&acc=on&wc=on
+ 108. file:///wiki/Help:Maintenance_template_removal
+ 109. file:///wiki/File:One5Root.svg
+ 110. file:///wiki/Complex_plane
+ 111. file:///wiki/Mathematics
+--
+ 123. file:///wiki/Converse_(logic)
+ 124. file:///wiki/Algebraically_closed_field
+ 125. file:///w/index.php?title=Root_of_unity&action=edit&section=1
+ 126. file:///wiki/File:Visualisation_complex_number_roots.svg
+ 127. file:///wiki/Equation
+ 128. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-1
+ 129. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-2
+ 130. file:///wiki/Complex_number
+ 131. file:///wiki/Parity_(mathematics)
+ 132. file:///wiki/Complex_number
+ 133. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-meserve-3
+ 134. file:///wiki/Field_(mathematics)
+ 135. file:///wiki/Ring_(mathematics)
+ 136. file:///wiki/Characteristic_(algebra)
+ 137. file:///wiki/Finite_field
+ 138. file:///wiki/Root_of_unity_modulo_n
+ 139. file:///wiki/Finite_field
+ 140. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-moskowitz-4
+ 141. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-lidl-5
+ 142. file:///wiki/Prime_number
+ 143. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-morandi-6
+ 144. file:///wiki/Coprime_integers
+ 145. file:///wiki/Finite_field#Roots_of_unity
+ 146. file:///wiki/Modular_arithmetic
+ 147. file:///wiki/Root_of_unity_modulo_n
+ 148. file:///w/index.php?title=Root_of_unity&action=edit&section=2
+ 149. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-integer-power-7
+ 150. file:///wiki/Multiplicative_inverse
+ 151. file:///wiki/Complex_conjugate
+ 152. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-conjugate-8
+ 153. file:///wiki/Modular_arithmetic
+ 154. file:///wiki/Euclidean_division
+--
+ 163. file:///wiki/Divisor
+ 164. file:///wiki/Cardinality
+ 165. file:///w/index.php?title=Root_of_unity&action=edit&section=3
+ 166. file:///w/index.php?title=Root_of_unity&action=edit&section=4
+ 167. file:///wiki/Multiplicative_inverse
+ 168. file:///wiki/Least_common_multiple
+--
+ 171. file:///wiki/Torsion_subgroup
+ 172. file:///wiki/Circle_group
+ 173. file:///w/index.php?title=Root_of_unity&action=edit&section=5
+ 174. file:///wiki/Cyclic_group
+ 175. file:///wiki/Subgroup
+ 176. file:///wiki/Circle_group
+ 177. file:///w/index.php?title=Root_of_unity&action=edit&section=6
+ 178. file:///wiki/Field_extension
+ 179. file:///wiki/Rational_number
+--
+ 189. file:///wiki/Abelian_group
+ 190. file:///wiki/Radical_expression
+ 191. file:///w/index.php?title=Root_of_unity&action=edit&section=7
+ 192. file:///wiki/Minimal_polynomial_of_2cos(2pi/n)
+ 193. file:///wiki/Minimal_polynomial_(field_theory)
+ 194. file:///w/index.php?title=Root_of_unity&action=edit&section=8
+ 195. file:///wiki/File:3rd_roots_of_unity_correction.svg
+ 196. file:///wiki/De_Moivre%27s_formula
+ 197. file:///wiki/Real_number
+--
+ 207. file:///wiki/Complex_number
+ 208. file:///wiki/Trigonometric_number
+ 209. file:///w/index.php?title=Root_of_unity&action=edit&section=9
+ 210. file:///wiki/Root_of_a_polynomial
+ 211. file:///wiki/Polynomial
+ 212. file:///wiki/Algebraic_number
+--
+ 214. file:///wiki/Cyclotomic_polynomial
+ 215. file:///wiki/Euler%27s_totient_function
+ 216. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-riesel-9
+ 217. file:///wiki/Galois_theory
+ 218. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Cyclotomic_fields
+ 219. file:///wiki/Mathematical_proof
+ 220. file:///wiki/Square_root
+ 221. file:///wiki/Compass-and-straightedge_construction
+ 222. file:///wiki/Regular_polygon
+--
+ 228. file:///wiki/Empty_product
+ 229. file:///wiki/Casus_irreducibilis
+ 230. file:///w/index.php?title=Root_of_unity&action=edit&section=10
+ 231. file:///wiki/Real_number
+ 232. file:///wiki/Cube_root
+ 233. file:///wiki/Quadratic_polynomial
+ 234. file:///wiki/Quartic_polynomial
+ 235. file:///wiki/Cube_root
+ 236. file:///wiki/Complex_conjugate
+ 237. file:///wiki/Casus_irreducibilis
+ 238. file:///wiki/Heptadecagon
+ 239. file:///w/index.php?title=Root_of_unity&action=edit&section=11
+ 240. file:///wiki/Basis_(linear_algebra)
+ 241. file:///wiki/Linear_space
+--
+ 245. file:///wiki/Amplitude
+ 246. file:///wiki/Discrete_Fourier_transform
+ 247. file:///w/index.php?title=Root_of_unity&action=edit&section=12
+ 248. file:///wiki/Vieta%27s_formulas
+ 249. file:///wiki/Coefficient
+ 250. file:///wiki/Group_(mathematics)
+ 251. file:///wiki/M%C3%B6bius_function
+ 252. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#Elementary_properties
+ 253. file:///wiki/M%C3%B6bius_inversion_formula
+ 254. file:///wiki/Ramanujan%27s_sum
+ 255. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-apostol-10
+ 256. file:///w/index.php?title=Root_of_unity&action=edit&section=13
+ 257. file:///wiki/Orthogonality
+ 258. file:///wiki/Kronecker_delta
+--
+ 265. file:///wiki/Trigonometric_interpolation
+ 266. file:///wiki/Fast_Fourier_transform
+ 267. file:///w/index.php?title=Root_of_unity&action=edit&section=14
+ 268. file:///wiki/Cyclotomic_polynomial
+ 269. file:///wiki/Zero_of_a_function
+ 270. file:///wiki/Multiplicity_of_a_root
+ 271. file:///wiki/Cyclotomic_polynomial
+ 272. file:///wiki/Euler%27s_totient_function
+ 273. file:///wiki/Irreducible_polynomial
+ 274. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-riesel-9
+ 275. file:///wiki/Eisenstein%27s_criterion
+ 276. file:///wiki/Binomial_theorem
+ 277. file:///wiki/Divisor
+ 278. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-riesel-9
+ 279. file:///wiki/Factorization_of_polynomials
+ 280. file:///wiki/M%C3%B6bius_inversion
+ 281. file:///wiki/M%C3%B6bius_function
+ 282. file:///wiki/Prime_number
+ 283. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-morandi-6
+ 284. file:///wiki/Radix
+ 285. file:///wiki/Repunit
+--
+ 287. file:///wiki/Parity_(mathematics)
+ 288. file:///wiki/Absolute_value
+ 289. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-lehmer-11
+ 290. file:///wiki/Radical_expression
+ 291. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-landau-12
+ 292. file:///wiki/Carl_Friedrich_Gauss
+ 293. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-13
+ 294. file:///wiki/Algorithm
+ 295. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-14
+ 296. file:///w/index.php?title=Root_of_unity&action=edit&section=15
+ 297. file:///wiki/Cyclic_group
+ 298. file:///wiki/Order_(group_theory)
+--
+ 307. file:///wiki/Group_representation_theory
+ 308. file:///wiki/Bloch%27s_theorem
+ 309. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-yoshitaka-15
+ 310. file:///wiki/Wikipedia:Citing_sources
+ 311. file:///wiki/Hermitian_matrix
+ 312. file:///wiki/Laplacian
+ 313. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-siam-16
+ 314. file:///w/index.php?title=Root_of_unity&action=edit&section=16
+ 315. file:///wiki/Cyclotomic_field
+ 316. file:///wiki/Cyclotomic_field
+--
+ 328. file:///wiki/Disquisitiones_Arithmeticae
+ 329. file:///wiki/Carl_Friedrich_Gauss
+ 330. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_note-17
+ 331. file:///wiki/Leopold_Kronecker
+ 332. file:///wiki/Kronecker%E2%80%93Weber_theorem
+ 333. file:///w/index.php?title=Root_of_unity&action=edit&section=17
+ 334. file:///wiki/File:Roots_of_unity,_golden_ratio.svg
+ 335. file:///wiki/Complex_plane
+ 336. file:///wiki/File:Star_polygon_8-2.svg
+--
+ 351. file:///wiki/Golden_ratio
+ 352. file:///wiki/Additive_inverse
+ 353. file:///wiki/Square_root_of_2
+ 354. file:///wiki/Square_root_of_3
+ 355. file:///w/index.php?title=Root_of_unity&action=edit&section=18
+ 356. file:///wiki/Argand_system
+ 357. file:///wiki/Circle_group
+ 358. file:///wiki/Cyclotomic_field
+ 359. file:///wiki/Group_scheme_of_roots_of_unity
+ 360. file:///wiki/Dirichlet_character
+ 361. file:///wiki/Ramanujan%27s_sum
+ 362. file:///wiki/Witt_vector
+ 363. file:///wiki/Teichm%C3%BCller_character
+ 364. file:///w/index.php?title=Root_of_unity&action=edit&section=19
+ 365. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-1
+ 366. file:///wiki/Charles_Robert_Hadlock
+ 367. https://books.google.com/books?id=5s1p0CyafnEC&pg=PA84
+ 368. file:///wiki/ISBN_(identifier)
+ 369. file:///wiki/Special:BookSources/978-0-88385-032-9
+ 370. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-2
+ 371. https://books.google.com/books?id=Fge-BwqhqIYC&pg=PA276
+ 372. file:///wiki/ISBN_(identifier)
+ 373. file:///wiki/Special:BookSources/978-0-387-95385-4
+ 374. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-meserve_3-0
+ 375. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-moskowitz_4-0
+ 376. https://books.google.com/books?id=YT2_Kqsnn9wC&pg=PA36
+ 377. file:///wiki/ISBN_(identifier)
+ 378. file:///wiki/Special:BookSources/9789812794949
+ 379. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-lidl_5-0
+ 380. file:///wiki/G%C3%BCnter_Pilz
+ 381. https://books.google.com/books?id=irXSBwAAQBAJ&pg=PA149
+--
+ 384. file:///wiki/ISBN_(identifier)
+ 385. file:///wiki/Special:BookSources/978-0-387-96166-8
+ 386. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-morandi_6-0
+ 387. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-morandi_6-1
+ 388. https://books.google.com/books?id=jQ7c8Xqpqk0C&pg=PA74
+ 389. file:///wiki/Doi_(identifier)
+--
+ 391. file:///wiki/ISBN_(identifier)
+ 392. file:///wiki/Special:BookSources/978-0-387-94753-2
+ 393. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-integer-power_7-0
+ 394. https://books.google.com/books?id=q33he4hOlKcC&pg=PA137
+ 395. file:///wiki/ISBN_(identifier)
+ 396. file:///wiki/Special:BookSources/978-0-19-536787-4
+ 397. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-conjugate_8-0
+ 398. file:///wiki/Joseph_J._Rotman
+ 399. https://books.google.com/books?id=SugUCwAAQBAJ&pg=PA129
+ 400. file:///wiki/ISBN_(identifier)
+ 401. file:///wiki/Special:BookSources/9781470415549
+ 402. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-riesel_9-0
+ 403. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-riesel_9-1
+ 404. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-riesel_9-2
+ 405. file:///wiki/Hans_Riesel
+ 406. https://books.google.com/books?id=ITvaBwAAQBAJ&pg=PA306
+ 407. file:///wiki/ISBN_(identifier)
+ 408. file:///wiki/Special:BookSources/0-8176-3743-5
+ 409. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-apostol_10-0
+ 410. file:///wiki/Tom_M._Apostol
+ 411. https://books.google.com/books?id=3yoBCAAAQBAJ&pg=PA160
+--
+ 414. file:///wiki/ISBN_(identifier)
+ 415. file:///wiki/Special:BookSources/978-1-4419-2805-4
+ 416. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-lehmer_11-0
+ 417. file:///wiki/Emma_Lehmer
+ 418. https://doi.org/10.1090%2FS0002-9904-1936-06309-3
+ 419. file:///wiki/Doi_(identifier)
+ 420. https://doi.org/10.1090%2FS0002-9904-1936-06309-3
+ 421. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-landau_12-0
+ 422. file:///wiki/Susan_Landau
+ 423. file:///wiki/Gary_Miller_(computer_scientist)
+ 424. file:///wiki/Doi_(identifier)
+ 425. https://doi.org/10.1016%2F0022-0000%2885%2990013-3
+ 426. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-13
+ 427. file:///wiki/Carl_Friedrich_Gauss
+ 428. file:///wiki/ISBN_(identifier)
+ 429. file:///wiki/Special:BookSources/0-300-09473-6
+ 430. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-14
+ 431. http://cg.cs.uni-bonn.de/personal-pages/weber/publications/pdf/WeberA/WeberKeckeisen99a.pdf
+ 432. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-yoshitaka_15-0
+ 433. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-siam_16-0
+ 434. file:///wiki/Gilbert_Strang
+ 435. http://epubs.siam.org/sam-bin/dbq/article/33674
+--
+ 438. file:///wiki/Doi_(identifier)
+ 439. https://doi.org/10.1137%2FS0036144598336745
+ 440. file:///home/sibel/Travail-Groupe/Projet/PageWeb/URLs/aspirations/en_Root_of_unity.html#cite_ref-17
+ 441. file:///wiki/%C3%89variste_Galois
+ 442. file:///w/index.php?title=Root_of_unity&action=edit&section=20
+ 443. file:///wiki/Serge_Lang
+ 444. file:///wiki/Graduate_Texts_in_Mathematics
+--
+ 490. file:///wiki/Salem_number
+ 491. file:///wiki/Silver_ratio
+ 492. file:///wiki/Square_root_of_2
+ 493. file:///wiki/Square_root_of_3
+ 494. file:///wiki/Square_root_of_5
+ 495. file:///wiki/Square_root_of_6
+ 496. file:///wiki/Square_root_of_7
+ 497. file:///wiki/Supergolden_ratio
+ 498. file:///wiki/Supersilver_ratio
+ 499. file:///wiki/Twelfth_root_of_2
+ 500. file:///wiki/File:Nuvola_apps_edu_mathematics_blue-p.svg
+ 501. file:///wiki/Portal:Mathematics
+ 502. https://en.wikipedia.org/w/index.php?title=Root_of_unity&oldid=1245628090
+ 503. file:///wiki/Help:Category
+ 504. file:///wiki/Category:Algebraic_numbers
+--
+ 528. https://stats.wikimedia.org/#/en.wikipedia.org
+ 529. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 530. file://en.m.wikipedia.org/w/index.php?title=Root_of_unity&default=&mobileaction=toggle_view_mobile
+ 531. https://wikimediafoundation.org/
+ 532. https://www.mediawiki.org/
