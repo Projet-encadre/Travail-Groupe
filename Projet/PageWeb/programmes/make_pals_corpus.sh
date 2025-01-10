@@ -7,7 +7,7 @@ if [ $# -lt 2 ]; then
 fi
 
 # Arguments
-dossier=$1
+dossier="$1"
 base_name=$2
 
 # Dossiers et fichiers de sortie
@@ -22,7 +22,7 @@ context_output="$pals_dir/contextes-$base_name.txt"
 > "$context_output"
 
 # Traiter les fichiers dumps-text
-for file in "$dossier"/dumps-text/*.txt; do
+for file in "$dossier/dumps-text"/*.txt; do
     echo "Traitement du fichier : $file"
 
     # Ajouter chaque mot du fichier à la sortie (un mot par ligne)
@@ -37,7 +37,7 @@ done
 echo "Fichier dump créé : $dump_output"
 
 # Traiter les fichiers contextes
-for file in "$dossier"/contextes/*.txt; do
+for file in "$dossier/contextes"/*.txt; do
     echo "Traitement du fichier : $file"
 
     # Ajouter chaque mot du contexte avec une séparation claire
@@ -48,3 +48,7 @@ for file in "$dossier"/contextes/*.txt; do
     # Ajouter une ligne vide pour séparer les fichiers
     echo "" >> "$context_output"
 done
+
+echo "Fichier contextes créé : $context_output"
+
+echo "Tous les fichiers PALS sont prêts dans le dossier $pals_dir"
