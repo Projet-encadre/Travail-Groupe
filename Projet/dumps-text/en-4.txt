@@ -1,0 +1,732 @@
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Directory structure
+     * 2 FHS compliance
+     * 3 History
+       (BUTTON) Toggle History subsection
+          + 3.1 The name of usr
+          + 3.2 Release history
+     * 4 See also
+     * 5 Notes
+     * 6 References
+     * 7 External links
+
+   [ ] Toggle the table of contents
+
+Filesystem Hierarchy Standard
+
+   [ ] 24 languages
+     * العربية
+     * Български
+     * Català
+     * Čeština
+     * Dansk
+     * Deutsch
+     * Español
+     * Esperanto
+     * فارسی
+     * Français
+     * 한국어
+     * Italiano
+     * עברית
+     * Latviešu
+     * Nederlands
+     * 日本語
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Suomi
+     * Svenska
+     * Українська
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Linux standard for directory structure
+
+   CAPTION: Filesystem Hierarchy Standard
+
+   Abbreviation FHS
+   Status Published
+   Year started 14 February 1994; 30 years ago (1994-02-14)
+   Latest version 3.0
+   3 June 2015; 9 years ago (2015-06-03)
+   Organization Linux Foundation
+   Domain Directory structure
+   Website Official website
+   Official website (Historical)
+
+   The Filesystem Hierarchy Standard (FHS) is a reference describing the
+   conventions used for the layout of Unix-like systems. It has been made
+   popular by its use in Linux distributions, but it is used by other
+   Unix-like systems as well.^[1] It is maintained by the Linux
+   Foundation. The latest version is 3.0, released on 3 June 2015.^[2]
+
+Directory structure
+
+   [edit]
+   [300px-Ubuntu_Filesystem_Hierarchy.png] Typical Ubuntu filesystem
+   hierarchy
+
+   In the FHS, all files and directories appear under the root directory
+   /, even if they are stored on different physical or virtual devices.
+   Some of these directories only exist in a particular system if certain
+   subsystems, such as the X Window System, are installed.
+
+   Most of these directories exist in all Unix-like operating systems and
+   are generally used in much the same way; however, the descriptions here
+   are those used specifically for the FHS and are not considered
+   authoritative for platforms other than Linux.
+   Directory Description
+   / Primary hierarchy root and root directory of the entire file system
+   hierarchy.
+   /bin Essential command binaries that need to be available in
+   single-user mode, including to bring up the system or repair it,^[3]
+   for all users (e.g., cat, ls, cp).
+   /boot Boot loader files (e.g., kernels, initrd).
+   /dev Device files (e.g., /dev/null, /dev/disk0, /dev/sda1, /dev/tty,
+   /dev/random).
+   /etc Host-specific system-wide configuration files.
+
+   There has been controversy over the meaning of the name itself. In
+   early versions of the UNIX Implementation Document from Bell Labs, /etc
+   is referred to as the etcetera directory,^[4] as this directory
+   historically held everything that did not belong elsewhere (however,
+   the FHS restricts /etc to static configuration files and may not
+   contain binaries).^[5] Since the publication of early documentation,
+   the directory name has been re-explained in various ways. Recent
+   interpretations include backronyms such as "Editable Text
+   Configuration" or "Extended Tool Chest".^[6]
+   /etc/opt Configuration files for add-on packages stored in /opt.
+   /etc/sgml Configuration files, such as catalogs, for software that
+   processes SGML.
+   /etc/X11 Configuration files for the X Window System, version 11.
+   /etc/xml Configuration files, such as catalogs, for software that
+   processes XML.
+   /home Users' home directories, containing saved files, personal
+   settings, etc.
+   /lib Libraries essential for the binaries in /bin and /sbin.
+   /lib<qual> Alternate format essential libraries. These are typically
+   used on systems that support more than one executable code format, such
+   as systems supporting 32-bit and 64-bit versions of an instruction set.
+   Such directories are optional, but if they exist, they have some
+   requirements.
+   /media Mount points for removable media such as CD-ROMs (appeared in
+   FHS-2.3 in 2004).
+   /mnt Temporarily mounted filesystems.
+   /opt Add-on application software packages.^[7]
+   /proc Virtual filesystem providing process and kernel information as
+   files. In Linux, corresponds to a procfs mount. Generally,
+   automatically generated and populated by the system, on the fly.
+   /root Home directory for the root user.
+   /run Run-time variable data: Information about the running system since
+   last boot, e.g., currently logged-in users and running daemons. Files
+   under this directory must be either removed or truncated at the
+   beginning of the boot process, but this is not necessary on systems
+   that provide this directory as a temporary filesystem (tmpfs) (appeared
+   in FHS-3.0 in 2015).
+   /sbin Essential system binaries (e.g., fsck, init, route).
+   /srv Site-specific data served by this system, such as data and scripts
+   for web servers, data offered by FTP servers, and repositories for
+   version control systems (appeared in FHS-2.3 in 2004).
+   /sys Contains information about devices, drivers, and some kernel
+   features.^[8]
+   /tmp Directory for temporary files (see also /var/tmp). Often not
+   preserved between system reboots and may be severely size-restricted.
+   /usr Secondary hierarchy for read-only user data; contains the majority
+   of (multi-)user utilities and applications. Should be shareable and
+   read-only.^[9]^[10]
+   /usr/bin Non-essential command binaries (not needed in single-user
+   mode); for all users.
+   /usr/include Standard include files.
+   /usr/lib Libraries for the binaries in /usr/bin and /usr/sbin.
+   /usr/libexec Binaries run by other programs that are not intended to be
+   executed directly by users or shell scripts (optional).
+   /usr/lib<qual> Alternative-format libraries (e.g., /usr/lib32 for
+   32-bit libraries on a 64-bit machine (optional)).
+   /usr/local Tertiary hierarchy for local data, specific to this host.
+   Typically has further subdirectories (e.g., bin, lib, share).^[NB 1]
+   /usr/sbin Non-essential system binaries (e.g., daemons for various
+   network services).
+   /usr/share Architecture-independent (shared) data.
+   /usr/src Source code (e.g., the kernel source code with its header
+   files).
+   /usr/X11R6 X Window System, Version 11, Release 6 (up to FHS-2.3,
+   optional).
+   /var Variable files: files whose content is expected to continually
+   change during normal operation of the system, such as logs, spool
+   files, and temporary e-mail files.
+   /var/cache Application cache data. Such data are locally generated as a
+   result of time-consuming I/O or calculation. The application must be
+   able to regenerate or restore the data. The cached files can be deleted
+   without loss of data.
+   /var/lib State information. Persistent data modified by programs as
+   they run (e.g., databases, packaging system metadata, etc.).
+   /var/lock Lock files. Files keeping track of resources currently in
+   use.
+   /var/log Log files. Various logs.
+   /var/mail Mailbox files. In some distributions, these files may be
+   located in the deprecated /var/spool/mail.
+   /var/opt Variable data from add-on packages that are stored in /opt.
+   /var/run Run-time variable data. This directory contains system
+   information data describing the system since it was booted.^[11]
+
+   In FHS 3.0, /var/run is replaced by /run; a system should either
+   continue to provide a /var/run directory or provide a symbolic link
+   from /var/run to /run for backwards compatibility.^[12]
+   /var/spool Spool for tasks waiting to be processed (e.g., print queues
+   and outgoing mail queue).
+   /var/spool/mail Deprecated location for users' mailboxes.^[13]
+   /var/tmp Temporary files to be preserved between reboots.
+
+FHS compliance
+
+   [edit]
+
+   Most Linux distributions follow the Filesystem Hierarchy Standard and
+   declare it their own policy to maintain FHS
+   compliance.^[14]^[15]^[16]^[17] GoboLinux^[18] and NixOS^[19] provide
+   examples of intentionally non-compliant filesystem implementations.
+
+   Some distributions generally follow the standard but deviate from it in
+   some areas. The FHS is a "trailing standard", and so documents common
+   practices at a point in time. Of course, times change, and distribution
+   goals and needs call for experimentation. Some common deviations
+   include:
+     * Modern Linux distributions include a /sys directory as a virtual
+       filesystem (sysfs, comparable to /proc, which is a procfs), which
+       stores and allows modification of the devices connected to the
+       system,^[20] whereas many traditional Unix-like operating systems
+       use /sys as a symbolic link to the kernel source tree.^[21]
+     * Many modern Unix-like systems (such as FreeBSD and OpenBSD) via
+       their ports systems install third-party packages into /usr/local,
+       while keeping code considered part of the operating system in /usr.
+     * Some Linux distributions no longer differentiate between /lib and
+       /usr/lib and have /lib symlinked to /usr/lib.^[22]
+     * Some Linux distributions no longer differentiate between /bin and
+       /usr/bin and between /sbin and /usr/sbin. They may symlink /bin to
+       /usr/bin and /sbin to /usr/sbin. Other distributions choose to
+       consolidate all four, symlinking them to /usr/bin.^[23]
+
+   Modern Linux distributions include a /run directory as a temporary
+   filesystem (tmpfs), which stores volatile runtime data, following the
+   FHS version 3.0. According to the FHS version 2.3, such data were
+   stored in /var/run, but this was a problem in some cases because this
+   directory is not always available at early boot. As a result, these
+   programs have had to resort to trickery, such as using /dev/.udev,
+   /dev/.mdadm, /dev/.systemd or /dev/.mount directories, even though the
+   device directory is not intended for such data.^[24] Among other
+   advantages, this makes the system easier to use normally with the root
+   filesystem mounted read-only. For example, below are the changes Debian
+   made in its 2013 Wheezy release:^[25]
+     * /dev/.* → /run/*
+     * /dev/shm → /run/shm
+     * /dev/shm/* → /run/*
+     * /etc/* (writeable files) → /run/*
+     * /lib/init/rw → /run
+     * /var/lock → /run/lock
+     * /var/run → /run
+     * /tmp → /run/tmp
+
+History
+
+   [edit]
+
+The name of usr
+
+   [edit]
+
+   /usr originally stood for "user".^[26] This was an artifact of early
+   Unix programming. Specifically, when Ken Thompson and Dennis Ritchie
+   were migrating Unix to a PDP-11, the contents of the /bin and /lib
+   directories, which were to be the first directories mounted on startup
+   and to contain all essentials for the OS to function, became too large
+   to fit on an RK05 disk drive. So they put some of those files on a
+   second RK05, making sure that the first drive contained everything
+   required for loading the second one. The rest of the files were put
+   into the /usr directory.^[27] When they got a third drive, users' files
+   were moved to a new directory named /home.^[28]
+
+   FHS was created as the FSSTND (short for "Filesystem Standard"^[29]),
+   largely based on similar standards for other Unix-like operating
+   systems. Notable examples are these: the
+   hier(7) description of file system layout,^[30] which has existed since
+   the release of Version 7 Unix (in 1979);^[31] the SunOS
+   filesystem(7)^[32] and its successor, the Solaris
+   filesystem(7).^[33]^[34]
+
+Release history
+
+   [edit]
+   Version Release date Notes
+   Old version, no longer maintained: 1.0 1994-02-14 FSSTND^[35]
+   Old version, no longer maintained: 1.1 1994-10-09 FSSTND^[36]
+   Old version, no longer maintained: 1.2 1995-03-28 FSSTND^[37]
+   Old version, no longer maintained: 2.0 1997-10-26 FHS 2.0 is the direct
+   successor for FSSTND 1.2. Name of the standard was changed to
+   Filesystem Hierarchy Standard.^[38]^[39]^[40]
+   Old version, no longer maintained: 2.1 2000-04-12 FHS^[41]^[42]^[43]
+   Old version, no longer maintained: 2.2 2001-05-23 FHS^[44]
+   Old version, no longer maintained: 2.3 2004-01-29 FHS^[45]
+   Current stable version: 3.0 2015-05-18 FHS^[46]
+   Legend:
+   Old version
+   Old version, still maintained
+   Latest version
+   Latest preview version
+   Future release
+
+See also
+
+   [edit]
+     * Hierarchical file system
+     * Unix directory structure
+     * XDG Base Directory Specification
+
+Notes
+
+   [edit]
+    1. ^ Historically and strictly according to the standard, /usr/local
+       is for data that must be stored on the local host (as opposed to
+       /usr, which may be mounted across a network). Most of the time
+       /usr/local is used for installing software/data that are not part
+       of the standard operating system distribution (in such case, /usr
+       would only contain software/data that are part of the standard
+       operating system distribution). It is possible that the FHS
+       standard may in the future be changed to reflect this de facto
+       convention.
+
+References
+
+   [edit]
+    1. ^ "FHS". The Linux Foundation Wiki. Retrieved 4 January 2022.
+    2. ^ "lsb:fhs-30 [Wiki]". wiki.linuxfoundation.org. Retrieved 22
+       February 2023.
+    3. ^ "hier(7) - Linux manual page". man7.org. Retrieved 6 January
+       2021.
+    4. ^ J. DeFelicc (17 March 1972). "E.0". Preliminary Release of UNIX
+       Implementation Document (PDF). p. 8. IMO.1-1. Retrieved 6 June
+       2024.
+    5. ^ "/etc : Host-specific system configuration". Filesystem Hierarchy
+       Standard 2.3. Retrieved 18 February 2016.
+    6. ^ Define - /etc?, Posted by Cliff, 3 March 2007 - Slashdot.
+    7. ^ "/opt : Add-on application software packages". Filesystem
+       Hierarchy Standard 2.3. Retrieved 18 February 2016.
+    8. ^ "/sys : Kernel and system information virtual filesystem".
+       Filesystem Hierarchy Standard 3.0. Retrieved 4 June 2017.
+    9. ^ "Chapter 4. The /usr Hierarchy". Filesystem Hierarchy Standard
+       2.3.
+   10. ^ "Chapter 4. The /usr Hierarchy, Section 4.1 Purpose". Filesystem
+       Hierarchy Standard 3.0.
+   11. ^ "/var/run : Run-time variable data". Filesystem Hierarchy
+       Standard 2.3.
+   12. ^ "5.13. /var/run : Run-time variable data". Filesystem Hierarchy
+       Standard 3.0.
+   13. ^ "File System Standard" (PDF). Linux Foundation. p. 5.11.1.
+   14. ^ Red Hat reference guide on file system structure.
+   15. ^ SuSE Linux Enterprise Server Administration, Novell authorized
+       courseware, by Jason W. Eckert, Novell; Course Technology, 2006;
+       ISBN 1-4188-3731-8,
+
+   ISBN 978-1-4188-3731-0.
+
+     ^ Debian policy on FHS compliance.
+
+     ^ Ubuntu Linux File system Tree Overview – Community Ubuntu
+   Documentation.
+
+     ^ Hisham Muhammad (9 May 2003). "The Unix tree rethought: an
+   introduction to GoboLinux". Retrieved 4 October 2016.
+
+     ^ Dolstra, E.; Löh, A. (September 2008). NixOS: A Purely Functional
+   Linux Distribution (PDF). ICFP 2008: 13th ACM SIGPLAN International
+   Conference on Functional Programming. Victoria, British Columbia,
+   Canada. pp. 367–378.
+
+     ^ "5.3 About the /sys Virtual File System". docs.oracle.com. Oracle.
+   Archived from the original on 8 July 2016. Retrieved 8 July 2016.
+
+     ^ Lehey, Greg (May 2003). The Complete FreeBSD: Documentation from
+   the Source (Fourth ed.). O'Reilly Media, Incorporated. pp. 188, 609.
+   ISBN 9780596005160.
+
+     ^ Allan McRae. "Arch Linux – News: The /lib directory becomes a
+   symlink". archlinux.org. Archived from the original on 9 September
+   2014. Retrieved 14 December 2019.
+
+     ^ Allan McRae. "Arch Linux – News: Binaries move to /usr/bin
+   requiring update intervention". archlinux.org. Archived from the
+   original on 10 September 2014. Retrieved 15 December 2019.
+
+     ^ Lennart Poettering (30 March 2011). "What's this /run directory
+   doing on my system and where does it come from?".
+   devel@lists.fedoraproject.org (Mailing list).
+
+     ^ "ReleaseGoalsRunDirectory". Debian Wiki.
+
+     ^ "/usr". tldp.org. Retrieved 10 December 2023.
+
+     ^ M. D. McIlroy (1987). "A Research Unix reader: annotated excerpts
+   from the Programmer's Manual, 1971–1986" (PDF). Bell Labs. CSTR 139.
+
+     ^ Landley, Rob (9 December 2010). "Understanding the bin, sbin,
+   usr/bin , usr/sbin split". busybox (Mailing list).
+
+     ^ "FSSTND FAQ page". Retrieved 10 May 2016.
+
+     ^ hier(7) – FreeBSD Miscellaneous Information Manual.
+
+     ^ hier(7) – Version 7 Unix Programmer's Manual
+
+     ^ SunOS 4.1.3 manual page for filesystem(7), dated 10 January 1988
+   (from the FreeBSD Man Pages library).
+
+     ^ filesystem(7) – Solaris 11.4 Standards, Environments, Macros,
+   Character Sets, and Miscellany Reference Manual.
+
+     ^ "filesystem man page – Solaris 10 11/06 Man Pages". Archived from
+   the original on 4 July 2007. Retrieved 15 October 2011.
+
+     ^ "Index of /pub/Linux/docs/fsstnd/old/fsstnd-1.0/". Ibiblio.org.
+   Retrieved 16 October 2012.
+
+     ^ "Index of /pub/Linux/docs/fsstnd/old/fsstnd-1.1/". Ibiblio.org.
+   Retrieved 16 October 2012.
+
+     ^ "Index of /pub/Linux/docs/fsstnd/old/". Ibiblio.org. Retrieved 16
+   October 2012.
+
+     ^ "FHS 2.0 Announcement". Pathname.com. Retrieved 16 October 2012.
+
+     ^ Quinlan, Daniel (14 March 2012) [1997], "FHS 2.0 Announcement",
+   BSD, Linux, Unix and The Internet – Research by Kenneth R. Saborio, San
+   Jose, Costa Rica: Kenneth R. Saborio, archived from the original on 5
+   March 2016, retrieved 18 February 2016.
+
+     ^ "Index of /pub/Linux/docs/fsstnd/". Ibiblio.org. Retrieved 16
+   October 2012.
+
+     ^ "FHS 2.1 Announcement". Pathname.com. Retrieved 16 October 2012.
+
+     ^ "FHS 2.1 is released". Lists.debian.org. 13 April 2000. Retrieved
+   16 October 2012.
+
+     ^ Quinlan, Daniel (12 April 2000). "Filesystem Hierarchy Standard –
+   Version 2.1, Filesystem Hierarchy Standard Group" (PDF). Acadia Linux
+   Tutorials. Wolfville, Nova Scotia, Canada: Jodrey School of Computer
+   Science, Acadia University. Archived from the original (PDF) on 27
+   March 2012. Retrieved 18 October 2012.
+
+     ^ Russell, Rusty; Quinlan, Daniel, eds. (23 May 2001). "Filesystem
+   Hierarchy Standard – Version 2.2 final Filesystem Hierarchy Standard
+   Group" (PDF). Filesystem Hierarchy Standard. Retrieved 18 February
+   2016.
+
+     ^ Russell, Rusty; Quinlan, Daniel; Yeoh, Christopher, eds. (28
+   January 2004). "Filesystem Hierarchy Standard - Filesystem Hierarchy
+   Standard Group" (PDF). Retrieved 29 November 2014.
+
+     ^ Yeoh, Christopher; Russell, Rusty; Quinlan, Daniel, eds. (19 March
+   2015). "Filesystem Hierarchy Standard" (PDF). The Linux Foundation.
+   Retrieved 20 May 2015.
+
+External links
+
+   [edit]
+
+     * Official Home of the Filesystem Hierarchy Standard (FHS) at The
+       Linux Foundation
+          + Full specification texts
+     * objectroot – a proposal for a new filesystem hierarchy, based on
+       object-oriented design principles
+     * The Dotted Standard Filename Hierarchy, yet another very different
+       hierarchy (used in cLIeNUX) (mirror)
+     * hier(7) – Linux Programmer's Manual – Overview, Conventions and
+       Miscellanea
+
+     * v
+     * t
+     * e
+
+   Computer files
+
+   Types
+
+     * Binary file / text file
+     * Data file
+     * File format
+          + List of file formats
+          + File signatures
+          + Magic number
+          + Open file formats
+          + Proprietary file formats
+     * Metafile
+     * Sidecar file
+     * Sparse file
+     * Swap file
+     * System file
+     * Temporary file
+     * Zero-byte file
+
+   Properties
+
+     * Filename
+          + 8.3 filename
+          + Long filename
+          + Filename mangling
+     * Filename extension
+          + List of filename extensions
+     * File attribute
+          + Extended file attributes
+     * File size
+     * Hidden file / Hidden directory
+
+   Organisation
+
+     * Directory/folder
+          + NTFS links
+          + Temporary folder
+     * Directory structure
+     * File system
+          + Filesystem Hierarchy Standard
+          + Grid file system
+          + Semantic file system
+     * Path
+
+   Operations
+
+     * Open
+     * Close
+     * Read
+     * Write
+
+   Linking
+
+     * File descriptor
+     * Hard link
+     * Shortcut
+          + Alias
+          + Shadow
+     * Symbolic link
+
+   Management
+
+     * Backup
+     * File comparison
+     * File copying
+     * Data compression
+     * File manager
+          + Comparison of file managers
+     * File system fragmentation
+     * File-system permissions
+     * File transfer
+          + File sharing
+          + File synchronization
+     * File verification
+
+     * v
+     * t
+     * e
+
+   Linux
+
+   Linux kernel
+
+     * History
+     * Linus's law
+     * Linux-libre
+     * Booting process
+     * Kernel oops
+     * Tux
+     * more…
+
+   Controversies
+
+     * Criticism of Linux
+     * Criticism of desktop Linux
+     * GNU/Linux naming controversy
+     * Tanenbaum–Torvalds debate
+     * SCO and Linux
+
+   Distributions
+
+     * General comparison
+     * Distributions list
+     * Netbook-specific comparison
+     * Distributions that run from RAM
+     * Lightweight
+     * Security-focused operating system
+     * Package manager
+          + Package format
+          + List of software package managers
+
+   Organizations
+
+     * LinuxChix
+     * Linux Counter
+     * Linux Documentation Project
+     * Linux Foundation
+     * Linux Mark Institute
+     * Linux User Group (LUG)
+
+   Adoption
+
+     * Adopters
+     * Desktop
+     * Embedded
+     * Gaming
+     * Mobile
+     * Range of use
+     * Linux malware
+
+   Media
+
+     * DistroWatch
+     * Free Software Magazine
+     * Full Circle
+     * Hacker Public Radio
+     * Linux.com
+     * Linux Format
+     * Linux Gazette
+     * Linux Journal
+     * Linux Magazine
+     * LinuxUser
+          + Ubuntu User
+     * Linux Outlaws
+     * Linux Voice
+     * LugRadio
+     * LWN.net
+     * Phoronix
+     * Revolution OS
+     * The Code
+
+   Professional related certifications
+
+     * CompTIA Linux+
+     * Linux Foundation
+     * Red Hat
+     * Ubuntu
+
+     * icon Linux portal
+     * Free and open-source software portal
+     * Category
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Filesystem_Hierarchy_Standa
+   rd&oldid=1267327485"
+
+   Categories:
+     * Computer standards
+     * File system directories
+     * Linux
+     * System administration
+     * Unix file system technology
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Use dmy dates from November 2021
+     * Official website different in Wikidata and Wikipedia
+
+     * This page was last edited on 4 January 2025, at 16:55 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

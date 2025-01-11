@@ -1,0 +1,14 @@
+Toggle the table of contents Root directory [ ] 21 languages
+hierarchy For other uses, see Root (disambiguation). [220px-OpenIndiana_2015_Console_LS.png] View of the
+(disambiguation). [220px-OpenIndiana_2015_Console_LS.png] View of the root directory in the OpenIndiana operating
+and Unix-like operating systems, the root directory is the first or
+all branches originate from. The root file system is the file
+disk partition on which the root directory is located; it is
+Unix and Unix-like systems the root directory is denoted by the
+/ (slash) sign. Though the root directory is conventionally referred to
+own idea of what the root directory is. For most processes
+same as the system's actual root directory, but it can be
+support a directory below the root directory. Normally, "/.." points back
+be used to access the root directory of "pcs2b" from "pcs2a".
+and there is no public root directory on it. Related uses
+URL usually points to the root of the respective website's domain

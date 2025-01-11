@@ -1,0 +1,12 @@
+NFO                           Root Filesystem Definition     The
+Filesystem Definition     The root filesystem is the filesystem 
+ame    partition on which the root directory is located, and it 
+directories    start with the root directory, which contains a s
+    The exact contents of the root filesystem will vary accordin
+ contents will    include the root directory together with a min
+emporary files).     Only the root filesystem is available when 
+ed on (i.e., attached to) the root filesystem in order to restor
+ called mount points.     The root filesystem should generally b
+coming corrupted. A corrupted root filesystem    will generally 
+ily need to be mounted on the root filesystem. For example, it  
+ed at a mount    point on the root filesystem, and another files

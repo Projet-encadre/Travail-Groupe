@@ -1,0 +1,10 @@
+which can have its own root account. chroot() has none of
+working directory to the new root if it was not already
+that do not run as root can be placed into their
+security...against someone that already has root privilleges on that system??? Reply
+features like resource management, separate root user and accounts, and in
+measure, not running daemons as root is just as much a
+people--and companies--stubbornly run applications as root because its more convenient. Cases
+believe they can keep omnipotent root in "chroot jail" know nothing
+vulnerabilities leading to gaining the root access. If you have to
+be used to gain the root access. Reply to this comment

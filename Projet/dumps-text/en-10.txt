@@ -1,0 +1,517 @@
+   (BUTTON)
+   (BUTTON)
+     * Games
+          + Daily Crossword
+          + Word Puzzle
+          + Word Finder
+          + All games
+     * Featured
+          + Word of the Day
+          + Synonym of the Day
+          + Word of the Year
+          + New words
+          + Language stories
+          + All featured
+     * Pop culture
+          + Slang
+          + Emoji
+          + Memes
+          + Acronyms
+          + Gender and sexuality
+          + All pop culture
+     * Writing tips
+          + Writing hub
+          + Grammar essentials
+          + Commonly confused
+          + All writing tips
+
+   ____________________ (BUTTON)
+     * Games
+     * Featured
+     * Pop culture
+     * Writing tips
+
+   Advertisement
+   (BUTTON) Skip to
+
+   Skip to
+   (BUTTON)
+   (BUTTON)
+
+   root^1
+   noun (17)verb (used with object) (5)verb (used without object) (2)
+   (BUTTON)
+
+   root^2
+   verb (used without object) (2)verb (used with object) (2)
+   (BUTTON)
+
+   root^3
+   verb (used without object) (2)
+   (BUTTON)
+
+   Root^4
+   noun (2)
+
+   Advertisement
+   View synonyms for root
+   (BUTTON) American (BUTTON) British (BUTTON) Scientific (BUTTON)
+   Cultural (BUTTON)
+
+root
+
+   ^1
+   (BUTTON)
+
+   [ root, root ]
+
+   ( ) Phonetic (Standard) ( ) IPA
+
+noun
+
+    1. a part of the body of a plant that develops, typically, from the
+       radicle and grows downward into the soil, anchoring the plant and
+       absorbing nutriment and moisture.
+    2. a similar organ developed from some other part of a plant, as one
+       of those by which ivy clings to its support.
+    3. any underground part of a plant, as a rhizome.
+    4. something resembling or suggesting the root of a plant in position
+       or function:
+       roots of wires and cables.
+    5. the embedded or basal portion of a hair, tooth, nail, nerve, etc.
+    6. the fundamental or essential part:
+       the root of a matter.
+       Synonyms: foundation, base
+    7. the source or origin of a thing:
+       The love of money is the root of all evil.
+       Synonyms: originator, derivation, wellspring, spring, fountainhead,
+       fount, rise, beginning
+    8. a person or family as the source of offspring or descendants.
+       Synonyms: forefather, forebear(s), ancestor(s), progenitor, parent
+    9. an offshoot or scion.
+   10. Mathematics.
+         1. Also called nth root. a quantity that, when raised to the nth
+            power (multiplied by itself n times), produces a given
+            quantity:
+            The number 2 is the square root of 4, the cube root of 8, and
+            the fourth root of 16.
+         2. a value of the argument of a function for which the function
+            takes the value zero.
+   11. Computers.
+         1. Also called root di·rec·to·ry. the topmost directory of a
+            hierarchical file system.
+         2. the UNIX account, having the username “root,” that allows
+            administrator privileges.
+   12. Grammar.
+         1. a morpheme that underlies an inflectional or derivational
+            paradigm, as dance, the root in danced, dancer, or ten-, the
+            root of Latin tendere “to stretch.”
+         2. such a form reconstructed for a parent language, as *sed-, the
+            hypothetical Proto-Indo-European root meaning “sit.”
+   13. roots,
+         1. a person's original or true home, environment, and culture:
+            He's lived in New York for twenty years, but his roots are in
+            France.
+         2. the personal relationships, affinity for a locale, habits, and
+            the like, that make a country, region, city, or town one's
+            true home:
+            He lived in Tulsa for a few years, but never established any
+            roots there.
+         3. personal identification with a culture, religion, etc., seen
+            as promoting the development of the character or the stability
+            of society as a whole.
+   14. Music.
+         1. the fundamental tone of a compound tone or of a series of
+            harmonies.
+         2. the lowest tone of a chord when arranged as a series of
+            thirds; the fundamental.
+   15. Machinery.
+         1. (in a screw or other threaded object) the narrow inner surface
+            between threads. Compare crest ( def 18 ), flank ( def 7 ).
+         2. (in a gear) the narrow inner surface between teeth.
+   16. Australian Informal. an act of sexual intercourse.
+   17. Shipbuilding. the inner angle of an angle iron.
+     __________________________________________________________________
+     __________________________________________________________________
+
+verb (used with object)
+
+    1. to fix by or as if by roots:
+       We were rooted to the spot by surprise.
+    2. to implant or establish deeply:
+       Good manners were rooted in him like a second nature.
+    3. to pull, tear, or dig up by the roots (often followed by up or out
+       ).
+    4. to remove completely; extirpate; exterminate (often followed by up
+       or out ):
+       to root out crime.
+       Synonyms: eliminate, eradicate, obliterate, wipe out
+    5. Digital Technology.
+         1. to gain access to the operating system of (a smartphone,
+            tablet, gaming console, etc.), as to alter system files or
+            settings. Compare jailbreak ( def 3 ).
+         2. to install a rootkit on (a computer, electronic device, etc.).
+
+verb (used without object)
+
+    1. to become fixed or established.
+    2. Digital Technology. to manipulate the operating system of a
+       smartphone, tablet, etc. Compare jailbreak ( def 4 ).
+
+   root
+   ^2
+   (BUTTON)
+
+   [ root, root ]
+
+   ( ) Phonetic (Standard) ( ) IPA
+
+verb (used without object)
+
+    1. to turn up the soil with the snout, as swine.
+    2. to poke, pry, or search, as if to find something:
+       to root around in a drawer for loose coins.
+
+verb (used with object)
+
+    1. to turn over with the snout (often followed by up ).
+    2. to unearth; bring to light (often followed by up ).
+
+   root
+   ^3
+   (BUTTON)
+
+   [ rootor, sometimes, root ]
+
+   ( ) Phonetic (Standard) ( ) IPA
+
+verb (used without object)
+
+    1. to encourage a team or contestant by cheering or applauding
+       enthusiastically.
+       Synonyms: support, boost, clap, applaud, cheer
+    2. to lend moral support:
+       The whole group will be rooting for him.
+       Synonyms: espouse, favor, advocate, champion, second, back
+
+   Root
+   ^4
+   (BUTTON)
+
+   [ root ]
+
+   (*) Phonetic (Standard) ( ) IPA
+
+noun
+
+    1. El·i·hu [el, -, uh, -hyoo], 1845–1937, U.S. lawyer and statesman:
+       Nobel Peace Prize 1912.
+    2. John Well·born [wel, -bern], 1851–91, U.S. architect.
+
+   root
+   ^1
+
+   / ruːt /
+
+noun
+
+    1.
+         1. the organ of a higher plant that anchors the rest of the plant
+            in the ground, absorbs water and mineral salts from the soil,
+            and does not bear leaves or buds
+         2. (loosely) any of the branches of such an organ
+    2. any plant part, such as a rhizome or tuber, that is similar to a
+       root in structure, function, or appearance
+    3.
+         1. the essential, fundamental, or primary part or nature of
+            something
+            your analysis strikes at the root of the problem
+         2. ( as modifier )
+            the root cause of the problem
+    4. anatomy the embedded portion of a tooth, nail, hair, etc
+    5. origin or derivation, esp as a source of growth, vitality, or
+       existence
+    6. plural a person's sense of belonging in a community, place, etc,
+       esp the one in which he was born or brought up
+    7. an ancestor or antecedent
+    8. Bible a descendant
+    9. the form of a word that remains after removal of all affixes; a
+       morpheme with lexical meaning that is not further subdivisible into
+       other morphemes with lexical meaning Compare stem 1
+   10. maths a number or quantity that when multiplied by itself a certain
+       number of times equals a given number or quantity
+       3 is a cube root of 27
+   11. Also calledsolution maths a number that when substituted for the
+       variable satisfies a given equation
+       2 is a root of x³ – 2x – 4 = 0
+   12. music (in harmony) the note forming the foundation of a chord
+   13. slang.
+       sexual intercourse
+   14. root and branch
+       radical
+         1. adverb entirely; completely; utterly
+         2. adjective thorough; radical; complete
+
+   “Collins English Dictionary — Complete & Unabridged” 2012 Digital
+   Edition © William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins
+   Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012
+
+verb
+
+    1. Alsotake root intr to put forth or establish a root and begin to
+       grow
+    2. Alsotake root intr to become established, embedded, or effective
+    3. tr to fix or embed with or as if with a root or roots
+    4. slang.
+       to have sexual intercourse (with)
+
+   “Collins English Dictionary — Complete & Unabridged” 2012 Digital
+   Edition © William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins
+   Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012
+
+   root
+   ^2
+
+   / ruːt /
+
+verb
+
+    1. (of a pig) to burrow in or dig up the earth in search of food,
+       using the snout
+    2. informal.
+       foll byabout, around, in etc to search vigorously but
+       unsystematically
+
+   “Collins English Dictionary — Complete & Unabridged” 2012 Digital
+   Edition © William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins
+   Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012
+
+   root
+   ^3
+
+verb
+
+    1. informal.
+       intrusually foll byfor to give support to (a contestant, team,
+       etc), as by cheering
+
+   “Collins English Dictionary — Complete & Unabridged” 2012 Digital
+   Edition © William Collins Sons & Co. Ltd. 1979, 1986 © HarperCollins
+   Publishers 1998, 2000, 2003, 2005, 2006, 2007, 2009, 2012
+
+   root
+
+   / ro̅o̅t,rt /
+    1. A plant part that usually grows underground, secures the plant in
+       place, absorbs minerals and water, and stores food manufactured by
+       leaves and other plant parts. Roots grow in a root system. Eudicots
+       and magnoliids have a central, longer, and larger taproot with many
+       narrower lateral roots branching off, while monocots have a mass of
+       threadlike fibrous roots , which are roughly the same length and
+       remain close to the surface of the soil. In vascular plants, roots
+       usually consist of a central cylinder of vascular tissue,
+       surrounded by the pericycle and endodermis, then a thick layer of
+       cortex, and finally an outer epidermis or (in woody plants)
+       periderm. Only finer roots (known as feeder roots) actively take up
+       water and minerals, generally in the uppermost meter of soil. These
+       roots absorb minerals primarily through small epidermal structures
+       known as root hairs. In certain plants, adventitious roots grow out
+       from the stem above ground as aerial roots or prop roots, bending
+       down into the soil, to facilitate the exchange of gases or increase
+       support. Certain plants (such as the carrot and beet) have fleshy
+       storage roots with abundant parenchyma in their vascular tissues.
+    2. See also fibrous root
+    3. Any of various other plant parts that grow underground, especially
+       an underground stem such as a corm, rhizome, or tuber.
+    4. The part of a tooth that is embedded in the jaw and not covered by
+       enamel.
+    5. Mathematics.
+         1. A number that, when multiplied by itself a given number of
+            times, produces a specified number. For example, since 2 × 2 ×
+            2 × 2 = 16, 2 is a fourth root of 16.
+         2. A solution to an equation. For example, a root of the equation
+            x ^2 − 4 = 0 is 2, since 2 ^2 − 4 = 0.
+
+   root
+   ^1
+    1. The part of a tooth below the gum. The root anchors the tooth to
+       the jawbone.
+
+   root
+   ^2
+    1. In biology , the part of a plant that grows downward and holds the
+       plant in place, absorbs water and minerals from the soil , and
+       often stores food. The main root of a plant is called the primary
+       root; others are called secondary roots. The hard tip is called the
+       root cap, which protects the growing cells behind it. Root hairs
+       increase the root's absorbing surface.
+
+   Discover More
+
+Derived Forms
+
+     * ˈrootˌlike, adjective
+     * ˈrooty, adjective
+     * ˈrooter, noun
+     * ˈrootiness, noun
+     * ˈrooter, noun
+     * ˈrooter, noun
+
+   Discover More
+
+Other Words From
+
+     * root·like adjective
+
+   Discover More
+
+Word History and Origins
+
+   Origin of root^1
+   First recorded before 1150; Middle English noun rote, roote, rowte,
+   from late Old English rōt, from Old Norse rōt “root; cause, origin”;
+   akin to Old English wyrt “plant, herb,” German Wurzel, Latin rādīx,
+   Greek rhíza; the verb is derivative of the noun; radix, rhizome, wort
+   ^2( def )
+
+   Origin of root^2
+   First recorded in 1530–40; variant of obsolete wroot ( Middle English
+   wroten, Old English wrōtan, akin to wrōt “a snout”)
+
+   Origin of root^3
+   An Americanism first recorded in 1885–90; perhaps variant of rout ^4
+   Discover More
+
+Word History and Origins
+
+   Origin of root^1
+   Old English rōt , from Old Norse; related to Old English wyrt wort
+
+   Origin of root^2
+   C16: changed (through influence of root ^1) from earlier wroot , from
+   Old English wrōtan ; related to Old English wrōt snout, Middle Dutch
+   wrōte mole
+
+   Origin of root^3
+   C19: perhaps a variant of Scottish rout to make a loud noise, from Old
+   Norse rauta to roar
+   Discover More
+
+Idioms and Phrases
+
+   Idioms
+    1. root and branch, utterly; entirely:
+       to destroy something root and branch.
+    2. take root,
+         1. to send out roots; begin to grow.
+         2. to become fixed or established:
+            The prejudices of parents usually take root in their children.
+
+More idioms and phrases containing root
+
+     * put down roots
+     * take root
+
+   Discover More
+
+Example Sentences
+
+   There was an energy and a deeply rooted joy to Kotb's presence,
+   perfectly suited to balancing out the often dour morning news.
+   From Salon
+
+   Legislators are filing bills for the upcoming session that would give
+   the state more tools to try to root out this practice.
+   From Salon
+
+   The elected representative said members need to "address the root
+   causes" of violence against women and girls.
+   From BBC
+
+   While the contemporary FIM movement’s roots stretch back decades, it’s
+   hardly a new concept.
+   From Salon
+
+   Motherhood, she says, “gives you permanent access, whether you want it
+   or not, to a darker, more rooted self.”
+   From Los Angeles Times
+
+   Advertisement
+   Discover More
+
+Related Words
+
+     * essence
+     * foundation
+     * heart
+     * origin
+     * seed
+     * soul
+     * source
+     * stem
+     * stuff
+
+   Definitions and idiom definitions from Dictionary.com Unabridged, based
+   on the Random House Unabridged Dictionary, © Random House, Inc. 2023
+
+   Idioms from The American Heritage® Idioms Dictionary copyright © 2002,
+   2001, 1995 by Houghton Mifflin Harcourt Publishing Company. Published
+   by Houghton Mifflin Harcourt Publishing Company.
+
+   Advertisement
+   carambola ad carousel
+
+   Advertisement
+
+   Advertisement
+     __________________________________________________________________
+
+   rooster tailrootage
+     __________________________________________________________________
+
+   Browse
+     #
+     aa
+     bb
+     cc
+     dd
+     ee
+     ff
+     gg
+     hh
+     ii
+     jj
+     kk
+     ll
+     mm
+     nn
+     oo
+     pp
+     qq
+     rr
+     ss
+     tt
+     uu
+     vv
+     ww
+     xx
+     yy
+     zz
+
+   [ab34ff65bbd3138890c7.svg] [e8d8d7d566d7f7f23acd.svg]
+     About
+     Careers
+     Contact us
+
+     Cookies, terms, & privacy
+     (BUTTON) Do not sell my info
+     Help
+
+   Follow us
+
+   Get the Word of the Day every day!
+   ____________________ (BUTTON) Sign up
+
+   By clicking "Sign Up", you are accepting Dictionary.com Terms &
+   Conditions and Privacy Policies.
+   © 2024 Dictionary.com, LLC

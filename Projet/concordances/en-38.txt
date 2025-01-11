@@ -1,0 +1,57 @@
+                              root Definition       root is the 
+        root Definition       root is the user name or account t
+   is also referred to as the root account, root user and the su
+erred to as the root account, root user and the superuser.      
+ the superuser.      The word root also has several additional, 
+tems.     One of these is the root directory, which is the top l
+tories, and files reside. The root directory is                 
+ slash ( / ).     Another is /root (pronounced slash root), whic
+er is /root (pronounced slash root), which is the root user's ho
+ced slash root), which is the root user's home       directory. 
+ it logs into a system.      /root is a subdirectory of the root
+root is a subdirectory of the root directory, as indicated by th
+ectories for users other than root are by       default created 
+          subdirectory of the root directory.     Root privilege
+ry of the root directory.     Root privileges are the powers tha
+leges are the powers that the root account has on the system.   
+unt has on the system.    The root account is the most privilege
+iles and commands). Among     root's powers are the ability to m
+t are by default reserved for root.     A rootkit is a set of so
+ault reserved for root.     A rootkit is a set of software tools
+s when desired. Well designed rootkits    are able to obtain roo
+ootkits    are able to obtain root access (i.e., access to the r
+t access (i.e., access to the root account rather     than just 
+ies.      The use of the term root for the all-powerful administ
+ave arisen from the fact that root is the only account having wr
+ssion to modify files) in the root directory.      The root dire
+ the root directory.      The root directory, in turn, takes its
+tory that is analogous to the root of a                         
+ keep track of the     users. Root always has a UID of zero. Thi
+ verified by logging    in as root (if using a home computer or 
+   its name.      The UID for root (as well as for all other use
+                   output for root will look something like     
+ will look something like     root:x:0:0:root:/root:/bin/bash. T
+something like     root:x:0:0:root:/root:/bin/bash. The first co
+ing like     root:x:0:0:root:/root:/bin/bash. The first column s
+ by logging directly into the root account and staying there.   
+ke system when using    it as root -- much easier than to damage
+e the system, and thus the    root user is fully empowered. Unix
+dividual(s) will be using the root account. Thus, there is virtu
+ally    no safety net for the root user in the event of a carele
+routinely using the system as root is the fact     that all proc
+xecution) started      by the root user have root privileges. Be
+ed      by the root user have root privileges. Because even the 
+em when a program is run with root     privileges rather than us
+is the avoidance of using the root account except when      abso
+logging into the system    as root, administrators should log in
+do, that provide them    with root privileges only as needed and
+       For example, to become root with su merely requires typin
+ter     key and supplying the root password. The account of the 
+losed.     Tasks that require root privileges include moving fil
+it is     not necessary to be root to be able to read most confi
+                        to be root to modify them.       Root pr
+be root to modify them.       Root privileges are usually requir
+from a user's home directory. Root privileges are     not needed
+ectory. Compiling software as root should be avoided for        
+ will also have access to the root account for use when necessar
+trator(s) might grant limited root privileges to some           

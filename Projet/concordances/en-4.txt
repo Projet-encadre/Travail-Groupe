@@ -1,0 +1,7 @@
+ directories appear under the root directory    /, even if they 
+iption    / Primary hierarchy root and root directory of the ent
+ / Primary hierarchy root and root directory of the entire file 
+y the system, on the fly.    /root Home directory for the root u
+ /root Home directory for the root user.    /run Run-time variab
+sier to use normally with the root    filesystem mounted read-on
+cification texts      * objectroot – a proposal for a new filesy

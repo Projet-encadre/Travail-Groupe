@@ -1,0 +1,748 @@
+   #Wordnik Wordnik Blog
+
+     * Community
+     * Word of the day
+     * Random word
+
+   Log in or Sign up ____________________ [IMAGE]-Submit
+   root love
+
+     * Define
+     * Relate
+     * List
+     * Discuss
+     * See
+     * Hear
+
+root
+
+     * Define
+     * Relate
+     * List
+     * Discuss
+     * See
+     * Hear
+     * unLove
+
+Definitions
+
+from The American Heritage® Dictionary of the English Language, 5th Edition.
+
+     * noun The usually underground portion of a plant that lacks buds,
+       leaves, or nodes and serves as support, draws minerals and water
+       from the surrounding soil, and sometimes stores food.
+     * noun Any of various other underground plant parts, especially an
+       underground stem such as a rhizome, corm, or tuber.
+     * noun The embedded part of an organ or structure such as a hair,
+       tooth, or nerve, that serves as a base or support.
+     * noun The bottom or supporting part of something.
+     * noun The essential part or element; the basic core.
+     * noun A primary source; an origin. synonym: origin.
+     * noun A progenitor or ancestor from which a person or family is
+       descended.
+     * noun The condition of being settled and of belonging to a
+       particular place or society.
+     * noun The state of having or establishing an indigenous relationship
+       with or a personal affinity for a particular culture, society, or
+       environment.
+     * noun The element that carries the main component of meaning in a
+       word and provides the basis from which a word is derived by adding
+       affixes or inflectional endings or by phonetic change.
+     * noun Such an element reconstructed for a protolanguage.
+     * noun A number that when multiplied by itself an indicated number of
+       times forms a product equal to a specified number. For example, a
+       fourth root of 4 is √2.
+     * noun A number that reduces a polynomial equation in one variable to
+       an identity when it is substituted for the variable.
+     * noun A number at which a polynomial has the value zero.
+     * noun The note from which a chord is built.
+     * noun Such a note occurring as the lowest note of a triad or other
+       chord.
+     * intransitive verb To grow roots or a root.
+     * intransitive verb To become firmly established or settled.
+     * intransitive verb To plant and fix the roots of (a plant) in soil
+       or the ground.
+     * intransitive verb To establish or settle firmly.
+     * intransitive verb To be the source or origin of.
+     * intransitive verb To dig or pull out by the roots. Often used with
+       up or out.
+     * intransitive verb To remove or get rid of. Often used with out.
+     * idiom (root and branch) Utterly; completely.
+     * intransitive verb To turn up by digging with the snout or nose.
+     * intransitive verb To cause to appear or be known. Used with out.
+     * intransitive verb To turn over the earth with the snout or nose.
+     * intransitive verb To search or rummage for something.
+     * intransitive verb To give audible encouragement or applause to a
+       contestant or team; cheer. synonym: applaud.
+     * intransitive verb To give moral support to someone; hope for a
+       favorable outcome for someone.
+
+from The Century Dictionary.
+
+     * A dialectal form of rot.
+     * noun In mech., the part of a gear-tooth where it joins the rim of
+       the wheel; the base of a tooth.
+     * noun The sweet-flag.
+     * To dig or burrow in with the snout; turn up with the snout, as a
+       swine.
+     * To tear up or out as if by rooting; eradicate; extirpate; remove or
+       destroy utterly; exterminate: generally with up, out, or away.
+     * To turn up the earth with the snout, as swine.
+     * To push with the snout.
+     * To fix the root; strike root; enter the earth, as roots.
+     * To be firmly fixed; be established.
+     * To fix by the root or as if by roots; plant and fix deep in the
+       earth: as, a tree roots itself; a deeply rooted tree.
+     * To plant deeply; impress deeply and durably: used chiefly in the
+       past participle.
+     * noun A form of rut.
+     * To work hard for the success of some person or thing: as, to root
+       for one's party (at an election); specifically, in base-ball, etc.,
+       to exert oneself for the success of one's side, usually by
+       uproarious applause intended partly to disconcert the other side.
+
+Etymologies
+
+from The American Heritage® Dictionary of the English Language, 4th Edition
+
+   [Middle English rot, from Old English rōt, from Old Norse; see wrād- in
+   Indo-European roots.]
+
+from The American Heritage® Dictionary of the English Language, 4th Edition
+
+   [Middle English wroten, from Old English wrōtan.]
+
+from The American Heritage® Dictionary of the English Language, 4th Edition
+
+   [Possibly alteration of rout.]
+
+from Wiktionary, Creative Commons Attribution/Share-Alike License
+
+   Possibly an alteration of rout ("to make a loud noise"), influenced by
+   hoot
+
+from Wiktionary, Creative Commons Attribution/Share-Alike License
+
+   From Middle English wrōten ("to dig with the snout"), from Old English
+   wrōtan, from Proto-Germanic *to dig out, to root, from
+   Proto-Indo-European *to scrape, to scratch, to gnaw. Cognate with
+   rodent. Cognate with Dutch wroeten.
+
+from Wiktionary, Creative Commons Attribution/Share-Alike License
+
+   From Middle English root ("the underground part of a plant"), from late
+   Old English rōt, from Old Norse rót (Icelandic rót), from
+   Proto-Germanic *wrōts, from Proto-Indo-European *wréh₂ds (“root”);
+   cognate with wort and radix.
+
+Support
+
+   Help support Wordnik (and make this page ad-free) by adopting the word
+   root.
+
+Examples
+
+     * The one that drives me crazy is when I'm trying to change to a
+       directory with only root access: john@p490: ~$ cd / root john@p490:
+       / root$ cd. gconf bash: cd:. gconf: Permission denied john@p490: /
+       root$ sudo cd. gconf sudo: cd: command not found
+       Linux Journal - The Original Magazine of the Linux Community 2009
+     * The one that drives me crazy is when I'm trying to change to a
+       directory with only root access: john@p490: ~$ cd / root john@p490:
+       / root$ cd. gconf bash: cd:. gconf: Permission denied john@p490: /
+       root$ sudo cd. gconf sudo: cd: command not found
+       Linux Journal - The Original Magazine of the Linux Community 2009
+     * $self - > conf - > {root}; my $ ﬁ le = ﬁ le ($root, "static",
+       $path); my $size = - s _; my $mtime =
+       Recently Uploaded Slideshows miyagawa 2009
+     * # access the document root my $root = $xdoc - > root;
+       Softpedia - Windows - All 2009
+     * 'eaten of the insane root' was meant, I calculate, as a hard rap on
+       tobacco-chewers (and smokers too); he called it _root_, instead of
+       The Atlantic Monthly, Volume 14, No. 85, November, 1864 Various
+     * "Observaciones sobre el clima de Lima y sus influencias en los
+       seres organizados en especial el hombre."] [Footnote 16: The women
+       of Lima clean their teeth several times a day with the root called
+       _Raiz de dientes_ (literally _root for the teeth_), of which they
+       keep a piece constantly in their pocket.] [Footnote 17: It is
+       related that, during the war of independence, when
+       Travels in Peru, on the Coast, in the Sierra, Across the
+       Cordilleras and the Andes, into the Primeval Forests Johann Jakob
+       von Tschudi 1853
+     * "The German name is 'Mangold wurzel,' or 'Mangold root;' but it is
+       sometimes pronounced 'Mangel wurzel,' which means _scarcity root_;
+       and, by a strange translation, it is called in French _racine
+       d'abondance_, as well as _racine de disette_.
+       Notes and Queries, Number 184, May 7, 1853 A Medium of
+       Inter-communication for Literary Men, Artists, Antiquaries,
+       Genealogists, etc. Various 1852
+     * Our word root comes from an Indo-European word that meant both
+       “root” and “branch.”
+       On Food and Cooking, The Science and Lore of the Kitchen Harold
+       McGee 2004
+     * Our word root comes from an Indo-European word that meant both
+       “root” and “branch.”
+       On Food and Cooking, The Science and Lore of the Kitchen Harold
+       McGee 2004
+     * Maybe its Latin root is cunnus or its Swedish and Norwegian root is
+       kunta.
+       C.U.Next Tuesday - :: gia’s blog :: 2004
+
+Related Words
+
+   Log in or sign up to add your own related words.
+
+synonyms (282)
+
+Words with the same meaning
+
+    1. Superuser
+    2. Australia
+    3. Britain
+    4. IC analysis
+    5. New
+    6. See
+    7. Zealand
+    8. accidence
+    9. acclaim
+   10. affix
+   11. affixation
+   12. allomorph
+   13. also
+   14. ancestors
+   15. anchor
+   16. antecedents
+   17. applaud
+   18. barrack
+   19. base
+   20. basis
+   21. beat the bushes
+   22. bed
+   23. bed on
+   24. bedrock
+   25. beginning
+   26. birthplace
+   27. boost
+   28. bottom
+   29. bottom on
+   30. bound morpheme
+   31. bring to light
+   32. bud
+   33. build on
+   34. bulb
+   35. bulbil
+   36. burgeon
+   37. burrow
+   38. burst forth
+   39. catch
+   40. cause
+   41. cheer
+   42. cheer on
+   43. clap
+   44. clap the hands
+   45. cognate
+   46. commencement
+   47. completely
+   48. conception
+   49. confirm
+   50. conjugation
+   51. core
+   52. corm
+   53. cradle
+   54. cutting
+   55. declension
+   56. deep-dye
+   57. define
+   58. delve
+   59. derivation
+   60. derivative
+   61. descent
+   62. destroy
+   63. develop
+   64. difference of form
+   65. dig
+   66. dig out
+   67. dig up
+   68. discover
+   69. doublet
+   70. drive on
+   71. egg on
+   72. eliminate
+   73. embed
+   74. enclitic
+   75. encore
+   76. encourage
+   77. engraft
+   78. engrave
+   79. entirely
+   80. entrench
+   81. eponym
+   82. eradicate
+   83. essentiality
+   84. establish
+   85. etch
+   86. etymon
+   87. explore
+   88. exterminate
+   89. extirpate
+   90. family
+   91. family tree
+   92. fatherland
+   93. ferret
+   94. find
+   95. fix
+   96. flourish
+   97. footing
+   98. forage
+   99. forebears
+   100. forefathers
+   101. formative
+   102. found
+   103. found on
+   104. foundation
+   105. fount
+   106. fountain
+   107. fountainhead
+   108. free form
+   109. frisk
+   110. gemmate
+   111. genealogy
+   112. genesis
+   113. germinate
+   114. give a hand
+   115. go through
+   116. goad on
+   117. grass roots
+   118. ground
+   119. ground on
+   120. groundwork
+   121. grout
+   122. grow
+   123. grow rank
+   124. grub
+   125. hail
+   126. hasten on
+   127. head
+   128. hear it for
+   129. heart
+   130. heritage
+   131. hie on
+   132. hound on
+   133. house
+   134. hunt
+   135. hurry on
+   136. imbed
+   137. immediate constituent analysis
+   138. impact
+   139. implant
+   140. impress
+   141. imprint
+   142. inception
+   143. infix
+   144. infixation
+   145. inflection
+   146. infrastructure
+   147. ingrain
+   148. inscribe
+   149. italbrac
+   150. jam
+   151. leaf
+   152. leaf out
+   153. leave
+   154. lineage
+   155. lodge
+   156. look around
+   157. look round
+   158. look through
+   159. luxuriate
+   160. marrow
+   161. morph
+   162. morpheme
+   163. morphemic analysis
+   164. morphemics
+   165. morphology
+   166. morphophonemics
+   167. motherland
+   168. nose
+   169. nose around
+   170. nuzzle
+   171. origin
+   172. original
+   173. origination
+   174. origins
+   175. overgrow
+   176. overrun
+   177. pack
+   178. paradigm
+   179. pedigree
+   180. pith
+   181. plant
+   182. poke
+   183. poke around
+   184. predecessors
+   185. prefix
+   186. prefixation
+   187. primitive
+   188. print
+   189. proclitic
+   190. provenance
+   191. provenience
+   192. pry
+   193. pullulate
+   194. put forth
+   195. put forth leaves
+   196. put out buds
+   197. quick
+   198. quintessence
+   199. radical
+   200. radically
+   201. radicle
+   202. radix
+   203. ransack
+   204. research
+   205. rhizome
+   206. riot
+   207. rise
+   208. rock bottom
+   209. root account
+   210. root and branch
+   211. root for
+   212. root on
+   213. root out
+   214. root up
+   215. root user
+   216. rootlet
+   217. roots
+   218. rootstock
+   219. rummage
+   220. screw
+   221. search
+   222. search through
+   223. seat
+   224. see
+   225. set
+   226. set in
+   227. set on
+   228. settle
+   229. sexual intercourse
+   230. shag
+   231. shoot
+   232. shoot up
+   233. smell around
+   234. soul
+   235. source
+   236. speed on
+   237. spread
+   238. sprout
+   239. sprout up
+   240. spur on
+   241. stamp
+   242. stem
+   243. stereotype
+   244. stick
+   245. stick fast
+   246. stock
+   247. strike
+   248. strike root
+   249. stuff
+   250. substance
+   251. substratum
+   252. suffix
+   253. suffixation
+   254. superuser
+   255. support
+   256. take root
+   257. tap
+   258. taproot
+   259. theme
+   260. thrive
+   261. totally
+   262. tuber
+   263. tubercle
+   264. turn up
+   265. uncover
+   266. undergird
+   267. underlie
+   268. underpinning
+   269. unearth
+   270. uproot
+   271. upspear
+   272. upsprout
+   273. urge on
+   274. utterly
+   275. vegetate
+   276. wedge
+   277. well
+   278. wellhead
+   279. whip on
+   280. wholly
+   281. word-formation
+   282. zero
+
+equivalents (1)
+
+Other words for 'root'
+
+    1. to take root
+
+hypernyms (17)
+
+Words that are more generic or abstract
+
+    1. anatomical structure
+    2. become
+    3. bodily structure
+    4. body structure
+    5. complex body part
+    6. cut into
+    7. delve
+    8. descriptor
+    9. dig
+   10. form
+   11. grow
+   12. plant
+   13. set
+   14. signifier
+   15. structure
+   16. turnover
+   17. word form
+
+same context (35)
+
+Words that are found in similar contexts
+
+    1. article
+    2. bark
+    3. branch
+    4. cross
+    5. element
+    6. elements
+    7. enemy
+    8. esteemeth
+    9. form
+   10. fourth
+   11. fruit
+   12. growth
+   13. individual
+   14. latter
+   15. leaf
+   16. minute
+   17. o'clock
+   18. observation
+   19. one
+   20. piece
+   21. plant
+   22. quarter
+   23. relation
+   24. seed
+   25. sentence
+   26. spark
+   27. stem
+   28. subject
+   29. subjects
+   30. tree
+   31. trunk
+   32. variety
+   33. vitrine
+   34. whole
+   35. worldlet
+
+forms (11)
+
+Forms
+
+    1. rooted
+    2. rooting
+    3. roots
+    4. cube root
+    5. functional root
+    6. put down roots
+    7. root about
+    8. root canal
+    9. root cause
+   10. root for
+   11. rootkit
+
+cross-references (68)
+
+Cross-references
+
+    1. absorbing root
+    2. ancestor
+    3. anchoring root
+    4. aërating roots
+    5. aërial roots
+    6. bear's-paw root
+    7. bengal root
+    8. biquadratic root
+    9. bottom
+   10. brace root
+   11. brinton root
+   12. bulbs
+   13. canada root
+   14. commensurable root
+   15. conjugate roots
+   16. continuity of roots
+   17. coronal root
+   18. criterion for roots
+   19. crop and root
+   20. crown of a root
+   21. cubocubic root
+   22. demonstrative root
+   23. derris root
+   24. double root
+   25. equal roots
+   26. extraneous root
+   27. fibrous roots
+   28. horizontal root
+   29. latent roots of a matrix
+   30. lateral root of the auditory nerve
+   31. limit of the roots
+   32. mechoacan root
+   33. medial root of the auditory nerve
+   34. multiple root
+   35. musquash-root
+   36. permanent root
+   37. primary root
+   38. primitive root
+   39. pronic root
+   40. quadratocubic root
+   41. reason
+   42. residual root
+   43. root and branch
+   44. root circle
+   45. root fallow
+   46. root of a function
+   47. root of a hair
+   48. root of a lung
+   49. root of an equation
+   50. root of bitterness
+   51. root of the mesentery
+   52. root of the tongue
+   53. root tone
+   54. root web-worm
+   55. roots of unity
+   56. secondary root
+   57. seminal root
+   58. separation of the roots of an equation
+   59. source
+   60. stem
+   61. sweet root
+   62. temporary root
+   63. the root of the matter
+   64. to extract the root
+   65. to strike root
+   66. to take root
+   67. triple root
+   68. vandal root
+
+rhymes (55)
+
+Words with the same terminal sound
+
+    1. Beirut
+    2. Bute
+    3. Butte
+    4. Jute
+    5. Shute
+    6. absolut
+    7. acute
+    8. astute
+    9. boot
+   10. brut
+   11. brute
+   12. bute
+   13. butte
+   14. cahoot
+   15. chute
+   16. commute
+   17. compute
+   18. coot
+   19. cute
+   20. dilute
+   21. dispute
+   22. disrepute
+   23. enroute
+   24. flute
+   25. fruit
+   26. groot
+   27. hirsute
+   28. hoot
+   29. impute
+   30. jute
+   31. loot
+   32. lute
+   33. minute
+   34. moot
+   35. mute
+   36. newt
+   37. permute
+   38. pollute
+   39. pursuit
+   40. pute
+   41. recruit
+   42. refute
+   43. repute
+   44. reroute
+   45. route
+   46. salute
+   47. scoot
+   48. shoot
+   49. smoot
+   50. stroot
+   51. subacute
+   52. suit
+   53. toot
+   54. uproot
+   55. voute
+
+Wordmap
+
+   (beta)
+
+Word visualization
+
+Comments
+
+   Log in or sign up to get involved in the conversation. It's quick and
+   easy.
+     * oroboros commented on the word root
+       Contronymic in the sense: take root vs. root out.
+       January 31, 2007 [thumbs-down-icon-small.png]
+     * brtom commented on the word root
+       My language increased and strengthened, and sent my mind into the
+       place like a live root system. Wendell Berry "A Native Hill"
+       July 19, 2008 [thumbs-down-icon-small.png]
+     * chained_bear commented on the word root
+       Delightful discussion about this term going on over at beetroot...
+       And now that I think of it, is WeirdNet being lascivious again...?
+       P.S. according to the 12th definition, we are all roots.
+       October 1, 2008 [thumbs-down-icon-small.png]
+     * bilby commented on the word root
+       "the place where something begins, where it springs into being"
+       *sgnigger*
+       October 1, 2008 [thumbs-down-icon-small.png]
+
+     *
+     * Company
+          + About Wordnik
+          + Press
+          + Colophon
+          + FAQ
+          + T-shirts!
+     * News
+          + Blog
+          + Word of the day
+          + Community
+          + @wordnik@wordnik.social
+     * Dev
+          + API
+          + github.com/wordnik
+     * Et Cetera
+          + Send Us Feedback!
+          + Need Support?
+          + Terms
+          + Privacy
+          + Random word
+          + Advanced Search
+       Wordnik is a 501(c)(3) non-profit organization, EIN #47-2198092.

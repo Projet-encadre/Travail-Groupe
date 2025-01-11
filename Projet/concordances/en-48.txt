@@ -1,0 +1,50 @@
+Toggle the table of contents  ROOT     [ ] 12 languages      * D
+r the    part of a plant, see Root. For other uses, see Root (di
+see Root. For other uses, see Root (disambiguation).     CAPTION
+disambiguation).     CAPTION: ROOT     [297px-ROOT_Logo.png]    
+     CAPTION: ROOT     [297px-ROOT_Logo.png]    [220px-CMS_ROOT_
+-ROOT_Logo.png]    [220px-CMS_ROOT_plot.png]    The CMS experime
+plots presented that day used ROOT.    Original author(s) René B
+ Repository      * github.com/root-project/root Edit this at Wik
+    * github.com/root-project/root Edit this at Wikidata     Wri
+  License LGPL/GPL    Website root.cern     ROOT is an object-or
+/GPL    Website root.cern     ROOT is an object-oriented compute
+inued in 2003 in    favour of ROOT, which is written in the C++ 
+the C++ programming language. ROOT    development was initiated 
+     The packages provided by ROOT include those for      * Hist
+ generators.     [220px-Atlas_ROOT_plot.png] The ATLAS experimen
+nted that day were created in ROOT.     A key feature of ROOT is
+in ROOT.     A key feature of ROOT is a data container called tr
+g    buffering invisibly.     ROOT is designed for high computin
+per year. As of 2009^[update] ROOT is mainly used in    data ana
+ subfields are obtained using ROOT.     The inclusion of a C++ i
+ng presented    that day used ROOT.  Applications     [edit]    
+ written software based on    ROOT, often in favor of using more
+generic solutions (e.g. using ROOT    containers instead of STL)
+sing software        based on ROOT           + ALICE           +
+ping software        based on ROOT           + Mu2e           + 
+hysics)        projects using ROOT           + AGILE           +
+     [edit]     Criticisms of ROOT include its difficulty for be
+e issues are discussed on the ROOT users mailing list.^[5]^[6]  
+ scientists dissatisfied with ROOT have in the past managed to  
+regularly    addressed by the ROOT team. The CINT interpreter, f
+     1. ^ "Project Founders". root.cern. Retrieved 2019-06-19.  
+trieved 2019-06-19.     2. ^ "ROOT Team". root.cern. Retrieved 2
+-06-19.     2. ^ "ROOT Team". root.cern. Retrieved 2022-02-10.  
+trieved 2022-02-10.     3. ^ "ROOT Version 6.32 Release Notes". 
+ Version 6.32 Release Notes". root.cern. Retrieved        2024-0
+007-08-27). "The problem with ROOT (a.k.a. The        ROOT of al
+ with ROOT (a.k.a. The        ROOT of all Evil)". InsectNation. 
+Re: Wikipedia criticism about root". Retrieved 3 May 2016.     6
+Re: Wikipedia criticism about root". Retrieved 3 May 2016.     7
+3 May 2016.     7. ^ "What is ROOT?". 1 June 2009. Retrieved 3 M
+trieved 3 May 2016.     8. ^ "ROOT Version 6.06 Release Notes". 
+s has a book on the topic of: ROOT       * The ROOT System Home 
+he topic of: ROOT       * The ROOT System Home Page      * Image
+     * Image galleries      * ROOT User's Guide      * ROOT Refe
+   * ROOT User's Guide      * ROOT Reference Guide      * ROOT F
+* ROOT Reference Guide      * ROOT Forum      * The RooFit Toolk
+ata Modeling, an extension to ROOT to        facilitate maximum 
+ltivariate Data Analysis with ROOT (TMVA) is a        ROOT-integ
+ with ROOT (TMVA) is a        ROOT-integrated project providing 
+kipedia.org/w/index.php?title=ROOT&oldid=1242622799"     Categor

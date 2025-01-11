@@ -1,0 +1,11 @@
+in DPD. Clicking on any root will take you to a
+special page containing all the root information. roots dict1 Root Info
+the root information. roots dict1 Root Info Root info contains comprehensive
+information. roots dict1 Root Info Root info contains comprehensive information from
+from classical grammars. roots dict2 Root Matrix Root matrix lists every
+grammars. roots dict2 Root Matrix Root matrix lists every word derived
+(causative, passive, intensive, denominative, etc.). root matrix The result is a
+comprehensive table of how the root appears within Pāḷi texts, useful
+for teachers and students alike. Root Families Each root family contains
+students alike. Root Families Each root family contains every word with
+meanings that a prefix and root combination produces. 

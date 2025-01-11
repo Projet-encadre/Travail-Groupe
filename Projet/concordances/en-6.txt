@@ -1,0 +1,278 @@
+ection           + 2.1 Square roots           + 2.2 Cube roots  
+re roots           + 2.2 Cube roots      * 3 Identities and prop
+      * 6 Computing principal roots        (BUTTON) Toggle Compu
+N) Toggle Computing principal roots subsection           + 6.1 U
+igit calculation of principal roots of decimal             (base
+tructibility      * 8 Complex roots        (BUTTON) Toggle Compl
+      (BUTTON) Toggle Complex roots subsection           + 8.1 S
+ection           + 8.1 Square roots           + 8.2 Roots of uni
+ Square roots           + 8.2 Roots of unity           + 8.3 nth
+ of unity           + 8.3 nth roots      * 9 Solving polynomials
+le the table of contents  nth root     [ ] 70 languages      * A
+    This article is about nth-roots of real and complex numbers.
+mbers. For other    uses, see Root (disambiguation) § Mathematic
+emoved.    Find sources: "Nth root" – news · newspapers · books 
+e)     In mathematics, an nth root of a number x is a number r (
+a number x is a number r (the root)    which, when raised to the
+ the number x of which    the root is taken is the radicand. A r
+t is taken is the radicand. A root of degree 2 is called a    sq
+egree 2 is called a    square root and a root of degree 3, a cub
+called a    square root and a root of degree 3, a cube root. Roo
+nd a root of degree 3, a cube root. Roots of higher degree    ar
+oot of degree 3, a cube root. Roots of higher degree    are refe
+ordinal numbers, as in fourth root, twentieth    root, etc. The 
+ in fourth root, twentieth    root, etc. The computation of an n
+tc. The computation of an nth root is a root extraction.     For
+mputation of an nth root is a root extraction.     For example, 
+   For example, 3 is a square root of 9, since 3^2 = 9, and −3 i
+9, and −3 is also a    square root of 9, since (−3)^2 = 9.     T
+since (−3)^2 = 9.     The nth root of x is written as    [MATH: 
+class="MJX-TeXAtom-ORD">    <mroot> <mi>x</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+{\phantom {x}}}} . The square root is usually    written without
+\sqrt {x}}} ⁠. Taking the nth root of a number is the    inverse
+class="MJX-TeXAtom-ORD">    <mroot> <mi>x</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> <mo>=</mo> <msup> <m
+} denotes the positive square root of x and    [MATH: <semantics
+class="MJX-TeXAtom-ORD">    <mroot> <mi>x</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+denotes the positive real nth root. A    negative real number −x
+ −x has no real-valued square roots, but when x is    treated as
+r it has two imaginary square roots, ⁠    [MATH: <semantics> <mr
+istinct complex-valued    nth roots, equally distributed around 
+t    absolute value. (The nth root of 0 is zero with multiplicit
+ a point.) Extracting the nth roots of a    complex number x can
+tion, called the principal    root and denoted ⁠    [MATH: <sema
+class="MJX-TeXAtom-ORD">    <mroot> <mi>x</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+}}} ⁠, is taken to be the nth root with the    greatest real par
+imaginary part. The principal root of a    positive real number 
+ a    function, the principal root is continuous in the whole co
+ real axis.     An unresolved root, especially one using the rad
+dical, whether it is a square root, a cube root, or a    higher 
+r it is a square root, a cube root, or a    higher root, is call
+, a cube root, or a    higher root, is called a radical expressi
+tstyle {\text{power}}}    nth root (√)    [MATH: <semantics> <mr
+ow class="MJX-TeXAtom-ORD"> <mroot> <mstyle    displaystyle="fal
+ext>degree</mtext> </mrow> </mroot> </mrow>    <mspace width="th
+ass="MJX-TeXAtom-ORD"> <mtext>root</mtext>    </mrow> </mstyle> 
+ystyle \scriptstyle    {\text{root}}}</annotation> </semantics> 
+playstyle \scriptstyle {\text{root}}}    Logarithm (log)    [MAT
+    * v      * t      * e     Roots are used for determining the
+of a power    series with the root test. The nth roots of 1 are 
+s with the root test. The nth roots of 1 are called roots of uni
+The nth roots of 1 are called roots of unity    and play a funda
+it]     Main articles: Square root § History, and Cube root § Hi
+uare root § History, and Cube root § History     An archaic term
+r the operation of taking nth roots is    radication.^[4]^[5]  D
+[edit]     [220px-NegativeOne4Root.svg.png] The four 4th roots o
+ne4Root.svg.png] The four 4th roots of −1,    none of which are 
+ch are real[220px-NegativeOne3Root.svg.png] The three 3rd    roo
+oot.svg.png] The three 3rd    roots of −1,    one of which is a 
+is a negative real     An nth root of a number x, where n is a p
+r x has a single positive nth root, called the    principal nth 
+, called the    principal nth root, which is written    [MATH: <
+class="MJX-TeXAtom-ORD">    <mroot> <mi>x</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+alled the    principal square root and the n is omitted. The nth
+and the n is omitted. The nth root can also be    represented us
+bers also have a negative nth root,    while negative numbers do
+umbers do not have a real nth root. For odd values of    n, ever
+ber x has a real negative nth root. For example,    −2 has a rea
+example,    −2 has a real 5th root,    [MATH: <semantics> <mrow 
+class="MJX-TeXAtom-ORD">    <mroot> <mrow> <mo>−</mo> <mn>2</mn>
+m-ORD"> <mn>5</mn> </mrow> </mroot> </mrow> <mo>=</mo>    <mo>−<
+does not    have any real 6th roots.     Every non-zero number x
+fferent complex    number nth roots. (In the case x is real, thi
+ount includes any real    nth roots.) The only complex root of 0
+ nth roots.) The only complex root of 0 is 0.     The nth roots 
+x root of 0 is 0.     The nth roots of almost all numbers (all i
+414213562\ldots }     All nth roots of rational numbers are alge
+braic numbers, and all nth    roots of integers are algebraic in
+r to unresolved    irrational roots, that is, expressions of the
+class="MJX-TeXAtom-ORD">    <mroot> <mi>r</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+ quadratic surds.^[7]  Square roots     [edit]     Main article:
+dit]     Main article: Square root     [220px-Square-root_functi
+Square root     [220px-Square-root_function.svg.png] The graph  
+m {\sqrt {x}}} .     A square root of a number x is a number r w
+ve real number has two square roots, one positive and one    neg
+. For example, the two square roots of 25 are 5 and −5. The    p
+nd −5. The    positive square root is also known as the principa
+known as the principal square root, and is    denoted with a rad
+rs    do not have real square roots. However, for every negative
+here are two imaginary square roots. For example, the square roo
+oots. For example, the square roots of    −25 are 5i and −5i, wh
+ber whose square is −1.  Cube roots     [edit]     Main article:
+[edit]     Main article: Cube root     [220px-Cube-root_function
+le: Cube root     [220px-Cube-root_function.svg.png] The graph  
+   class="MJX-TeXAtom-ORD"> <mroot> <mi>x</mi> <mrow    class="M
+m-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> </mstyle>    </mrow>
+{\sqrt[{3}]{x}}} .     A cube root of a number x is a number r w
+r x has exactly one real cube root, written    [MATH: <semantics
+class="MJX-TeXAtom-ORD">    <mroot> <mi>x</mi> <mrow class="MJX-
+RD"> <mn>3</mn> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+   class="MJX-TeXAtom-ORD"> <mroot> <mn>8</mn> <mrow    class="M
+m-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> </mtd>    <mtd> <mi>
+   class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mo>−</mo> <mn>8</mn>
+m-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>    </mtd> <mtd> <mi>
+s two additional complex cube roots.  Identities and properties 
+pressing the degree of an nth root in its exponent form, as in  
+r to manipulate powers and    roots. If    [MATH: <semantics> <m
+class="MJX-TeXAtom-ORD">    <mroot> <msup> <mi>a</mi> <mrow clas
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> <mo>=</mo> <mo stret
+   class="MJX-TeXAtom-ORD"> <mroot> <mi>a</mi> <mrow    class="M
+m-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> <msup> <mo    stretc
+tly one non-negative real nth root,    and so the rules for oper
+   class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mi>a</mi> <mi>b</mi>
+m-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>    </mtd> <mtd> <mi>
+class="MJX-TeXAtom-ORD">    <mroot> <mi>a</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> <mrow class="MJX-TeX
+ow class="MJX-TeXAtom-ORD"> <mroot> <mi>b</mi>    <mrow class="M
+m-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>    </mtd> </mtr> <mt
+ow class="MJX-TeXAtom-ORD"> <mroot>    <mfrac> <mi>a</mi> <mi>b<
+RD">    <mi>n</mi> </mrow> </mroot> </mrow> </mtd> <mtd> <mi></m
+="MJX-TeXAtom-ORD"> <mfrac> <mroot> <mi>a</mi> <mrow    class="M
+m-ORD"> <mi>n</mi> </mrow> </mroot> <mroot> <mi>b</mi>    <mrow 
+<mi>n</mi> </mrow> </mroot> <mroot> <mi>b</mi>    <mrow class="M
+m-ORD"> <mi>n</mi> </mrow> </mroot> </mfrac>    </mrow> </mtd> <
+can occur when taking the nth roots of negative or complex    nu
+class="MJX-TeXAtom-ORD">    <mroot> <mi>a</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> <mo>×</mo> <mrow cla
+ow class="MJX-TeXAtom-ORD"> <mroot>    <mi>b</mi> <mrow class="M
+m-ORD"> <mi>n</mi> </mrow> </mroot>    </mrow> <mo>=</mo> <mrow 
+ow class="MJX-TeXAtom-ORD"> <mroot> <mrow>    <mi>a</mi> <mi>b</
+RD"> <mi>n</mi>    </mrow> </mroot> </mrow> </mstyle> </mrow> <a
+ct square under the square    root sign and remove it:     [MATH
+ow class="MJX-TeXAtom-ORD"> <mroot>    <mi>a</mi> <mrow class="M
+m-ORD"> <mn>3</mn> </mrow> </mroot>    </mrow> <mo>+</mo> <mrow 
+ow class="MJX-TeXAtom-ORD"> <mroot> <mi>b</mi>    <mrow class="M
+m-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>    </mrow> </mfrac> 
+ow class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi>    <mrow c
+m-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> <mo>−</mo>    <mrow 
+ow class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mi>a</mi> <mi>b</mi>
+m-ORD"> <mn>3</mn> </mrow> </mroot>    </mrow> <mo>+</mo> <mrow 
+ow class="MJX-TeXAtom-ORD"> <mroot> <msup>    <mi>b</mi> <mrow c
+m-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>    </mrow> <mrow> <m
+class="MJX-TeXAtom-ORD">    <mroot> <mi>a</mi> <mrow class="MJX-
+RD"> <mn>3</mn> </mrow>    </mroot> </mrow> <mo>+</mo> <mrow cla
+ow class="MJX-TeXAtom-ORD"> <mroot>    <mi>b</mi> <mrow class="M
+m-ORD"> <mn>3</mn> </mrow> </mroot>    </mrow> </mrow> <mo>)</mo
+   class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi> <mrow    c
+m-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> <mo>−</mo>    <mrow 
+ow class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mi>a</mi> <mi>b</mi>
+m-ORD"> <mn>3</mn> </mrow> </mroot>    </mrow> <mo>+</mo> <mrow 
+ow class="MJX-TeXAtom-ORD"> <mroot> <msup>    <mi>b</mi> <mrow c
+m-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>    </mrow> <mo>)</mo
+class="MJX-TeXAtom-ORD">    <mroot> <msup> <mi>a</mi> <mrow clas
+RD"> <mn>3</mn> </mrow>    </mroot> </mrow> <mo>−</mo> <mrow cla
+ow class="MJX-TeXAtom-ORD"> <mroot>    <mrow> <mi>a</mi> <mi>b</
+RD">    <mn>3</mn> </mrow> </mroot> </mrow> <mo>+</mo> <mrow    
+   class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>b</mi> <mrow    c
+m-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> </mrow>    <mrow> <m
+class="MJX-TeXAtom-ORD">    <mroot> <mi>r</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> <mo>=</mo> <mrow cla
+ow class="MJX-TeXAtom-ORD"> <mroot>    <mi>p</mi> <mrow class="M
+m-ORD"> <mi>n</mi> </mrow> </mroot>    </mrow> <mrow class="MJX-
+   class="MJX-TeXAtom-ORD"> <mroot> <mi>q</mi> <mrow    class="M
+m-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> </mstyle>    </mrow>
+class="MJX-TeXAtom-ORD">    <mroot> <mi>p</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+class="MJX-TeXAtom-ORD">    <mroot> <mi>q</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+    [edit]     The radical or root may be represented by the inf
+ series.  Computing principal roots     [edit]  Using Newton's m
+method     [edit]     The nth root of a number A can be computed
+or example, to find the fifth root of 34, we plug in n = 5, A = 
+ntinued fractions for the nth root. For example,     [MATH: <sem
+class="MJX-TeXAtom-ORD">    <mroot> <mi>z</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> <mo>=</mo> <mrow cla
+ow class="MJX-TeXAtom-ORD"> <mroot>    <mrow> <msup> <mi>x</mi> 
+m-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> <mo>=</mo>    <mi>x<
+igit calculation of principal roots of decimal (base 10) numbers
+t]     [220px-PascalForDecimalRoots.svg.png] Pascal's triangle s
+digit calculation of a square root, it can be    seen that the f
+al's    triangle. For the nth root of a number    [MATH: <semant
+on, any positive    principal root can be computed, digit-by-dig
+, as in long division, the    root will be written on the line a
+ups of digits equating to the root being taken, starting from th
+. The decimal point of the    root will be above the decimal poi
+radicand. One digit of the    root will appear above each group 
+aystyle p} be the part of the root found so far,             ign
+e x} as the next digit of the root, i.e., above             the 
+ message)     Find the square root of 152.2756.           1  2. 
+er is 12.34     Find the cube root of 4192 truncated to the near
+ecision is achieved. The cube root of 4192 is 16.124...  Logarit
+ [edit]     The principal nth root of a positive number can be c
+tion that defines r as an nth root of    x, namely    [MATH: <se
+nd therefore its principal    root r also positive, one takes lo
+ac {\log _{b}x}{n}}.}     The root r is recovered from this by t
+ is odd, there is one real    root r which is also negative. Thi
+ a length equal to the square root of a given    length, when an
+   Wantzel proved that an nth root of a given length cannot be c
+t a power of 2.^[11]  Complex roots     [edit]     Every complex
+er than 0 has n different nth roots.  Square roots     [edit]   
+ different nth roots.  Square roots     [edit]     [220px-Imagin
+  [edit]     [220px-Imaginary2Root.svg.png] The square roots of 
+nary2Root.svg.png] The square roots of i     The two square root
+roots of i     The two square roots of a complex number are alwa
+ther. For example, the square roots of −4 are 2i and −2i, and th
+2i and −2i, and the    square roots of i are     [MATH: <semanti
+n polar form, then the square root can    be obtained by taking 
+obtained by taking the square root of the radius and halving the
+heta    /2}.}     A principal root of a complex number may be ch
+anch cut the principal square root    [MATH: <semantics> <mrow c
+tware like Matlab or Scilab.  Roots of unity     [edit]     Main
+     [edit]     Main article: Root of unity     [220px-3rd_roots
+ Root of unity     [220px-3rd_roots_of_unity.svg.png] The three 
+_unity.svg.png] The three 3rd roots of 1     The number 1 has n 
+ number 1 has n different nth roots in the complex plane, namely
+2\pi }{n}}\right).}     These roots are evenly spaced around the
+/n} . For example, the square roots of unity are 1    and −1, an
+e 1    and −1, and the fourth roots of unity are 1,    [MATH: <s
+    {\displaystyle -i} .  nth roots     [edit]     [250px-Visual
+-Visualisation_complex_number_roots.svg.png] Geometric    repres
+resentation of the 2nd to 6th roots of a complex number z, in po
+eal, φ = 0 or π.    Principal roots are shown in black.     Ever
+ex number has n different nth roots in the complex plane.    The
+}     where η is a single nth root, and 1, ω, ω^2, ... ω^n−1 are
+ω^2, ... ω^n−1 are the nth    roots of unity. For example, the f
+le, the four different fourth roots of 2 are     [MATH: <semanti
+class="MJX-TeXAtom-ORD">    <mroot> <mn>2</mn> <mrow class="MJX-
+RD"> <mn>4</mn> </mrow>    </mroot> </mrow> <mo>,</mo> <mspace w
+   class="MJX-TeXAtom-ORD"> <mroot> <mn>2</mn> <mrow    class="M
+m-ORD"> <mn>4</mn> </mrow> </mroot> </mrow> <mo>,</mo>    <mspac
+class="MJX-TeXAtom-ORD">    <mroot> <mn>2</mn> <mrow class="MJX-
+RD"> <mn>4</mn> </mrow>    </mroot> </mrow> <mo>,</mo> <mspace w
+ow class="MJX-TeXAtom-ORD"> <mroot>    <mn>2</mn> <mrow class="M
+m-ORD"> <mn>4</mn> </mrow> </mroot>    </mrow> <mo>.</mo> </msty
+  In polar form, a single nth root may be found by the formula  
+class="MJX-TeXAtom-ORD">    <mroot> <mrow> <mi>r</mi> <msup> <mi
+m-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>    <mo>=</mo> <mrow 
+ow class="MJX-TeXAtom-ORD"> <mroot> <mi>r</mi> <mrow    class="M
+m-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> <mo>⋅</mo>    <msup>
+value)    of the number whose root is to be taken; if the number
+a =b/a.}     Thus finding nth roots in the complex plane can be 
+ the magnitude of all the nth roots is the nth root of the    ma
+ all the nth roots is the nth root of the    magnitude of the or
+e origin to one of the nth    roots is    [MATH: <semantics> <mr
+e way for the    number whose root is being taken. Furthermore, 
+Furthermore, all n of the nth roots    are at equally spaced ang
+ even, a complex number's nth roots, of which there are an even 
+ber r[1] is one    of the nth roots then r[2] = –r[1] is another
+ = r[1]^n.     As with square roots, the formula above does not 
+ials     [edit]     See also: Root-finding algorithms     It was
+ebraically (that is, that all roots of a polynomial could be    
+class="MJX-TeXAtom-ORD">    <mroot> <mi>x</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+class="MJX-TeXAtom-ORD">    <mroot> <mi>x</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> <mo>=</mo> <mi>a</mi
+class="MJX-TeXAtom-ORD">    <mroot> <mi>x</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+class="MJX-TeXAtom-ORD">    <mroot> <mi>x</mi> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+Geometric mean      * Twelfth root of two  References     [edit]
+  1. ^ "Lesson Explainer: nth Roots: Integers". Retrieved 22 Jul
+1)      * Division (2)      * Root extraction (3)      * Super-r
+t extraction (3)      * Super-root (4)     Inverse for right arg
+dia.org/w/index.php?title=Nth_root&oldid=1265710577"     Categor

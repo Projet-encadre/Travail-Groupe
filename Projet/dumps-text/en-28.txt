@@ -1,0 +1,615 @@
+   #alternate Modifier Wiktionnaire (fr) Flux Atom de Wiktionnaire
+
+   Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * Page d’accueil
+     * Recherche avancée, anagrammes et rimes
+     * Portails
+     * Page au hasard
+     * Page au hasard par langue
+     * Poser une question
+
+   Contribuer
+     * Communauté
+     * La Wikidémie
+     * Discuter sur Discord
+     * Journal des contributeurs
+     * Modifications récentes
+
+   Aide
+     * Conventions
+     * Aide
+     * Modèles
+     * Créer un article
+     * Télécharger
+
+   Wiktionnaire : dictionnaire libre et universel le dictionnaire libre
+   Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   [ ] Outils personnels
+     * Faire un don
+     * Créer un compte
+     * Se connecter
+
+   Pages pour les contributeurs déconnectés en savoir plus
+     * Contributions
+     * Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Français
+       (BUTTON) Afficher / masquer la sous-section Français
+          + 1.1 Étymologie
+          + 1.2 Nom commun
+               o 1.2.1 Traductions
+          + 1.3 Adjectif
+          + 1.4 Prononciation
+               o 1.4.1 Homophones
+          + 1.5 Anagrammes
+          + 1.6 Voir aussi
+     * 2 Anglais
+       (BUTTON) Afficher / masquer la sous-section Anglais
+          + 2.1 Étymologie
+          + 2.2 Nom commun
+               o 2.2.1 Dérivés
+          + 2.3 Verbe 1
+               o 2.3.1 Dérivés
+          + 2.4 Verbe 2
+               o 2.4.1 Synonymes
+          + 2.5 Verbe 3
+               o 2.5.1 Synonymes
+          + 2.6 Prononciation
+               o 2.6.1 Homophones
+          + 2.7 Voir aussi
+          + 2.8 Références
+     * 3 Breton
+       (BUTTON) Afficher / masquer la sous-section Breton
+          + 3.1 Forme de verbe
+               o 3.1.1 Synonymes
+               o 3.1.2 Variantes dialectales
+          + 3.2 Anagrammes
+
+   [ ] Basculer la table des matières
+
+root
+
+   [ ] 71 langues
+     * Aragonés
+     * العربية
+     * Asturianu
+     * Azərbaycanca
+     * বাংলা
+     * Brezhoneg
+     * Català
+     * Čeština
+     * Cymraeg
+     * Dansk
+     * Deutsch
+     * Zazaki
+     * Ελληνικά
+     * English
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Na Vosa Vakaviti
+     * Føroyskt
+     * Galego
+     * Hrvatski
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * Қазақша
+     * ភាសាខ្មែរ
+     * ಕನ್ನಡ
+     * 한국어
+     * Kurdî
+     * Limburgs
+     * Lombard
+     * ລາວ
+     * Lietuvių
+     * Latviešu
+     * Malagasy
+     * മലയാളം
+     * မြန်မာဘာသာ
+     * Plattdüütsch
+     * Nederlands
+     * Norsk
+     * Occitan
+     * Oromoo
+     * Polski
+     * Português
+     * Русский
+     * Sängö
+     * Srpskohrvatski / српскохрватски
+     * Simple English
+     * Slovenčina
+     * Sunda
+     * Svenska
+     * Kiswahili
+     * தமிழ்
+     * తెలుగు
+     * Тоҷикӣ
+     * ไทย
+     * Türkçe
+     * Українська
+     * اردو
+     * Vèneto
+     * Tiếng Việt
+     * Walon
+     * Wolof
+     * 中文
+     * 閩南語 / Bân-lâm-gú
+
+     * Article
+     * Discussion
+
+   [ ] français
+
+     * Lire
+     * Modifier le wikicode
+     * Voir l’historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * Lire
+     * Modifier le wikicode
+     * Voir l’historique
+
+   Général
+     * Pages liées
+     * Suivi des pages liées
+     * Téléverser un fichier
+     * Pages spéciales
+     * Lien permanent
+     * Informations sur la page
+     * Citer cette page
+     * Obtenir l’URL raccourcie
+     * Télécharger le code QR
+
+   Imprimer / exporter
+     * Créer un livre
+     * Télécharger comme PDF
+     * Version imprimable
+
+   Dans d’autres projets
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Définition, traduction, prononciation, anagramme et synonyme sur le
+   dictionnaire libre Wiktionnaire.
+   Voir aussi : Root
+
+Français
+
+   [modifier le wikicode]
+
+Étymologie
+
+   [modifier le wikicode]
+
+          De l’anglais root.
+
+Nom commun
+
+   [modifier le wikicode]
+   Singulier Pluriel
+   root      roots
+   \ʁut\
+
+   root \ʁut\ masculin
+    1. (Anglicisme informatique) Compte administrateur sur Unix.
+          + "Cependant, seul le root peut modifier ce fichier." — (Carla
+            Schroder, Linux en action, 2005, page 76)
+    2. (Anglicisme informatique) Droits associés à la racine du système
+       d’exploitation Unix.
+          + Exemple d’utilisation manquant. (Ajouter)
+    3. (Anglicisme informatique) (Par extension) Administrateur sur Unix.
+          + Exemple d’utilisation manquant. (Ajouter)
+
+Traductions
+
+   [modifier le wikicode]
+
+Adjectif
+
+   [modifier le wikicode]
+              Singulier Pluriel
+   Masculin
+   et féminin root      roots
+   \Prononciation ?\
+
+   root \ʁut\
+    1. (Argot) Rustique.
+          + Exemple d’utilisation manquant. (Ajouter)
+
+Prononciation
+
+   [modifier le wikicode]
+     * La prononciation \ʁut\ rime avec les mots qui finissent en \ut\.
+     * France (Vosges) : écouter « root [Prononciation ?] »
+
+Homophones
+
+   [modifier le wikicode]
+     * route
+
+Anagrammes
+
+   [modifier le wikicode]
+
+   → Modifier la liste d’anagrammes
+     * Oort
+     * Orto
+     * roto
+     * Toro, toro
+     * Troo
+
+Voir aussi
+
+   [modifier le wikicode]
+     * root sur Wikipédia Article sur Wikipédia
+
+Anglais
+
+   [modifier le wikicode]
+
+Étymologie
+
+   [modifier le wikicode]
+
+          (Racine) Du vieux norrois rot^[1] qui donne rot (« racine ») en
+          suédois ; apparenté à wrot (« plante, légume »).
+          (Enraciner, déraciner) Dénominal du précédent^[1].
+          (Fouiller la terre du groin à la recherche de racine) Du moyen
+          anglais wroten^[1] apparenté à wrot (« plante, légume ») et au
+          précédent. Le sens propre est repris par son diminutif rootle.
+          (Soutenir (bruyamment) une personne, une équipe) (1889) Anglais
+          américain, probablement^[1] du précédent ou altération de rout
+          (« faire du bruit »).
+
+Nom commun
+
+   [modifier le wikicode]
+          Singulier Pluriel
+   root
+   \ɹuːt\ roots
+   \ɹuːts\
+   [220px-Carnegie_Institution_of_Washington_publication_%281919%29_%28203
+   48904318%29.jpg] Roots
+
+   root \ɹuːt\
+    1. (Botanique) Racine (de plante, de dent, de cheveu, carrée, de mot).
+          + "To take root."
+
+                      Prendre racines.
+
+    2. Origine, source principale.
+          + "It leaves the public with the false impression that these are
+            disasters without root causes, which also means that nothing
+            could have been done to prevent them (and that nothing can be
+            done now to prevent them from getting much worse in the
+            future)." — (Naomi Klein, Harvey Didn’t Come Out of the Blue.
+            Now is the Time to Talk About Climate Change., The Intercept,
+            28 août 2017)
+
+                      La traduction en français de l’exemple manque.
+                      (Ajouter)
+
+    3. (Informatique) Root (compte et administrateur).
+          + Exemple d’utilisation manquant. (Ajouter)
+    4. (Informatique) Racine, répertoire le plus haut de l’arborescence.
+          + Exemple d’utilisation manquant. (Ajouter)
+    5. (Musique) Fondamentale d'un accord.
+          + Exemple d’utilisation manquant. (Ajouter)
+
+Dérivés
+
+   [modifier le wikicode]
+     * (Mathématiques) nth root
+     * (Théorie du contrôle) root locus
+     * rootless (« sans fondement »)
+     * square root (« racine carrée »)
+     * rooty (« raciné »)
+
+Verbe 1
+
+   [modifier le wikicode]
+   Temps Forme
+   Infinitif to root
+   \ɹuːt\
+   Présent simple,
+   3^e pers. sing. roots
+   \ɹuːts\
+   Prétérit rooted
+   \ɹuːtɪd\
+   Participe passé rooted
+   \ɹuːtɪd\
+   Participe présent rooting
+   \ɹuːt.ɪŋ\
+   voir conjugaison anglaise
+
+   root \ɹuːt\
+    1. Enraciner.
+          + "They rooted the tree close to the house."
+
+                      La traduction en français de l’exemple manque.
+                      (Ajouter)
+
+    2. (Sens figuré) Enraciner, prendre racine.
+          + "He was rooted to the spot with fear."
+
+                      La traduction en français de l’exemple manque.
+                      (Ajouter)
+
+    3. Déraciner.
+          + Exemple d’utilisation manquant. (Ajouter)
+    4. (Par extension) (Sens figuré) Déterrer.
+          + "The wife of a farmer, a woman who had lived for sixty years,
+            and been known for nothing but good butter and a godly
+            conversation, was to be rooted from her grave at midnight and
+            carried, dead and naked, to that far-away city that she had
+            always honoured with her Sunday's best; the place beside her
+            family was to be empty till the crack of doom; her innocent
+            and almost venerable members to be exposed to that last
+            curiosity of the anatomist." — (Robert Louis Stevenson, The
+            Body Snatcher, 1884)
+
+                      La traduction en français de l’exemple manque.
+                      (Ajouter)
+
+Dérivés
+
+   [modifier le wikicode]
+     * root out
+     * uproot
+
+Verbe 2
+
+   [modifier le wikicode]
+   Temps Forme
+   Infinitif to root
+   \ɹuːt\
+   Présent simple,
+   3^e pers. sing. roots
+   \ɹuːts\
+   Prétérit rooted
+   \ɹuːtɪd\
+   Participe passé rooted
+   \ɹuːtɪd\
+   Participe présent rooting
+   \ɹuːt.ɪŋ\
+   voir conjugaison anglaise
+
+   root \ɹuːt\
+    1. Fouiller la terre avec le groin.
+          + "A pig roots the earth for truffles."
+
+                      La traduction en français de l’exemple manque.
+                      (Ajouter)
+
+    2. Chercher des faveurs.
+          + "Thou elvish-marked, abortive, rooting hog!" — (William
+            Shakespeare, The Tragedy of Richard the Third)
+
+                      La traduction en français de l’exemple manque.
+                      (Ajouter)
+
+    3. Chercher, fouiller.
+          + " Rooting about in a junk-filled drawer."
+
+                      La traduction en français de l’exemple manque.
+                      (Ajouter)
+
+    4. (En parlant d’un bébé) Chercher le sein pour téter.
+          + "When your baby is rooting, his head will turn to the side and
+            he will open and close his mouth. If you put your finger in
+            your baby's hand, she has a grasping reflex that makes her
+            curl her fingers around yours and hold on." — (Rachel
+            Waddilove, The Baby Book: How to enjoy year one, 2016)
+
+                      La traduction en français de l’exemple manque.
+                      (Ajouter)
+
+    5. Supprimer, anéantir, éradiquer.
+          + "The dissent was ruthlessly rooted out."
+
+                      La traduction en français de l’exemple manque.
+                      (Ajouter)
+
+    6. (Australie) (Nouvelle-Zélande) (Sexualité) Baiser.
+          + "You're rooted!"
+
+                      T’es niqué !
+
+Synonymes
+
+   [modifier le wikicode]
+     * rummage (« fouiller »)
+     * screw, bang, fuck, shag (« baiser »)
+
+Verbe 3
+
+   [modifier le wikicode]
+   Temps Forme
+   Infinitif to root
+   \ɹuːt\
+   Présent simple,
+   3^e pers. sing. roots
+   \ɹuːts\
+   Prétérit rooted
+   \ɹuːtɪd\
+   Participe passé rooted
+   \ɹuːtɪd\
+   Participe présent rooting
+   \ɹuːt.ɪŋ\
+   voir conjugaison anglaise
+
+   root \ɹuːt\
+    1. Soutenir (bruyamment) une personne, une équipe.
+          + "Let me root, root, root for the home team" — (Jack Norworth,
+            Take Me Out to the Ball Game, 1908)
+
+                      La traduction en français de l’exemple manque.
+                      (Ajouter)
+
+          + "I'm rooting for you, don't let me down!"
+
+                      La traduction en français de l’exemple manque.
+                      (Ajouter)
+
+Synonymes
+
+   [modifier le wikicode]
+     * cheer, support
+
+Prononciation
+
+   [modifier le wikicode]
+     * \ɹuːt\
+     * États-Unis : écouter « root [ɹuːt] »
+     * Afrique du Sud (Le Cap) : écouter « root [Prononciation ?] »
+     * Royaume-Uni (Londres) : écouter « root [ɹuːt] »
+     * Royaume-Uni (Écosse) : écouter « root [ɹuːt] »
+     * (Région à préciser) : écouter « root [Prononciation ?] »
+     * Texas (États-Unis) : écouter « root [Prononciation ?] »
+     * Aurora (États-Unis) : écouter « root [Prononciation ?] »
+
+Homophones
+
+   [modifier le wikicode]
+     * route
+
+Voir aussi
+
+   [modifier le wikicode]
+     * root sur l’encyclopédie Wikipédia (en anglais)
+       [20px-Wikipedia-logo-v2.svg.png]
+
+Références
+
+   [modifier le wikicode]
+    1. ↑ a b c et d (En anglais) Douglas Harper, Online Etymology
+       Dictionary, 2001–2020 → consulter cet ouvrage
+
+Breton
+
+   [modifier le wikicode]
+
+Forme de verbe
+
+   [modifier le wikicode]
+
+   root \ˈroː.ɔt\
+    1. Deuxième personne du pluriel du futur de l’indicatif de reiñ.
+          + "— Evelato e root amzer din da lakaat dilhad all [...] ? »"
+            — (Lan Inizan, Emgann Kergidu 1, Éditions Al Liamm, 1977, page
+            19)
+
+                      — Vous me donnerez cependant le temps de mettre
+                      d’autres vêtements [...] ? »
+
+Synonymes
+
+   [modifier le wikicode]
+     * roocʼh
+
+Variantes dialectales
+
+   [modifier le wikicode]
+     * (Trégorrois) rofet
+
+Anagrammes
+
+   [modifier le wikicode]
+     * toor
+
+   Récupérée de
+   « https://fr.wiktionary.org/w/index.php?title=root&oldid=35055339 »
+   Catégories :
+     * français
+     * Mots en français issus d’un mot en anglais
+     * Lemmes en français
+     * Noms communs en français
+     * Anglicismes informatiques en français
+     * Exemples en français
+     * Adjectifs en français
+     * Termes argotiques en français
+     * Rimes en français en \ut\
+     * Mots ayant des homophones en français
+     * anglais
+     * Mots en anglais issus d’un mot en vieux norrois
+     * Dénominaux en anglais
+     * Mots en anglais issus d’un mot en moyen anglais
+     * Lemmes en anglais
+     * Noms communs en anglais
+     * Lexique en anglais de la botanique
+     * Exemples en anglais
+     * Lexique en anglais de l’informatique
+     * Lexique en allemand de la musique
+     * Verbes en anglais
+     * Métaphores en anglais
+     * anglais d’Australie
+     * anglais de Nouvelle-Zélande
+     * Lexique en anglais de la sexualité
+     * Mots ayant des homophones en anglais
+     * Lexique en anglais des mathématiques
+     * Lexique en anglais de la linguistique
+     * breton
+     * Formes de verbes en breton
+     * Exemples en breton
+
+   Catégories cachées :
+     * Wiktionnaire:Exemples manquants en français
+     * Wiktionnaire:Prononciations manquantes en français
+     * Prononciations audio en français
+     * Wiktionnaire:Prononciations phonétiques manquantes en français
+     * oo prononcés /u/ en français
+     * -t prononcés /t/ en français
+     * Exemples en anglais à traduire
+     * Wiktionnaire:Exemples manquants en anglais
+     * Prononciations audio en anglais
+     * Wiktionnaire:Prononciations phonétiques manquantes en anglais
+     * Pages liées à Wikipédia en anglais
+
+     * La dernière modification de cette page a été faite le 12 juin 2024
+       à 18:02.
+     * Les définitions et autres textes sont disponibles sous licence
+       Creative Commons attribution partage à l’identique ; d’autres
+       termes peuvent s’appliquer. Voyez les termes d’utilisation pour
+       plus de détails.
+       Pour les illustrations, cliquez sur chaque image ou consultez les
+       crédits graphiques.
+
+     * Politique de confidentialité
+     * À propos du Wiktionnaire
+     * Licence
+     * Code de conduite
+     * Développeurs
+     * Statistiques
+     * Déclaration sur les témoins (cookies)
+     * Version mobile
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

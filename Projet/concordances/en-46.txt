@@ -1,0 +1,196 @@
+           + 3.1 Group of all roots of unity           + 3.2 Gro
+           + 3.2 Group of nth roots of unity           + 3.3 Gal
+is group of the primitive nth roots of unity           + 3.4 Gal
+he real part of the primitive roots of             unity      * 
+Toggle the table of contents  Root of unity     [ ] 28 languages
+nd removed.    Find sources: "Root of unity" – news · newspapers
+ this message)     [220px-One5Root.svg.png] The 5th roots of uni
+0px-One5Root.svg.png] The 5th roots of unity (blue points) in th
+x plane     In mathematics, a root of unity, occasionally called
+    positive integer power n. Roots of unity are used in many br
+screte Fourier transform.     Roots of unity can be defined in a
+ of    the field is zero, the roots are complex numbers that are
+sitive characteristic, the    roots belong to a finite field, an
+ent    of a finite field is a root of unity. Any algebraically c
+eld    contains exactly n nth roots of unity, except when n is a
+-Visualisation_complex_number_roots.svg.png] Geometric    repres
+resentation of the 2nd to 6th root of a general complex number i
+in    polar form. For the nth root of unity, set r = 1 and φ = 0
+1 and φ = 0. The    principal root is in black.     An nth root 
+ root is in black.     An nth root of unity, where n is a positi
+less otherwise specified, the roots of unity    may be taken to 
+    and in this case, the nth roots of unity are^[3]    [MATH: <
+ver, the defining equation of roots of unity is meaningful over 
+, and this allows considering roots of    unity in F. Whichever 
+Whichever is the field F, the roots of unity in F are    either 
+ent in a finite    field is a root of unity in that field. See R
+t of unity in that field. See Root of unity modulo n and    Fini
+r further details.     An nth root of unity is said to be primit
+mitive    if it is not an mth root of unity for some smaller m, 
+ a prime number, then all nth roots of unity, except 1, are    p
+ functions, the primitive nth roots of unity are those for which
+icle will comply with complex roots of    unity. For the case of
+ of    unity. For the case of roots of unity in fields of nonzer
+cteristic, see Finite field § Roots of unity. For the case of   
+ of unity. For the case of    roots of unity in rings of modular
+ings of modular integers, see Root of unity modulo    n.  Elemen
+ties     [edit]     Every nth root of unity z is a primitive ath
+of unity z is a primitive ath root of unity for some a ≤    n, w
+  Any integer power of an nth root of unity is also an nth root 
+ root of unity is also an nth root of    unity,^[7] as          
+, the reciprocal    of an nth root of unity is its complex conju
+jugate, and is also an nth    root of unity:^[8]            [MAT
+bar {z}}.}     If z is an nth root of unity and a ≡ b (mod n) th
+     Let z be a primitive nth root of unity. Then the powers z, 
+ z^n−1, z^n = z^0 = 1 are nth roots of unity and are all    dist
+ = z^0 = 1 are all of the nth roots of unity, since    an nth-de
+that, if z is a primitive nth root of    unity, then    [MATH: <
+If n = 4, a non-primitive nth root of unity is z    = –1, and on
+     Let z be a primitive nth root of unity. A power w = z^k of 
+^k of z is a    primitive ath root of unity for            [MATH
+, z^k is also a primitive nth root of    unity, and therefore th
+e φ(n) distinct primitive nth roots of    unity (where φ is Eule
+is    a prime number, all the roots except +1 are primitive.    
+if R(n) is the set of all nth roots of unity and P(n)    is the 
+ties     [edit]  Group of all roots of unity     [edit]     The 
+multiplicative inverse of two roots of unity are    also roots o
+wo roots of unity are    also roots of unity. In fact, if x^m = 
+f m and n.     Therefore, the roots of unity form an abelian gro
+e circle group.  Group of nth roots of unity     [edit]     For 
+icative inverse of two nth    roots of unity are also nth roots 
+  roots of unity are also nth roots of unity. Therefore, the nth
+ of unity. Therefore, the nth roots of    unity form an abelian 
+on.     Given a primitive nth root of unity ω, the other nth roo
+oot of unity ω, the other nth roots are powers    of ω. This mea
+ans that the group of the nth roots of unity is a cyclic    grou
+is group of the primitive nth roots of unity     [edit]     Let 
+thbb {Q} } by a primitive nth root of unity ω. As    every nth r
+t of unity ω. As    every nth root of unity is a power of ω, the
+} (\omega )} contains all nth roots of unity,    and    [MATH: <
+teger, ω^k is a primitive nth root of unity if and only if    k 
+ega )} , which maps every nth root of    unity to its kth power.
+es thus that the    primitive roots of unity may be expressed in
+he real part of the primitive roots of unity     [edit]    Main 
+he real part of the primitive roots of unity are related to one 
+ related to one    another as roots of the minimal polynomial of
+laystyle 2\cos(2\pi /n).} The roots of the minimal polynomial ar
+st twice the real part; these roots form a cyclic Galois group. 
+sion     [edit]    [220px-3rd_roots_of_unity_correction.svg.png]
+_correction.svg.png] The cube roots of unity     De Moivre's for
+π/n⁠    gives a primitive nth root of unity – one gets          
+}{n}}}     is a primitive nth root of unity.     This formula sh
+ in the complex plane the nth roots of unity are    at the verti
+mial; it is from the    Greek roots "cyclo" (circle) plus "tomos
+ut the formula for the    nth roots of unity into the form      
+at this is a    primitive nth-root if and only if the fraction ⁠
+essed as the real part of the root of unity;    that is, as    [
+ession     [edit]     The nth roots of unity are, by definition,
+unity are, by definition, the roots of the polynomial    x^n − 1
+for n = 1), the primitive nth roots of unity are    roots of an 
+ive nth roots of unity are    roots of an irreducible polynomial
+) the number of primitive nth roots of unity.^[9]    The roots o
+th roots of unity.^[9]    The roots of Φ[n] are exactly the prim
+are exactly the primitive nth roots of unity.     Galois theory 
+class="MJX-TeXAtom-ORD">    <mroot> <mn>1</mn> <mrow class="MJX-
+RD"> <mi>n</mi> </mrow>    </mroot> </mrow> </mstyle> </mrow> <a
+ it contains    non-primitive roots, such as 1, which are not ro
+ots, such as 1, which are not roots of the cyclotomic    polynom
+ession built from integers by root extractions, additions,    su
+uch    that the primitive nth roots of unity are exactly the set
+ed by choosing values for the root extractions (k    possible va
+    possible values for a kth root). (For more details see § Cyc
+s proved that a primitive nth root of unity can be expressed usi
+xpressed using    only square roots, addition, subtraction, mult
+.     If z is a primitive nth root of unity, the same is true fo
+ystyle R_{n}} that has r as a root may be deduced from Φ[n] by  
+als, and the primitive    nth roots of unity may be deduced from
+unity may be deduced from the roots of    [MATH: <semantics> <mr
+real part of the primitive    root is    [MATH: <semantics> <mro
+ irreducible polynomial whose roots are all    real. Its degree 
+t is, every expression of the roots in terms of    radicals invo
+     the only primitive first root of unity is 1, which is a    
+is a        non-primitive nth root of unity for every n > 1.    
+nly primitive second (square) root of        unity is −1, which 
+h is also a non-primitive nth root of unity for        every eve
+letes the list        of real roots of unity.      * As Φ[3](x) 
+1, the primitive third (cube) roots of        unity, which are t
+f        unity, which are the roots of this quadratic polynomial
++ 1, the two primitive fourth roots of unity are i        and −i
+e four primitive fifth        roots of unity are the roots of th
+       roots of unity are the roots of this quartic polynomial, 
+terms of radicals, giving the roots        [MATH: <semantics> <m
+there are two primitive sixth roots of        unity, which are t
+egatives (and also the square roots) of the        two primitive
+the        two primitive cube roots:        [MATH: <semantics> <
+t a Fermat prime, the seventh roots of unity are the        firs
+      first that require cube roots. There are 6 primitive seven
+There are 6 primitive seventh roots        of unity, which are p
+mplex conjugate. The sum of a root        and its conjugate is t
+ums are the        three real roots of the cubic polynomial     
+1,} and the primitive seventh roots        of unity are        [
+        where r runs over the roots of the above polynomial. As 
+      cubic polynomial, these roots may be expressed in terms of
+rms of square        and cube roots. However, as these three roo
+oots. However, as these three roots are all real, this is       
+involves non-real cube        roots.      * As Φ[8](x) = x^4 + 1
+ 1, the four primitive eighth roots of unity are        the squa
+f unity are        the square roots of the primitive fourth root
+roots of the primitive fourth roots, ± i. They are thus        [
+n for the real part of a 17th root of unity.  Periodicity     [e
+]     If z is a primitive nth root of unity, then the sequence o
+ powers of a primitive nth    root of unity:            [MATH: <
+hoosing for the primitive nth root of unity            [MATH: <s
+(n) be the sum of all the nth roots of unity, primitive or not. 
+formulas. In fact, the nth    roots of unity being the roots of 
+h    roots of unity being the roots of the polynomial X^ n – 1, 
+d for n > 1 there    exists a root z ≠ 1 – since the set S of al
+ince the set S of all the nth roots of unity is    a group, z S 
+ sum of all the primitive nth roots of unity. Then            [M
+R(n) is the    set of all nth roots of unity and P(n) is the set
+h powers of the primitive nth roots of    unity:            [MAT
+ta and z is any primitive nth root of    unity.     The n × n ma
+-1}     are precisely the nth roots of unity, each with multipli
+  precisely the primitive nth roots of unity, each with multipli
+z[φ(n)] are the primitive nth roots of    unity, and φ(n) is Eul
+nomial theorem.     Every nth root of unity is a primitive dth r
+t of unity is a primitive dth root of unity for exactly    one p
+rime number, then all the pth roots of unity except 1 are    pri
+except 1 are    primitive pth roots. Therefore,^[6]    [MATH: <s
+ are solvable in radicals, as roots of unity are    themselves r
+adical    expressions for nth roots of unity with the additional
+(for example, signs of square roots) is a primitive nth root    
+are roots) is a primitive nth root    of unity. This was already
+groups     [edit]     The nth roots of unity form under multipli
+clic group is a primitive nth root of unity.     The nth roots o
+th root of unity.     The nth roots of unity form an irreducible
+d in Character group.     The roots of unity appear as entries o
+ By adjoining a primitive nth root of unity to    [MATH: <semant
+his field contains all    nth roots of unity and is the splittin
+ls. It follows that every nth root    of unity may be expressed 
+may be expressed in term of k-roots, with various k not    excee
+integers     [edit]    [220px-Roots_of_unity%2C_golden_ratio.svg
+ the red points are the fifth roots of unity, and the black poin
+ts are    the sums of a fifth root of unity and its complex    c
+he two squares are the eighth roots of unity     For n = 1, 2, b
+ unity     For n = 1, 2, both roots of unity 1 and −1 are intege
+   For three values of n, the roots of unity are quadratic integ
+er values of n, the primitive roots of unity are not    quadrati
+ integers, but the sum of any root of unity with its complex    
+lex    conjugate (also an nth root of unity) is a quadratic inte
+= 5, 10, none of the non-real roots of unity (which satisfy a   
+sum z + z = 2 Re z of    each root with its complex conjugate (a
+complex conjugate (also a 5th root of unity) is an    element of
+ two pairs of non-real    5th roots of unity these sums are inve
+ratio.     For n = 8, for any root of unity z + z equals to eith
+= 2).     For n = 12, for any root of unity, z + z equals to eit
+ field      * Group scheme of roots of unity      * Dirichlet ch
+    2. ^ Lang, Serge (2002). "Roots of unity". Algebra. Springer
+    Derbyshire, John (2006). "Roots of Unity". Unknown Quantity.
+     * Rational number      * Root of unity      * Salem number 
+ilver ratio (σ)      * Square root of 2      * Square root of 3 
+quare root of 2      * Square root of 3      * Square root of 5 
+quare root of 3      * Square root of 5      * Square root of 6 
+quare root of 5      * Square root of 6      * Square root of 7 
+quare root of 6      * Square root of 7      * Supergolden ratio
+lver ratio (ς)      * Twelfth root of 2     icon Mathematics por
+kipedia.org/w/index.php?title=Root_of_unity&oldid=1245628    090

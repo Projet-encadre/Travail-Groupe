@@ -1,0 +1,31 @@
+ subsection           + 1.1 chroot           + 1.2 Super-root   
+ chroot           + 1.2 Super-root      * 2 DOS/Windows systems 
+Toggle the table of contents  Root directory     [ ] 21 language
+rarchy    For other uses, see Root (disambiguation).    [220px-O
+5_Console_LS.png] View of the root directory in    the OpenIndia
+ike    operating systems, the root directory is the first or top
+ branches originate from. The root file    system is the file sy
+isk partition on which    the root directory is located; it is t
+    and Unix-like systems the root directory is denoted by the /
+/ (slash)    sign. Though the root directory is conventionally r
+ems are "branches" of this    root.^[1]  chroot     [edit]     I
+ches" of this    root.^[1]  chroot     [edit]     In UNIX-like o
+s its own idea of what    the root directory is. For most proces
+ame as the    system's actual root directory, but it can be chan
+e changed by calling the    chroot system call. This is typicall
+installation and debugging. Chroot is    not meant to be used fo
+ can    break out.^[3]  Super-root     [edit]    See also: Newca
+support a directory below the root directory.    Normally, "/.."
+e changed to point to a super-root directory,    where remote tr
+" could be used to access the root    directory of "pcs2b" from 
+:\) and there is no    public root directory on it.  Related use
+is also a directory named    /root (pronounced "slash root").^[6
+d    /root (pronounced "slash root").^[6] This is the home direc
+the home directory of the    'root' superuser. On many Mac and i
+ser home    directory is /var/root.^[6]     A home page's URL us
+e's URL usually points to the root of the respective    website'
+es     [edit]     1. ^ ^a ^b "Root Directory Definition". techte
+trieved 2020-03-14.     2. ^ "Root Filesystem Definition by The 
+ 2020-03-14.     3. ^ "What chroot() is really for". LWN.net. Ar
+-201-32570-5.     6. ^ ^a ^b "Root Definition". LInfo.org. The L
+kipedia.org/w/index.php?title=Root_directory&oldid=125072    079

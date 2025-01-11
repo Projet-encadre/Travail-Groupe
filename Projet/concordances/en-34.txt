@@ -1,0 +1,23 @@
+) Reset     HomeBits and BytesRoot Directory Definition  Root Di
+tesRoot Directory Definition  Root Directory     The root direct
+ition  Root Directory     The root directory, or root folder, is
+ry     The root directory, or root folder, is the top-level dire
+pside-down tree, so the term "root" represents the top level. Al
+" or subdirectories of    the root directory.     While all file
+While all file systems have a root directory, it may be labeled 
+e, in Windows,    the default root directory is C:\. On Unix sys
+x systems and in OS X, the    root directory is typically labele
+ will eventually    reach the root directory.  Website Root Dire
+ the root directory.  Website Root Directory     The root direct
+ebsite Root Directory     The root directory of a website is not
+ for example, the name of the root directory is    public_html a
+he website.    Therefore, the root folder of a website can be ac
+alled home.html within    the root directory of a website can be
+ps://techterms.com/definition/root_directory    (BUTTON) Copy  q
+tion.    More Quizzes →    ‹  Root | Rooting  ›  Tech Factor    
+  More Quizzes →    ‹  Root | Rooting  ›  Tech Factor     ? 5 / 
+5 / 10  Related Terms      1. Root     2. Directory     3. Folde
+    7. Volume     8. Website  Root Directory Images     Visual R
+al Representation of the OS X Root Directory Visual Representati
+Representation    of the OS X Root Directory  The Tech Terms Com
+tionary     The definition of Root Directory on this page is an 

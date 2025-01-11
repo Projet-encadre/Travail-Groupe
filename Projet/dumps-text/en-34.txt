@@ -1,0 +1,128 @@
+   Skip to main content TechTerms.com
+   ____________________ (BUTTON)
+
+   random (BUTTON) search
+   (BUTTON) open menu (BUTTON) close menu
+     * Terms
+     * Quizzes
+     * Help Center
+     * Random Term
+     * (BUTTON) settings
+
+       Theme
+
+       (*) Light ( ) Dark ( ) High Contrast
+
+       Font Size 20
+       (BUTTON) Reset
+
+   HomeBits and BytesRoot Directory Definition
+
+Root Directory
+
+   The root directory, or root folder, is the top-level directory of a
+   file system. The directory structure can be visually represented as an
+   upside-down tree, so the term "root" represents the top level. All
+   other directories within a volume are "branches" or subdirectories of
+   the root directory.
+
+   While all file systems have a root directory, it may be labeled
+   differently depending on the operating system. For example, in Windows,
+   the default root directory is C:\. On Unix systems and in OS X, the
+   root directory is typically labeled simply / (a single forward slash).
+   As you move up directories within a file system, you will eventually
+   reach the root directory.
+
+Website Root Directory
+
+   The root directory of a website is not the top-level directory of the
+   volume, but rather the top-level directory of the website folder. On an
+   Apache server, for example, the name of the root directory is
+   public_html and is located within primary user folder for the website.
+   Therefore, the root folder of a website can be accessed using a single
+   forward slash. For example, a link to a file called home.html within
+   the root directory of a website can be accessed using the reference
+   "/home.html."
+   Updated August 5, 2015 by Per C.
+   (BUTTON) APA (BUTTON) MLA (BUTTON) Chicago (BUTTON) HTML (BUTTON) Link
+   https://techterms.com/definition/root_directory
+   (BUTTON) Copy
+
+quiz Test Your Knowledge
+
+   1,000 bytes is equal to one what?
+   A
+   Megabyte
+   0%
+   B
+   Terabyte
+   0%
+   C
+   Gigabyte
+   0%
+   D
+   Kilobyte
+   0%
+   Correct! Incorrect!     View the Kilobyte definition.
+   More Quizzes →
+   ‹  Root | Rooting  ›
+
+Tech Factor
+
+   ? 5 / 10
+
+Related Terms
+
+    1. Root
+    2. Directory
+    3. Folder
+    4. File System
+
+    5. File
+    6. Storage Device
+    7. Volume
+    8. Website
+
+Root Directory Images
+
+   Visual Representation of the OS X Root Directory Visual Representation
+   of the OS X Root Directory
+
+The Tech Terms Computer Dictionary
+
+   The definition of Root Directory on this page is an original definition
+   written by the TechTerms.com team. If you would like to reference this
+   page or cite this definition, please use the green citation links
+   above.
+
+   The goal of TechTerms.com is to explain computer terminology in a way
+   that is easy to understand. We strive for simplicity and accuracy with
+   every definition we publish. If you have feedback about this definition
+   or would like to suggest a new technical term, please contact us.
+   (BUTTON) ×
+
+Sign up for the free TechTerms Newsletter
+
+   Email (required): ____________________
+   First Name: ____________________
+   Last Name: ____________________
+
+   How often would you like to receive an email?
+
+   (*) Daily ( ) Weekly (Every Tuesday) ____________________
+
+   Subscribe
+
+   You can unsubscribe or change your frequency setting at any time using
+   the links available in each email.
+   Questions? Please contact us.
+
+Thank You
+
+   We just sent you an email to confirm your email address. Once you
+   confirm your address, you will begin to receive the newsletter.
+
+   If you have any questions, please contact us.
+   (BUTTON) Ok
+   © 2025 Sharpened Productions  |  Terms of Use  |  Privacy Policy  |
+   (BUTTON) Cookie Settings  |  About  |  Contact

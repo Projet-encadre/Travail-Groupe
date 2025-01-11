@@ -1,0 +1,252 @@
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Unix-like systems
+       (BUTTON) Toggle Unix-like systems subsection
+          + 1.1 chroot
+          + 1.2 Super-root
+     * 2 DOS/Windows systems
+     * 3 Related uses
+     * 4 See also
+     * 5 References
+
+   [ ] Toggle the table of contents
+
+Root directory
+
+   [ ] 21 languages
+     * العربية
+     * Deutsch
+     * Eesti
+     * Español
+     * Euskara
+     * فارسی
+     * Français
+     * 한국어
+     * Bahasa Indonesia
+     * Italiano
+     * עברית
+     * Қазақша
+     * Nederlands
+     * 日本語
+     * Norsk bokmål
+     * Олык марий
+     * Polski
+     * Português
+     * Türkçe
+     * Українська
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   First or top-most directory in a hierarchy
+   For other uses, see Root (disambiguation).
+   [220px-OpenIndiana_2015_Console_LS.png] View of the root directory in
+   the OpenIndiana operating system
+
+   In a computer file system, and primarily used in the Unix and Unix-like
+   operating systems, the root directory is the first or top-most
+   directory in a hierarchy.^[1] It can be likened to the trunk of a tree,
+   as the starting point where all branches originate from. The root file
+   system is the file system contained on the same disk partition on which
+   the root directory is located; it is the filesystem on top of which all
+   other file systems are mounted as the system boots up.^[2]
+
+Unix-like systems
+
+   [edit]
+
+   Unix abstracts the nature of this tree hierarchy entirely and in Unix
+   and Unix-like systems the root directory is denoted by the / (slash)
+   sign. Though the root directory is conventionally referred to as /, the
+   directory entry itself has no name – its path is the "empty" part
+   before the initial directory separator character (/). All file system
+   entries, including mounted file systems are "branches" of this
+   root.^[1]
+
+chroot
+
+   [edit]
+
+   In UNIX-like operating systems, each process has its own idea of what
+   the root directory is. For most processes this is the same as the
+   system's actual root directory, but it can be changed by calling the
+   chroot system call. This is typically done to create a secluded
+   environment to run software that requires legacy libraries and
+   sometimes to simplify software installation and debugging. Chroot is
+   not meant to be used for enhanced security as the processes inside can
+   break out.^[3]
+
+Super-root
+
+   [edit]
+   See also: Newcastle Connection
+
+   Some Unix systems support a directory below the root directory.
+   Normally, "/.." points back to the same inode as "/", however, under
+   MUNIX [de], this can be changed to point to a super-root directory,
+   where remote trees can be mounted.^[4]^[5] If, for example, two
+   workstations "pcs2a" and "pcs2b" were connected via "connectnodes" and
+   "uunite" startup script, "/../pcs2b" could be used to access the root
+   directory of "pcs2b" from "pcs2a".
+
+DOS/Windows systems
+
+   [edit]
+
+   Under DOS, OS/2, and Microsoft Windows, each partition has a drive
+   letter assignment (e.g. the C partition is labeled C:\) and there is no
+   public root directory on it.
+
+Related uses
+
+   [edit]
+
+   On many Unixes, there is also a directory named
+   /root (pronounced "slash root").^[6] This is the home directory of the
+   'root' superuser. On many Mac and iOS systems this superuser home
+   directory is /var/root.^[6]
+
+   A home page's URL usually points to the root of the respective
+   website's domain name.
+
+See also
+
+   [edit]
+     * Filesystem Hierarchy Standard (FHS)
+     * Parent directory
+     * Working directory
+
+References
+
+   [edit]
+    1. ^ ^a ^b "Root Directory Definition". techterms.com. Archived from
+       the original on 2020-10-26. Retrieved 2020-03-14.
+    2. ^ "Root Filesystem Definition by The Linux Information Project".
+       LInfo.org. Archived from the original on 2021-07-10. Retrieved
+       2020-03-14.
+    3. ^ "What chroot() is really for". LWN.net. Archived from the
+       original on 2020-11-12. Retrieved 2014-02-12.
+    4. ^ Brownbridge, David R.; Marshall, Lindsay F.; Randell, Brian
+       (1982). "The Newcastle Connection" (PDF). Software: Practice and
+       Experience. 12: 1147–1162. doi:10.1002/spe.4380121206.
+       S2CID 1840438. Archived from the original (PDF) on 2016-08-16.
+       Retrieved 2016-08-16.
+    5. ^ Callaghan, Brent (2000). NFS Illustrated. Addison Wesley.
+       ISBN 0-201-32570-5.
+    6. ^ ^a ^b "Root Definition". LInfo.org. The Linux Information
+       Project. 2007-10-27. Archived from the original on 2021-05-08.
+       Retrieved 2021-11-03.
+
+     * icon Technology portal
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Root_directory&oldid=125072
+   0794"
+   Category:
+     * File system directories
+
+   Hidden categories:
+     * Articles with short description
+     * Short description matches Wikidata
+
+     * This page was last edited on 12 October 2024, at 03:39 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

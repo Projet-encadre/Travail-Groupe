@@ -1,0 +1,5 @@
+equation    is often called a root of the equation, particularly
+0}     (by using the rational root theorem), and            [MAT
+ued unknowns (see    Rational root theorem), and then find solut
+rse functions include the nth root (inverse of x^n);    the loga
+ve equations can fail. Often, root-finding algorithms    like th

@@ -1,0 +1,134 @@
+ Log in / New account  What chroot() is really for     By Jake E
+    October 3, 2007     The chroot() system call is often misund
+acy library usage.     What chroot() actually does is fairly sim
+will effectively have the new root, which is passed as the    si
+o files outside    of the new root.     Calls to chroot() do not
+ the new root.     Calls to chroot() do not stack, with addition
+who can call it as man    2 chroot describes:     This  call doe
+l '.' can be outside the tree rooted at '/'.  In particular, the
+eruser  can  escape from a 'chroot jail' by doing 'mkdir foo; ch
+ jail' by doing 'mkdir foo; chroot     foo; cd ..'.     The use 
+'.     The use of the term "chroot jail" in the manpage is unfor
+ common misconception about chroot(). It often    gets mentioned
+ach of which can have its own root account. chroot() has none   
+ have its own root account. chroot() has none    of that sophist
+s thread. The patch changes chroot() by setting the current    w
+ working directory to the new root if it was not already somewhe
+us typical use cases for    chroot(). In addition, as was forcef
+at are not underneath the new root. Even if it did not run afoul
+ile you can    circumvent a chroot() call, it should not be poss
+ld not be possible by using chroot()    itself. It is an argumen
+ a pretty    simple reason: chroot() is not meant to be a securi
+here are reasonable uses of chroot() for very limited security  
+s. Daemons that do not run as root can be placed into their own 
+ accessible from within the chroot(), full filesystem access is 
+ access is    possible.     chroot() is a useful call, many inst
+aintaining an up-to-date    chroot() environment adds an additio
+or this article    Security chroot()    Security Jails    ______
+g in to post comments  What chroot() is really for     Posted Oc
+   A good overview of using chroot for security can be found at:
+erneltrap.org/Linux/Abusing_chroot#comment-273655     > Maintain
+> Maintaining an up-to-date chroot() environment adds an additio
+en scripts that will create chroot jails;    I'm not sure sure h
+ny of them will also update chroot jails.     When you write a c
+jails.     When you write a chroot-jail builder-script, it's not
+Reply to this comment  What chroot() is really for     Posted Oc
+Reply to this comment  What chroot() is really for     Posted Oc
+Reply to this comment  What chroot() is really for     Posted Oc
+Reply to this comment  What chroot() is really for     Posted Oc
+Reply to this comment  What chroot() is really for     Posted Oc
+UML or a BSD jail. Fact is, chroot is available    on every sing
+o persuade me    not to use chroot.     Reply to this comment  W
+Reply to this comment  What chroot() is really for     Posted Oc
+Reply to this comment  What chroot() is really for     Posted Oc
+Reply to this comment  What chroot() is really for     Posted Oc
+Link] (2 responses)    That chroot doesn't work? I can also poin
+ies that    have shown that chroot also contained an exploit. Op
+, djbdns, and qmail all use chroot, and the use of    chroot has
+e chroot, and the use of    chroot has mitigated the impact of s
+pread code    exploits.     chroot is not _the_ answer. In all t
+dy mistakingly suggest that chroot _alone_ is a    sufficient me
+ arguments that say that    chroot shouldn't be used because chr
+t shouldn't be used because chroot _alone_ isn't sufficient are 
+    and say they didn't use chroot, though they trivially could 
+Reply to this comment  What chroot() is really for     Posted Oc
+    curtailed, not that the chroot use itself was related to an 
+Though, like any interface, chroot could feasibly be part of an 
+ibed in this thread, use of chroot is questionable when    an ad
+icate sensitive files for a chroot'd    environment.)     Reply 
+Reply to this comment  What chroot() is really for     Posted Oc
+st, #47864) [Link]    Nope, chroot() works and this is its expec
+s long as you're    already a root. You can for example mount fi
+    occasions.     Who said chroot() must provide security...aga
+t someone that already    has root privilleges on that system???
+Reply to this comment  What chroot() is really for     Posted Oc
+can give the same effect as chroot but without being able to    
+ improve security just like chroot that isn't their    primary p
+Reply to this comment  What chroot() is really for     Posted Oc
+FreeBSD jails and how their chroot jail is a    mini-virtualizat
+ource management,    separate root user and accounts, and in the
+Reply to this comment  What chroot() is really for     Posted Oc
+Reply to this comment  What chroot() is really for     Posted Oc
+s)    The advice to not use chroot() for "security" is just plai
+e is. The proper way to use chroot() in a    security-conscious 
+nscious application is:     chroot()    chdir()    setuid()     
+nimize, minimize, minimize. chroot()    fits perfectly into that
+e because somebody suggests chroot() is useless shows just how  
+ractical or even advisable. chroot() is    practical and useful 
+Reply to this comment  What chroot() is really for     Posted Oc
+ly valid argument for using chroot is that you are ignorant or  
+user and group permissions. chroot    isn't adding anything to t
+e    between having it in a chroot and not having it there? That
+ I just don't agree that    chroot is enhancing the security of 
+not have it on your system, chroot or not.    Reply to this comm
+Reply to this comment  What chroot() is really for     Posted Oc
+akes    the decision to use chroot, not the rest of the world. T
+e    least bit humble, then chroot()+chdir()+setuid()--if it fit
+t people believe that using chroot is a hack. Its not    a hack.
+asure, not running daemons as root is just as much a    hack, be
+t on your    system". Using chroot is, on its own merits, a usef
+separate file    system for chroot'd applications is nonsense. I
+ens of    daemons which can chroot into empty directories. Sure 
+nto empty directories. Sure chroot'd Apache    is a PITA if you'
+les. In those cases clearly chroot    conflicts with the functio
+bornly run applications as    root because its more convenient. 
+Reply to this comment  What chroot() is really for     Posted Oc
+ [Link] (4    responses)    Chroot definetely has it's uses in t
+ty, and putting apache in a chroot is such a layer - and a    go
+none-executable (if in a    chroot - there's a limit to what the
+Reply to this comment  What chroot() is really for     Posted Oc
+Reply to this comment  What chroot() is really for     Posted Oc
+er isn't present in your    chroot jail. I assume you're talking
+ically linked    libraries. Chroot jails I've seen have statical
+hared    libraries within a chroot jail and still stop people fr
+Reply to this comment  What chroot() is really for     Posted Oc
+Reply to this comment  What chroot() is really for     Posted Oc
+ty, and putting apache in a chroot is such a layer -    and a go
+tml) if    the webserver is chrooted?     Reply to this comment 
+Reply to this comment  What chroot() is really for     Posted Oc
+an http or ftp server).     Chroot isn't the be-all, end-all to 
+Reply to this comment  What chroot() is really for     Posted Au
+han yours will ever be.     chroot doesn't add any security, and
+Reply to this comment  What chroot() is really for     Posted Au
+ have it on    your system, chroot or not.     LOL, WUT?     Are
+ion normally processes.     chroot() is a limited way to handle 
+Reply to this comment  What chroot() is really for     Posted Oc
+    [Link] (1 responses)    chroot() isn't specified by POSIX, s
+Reply to this comment  What chroot() is really for     Posted Oc
+.    Reply to this comment  chroot jail     Posted Oct 12, 2007 
+   I believe that the term "chroot jail" is essentially correct 
+t as it does    not allow non-root processes to escape it, but p
+e they    can keep omnipotent root in "chroot jail" know nothing
+an keep omnipotent root in "chroot jail" know nothing about *nix
+nix.     So, usefulness of "chroot jail" from the security point
+lities leading to gaining the root    access.     If you have to
+e some suid programs in the chroot environment, you    can use S
+ug can be used to    gain the root access.    Reply to this comm
+.    Reply to this comment  Chroot is useful for security purpos
+01 (guest, #3011) [Link]    Chroot can mitigate a large number o
+enames. If Adobe has used a chroot jail, this would    have been
+     Because of the lack of chroot jail, it could be escalated t
+ity tool misused, including chroot, can cause more problems    t
+problems    than it solves. chroot is not a sandbox for running 
+be used as such. That said, chroot is a valuable part of a    go
+ften boot from a    CD, and chroot to the hard drive), and other

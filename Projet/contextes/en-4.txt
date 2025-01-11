@@ -1,0 +1,5 @@
+and directories appear under the root directory /, even if they
+Directory Description / Primary hierarchy root and root directory of the
+/ Primary hierarchy root and root directory of the entire file
+/root Home directory for the root user. /run Run-time variable data:
+to use normally with the root filesystem mounted read-only. For example,

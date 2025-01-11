@@ -1,0 +1,764 @@
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 Overview
+     * 2 Solution sets
+     * 3 Methods of solution
+       (BUTTON) Toggle Methods of solution subsection
+          + 3.1 Brute force, trial and error, inspired guess
+          + 3.2 Elementary algebra
+          + 3.3 Systems of linear equations
+          + 3.4 Polynomial equations
+          + 3.5 Diophantine equations
+          + 3.6 Inverse functions
+          + 3.7 Factorization
+          + 3.8 Numerical methods
+          + 3.9 Matrix equations
+          + 3.10 Differential equations
+     * 4 See also
+     * 5 References
+
+   [ ] Toggle the table of contents
+
+Equation solving
+
+   [ ] 31 languages
+     * العربية
+     * Asturianu
+     * Башҡортса
+     * Català
+     * Deutsch
+     * Español
+     * Euskara
+     * فارسی
+     * Galego
+     * Հայերեն
+     * हिन्दी
+     * Hrvatski
+     * Italiano
+     * עברית
+     * ಕನ್ನಡ
+     * Latina
+     * മലയാളം
+     * Nederlands
+     * Português
+     * Русский
+     * Simple English
+     * کوردی
+     * Српски / srpski
+     * தமிழ்
+     * Татарча / tatarça
+     * Türkçe
+     * Українська
+     * Tiếng Việt
+     * 吴语
+     * 粵語
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Finding values for variables that make an equation true
+   [50px-Question_book-new.svg.png]
+   This article relies largely or entirely on a single source. Relevant
+   discussion may be found on the talk page. Please help improve this
+   article by introducing citations to additional sources.
+   Find sources: "Equation solving" – news · newspapers · books ·
+   scholar · JSTOR (December 2009)
+   "Solution (mathematics)" redirects here. For solutions of constraint
+   satisfaction problems, see Constraint satisfaction problem
+   § Resolution. For solutions of mathematical optimization problems, see
+   Feasible solution.
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mover> <munder> <mrow> <mi>x</mi> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mo>−</mo> <mi>b</mi>
+   <mo>±</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <msup> <mi>b</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>−</mo>
+   <mn>4</mn> <mi>a</mi> <mi>c</mi> </msqrt> </mrow> </mrow> <mrow>
+   <mn>2</mn> <mi>a</mi> </mrow> </mfrac> </mrow> </mrow> <mrow />
+   </munder> <mrow /> </mover> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\overset {}{\underset
+   {}{x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}}}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\overset {}{\underset {}{x={\frac {-b\pm {\sqrt
+   {b^{2}-4ac}}}{2a}}}}}}
+   The quadratic formula, the symbolic solution of the quadratic equation
+   ax^2 + bx + c = 0
+   Illustration of Newton's method An example of using Newton–Raphson
+   method to solve numerically the equation f(x) = 0
+
+   In mathematics, to solve an equation is to find its solutions, which
+   are the values (numbers, functions, sets, etc.) that fulfill the
+   condition stated by the equation, consisting generally of two
+   expressions related by an equals sign. When seeking a solution, one or
+   more variables are designated as unknowns. A solution is an assignment
+   of values to the unknown variables that makes the equality in the
+   equation true. In other words, a solution is a value or a collection of
+   values (one for each unknown) such that, when substituted for the
+   unknowns, the equation becomes an equality. A solution of an equation
+   is often called a root of the equation, particularly but not only for
+   polynomial equations. The set of all solutions of an equation is its
+   solution set.
+
+   An equation may be solved either numerically or symbolically. Solving
+   an equation numerically means that only numbers are admitted as
+   solutions. Solving an equation symbolically means that expressions can
+   be used for representing the solutions.
+
+   For example, the equation x + y = 2x – 1 is solved for the unknown x by
+   the expression x = y + 1, because substituting y + 1 for x in the
+   equation results in (y + 1) + y = 2(y + 1) – 1, a true statement. It is
+   also possible to take the variable y to be the unknown, and then the
+   equation is solved by y = x – 1. Or x and y can both be treated as
+   unknowns, and then there are many solutions to the equation; a symbolic
+   solution is (x, y) = (a + 1, a), where the variable a may take any
+   value. Instantiating a symbolic solution with specific numbers gives a
+   numerical solution; for example, a = 0 gives (x, y) = (1, 0) (that is,
+   x = 1, y = 0), and a = 1 gives (x, y) = (2, 1).
+
+   The distinction between known variables and unknown variables is
+   generally made in the statement of the problem, by phrases such as "an
+   equation in x and y", or "solve for x and y", which indicate the
+   unknowns, here x and y. However, it is common to reserve x, y, z, ...
+   to denote the unknowns, and to use a, b, c, ... to denote the known
+   variables, which are often called parameters. This is typically the
+   case when considering polynomial equations, such as quadratic
+   equations. However, for some problems, all variables may assume either
+   role.
+
+   Depending on the context, solving an equation may consist to find
+   either any solution (finding a single solution is enough), all
+   solutions, or a solution that satisfies further properties, such as
+   belonging to a given interval. When the task is to find the solution
+   that is the best under some criterion, this is an optimization problem.
+   Solving an optimization problem is generally not referred to as
+   "equation solving", as, generally, solving methods start from a
+   particular solution for finding a better solution, and repeating the
+   process until finding eventually the best solution.
+
+Overview
+
+   [edit]
+
+   One general form of an equation is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>f</mi> <mrow>
+          <mo>(</mo> <mrow> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mrow>
+          <mo>)</mo> </mrow> <mo>=</mo> <mi>c</mi> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          f\left(x_{1},\dots ,x_{n}\right)=c,}</annotation> </semantics>
+          :MATH]
+          {\displaystyle f\left(x_{1},\dots ,x_{n}\right)=c,}
+
+   where f is a function, x[1], ..., x[n] are the unknowns, and c is a
+   constant. Its solutions are the elements of the inverse image (fiber)
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>f</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow> </msup>
+          <mo stretchy="false">(</mo> <mi>c</mi> <mo
+          stretchy="false">)</mo> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-OPEN"> <mo
+          maxsize="1.2em" minsize="1.2em">{</mo> </mrow> </mrow> <mo
+          stretchy="false">(</mo> <msub> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <msub> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> <mo>∈</mo> <mi>D</mi> <mo>∣</mo>
+          <mi>f</mi> <mrow> <mo>(</mo> <mrow> <msub> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <msub> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mrow>
+          <mo>)</mo> </mrow> <mo>=</mo> <mi>c</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-CLOSE"> <mo
+          maxsize="1.2em" minsize="1.2em">}</mo> </mrow> </mrow>
+          <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle f^{-1}(c)={\bigl
+          \{}(a_{1},\dots ,a_{n})\in D\mid f\left(a_{1},\dots
+          ,a_{n}\right)=c{\bigr \}},}</annotation> </semantics> :MATH]
+          {\displaystyle f^{-1}(c)={\bigl \{}(a_{1},\dots ,a_{n})\in D\mid
+          f\left(a_{1},\dots ,a_{n}\right)=c{\bigr \}},}
+
+   where D is the domain of the function f. The set of solutions can be
+   the empty set (there are no solutions), a singleton (there is exactly
+   one solution), finite, or infinite (there are infinitely many
+   solutions).
+
+   For example, an equation such as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>3</mn> <mi>x</mi>
+          <mo>+</mo> <mn>2</mn> <mi>y</mi> <mo>=</mo> <mn>21</mn>
+          <mi>z</mi> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          3x+2y=21z,}</annotation> </semantics> :MATH]
+          {\displaystyle 3x+2y=21z,}
+
+   with unknowns x, y and z, can be put in the above form by subtracting
+   21z from both sides of the equation, to obtain
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>3</mn> <mi>x</mi>
+          <mo>+</mo> <mn>2</mn> <mi>y</mi> <mo>−</mo> <mn>21</mn>
+          <mi>z</mi> <mo>=</mo> <mn>0</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          3x+2y-21z=0}</annotation> </semantics> :MATH]
+          {\displaystyle 3x+2y-21z=0}
+
+   In this particular case there is not just one solution, but an infinite
+   set of solutions, which can be written using set builder notation as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-OPEN"> <mo
+          maxsize="1.2em" minsize="1.2em">{</mo> </mrow> </mrow> <mo
+          stretchy="false">(</mo> <mi>x</mi> <mo>,</mo> <mi>y</mi>
+          <mo>,</mo> <mi>z</mi> <mo stretchy="false">)</mo> <mo>∣</mo>
+          <mn>3</mn> <mi>x</mi> <mo>+</mo> <mn>2</mn> <mi>y</mi>
+          <mo>−</mo> <mn>21</mn> <mi>z</mi> <mo>=</mo> <mn>0</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-CLOSE"> <mo
+          maxsize="1.2em" minsize="1.2em">}</mo> </mrow> </mrow>
+          <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\bigl
+          \{}(x,y,z)\mid 3x+2y-21z=0{\bigr \}}.}</annotation> </semantics>
+          :MATH]
+          {\displaystyle {\bigl \{}(x,y,z)\mid 3x+2y-21z=0{\bigr \}}.}
+
+   One particular solution is x = 0, y = 0, z = 0. Two other solutions are
+   x = 3, y = 6, z = 1, and x = 8, y = 9, z = 2. There is a unique plane
+   in three-dimensional space which passes through the three points with
+   these coordinates, and this plane is the set of all points whose
+   coordinates are solutions of the equation.
+
+Solution sets
+
+   [edit]
+   [220px-Ellipse_in_coordinate_system_with_semi-axes_labelled.svg.png]
+   The solution set of the equation ⁠x^2/4⁠ + y^2 = 1 forms an ellipse
+   when interpreted as a set of Cartesian coordinate pairs.
+   Main article: Solution set
+
+   The solution set of a given set of equations or inequalities is the set
+   of all its solutions, a solution being a tuple of values, one for each
+   unknown, that satisfies all the equations or inequalities. If the
+   solution set is empty, then there are no values of the unknowns that
+   satisfy simultaneously all equations and inequalities.
+
+   For a simple example, consider the equation
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+          <mn>2.</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          x^{2}=2.}</annotation> </semantics> :MATH]
+          {\displaystyle x^{2}=2.}
+
+   This equation can be viewed as a Diophantine equation, that is, an
+   equation for which only integer solutions are sought. In this case, the
+   solution set is the empty set, since 2 is not the square of an integer.
+   However, if one searches for real solutions, there are two solutions,
+   √2 and –√2; in other words, the solution set is {√2, −√2}.
+
+   When an equation contains several unknowns, and when one has several
+   equations with more unknowns than equations, the solution set is often
+   infinite. In this case, the solutions cannot be listed. For
+   representing them, a parametrization is often useful, which consists of
+   expressing the solutions in terms of some of the unknowns or auxiliary
+   variables. This is always possible when all the equations are linear.
+
+   Such infinite solution sets can naturally be interpreted as geometric
+   shapes such as lines, curves (see picture), planes, and more generally
+   algebraic varieties or manifolds. In particular, algebraic geometry may
+   be viewed as the study of solution sets of algebraic equations.
+
+Methods of solution
+
+   [edit]
+
+   The methods for solving equations generally depend on the type of
+   equation, both the kind of expressions in the equation and the kind of
+   values that may be assumed by the unknowns. The variety in types of
+   equations is large, and so are the corresponding methods. Only a few
+   specific types are mentioned below.
+
+   In general, given a class of equations, there may be no known
+   systematic method (algorithm) that is guaranteed to work. This may be
+   due to a lack of mathematical knowledge; some problems were only solved
+   after centuries of effort. But this also reflects that, in general, no
+   such method can exist: some problems are known to be unsolvable by an
+   algorithm, such as Hilbert's tenth problem, which was proved unsolvable
+   in 1970.
+
+   For several classes of equations, algorithms have been found for
+   solving them, some of which have been implemented and incorporated in
+   computer algebra systems, but often require no more sophisticated
+   technology than pencil and paper. In some other cases, heuristic
+   methods are known that are often successful but that are not guaranteed
+   to lead to success.
+
+Brute force, trial and error, inspired guess
+
+   [edit]
+
+   If the solution set of an equation is restricted to a finite set (as is
+   the case for equations in modular arithmetic, for example), or can be
+   limited to a finite number of possibilities (as is the case with some
+   Diophantine equations), the solution set can be found by brute force,
+   that is, by testing each of the possible values (candidate solutions).
+   It may be the case, though, that the number of possibilities to be
+   considered, although finite, is so huge that an exhaustive search is
+   not practically feasible; this is, in fact, a requirement for strong
+   encryption methods.
+
+   As with all kinds of problem solving, trial and error may sometimes
+   yield a solution, in particular where the form of the equation, or its
+   similarity to another equation with a known solution, may lead to an
+   "inspired guess" at the solution. If a guess, when tested, fails to be
+   a solution, consideration of the way in which it fails may lead to a
+   modified guess.
+
+Elementary algebra
+
+   [edit]
+
+   Equations involving linear or simple rational functions of a single
+   real-valued unknown, say x, such as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>8</mn> <mi>x</mi>
+          <mo>+</mo> <mn>7</mn> <mo>=</mo> <mn>4</mn> <mi>x</mi>
+          <mo>+</mo> <mn>35</mn> <mspace width="1em" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mtext>or</mtext> </mrow> <mspace
+          width="1em" /> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+          <mn>4</mn> <mi>x</mi> <mo>+</mo> <mn>9</mn> </mrow> <mrow>
+          <mn>3</mn> <mi>x</mi> <mo>+</mo> <mn>4</mn> </mrow> </mfrac>
+          </mrow> <mo>=</mo> <mn>2</mn> <mspace width="thinmathspace" />
+          <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 8x+7=4x+35\quad
+          {\text{or}}\quad {\frac {4x+9}{3x+4}}=2\,,}</annotation>
+          </semantics> :MATH]
+          {\displaystyle 8x+7=4x+35\quad {\text{or}}\quad {\frac
+          {4x+9}{3x+4}}=2\,,}
+
+   can be solved using the methods of elementary algebra.
+
+Systems of linear equations
+
+   [edit]
+
+   Smaller systems of linear equations can be solved likewise by methods
+   of elementary algebra. For solving larger systems, algorithms are used
+   that are based on linear algebra. See Gaussian elimination and
+   numerical solution of linear systems.
+
+Polynomial equations
+
+   [edit]
+   Main article: Solving polynomial equations
+   See also: System of polynomial equations
+
+   Polynomial equations of degree up to four can be solved exactly using
+   algebraic methods, of which the quadratic formula is the simplest
+   example. Polynomial equations with a degree of five or higher require
+   in general numerical methods (see below) or special functions such as
+   Bring radicals, although some specific cases may be solvable
+   algebraically, for example
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>4</mn> <msup>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow>
+          </msup> <mo>−</mo> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> <mo>−</mo>
+          <mn>3</mn> <mo>=</mo> <mn>0</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          4x^{5}-x^{3}-3=0}</annotation> </semantics> :MATH]
+          {\displaystyle 4x^{5}-x^{3}-3=0}
+
+   (by using the rational root theorem), and
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow> </msup> <mo>−</mo>
+          <mn>5</mn> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>3</mn> </mrow> </msup> <mo>+</mo> <mn>6</mn> <mo>=</mo>
+          <mn>0</mn> <mspace width="thinmathspace" /> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          x^{6}-5x^{3}+6=0\,,}</annotation> </semantics> :MATH]
+          {\displaystyle x^{6}-5x^{3}+6=0\,,}
+
+   (by using the substitution x = z^1⁄3
+   , which simplifies this to a quadratic equation in z).
+
+Diophantine equations
+
+   [edit]
+
+   In Diophantine equations the solutions are required to be integers. In
+   some cases a brute force approach can be used, as mentioned above. In
+   some other cases, in particular if the equation is in one unknown, it
+   is possible to solve the equation for rational-valued unknowns (see
+   Rational root theorem), and then find solutions to the Diophantine
+   equation by restricting the solution set to integer-valued solutions.
+   For example, the polynomial equation
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>2</mn> <msup>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow>
+          </msup> <mo>−</mo> <mn>5</mn> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup> <mo>−</mo>
+          <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn>
+          </mrow> </msup> <mo>−</mo> <mn>7</mn> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <mn>2</mn> <mi>x</mi> <mo>+</mo> <mn>3</mn> <mo>=</mo>
+          <mn>0</mn> <mspace width="thinmathspace" /> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          2x^{5}-5x^{4}-x^{3}-7x^{2}+2x+3=0\,}</annotation> </semantics>
+          :MATH]
+          {\displaystyle 2x^{5}-5x^{4}-x^{3}-7x^{2}+2x+3=0\,}
+
+   has as rational solutions x = −⁠1/2⁠
+   and x = 3, and so, viewed as a Diophantine equation, it has the unique
+   solution x = 3.
+
+   In general, however, Diophantine equations are among the most difficult
+   equations to solve.
+
+Inverse functions
+
+   [edit]
+   See also: Inverse problem
+
+   In the simple case of a function of one variable, say, h(x), we can
+   solve an equation of the form h(x) = c for some constant c by
+   considering what is known as the inverse function of h.
+
+   Given a function h : A → B, the inverse function, denoted h^−1 and
+   defined as h^−1 : B → A, is a function such that
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>h</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow> </msup>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-OPEN">
+          <mo maxsize="1.2em" minsize="1.2em">(</mo> </mrow> </mrow>
+          <mi>h</mi> <mo stretchy="false">(</mo> <mi>x</mi> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-CLOSE"> <mo maxsize="1.2em"
+          minsize="1.2em">)</mo> </mrow> </mrow> <mo>=</mo> <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-OPEN">
+          <mo maxsize="1.2em" minsize="1.2em">(</mo> </mrow> </mrow>
+          <msup> <mi>h</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo>
+          <mn>1</mn> </mrow> </msup> <mo stretchy="false">(</mo>
+          <mi>x</mi> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-CLOSE"> <mo
+          maxsize="1.2em" minsize="1.2em">)</mo> </mrow> </mrow>
+          <mo>=</mo> <mi>x</mi> <mspace width="thinmathspace" />
+          <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle h^{-1}{\bigl
+          (}h(x){\bigr )}=h{\bigl (}h^{-1}(x){\bigr )}=x\,.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle h^{-1}{\bigl (}h(x){\bigr )}=h{\bigl
+          (}h^{-1}(x){\bigr )}=x\,.}
+
+   Now, if we apply the inverse function to both sides of h(x) = c, where
+   c is a constant value in B, we obtain
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mtable columnalign="right left right
+          left right left right left right left right left"
+          rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em
+          0em 2em 0em" displaystyle="true"> <mtr> <mtd> <msup> <mi>h</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow>
+          </msup> <mrow class="MJX-TeXAtom-ORD"> <mrow
+          class="MJX-TeXAtom-OPEN"> <mo maxsize="1.2em"
+          minsize="1.2em">(</mo> </mrow> </mrow> <mi>h</mi> <mo
+          stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-CLOSE">
+          <mo maxsize="1.2em" minsize="1.2em">)</mo> </mrow> </mrow>
+          </mtd> <mtd> <mi></mi> <mo>=</mo> <msup> <mi>h</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow> </msup>
+          <mo stretchy="false">(</mo> <mi>c</mi> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <mi>x</mi>
+          </mtd> <mtd> <mi></mi> <mo>=</mo> <msup> <mi>h</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow> </msup>
+          <mo stretchy="false">(</mo> <mi>c</mi> <mo
+          stretchy="false">)</mo> </mtd> </mtr> </mtable> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\begin{aligned}h^{-1}{\bigl (}h(x){\bigr
+          )}&=h^{-1}(c)\\x&=h^{-1}(c)\\\end{aligned}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\begin{aligned}h^{-1}{\bigl (}h(x){\bigr
+          )}&=h^{-1}(c)\\x&=h^{-1}(c)\\\end{aligned}}}
+
+   and we have found the solution to the equation. However, depending on
+   the function, the inverse may be difficult to be defined, or may not be
+   a function on all of the set B (only on some subset), and have many
+   values at some point.
+
+   If just one solution will do, instead of the full solution set, it is
+   actually sufficient if only the functional identity
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>h</mi> <mrow>
+          <mo>(</mo> <mrow> <msup> <mi>h</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow> </msup>
+          <mo stretchy="false">(</mo> <mi>x</mi> <mo
+          stretchy="false">)</mo> </mrow> <mo>)</mo> </mrow> <mo>=</mo>
+          <mi>x</mi> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          h\left(h^{-1}(x)\right)=x}</annotation> </semantics> :MATH]
+          {\displaystyle h\left(h^{-1}(x)\right)=x}
+
+   holds. For example, the projection π[1] : R^2 → R defined by π[1](x, y)
+   = x has no post-inverse, but it has a pre-inverse π^−1
+   [1] defined by π^−1
+   [1](x) = (x, 0). Indeed, the equation π[1](x, y) = c is solved by
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+          <mi>x</mi> <mo>,</mo> <mi>y</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <msubsup> <mi>π</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>1</mn> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mo>−</mo>
+          <mn>1</mn> </mrow> </msubsup> <mo stretchy="false">(</mo>
+          <mi>c</mi> <mo stretchy="false">)</mo> <mo>=</mo> <mo
+          stretchy="false">(</mo> <mi>c</mi> <mo>,</mo> <mn>0</mn> <mo
+          stretchy="false">)</mo> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle (x,y)=\pi
+          _{1}^{-1}(c)=(c,0).}</annotation> </semantics> :MATH]
+          {\displaystyle (x,y)=\pi _{1}^{-1}(c)=(c,0).}
+
+   Examples of inverse functions include the nth root (inverse of x^n);
+   the logarithm (inverse of a^x); the inverse trigonometric functions;
+   and Lambert's W function (inverse of xe^x).
+
+Factorization
+
+   [edit]
+
+   If the left-hand side expression of an equation P = 0 can be factorized
+   as P = QR, the solution set of the original solution consists of the
+   union of the solution sets of the two equations Q = 0 and R = 0. For
+   example, the equation
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>tan</mi> <mo>⁡</mo>
+          <mi>x</mi> <mo>+</mo> <mi>cot</mi> <mo>⁡</mo> <mi>x</mi>
+          <mo>=</mo> <mn>2</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \tan x+\cot
+          x=2}</annotation> </semantics> :MATH]
+          {\displaystyle \tan x+\cot x=2}
+
+   can be rewritten, using the identity tan x cot x = 1 as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msup> <mi>tan</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>⁡</mo> <mi>x</mi> <mo>−</mo> <mn>2</mn> <mi>tan</mi>
+          <mo>⁡</mo> <mi>x</mi> <mo>+</mo> <mn>1</mn> </mrow> <mrow>
+          <mi>tan</mi> <mo>⁡</mo> <mi>x</mi> </mrow> </mfrac> </mrow>
+          <mo>=</mo> <mn>0</mn> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac {\tan
+          ^{2}x-2\tan x+1}{\tan x}}=0,}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {\tan ^{2}x-2\tan x+1}{\tan x}}=0,}
+
+   which can be factorized into
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mrow> <mo>(</mo> <mrow>
+          <mi>tan</mi> <mo>⁡</mo> <mi>x</mi> <mo>−</mo> <mn>1</mn> </mrow>
+          <mo>)</mo> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mrow> <mi>tan</mi> <mo>⁡</mo> <mi>x</mi>
+          </mrow> </mfrac> </mrow> <mo>=</mo> <mn>0.</mn> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\frac {\left(\tan x-1\right)^{2}}{\tan x}}=0.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\frac {\left(\tan x-1\right)^{2}}{\tan x}}=0.}
+
+   The solutions are thus the solutions of the equation tan x = 1, and are
+   thus the set
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mstyle displaystyle="false"
+          scriptlevel="0"> <mfrac> <mi>π</mi> <mn>4</mn> </mfrac>
+          </mstyle> </mrow> <mo>+</mo> <mi>k</mi> <mi>π</mi> <mo>,</mo>
+          <mspace width="1em" /> <mi>k</mi> <mo>=</mo> <mn>0</mn>
+          <mo>,</mo> <mo>±</mo> <mn>1</mn> <mo>,</mo> <mo>±</mo>
+          <mn>2</mn> <mo>,</mo> <mo>…</mo> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          x={\tfrac {\pi }{4}}+k\pi ,\quad k=0,\pm 1,\pm 2,\ldots
+          .}</annotation> </semantics> :MATH]
+          {\displaystyle x={\tfrac {\pi }{4}}+k\pi ,\quad k=0,\pm 1,\pm
+          2,\ldots .}
+
+Numerical methods
+
+   [edit]
+
+   With more complicated equations in real or complex numbers, simple
+   methods to solve equations can fail. Often, root-finding algorithms
+   like the Newton–Raphson method can be used to find a numerical solution
+   to an equation, which, for some applications, can be entirely
+   sufficient to solve some problem. There are also numerical methods for
+   systems of linear equations.
+
+Matrix equations
+
+   [edit]
+
+   Equations involving matrices and vectors of real numbers can often be
+   solved by using methods from linear algebra.
+
+Differential equations
+
+   [edit]
+
+   There is a vast body of methods for solving various kinds of
+   differential equations, both numerically and analytically. A particular
+   class of problem that can be considered to belong here is integration,
+   and the analytic methods for solving this kind of problems are now
+   called symbolic integration.^[citation needed] Solutions of
+   differential equations can be implicit or explicit.^[1]
+
+See also
+
+   [edit]
+     * Extraneous and missing solutions
+     * Simultaneous equations
+     * Equating coefficients
+     * Solving the geodesic equations
+     * Unification (computer science) — solving equations involving
+       symbolic expressions
+
+References
+
+   [edit]
+    1. ^ Dennis G. Zill (15 March 2012). A First Course in Differential
+       Equations with Modeling Applications. Cengage Learning.
+       ISBN 978-1-285-40110-2.
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Equation_solving&oldid=1252
+   541599"
+
+   Categories:
+     * Equations
+     * Inverse functions
+     * Unification (computer science)
+
+   Hidden categories:
+     * Articles with short description
+     * Short description matches Wikidata
+     * Articles needing additional references from December 2009
+     * All articles needing additional references
+     * All articles with unsourced statements
+     * Articles with unsourced statements from July 2019
+
+     * This page was last edited on 21 October 2024, at 20:25 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

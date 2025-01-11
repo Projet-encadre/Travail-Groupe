@@ -1,0 +1,2180 @@
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 History
+     * 2 Definition and notation
+       (BUTTON) Toggle Definition and notation subsection
+          + 2.1 Square roots
+          + 2.2 Cube roots
+     * 3 Identities and properties
+     * 4 Simplified form of a radical expression
+     * 5 Infinite series
+     * 6 Computing principal roots
+       (BUTTON) Toggle Computing principal roots subsection
+          + 6.1 Using Newton's method
+          + 6.2 Digit-by-digit calculation of principal roots of decimal
+            (base 10) numbers
+               o 6.2.1 Examples
+          + 6.3 Logarithmic calculation
+     * 7 Geometric constructibility
+     * 8 Complex roots
+       (BUTTON) Toggle Complex roots subsection
+          + 8.1 Square roots
+          + 8.2 Roots of unity
+          + 8.3 nth roots
+     * 9 Solving polynomials
+     * 10 Proof of irrationality for non-perfect nth power x
+     * 11 See also
+     * 12 References
+     * 13 External links
+
+   [ ] Toggle the table of contents
+
+nth root
+
+   [ ] 70 languages
+     * Afrikaans
+     * العربية
+     * Azərbaycanca
+     * বাংলা
+     * Беларуская
+     * Bikol Central
+     * Български
+     * Буряад
+     * Català
+     * Чӑвашла
+     * Čeština
+     * ChiShona
+     * Dansk
+     * Deutsch
+     * Eesti
+     * Ελληνικά
+     * Español
+     * Euskara
+     * فارسی
+     * Français
+     * Gaelg
+     * Galego
+     * 한국어
+     * Հայերեն
+     * हिन्दी
+     * Hrvatski
+     * Ido
+     * Bahasa Indonesia
+     * Íslenska
+     * Italiano
+     * עברית
+     * ಕನ್ನಡ
+     * ქართული
+     * Қазақша
+     * Кыргызча
+     * Latviešu
+     * Lietuvių
+     * Limburgs
+     * Magyar
+     * Македонски
+     * Nederlands
+     * 日本語
+     * Norsk bokmål
+     * Norsk nynorsk
+     * Oromoo
+     * Oʻzbekcha / ўзбекча
+     * Plattdüütsch
+     * Polski
+     * Português
+     * Română
+     * Runa Simi
+     * Русский
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * کوردی
+     * Српски / srpski
+     * Suomi
+     * Svenska
+     * Tagalog
+     * தமிழ்
+     * ไทย
+     * Українська
+     * اردو
+     * ئۇيغۇرچە / Uyghurche
+     * Tiếng Việt
+     * Winaray
+     * 吴语
+     * 粵語
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikibooks
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Arithmetic operation, inverse of nth power
+   This article is about nth-roots of real and complex numbers. For other
+   uses, see Root (disambiguation) § Mathematics.
+
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed.
+   Find sources: "Nth root" – news · newspapers · books · scholar · JSTOR
+   (October 2022) (Learn how and when to remove this message)
+
+   In mathematics, an nth root of a number x is a number r (the root)
+   which, when raised to the power of the positive integer n, yields x:
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo> <munder>
+   <mrow class="MJX-TeXAtom-OP MJX-fixedlimits"> <munder> <mrow>
+   <mi>r</mi> <mo>×</mo> <mi>r</mi> <mo>×</mo> <mo>⋯</mo> <mo>×</mo>
+   <mi>r</mi> </mrow> <mo>⏟</mo> </munder> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mtext> factors</mtext> </mrow> </mrow> </munder> <mo>=</mo> <mi>x</mi>
+   <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r^{n}=\underbrace {r\times
+   r\times \dotsb \times r} _{n{\text{ factors}}}=x.}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r^{n}=\underbrace {r\times r\times \dotsb \times r}
+   _{n{\text{ factors}}}=x.}
+
+   The integer n is called the index or degree, and the number x of which
+   the root is taken is the radicand. A root of degree 2 is called a
+   square root and a root of degree 3, a cube root. Roots of higher degree
+   are referred by using ordinal numbers, as in fourth root, twentieth
+   root, etc. The computation of an nth root is a root extraction.
+
+   For example, 3 is a square root of 9, since 3^2 = 9, and −3 is also a
+   square root of 9, since (−3)^2 = 9.
+
+   The nth root of x is written as
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}} using the radical symbol
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mrow class="MJX-TeXAtom-ORD"> <mphantom> <mi>x</mi>
+   </mphantom> </mrow> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {\phantom
+   {x}}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {\phantom {x}}}} . The square root is usually
+   written without the n as just ⁠
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}} ⁠. Taking the nth root of a number is the
+   inverse operation of exponentiation,^[1] and can be written as a
+   fractional exponent:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>=</mo> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD">
+   <mo>/</mo> </mrow> <mi>n</mi> </mrow> </msup> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}=x^{1/n}.}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}=x^{1/n}.}
+
+   For a positive real number x,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}} denotes the positive square root of x and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}} denotes the positive real nth root. A
+   negative real number −x has no real-valued square roots, but when x is
+   treated as a complex number it has two imaginary square roots, ⁠
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>+</mo> <mi>i</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   +i{\sqrt {x}}}</annotation> </semantics> :MATH]
+   {\displaystyle +i{\sqrt {x}}} ⁠ and ⁠
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>−</mo> <mi>i</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   -i{\sqrt {x}}}</annotation> </semantics> :MATH]
+   {\displaystyle -i{\sqrt {x}}} ⁠, where i is the imaginary unit.
+
+   In general, any non-zero complex number has n distinct complex-valued
+   nth roots, equally distributed around a complex circle of constant
+   absolute value. (The nth root of 0 is zero with multiplicity n, and
+   this circle degenerates to a point.) Extracting the nth roots of a
+   complex number x can thus be taken to be a multivalued function. By
+   convention the principal value of this function, called the principal
+   root and denoted ⁠
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}} ⁠, is taken to be the nth root with the
+   greatest real part and in the special case when x is a negative real
+   number, the one with a positive imaginary part. The principal root of a
+   positive real number is thus also a positive real number. As a
+   function, the principal root is continuous in the whole complex plane,
+   except along the negative real axis.
+
+   An unresolved root, especially one using the radical symbol, is
+   sometimes referred to as a surd^[2] or a radical.^[3] Any expression
+   containing a radical, whether it is a square root, a cube root, or a
+   higher root, is called a radical expression, and if it contains no
+   transcendental functions or transcendental numbers it is called an
+   algebraic expression.
+   Arithmetic operations
+     * v
+     * t
+     * e
+
+   Addition (+)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow> <mo fence="true" stretchy="true"
+   symmetric="true"></mo> <mrow class="MJX-TeXAtom-ORD"> <mtable
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>term</mtext> </mrow> <mspace width="thinmathspace" /> <mo>+</mo>
+   <mspace width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>term</mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>summand</mtext> </mrow> <mspace width="thinmathspace" />
+   <mo>+</mo> <mspace width="thinmathspace" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>summand</mtext> </mrow> </mstyle>
+   </mtd> </mtr> <mtr> <mtd> <mstyle displaystyle="false" scriptlevel="1">
+   <mrow class="MJX-TeXAtom-ORD"> <mtext>addend</mtext> </mrow> <mspace
+   width="thinmathspace" /> <mo>+</mo> <mspace width="thinmathspace" />
+   <mrow class="MJX-TeXAtom-ORD"> <mtext>addend</mtext> </mrow> </mstyle>
+   </mtd> </mtr> <mtr> <mtd> <mstyle displaystyle="false" scriptlevel="1">
+   <mrow class="MJX-TeXAtom-ORD"> <mtext>augend</mtext> </mrow> <mspace
+   width="thinmathspace" /> <mo>+</mo> <mspace width="thinmathspace" />
+   <mrow class="MJX-TeXAtom-ORD"> <mtext>addend</mtext> </mrow> </mstyle>
+   </mtd> </mtr> </mtable> </mrow> <mo>}</mo> </mrow> <mspace
+   width="thinmathspace" /> <mo>=</mo> <mspace width="thinmathspace" />
+   </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   \left.{\begin{matrix}\scriptstyle
+   {\text{term}}\,+\,{\text{term}}\\\scriptstyle
+   {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle
+   {\text{addend}}\,+\,{\text{addend}}\\\scriptstyle
+   {\text{augend}}\,+\,{\text{addend}}\end{matrix}}\right\}\,=\,}</annotat
+   ion> </semantics> :MATH]
+   {\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle
+   {\text{term}}\,+\,{\text{term}}\\\scriptstyle
+   {\text{summand}}\,+\,{\text{summand}}\\\scriptstyle
+   {\text{addend}}\,+\,{\text{addend}}\\\scriptstyle
+   {\text{augend}}\,+\,{\text{addend}}\end{matrix}}\right\}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>sum</mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   {\text{sum}}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{sum}}}
+   Subtraction (−)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow> <mo fence="true" stretchy="true"
+   symmetric="true"></mo> <mrow class="MJX-TeXAtom-ORD"> <mtable
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>term</mtext> </mrow> <mspace width="thinmathspace" /> <mo>−</mo>
+   <mspace width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>term</mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>minuend</mtext> </mrow> <mspace width="thinmathspace" />
+   <mo>−</mo> <mspace width="thinmathspace" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>subtrahend</mtext> </mrow> </mstyle>
+   </mtd> </mtr> </mtable> </mrow> <mo>}</mo> </mrow> <mspace
+   width="thinmathspace" /> <mo>=</mo> <mspace width="thinmathspace" />
+   </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   \left.{\begin{matrix}\scriptstyle
+   {\text{term}}\,-\,{\text{term}}\\\scriptstyle
+   {\text{minuend}}\,-\,{\text{subtrahend}}\end{matrix}}\right\}\,=\,}</an
+   notation> </semantics> :MATH]
+   {\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle
+   {\text{term}}\,-\,{\text{term}}\\\scriptstyle
+   {\text{minuend}}\,-\,{\text{subtrahend}}\end{matrix}}\right\}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>difference</mtext> </mrow> </mstyle> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \scriptstyle
+   {\text{difference}}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{difference}}}
+   Multiplication (×)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow> <mo fence="true" stretchy="true"
+   symmetric="true"></mo> <mrow class="MJX-TeXAtom-ORD"> <mtable
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>factor</mtext> </mrow> <mspace width="thinmathspace" />
+   <mo>×</mo> <mspace width="thinmathspace" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>factor</mtext> </mrow> </mstyle> </mtd>
+   </mtr> <mtr> <mtd> <mstyle displaystyle="false" scriptlevel="1"> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>multiplier</mtext> </mrow> <mspace
+   width="thinmathspace" /> <mo>×</mo> <mspace width="thinmathspace" />
+   <mrow class="MJX-TeXAtom-ORD"> <mtext>multiplicand</mtext> </mrow>
+   </mstyle> </mtd> </mtr> </mtable> </mrow> <mo>}</mo> </mrow> <mspace
+   width="thinmathspace" /> <mo>=</mo> <mspace width="thinmathspace" />
+   </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   \left.{\begin{matrix}\scriptstyle {\text{factor}}\,\times
+   \,{\text{factor}}\\\scriptstyle {\text{multiplier}}\,\times
+   \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle
+   {\text{factor}}\,\times \,{\text{factor}}\\\scriptstyle
+   {\text{multiplier}}\,\times
+   \,{\text{multiplicand}}\end{matrix}}\right\}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>product</mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   {\text{product}}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{product}}}
+   Division (÷)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow> <mo fence="true" stretchy="true"
+   symmetric="true"></mo> <mrow class="MJX-TeXAtom-ORD"> <mtable
+   rowspacing="0.83em 0.4em" columnspacing="1em"> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mstyle displaystyle="false" scriptlevel="1"> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>dividend</mtext> </mrow> </mstyle>
+   <mstyle displaystyle="false" scriptlevel="1"> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>divisor</mtext> </mrow> </mstyle>
+   </mfrac> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mstyle displaystyle="false" scriptlevel="1"> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>numerator</mtext> </mrow> </mstyle>
+   <mstyle displaystyle="false" scriptlevel="1"> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>denominator</mtext> </mrow> </mstyle>
+   </mfrac> </mrow> </mstyle> </mtd> </mtr> </mtable> </mrow> <mo>}</mo>
+   </mrow> <mspace width="thinmathspace" /> <mo>=</mo> <mspace
+   width="thinmathspace" /> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle
+   {\text{dividend}}}{\scriptstyle {\text{divisor}}}}\\[1ex]\scriptstyle
+   {\frac {\scriptstyle {\text{numerator}}}{\scriptstyle
+   {\text{denominator}}}}\end{matrix}}\right\}\,=\,}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac
+   {\scriptstyle {\text{dividend}}}{\scriptstyle
+   {\text{divisor}}}}\\[1ex]\scriptstyle {\frac {\scriptstyle
+   {\text{numerator}}}{\scriptstyle
+   {\text{denominator}}}}\end{matrix}}\right\}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow> <mo>{</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mtable rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>fraction</mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd>
+   <mstyle displaystyle="false" scriptlevel="1"> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>quotient</mtext> </mrow> </mstyle>
+   </mtd> </mtr> <mtr> <mtd> <mstyle displaystyle="false" scriptlevel="1">
+   <mrow class="MJX-TeXAtom-ORD"> <mtext>ratio</mtext> </mrow> </mstyle>
+   </mtd> </mtr> </mtable> </mrow> <mo fence="true" stretchy="true"
+   symmetric="true"></mo> </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   \left\{{\begin{matrix}\scriptstyle {\text{fraction}}\\\scriptstyle
+   {\text{quotient}}\\\scriptstyle
+   {\text{ratio}}\end{matrix}}\right.}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle \left\{{\begin{matrix}\scriptstyle
+   {\text{fraction}}\\\scriptstyle {\text{quotient}}\\\scriptstyle
+   {\text{ratio}}\end{matrix}}\right.}
+   Exponentiation (^)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow> <mo fence="true" stretchy="true"
+   symmetric="true"></mo> <mrow class="MJX-TeXAtom-ORD"> <mtable
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>base</mtext> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>exponent</mtext> </mrow> </msup>
+   </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle displaystyle="false"
+   scriptlevel="1"> <msup> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>base</mtext> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>power</mtext> </mrow> </msup> </mstyle> </mtd> </mtr> </mtable>
+   </mrow> <mo>}</mo> </mrow> <mspace width="thinmathspace" /> <mo>=</mo>
+   <mspace width="thinmathspace" /> </mstyle> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \scriptstyle
+   \left.{\begin{matrix}\scriptstyle
+   {\text{base}}^{\text{exponent}}\\\scriptstyle
+   {\text{base}}^{\text{power}}\end{matrix}}\right\}\,=\,}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle
+   {\text{base}}^{\text{exponent}}\\\scriptstyle
+   {\text{base}}^{\text{power}}\end{matrix}}\right\}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>power</mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   {\text{power}}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{power}}}
+   nth root (√)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>radicand</mtext> </mrow> </mstyle> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>degree</mtext> </mrow> </mroot> </mrow>
+   <mspace width="thinmathspace" /> <mo>=</mo> <mspace
+   width="thinmathspace" /> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   {\sqrt[{\text{degree}}]{\scriptstyle
+   {\text{radicand}}}}\,=\,}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\sqrt[{\text{degree}}]{\scriptstyle
+   {\text{radicand}}}}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>root</mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   {\text{root}}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{root}}}
+   Logarithm (log)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <msub> <mi>log</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>base</mtext> </mrow> </msub> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>anti-logarithm</mtext> </mrow> <mo stretchy="false">)</mo>
+   <mspace width="thinmathspace" /> <mo>=</mo> <mspace
+   width="thinmathspace" /> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle \log
+   _{\text{base}}({\text{anti-logarithm}})\,=\,}</annotation> </semantics>
+   :MATH]
+   {\displaystyle \scriptstyle \log
+   _{\text{base}}({\text{anti-logarithm}})\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>logarithm</mtext> </mrow> </mstyle> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \scriptstyle
+   {\text{logarithm}}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{logarithm}}}
+     * v
+     * t
+     * e
+
+   Roots are used for determining the radius of convergence of a power
+   series with the root test. The nth roots of 1 are called roots of unity
+   and play a fundamental role in various areas of mathematics, such as
+   number theory, theory of equations, and Fourier transform.
+
+History
+
+   [edit]
+
+   Main articles: Square root § History, and Cube root § History
+
+   An archaic term for the operation of taking nth roots is
+   radication.^[4]^[5]
+
+Definition and notation
+
+   [edit]
+
+   [220px-NegativeOne4Root.svg.png] The four 4th roots of −1,
+   none of which are real[220px-NegativeOne3Root.svg.png] The three 3rd
+   roots of −1,
+   one of which is a negative real
+
+   An nth root of a number x, where n is a positive integer, is any of the
+   n real or complex numbers r whose nth power is x:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+   <mi>x</mi> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r^{n}=x.}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r^{n}=x.}
+
+   Every positive real number x has a single positive nth root, called the
+   principal nth root, which is written
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}} . For n equal to 2 this is called the
+   principal square root and the n is omitted. The nth root can also be
+   represented using exponentiation as x^1/n.
+
+   For even values of n, positive numbers also have a negative nth root,
+   while negative numbers do not have a real nth root. For odd values of
+   n, every negative number x has a real negative nth root. For example,
+   −2 has a real 5th root,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mrow> <mo>−</mo> <mn>2</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </mroot> </mrow> <mo>=</mo>
+   <mo>−</mo> <mn>1.148698354</mn> <mo>…</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   {\sqrt[{5}]{-2}}=-1.148698354\ldots }</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{5}]{-2}}=-1.148698354\ldots } but −2 does not
+   have any real 6th roots.
+
+   Every non-zero number x, real or complex, has n different complex
+   number nth roots. (In the case x is real, this count includes any real
+   nth roots.) The only complex root of 0 is 0.
+
+   The nth roots of almost all numbers (all integers except the nth
+   powers, and all rationals except the quotients of two nth powers) are
+   irrational. For example,
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>2</mn> </msqrt> </mrow> <mo>=</mo> <mn>1.414213562</mn>
+   <mo>…</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt
+   {2}}=1.414213562\ldots }</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {2}}=1.414213562\ldots }
+
+   All nth roots of rational numbers are algebraic numbers, and all nth
+   roots of integers are algebraic integers.
+
+   The term "surd" traces back to Al-Khwarizmi (c. 825), who referred to
+   rational and irrational numbers as audible and inaudible, respectively.
+   This later led to the Arabic word أصم (asamm, meaning "deaf" or "dumb")
+   for irrational number being translated into Latin as surdus (meaning
+   "deaf" or "mute"). Gerard of Cremona (c. 1150), Fibonacci (1202), and
+   then Robert Recorde (1551) all used the term to refer to unresolved
+   irrational roots, that is, expressions of the form
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>r</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{r}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{r}}} , in which
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>r</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r} are integer numerals and the whole expression denotes
+   an irrational number.^[6] Irrational numbers of the form
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>±</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>a</mi> </msqrt> </mrow> <mo>,</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \pm {\sqrt
+   {a}},}</annotation> </semantics> :MATH]
+   {\displaystyle \pm {\sqrt {a}},} where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} is rational, are called pure quadratic surds;
+   irrational numbers of the form
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>±</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>b</mi> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle a\pm
+   {\sqrt {b}}}</annotation> </semantics> :MATH]
+   {\displaystyle a\pm {\sqrt {b}}} , where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>b</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle b}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b} are rational, are called mixed quadratic surds.^[7]
+
+Square roots
+
+   [edit]
+
+   Main article: Square root
+
+   [220px-Square-root_function.svg.png] The graph
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>y</mi> <mo>=</mo> <mo>±</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle y=\pm {\sqrt
+   {x}}}</annotation> </semantics> :MATH]
+   {\displaystyle y=\pm {\sqrt {x}}} .
+
+   A square root of a number x is a number r which, when squared, becomes
+   x:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+   <mi>x</mi> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r^{2}=x.}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r^{2}=x.}
+
+   Every positive real number has two square roots, one positive and one
+   negative. For example, the two square roots of 25 are 5 and −5. The
+   positive square root is also known as the principal square root, and is
+   denoted with a radical sign:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>25</mn> </msqrt> </mrow> <mo>=</mo> <mn>5.</mn> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+   {25}}=5.}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {25}}=5.}
+
+   Since the square of every real number is nonnegative, negative numbers
+   do not have real square roots. However, for every negative real number
+   there are two imaginary square roots. For example, the square roots of
+   −25 are 5i and −5i, where i represents a number whose square is −1.
+
+Cube roots
+
+   [edit]
+
+   Main article: Cube root
+
+   [220px-Cube-root_function.svg.png] The graph
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>y</mi> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   y={\sqrt[{3}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle y={\sqrt[{3}]{x}}} .
+
+   A cube root of a number x is a number r whose cube is x:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> <mo>=</mo>
+   <mi>x</mi> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r^{3}=x.}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r^{3}=x.}
+
+   Every real number x has exactly one real cube root, written
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{3}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{3}]{x}}} . For example,
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mtable columnalign="right left right left right left right left right
+   left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em
+   2em 0em 2em 0em 2em 0em" displaystyle="true"> <mtr> <mtd> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mn>8</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> </mtd>
+   <mtd> <mi></mi> <mo>=</mo> <mn>2</mn> </mtd> </mtr> <mtr> <mtd> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mo>−</mo> <mn>8</mn> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+   </mtd> <mtd> <mi></mi> <mo>=</mo> <mo>−</mo> <mn>2.</mn> </mtd> </mtr>
+   </mtable> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\begin{aligned}{\sqrt[{3}]{8}}&=2\\{\sqrt[{3}]{-8}}&=-2.\end{aligned}}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle
+   {\begin{aligned}{\sqrt[{3}]{8}}&=2\\{\sqrt[{3}]{-8}}&=-2.\end{aligned}}
+   }
+
+   Every real number has two additional complex cube roots.
+
+Identities and properties
+
+   [edit]
+
+   Expressing the degree of an nth root in its exponent form, as in
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD">
+   <mo>/</mo> </mrow> <mi>n</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   x^{1/n}}</annotation> </semantics> :MATH]
+   {\displaystyle x^{1/n}} , makes it easier to manipulate powers and
+   roots. If
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} is a non-negative real number,
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi>
+   </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>=</mo> <mo stretchy="false">(</mo> <msup>
+   <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msup>
+   <msup> <mo stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>n</mi>
+   </mrow> </msup> <mo>=</mo> <msup> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>m</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mo>/</mo> </mrow> <mi>n</mi> </mrow> </msup> <mo>=</mo> <mo
+   stretchy="false">(</mo> <msup> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD">
+   <mo>/</mo> </mrow> <mi>n</mi> </mrow> </msup> <msup> <mo
+   stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi>
+   </mrow> </msup> <mo>=</mo> <mo stretchy="false">(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> <msup> <mo
+   stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi>
+   </mrow> </msup> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{a^{m}}}=(a^{m})^{1/n}=a^{m/n}=(a^{1/n})^{m}=({\sqrt[{n}]{a}
+   })^{m}.}</annotation> </semantics> :MATH]
+   {\displaystyle
+   {\sqrt[{n}]{a^{m}}}=(a^{m})^{1/n}=a^{m/n}=(a^{1/n})^{m}=({\sqrt[{n}]{a}
+   })^{m}.}
+
+   Every non-negative number has exactly one non-negative real nth root,
+   and so the rules for operations with surds involving non-negative
+   radicands
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>b</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle b}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b} are straightforward within the real numbers:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mtable columnalign="right left right left right left right left right
+   left right left" rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em
+   2em 0em 2em 0em 2em 0em" displaystyle="true"> <mtr> <mtd> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mi>a</mi> <mi>b</mi> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+   </mtd> <mtd> <mi></mi> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mi>b</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+   </mtd> </mtr> <mtr> <mtd> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mfrac> <mi>a</mi> <mi>b</mi> </mfrac> <mrow class="MJX-TeXAtom-ORD">
+   <mi>n</mi> </mrow> </mroot> </mrow> </mtd> <mtd> <mi></mi> <mo>=</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mroot> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> <mroot> <mi>b</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mfrac>
+   </mrow> </mtd> </mtr> </mtable> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\begin{aligned}{\sqrt[{n}]{ab}}&={\sqrt[{n}]{a}}{\sqrt[{n}]{b}}\\{\sqr
+   t[{n}]{\frac {a}{b}}}&={\frac
+   {\sqrt[{n}]{a}}{\sqrt[{n}]{b}}}\end{aligned}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle
+   {\begin{aligned}{\sqrt[{n}]{ab}}&={\sqrt[{n}]{a}}{\sqrt[{n}]{b}}\\{\sqr
+   t[{n}]{\frac {a}{b}}}&={\frac
+   {\sqrt[{n}]{a}}{\sqrt[{n}]{b}}}\end{aligned}}}
+
+   Subtleties can occur when taking the nth roots of negative or complex
+   numbers. For instance:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mo>−</mo> <mn>1</mn> </msqrt> </mrow> <mo>×</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mo>−</mo> <mn>1</mn> </msqrt> </mrow>
+   <mo>≠</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mo>−</mo> <mn>1</mn>
+   <mo>×</mo> <mo>−</mo> <mn>1</mn> </msqrt> </mrow> <mo>=</mo> <mn>1</mn>
+   <mo>,</mo> <mspace width="1em" /> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {-1}}\times {\sqrt
+   {-1}}\neq {\sqrt {-1\times -1}}=1,\quad }</annotation> </semantics>
+   :MATH]
+   {\displaystyle {\sqrt {-1}}\times {\sqrt {-1}}\neq {\sqrt {-1\times
+   -1}}=1,\quad }
+
+   but, rather,
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mspace width="1em" /> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mo>−</mo> <mn>1</mn> </msqrt> </mrow>
+   <mo>×</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mo>−</mo> <mn>1</mn>
+   </msqrt> </mrow> <mo>=</mo> <mi>i</mi> <mo>×</mo> <mi>i</mi> <mo>=</mo>
+   <msup> <mi>i</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+   </msup> <mo>=</mo> <mo>−</mo> <mn>1.</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \quad {\sqrt {-1}}\times
+   {\sqrt {-1}}=i\times i=i^{2}=-1.}</annotation> </semantics> :MATH]
+   {\displaystyle \quad {\sqrt {-1}}\times {\sqrt {-1}}=i\times
+   i=i^{2}=-1.}
+
+   Since the rule
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>×</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot>
+   </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mrow>
+   <mi>a</mi> <mi>b</mi> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   </mrow> </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt[{n}]{a}}\times
+   {\sqrt[{n}]{b}}={\sqrt[{n}]{ab}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{a}}\times {\sqrt[{n}]{b}}={\sqrt[{n}]{ab}}}
+   strictly holds for non-negative real radicands only, its application
+   leads to the inequality in the first step above.
+
+Simplified form of a radical expression
+
+   [edit]
+
+   A non-nested radical expression is said to be in simplified form if no
+   factor of the radicand can be written as a power greater than or equal
+   to the index; there are no fractions inside the radical sign; and there
+   are no radicals in the denominator.^[8]
+
+   For example, to write the radical expression
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>32</mn>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>5</mn> </msqrt>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \textstyle {\sqrt
+   {32/5}}}</annotation> </semantics> :MATH]
+   {\displaystyle \textstyle {\sqrt {32/5}}} in simplified form, we can
+   proceed as follows. First, look for a perfect square under the square
+   root sign and remove it:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mfrac> <mn>32</mn> <mn>5</mn> </mfrac> </msqrt> </mrow>
+   <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mfrac> <mrow>
+   <mn>16</mn> <mo>⋅</mo> <mn>2</mn> </mrow> <mn>5</mn> </mfrac> </msqrt>
+   </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>16</mn>
+   </msqrt> </mrow> <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+   <mfrac> <mn>2</mn> <mn>5</mn> </mfrac> </msqrt> </mrow> <mo>=</mo>
+   <mn>4</mn> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mfrac> <mn>2</mn>
+   <mn>5</mn> </mfrac> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {\frac
+   {32}{5}}}={\sqrt {\frac {16\cdot 2}{5}}}={\sqrt {16}}\cdot {\sqrt
+   {\frac {2}{5}}}=4{\sqrt {\frac {2}{5}}}}</annotation> </semantics>
+   :MATH]
+   {\displaystyle {\sqrt {\frac {32}{5}}}={\sqrt {\frac {16\cdot
+   2}{5}}}={\sqrt {16}}\cdot {\sqrt {\frac {2}{5}}}=4{\sqrt {\frac
+   {2}{5}}}}
+
+   Next, there is a fraction under the radical sign, which we change as
+   follows:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>4</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mfrac> <mn>2</mn> <mn>5</mn> </mfrac>
+   </msqrt> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+   <mrow> <mn>4</mn> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn>
+   </msqrt> </mrow> </mrow> <msqrt> <mn>5</mn> </msqrt> </mfrac> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 4{\sqrt {\frac
+   {2}{5}}}={\frac {4{\sqrt {2}}}{\sqrt {5}}}}</annotation> </semantics>
+   :MATH]
+   {\displaystyle 4{\sqrt {\frac {2}{5}}}={\frac {4{\sqrt {2}}}{\sqrt
+   {5}}}}
+
+   Finally, we remove the radical from the denominator as follows:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mrow> <mn>4</mn> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+   <mn>2</mn> </msqrt> </mrow> </mrow> <msqrt> <mn>5</mn> </msqrt>
+   </mfrac> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+   <mrow> <mn>4</mn> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn>
+   </msqrt> </mrow> </mrow> <msqrt> <mn>5</mn> </msqrt> </mfrac> </mrow>
+   <mo>⋅</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msqrt> <mn>5</mn>
+   </msqrt> <msqrt> <mn>5</mn> </msqrt> </mfrac> </mrow> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>4</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mn>10</mn> </msqrt> </mrow> </mrow>
+   <mn>5</mn> </mfrac> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mn>4</mn> <mn>5</mn> </mfrac> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mn>10</mn> </msqrt> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle {\frac
+   {4{\sqrt {2}}}{\sqrt {5}}}={\frac {4{\sqrt {2}}}{\sqrt {5}}}\cdot
+   {\frac {\sqrt {5}}{\sqrt {5}}}={\frac {4{\sqrt {10}}}{5}}={\frac
+   {4}{5}}{\sqrt {10}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\frac {4{\sqrt {2}}}{\sqrt {5}}}={\frac {4{\sqrt
+   {2}}}{\sqrt {5}}}\cdot {\frac {\sqrt {5}}{\sqrt {5}}}={\frac {4{\sqrt
+   {10}}}{5}}={\frac {4}{5}}{\sqrt {10}}}
+
+   When there is a denominator involving surds it is always possible to
+   find a factor to multiply both numerator and denominator by to simplify
+   the expression.^[9]^[10] For instance using the factorization of the
+   sum of two cubes:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mn>1</mn> <mrow> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot>
+   </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mi>b</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+   </mrow> </mfrac> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mrow> <mrow class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> <mo>−</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mi>a</mi> <mi>b</mi>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot>
+   </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <msup>
+   <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+   </mrow> <mrow> <mrow> <mo>(</mo> <mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow>
+   </mroot> </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot>
+   </mrow> </mrow> <mo>)</mo> </mrow> <mrow> <mo>(</mo> <mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> <mo>−</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mi>a</mi> <mi>b</mi>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot>
+   </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <msup>
+   <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+   </mrow> <mo>)</mo> </mrow> </mrow> </mfrac> </mrow> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow>
+   </mroot> </mrow> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mrow> <mi>a</mi> <mi>b</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mn>3</mn> </mrow> </mroot> </mrow> <mo>+</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>b</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow> </mrow>
+   <mrow> <mi>a</mi> <mo>+</mo> <mi>b</mi> </mrow> </mfrac> </mrow>
+   <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\frac
+   {1}{{\sqrt[{3}]{a}}+{\sqrt[{3}]{b}}}}={\frac
+   {{\sqrt[{3}]{a^{2}}}-{\sqrt[{3}]{ab}}+{\sqrt[{3}]{b^{2}}}}{\left({\sqrt
+   [{3}]{a}}+{\sqrt[{3}]{b}}\right)\left({\sqrt[{3}]{a^{2}}}-{\sqrt[{3}]{a
+   b}}+{\sqrt[{3}]{b^{2}}}\right)}}={\frac
+   {{\sqrt[{3}]{a^{2}}}-{\sqrt[{3}]{ab}}+{\sqrt[{3}]{b^{2}}}}{a+b}}.}</ann
+   otation> </semantics> :MATH]
+   {\displaystyle {\frac {1}{{\sqrt[{3}]{a}}+{\sqrt[{3}]{b}}}}={\frac
+   {{\sqrt[{3}]{a^{2}}}-{\sqrt[{3}]{ab}}+{\sqrt[{3}]{b^{2}}}}{\left({\sqrt
+   [{3}]{a}}+{\sqrt[{3}]{b}}\right)\left({\sqrt[{3}]{a^{2}}}-{\sqrt[{3}]{a
+   b}}+{\sqrt[{3}]{b^{2}}}\right)}}={\frac
+   {{\sqrt[{3}]{a^{2}}}-{\sqrt[{3}]{ab}}+{\sqrt[{3}]{b^{2}}}}{a+b}}.}
+
+   Simplifying radical expressions involving nested radicals can be quite
+   difficult. In particular, denesting is not always possible, and when
+   possible, it may involve advanced Galois theory. Moreover, when
+   complete denesting is impossible, there is no general canonical form
+   such that the equality of two numbers can be tested by simply looking
+   at their canonical expressions.
+
+   For example, it is not obvious that
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>3</mn> <mo>+</mo> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>2</mn> </msqrt> </mrow> </msqrt> </mrow> <mo>=</mo>
+   <mn>1</mn> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn>
+   </msqrt> </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {3+2{\sqrt
+   {2}}}}=1+{\sqrt {2}}.}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {3+2{\sqrt {2}}}}=1+{\sqrt {2}}.}
+
+   The above can be derived through:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>3</mn> <mo>+</mo> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>2</mn> </msqrt> </mrow> </msqrt> </mrow> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mo>+</mo> <mn>2</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> </msqrt> </mrow> <mo>+</mo>
+   <mn>2</mn> </msqrt> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <msup> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+   </mrow> </msup> <mo>+</mo> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>2</mn> </msqrt> </mrow> <mo>+</mo> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> </msqrt> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </msqrt> </mrow>
+   <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <msup> <mrow>
+   <mo>(</mo> <mrow> <mn>1</mn> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mn>2</mn> </msqrt> </mrow> </mrow> <mo>)</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </msqrt> </mrow>
+   <mo>=</mo> <mn>1</mn> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+   <mn>2</mn> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {3+2{\sqrt
+   {2}}}}={\sqrt {1+2{\sqrt {2}}+2}}={\sqrt {1^{2}+2{\sqrt {2}}+{\sqrt
+   {2}}^{2}}}={\sqrt {\left(1+{\sqrt {2}}\right)^{2}}}=1+{\sqrt
+   {2}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {3+2{\sqrt {2}}}}={\sqrt {1+2{\sqrt
+   {2}}+2}}={\sqrt {1^{2}+2{\sqrt {2}}+{\sqrt {2}}^{2}}}={\sqrt
+   {\left(1+{\sqrt {2}}\right)^{2}}}=1+{\sqrt {2}}}
+
+   Let
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>r</mi> <mo>=</mo> <mi>p</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>q</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   r=p/q}</annotation> </semantics> :MATH]
+   {\displaystyle r=p/q} , with p and q coprime and positive integers.
+   Then
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>r</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot>
+   </mrow> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mi>q</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{r}}={\sqrt[{n}]{p}}/{\sqrt[{n}]{q}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{r}}={\sqrt[{n}]{p}}/{\sqrt[{n}]{q}}} is
+   rational if and only if both
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{p}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{p}}} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>q</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{q}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{q}}} are integers, which means that both p
+   and q are nth powers of some integer.
+
+Infinite series
+
+   [edit]
+
+   The radical or root may be represented by the infinite series:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+   <mn>1</mn> <mo>+</mo> <mi>x</mi> <msup> <mo stretchy="false">)</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>s</mi> <mi>t</mi> </mfrac>
+   </mrow> </msup> <mo>=</mo> <munderover> <mo>∑</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>=</mo> <mn>0</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">∞</mi> </mrow>
+   </munderover> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+   <munderover> <mo>∏</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi>
+   <mo>=</mo> <mn>0</mn> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   <mo>−</mo> <mn>1</mn> </mrow> </munderover> <mo stretchy="false">(</mo>
+   <mi>s</mi> <mo>−</mo> <mi>k</mi> <mi>t</mi> <mo stretchy="false">)</mo>
+   </mrow> <mrow> <mi>n</mi> <mo>!</mo> <msup> <mi>t</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mrow> </mfrac>
+   </mrow> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   </mrow> </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle (1+x)^{\frac {s}{t}}=\sum
+   _{n=0}^{\infty }{\frac {\prod
+   _{k=0}^{n-1}(s-kt)}{n!t^{n}}}x^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle (1+x)^{\frac {s}{t}}=\sum _{n=0}^{\infty }{\frac {\prod
+   _{k=0}^{n-1}(s-kt)}{n!t^{n}}}x^{n}}
+
+   with
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mo
+   stretchy="false">|</mo> </mrow> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow> <mo><</mo>
+   <mn>1</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle |x|<1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle |x|<1} . This expression can be derived from the
+   binomial series.
+
+Computing principal roots
+
+   [edit]
+
+Using Newton's method
+
+   [edit]
+
+   The nth root of a number A can be computed with Newton's method, which
+   starts with an initial guess x[0] and then iterates using the
+   recurrence relation
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>+</mo> <mn>1</mn> </mrow>
+   </msub> <mo>=</mo> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>k</mi> </mrow> </msub> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mrow> <msubsup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>k</mi> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </msubsup> <mo>−</mo> <mi>A</mi> </mrow> <mrow> <mi>n</mi> <msubsup>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msubsup> </mrow> </mfrac> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x_{k+1}=x_{k}-{\frac
+   {x_{k}^{n}-A}{nx_{k}^{n-1}}}}</annotation> </semantics> :MATH]
+   {\displaystyle x_{k+1}=x_{k}-{\frac {x_{k}^{n}-A}{nx_{k}^{n-1}}}}
+
+   until the desired precision is reached. For computational efficiency,
+   the recurrence relation is commonly rewritten
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>+</mo> <mn>1</mn> </mrow>
+   </msub> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+   <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow> <mi>n</mi> </mfrac> </mrow>
+   <mspace width="thinmathspace" /> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo>+</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mi>A</mi> <mi>n</mi> </mfrac> </mrow>
+   <mspace width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+   <mn>1</mn> <msubsup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>k</mi> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo>
+   <mn>1</mn> </mrow> </msubsup> </mfrac> </mrow> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   x_{k+1}={\frac {n-1}{n}}\,x_{k}+{\frac {A}{n}}\,{\frac
+   {1}{x_{k}^{n-1}}}.}</annotation> </semantics> :MATH]
+   {\displaystyle x_{k+1}={\frac {n-1}{n}}\,x_{k}+{\frac {A}{n}}\,{\frac
+   {1}{x_{k}^{n-1}}}.}
+
+   This allows to have only one exponentiation, and to compute once for
+   all the first factor of each term.
+
+   For example, to find the fifth root of 34, we plug in n = 5, A = 34 and
+   x[0] = 2 (initial guess). The first 5 iterations are, approximately:
+
+   x[0] = 2
+
+   x[1] = 2.025
+
+   x[2] = 2.02439 7...
+
+   x[3] = 2.02439 7458...
+
+   x[4] = 2.02439 74584 99885 04251 08172...
+
+   x[5] = 2.02439 74584 99885 04251 08172 45541 93741 91146 21701 07311
+   8...
+
+   (All correct digits shown.)
+
+   The approximation x[4] is accurate to 25 decimal places and x[5] is
+   good for 51.
+
+   Newton's method can be modified to produce various generalized
+   continued fractions for the nth root. For example,
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mrow> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   </mrow> </msup> <mo>+</mo> <mi>y</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> <mo>=</mo>
+   <mi>x</mi> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+   <mpadded width="0" height="8.6pt" depth="3pt"> <mrow /> </mpadded>
+   <mstyle displaystyle="false" scriptlevel="0"> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>y</mi> </mrow> </mstyle> </mrow> <mrow>
+   <mpadded width="0" height="8.6pt" depth="3pt"> <mrow /> </mpadded>
+   <mstyle displaystyle="false" scriptlevel="0"> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msup> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+   <mpadded width="0" height="8.6pt" depth="3pt"> <mrow /> </mpadded>
+   <mstyle displaystyle="false" scriptlevel="0"> <mrow
+   class="MJX-TeXAtom-ORD"> <mo stretchy="false">(</mo> <mi>n</mi>
+   <mo>−</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mi>y</mi> </mrow>
+   </mstyle> </mrow> <mrow> <mpadded width="0" height="8.6pt" depth="3pt">
+   <mrow /> </mpadded> <mstyle displaystyle="false" scriptlevel="0"> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> <mi>x</mi> <mo>+</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mpadded width="0"
+   height="8.6pt" depth="3pt"> <mrow /> </mpadded> <mstyle
+   displaystyle="false" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mo stretchy="false">(</mo> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo
+   stretchy="false">)</mo> <mi>y</mi> </mrow> </mstyle> </mrow> <mrow>
+   <mpadded width="0" height="8.6pt" depth="3pt"> <mrow /> </mpadded>
+   <mstyle displaystyle="false" scriptlevel="0"> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>3</mn> <mi>n</mi> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msup> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+   <mpadded width="0" height="8.6pt" depth="3pt"> <mrow /> </mpadded>
+   <mstyle displaystyle="false" scriptlevel="0"> <mrow
+   class="MJX-TeXAtom-ORD"> <mo stretchy="false">(</mo> <mn>2</mn>
+   <mi>n</mi> <mo>−</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mi>y</mi>
+   </mrow> </mstyle> </mrow> <mrow> <mpadded width="0" height="8.6pt"
+   depth="3pt"> <mrow /> </mpadded> <mstyle displaystyle="false"
+   scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> <mi>x</mi>
+   <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mpadded
+   width="0" height="8.6pt" depth="3pt"> <mrow /> </mpadded> <mstyle
+   displaystyle="false" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mo stretchy="false">(</mo> <mn>2</mn> <mi>n</mi> <mo>+</mo> <mn>1</mn>
+   <mo stretchy="false">)</mo> <mi>y</mi> </mrow> </mstyle> </mrow> <mrow>
+   <mpadded width="0" height="8.6pt" depth="3pt"> <mrow /> </mpadded>
+   <mstyle displaystyle="false" scriptlevel="0"> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>5</mn> <mi>n</mi> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msup> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+   <mpadded width="0" height="8.6pt" depth="3pt"> <mrow /> </mpadded>
+   <mstyle displaystyle="false" scriptlevel="0"> <mrow
+   class="MJX-TeXAtom-ORD"> <mo stretchy="false">(</mo> <mn>3</mn>
+   <mi>n</mi> <mo>−</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mi>y</mi>
+   </mrow> </mstyle> </mrow> <mrow> <mpadded width="0" height="8.6pt"
+   depth="3pt"> <mrow /> </mpadded> <mstyle displaystyle="false"
+   scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> <mi>x</mi>
+   <mo>+</mo> <mo>⋱</mo> </mrow> </mstyle> </mrow> </mfrac> </mrow>
+   </mrow> </mstyle> </mrow> </mfrac> </mrow> </mrow> </mstyle> </mrow>
+   </mfrac> </mrow> </mrow> </mstyle> </mrow> </mfrac> </mrow> </mrow>
+   </mstyle> </mrow> </mfrac> </mrow> </mrow> </mstyle> </mrow> </mfrac>
+   </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{z}}={\sqrt[{n}]{x^{n}+y}}=x+{\cfrac {y}{nx^{n-1}+{\cfrac
+   {(n-1)y}{2x+{\cfrac {(n+1)y}{3nx^{n-1}+{\cfrac {(2n-1)y}{2x+{\cfrac
+   {(2n+1)y}{5nx^{n-1}+{\cfrac {(3n-1)y}{2x+\ddots
+   }}}}}}}}}}}}.}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{z}}={\sqrt[{n}]{x^{n}+y}}=x+{\cfrac
+   {y}{nx^{n-1}+{\cfrac {(n-1)y}{2x+{\cfrac {(n+1)y}{3nx^{n-1}+{\cfrac
+   {(2n-1)y}{2x+{\cfrac {(2n+1)y}{5nx^{n-1}+{\cfrac {(3n-1)y}{2x+\ddots
+   }}}}}}}}}}}}.}
+
+Digit-by-digit calculation of principal roots of decimal (base 10) numbers
+
+   [edit]
+
+   [220px-PascalForDecimalRoots.svg.png] Pascal's triangle showing
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> <mo
+   stretchy="false">(</mo> <mn>4</mn> <mo>,</mo> <mn>1</mn> <mo
+   stretchy="false">)</mo> <mo>=</mo> <mn>4</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   P(4,1)=4}</annotation> </semantics> :MATH]
+   {\displaystyle P(4,1)=4} .
+
+   Building on the digit-by-digit calculation of a square root, it can be
+   seen that the formula used there,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo
+   stretchy="false">(</mo> <mn>20</mn> <mi>p</mi> <mo>+</mo> <mi>x</mi>
+   <mo stretchy="false">)</mo> <mo>≤</mo> <mi>c</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x(20p+x)\leq
+   c}</annotation> </semantics> :MATH]
+   {\displaystyle x(20p+x)\leq c} , or
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+   <mn>20</mn> <mi>x</mi> <mi>p</mi> <mo>≤</mo> <mi>c</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   x^{2}+20xp\leq c}</annotation> </semantics> :MATH]
+   {\displaystyle x^{2}+20xp\leq c} , follows a pattern involving Pascal's
+   triangle. For the nth root of a number
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> <mo
+   stretchy="false">(</mo> <mi>n</mi> <mo>,</mo> <mi>i</mi> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle P(n,i)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle P(n,i)} is defined as the value of element
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>i</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+   </semantics> :MATH]
+   {\displaystyle i} in row
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} of Pascal's Triangle such that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>P</mi> <mo
+   stretchy="false">(</mo> <mn>4</mn> <mo>,</mo> <mn>1</mn> <mo
+   stretchy="false">)</mo> <mo>=</mo> <mn>4</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   P(4,1)=4}</annotation> </semantics> :MATH]
+   {\displaystyle P(4,1)=4} , we can rewrite the expression as
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <munderover> <mo>∑</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> <mo>=</mo> <mn>0</mn> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </munderover> <msup> <mn>10</mn> <mrow class="MJX-TeXAtom-ORD">
+   <mi>i</mi> </mrow> </msup> <mi>P</mi> <mo stretchy="false">(</mo>
+   <mi>n</mi> <mo>,</mo> <mi>i</mi> <mo stretchy="false">)</mo> <msup>
+   <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> </mrow> </msup>
+   <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo>
+   <mi>i</mi> </mrow> </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \sum
+   _{i=0}^{n-1}10^{i}P(n,i)p^{i}x^{n-i}}</annotation> </semantics> :MATH]
+   {\displaystyle \sum _{i=0}^{n-1}10^{i}P(n,i)p^{i}x^{n-i}} . For
+   convenience, call the result of this expression
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>y</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle y}</annotation>
+   </semantics> :MATH]
+   {\displaystyle y} . Using this more general expression, any positive
+   principal root can be computed, digit-by-digit, as follows.
+
+   Write the original number in decimal form. The numbers are written
+   similar to the long division algorithm, and, as in long division, the
+   root will be written on the line above. Now separate the digits into
+   groups of digits equating to the root being taken, starting from the
+   decimal point and going both left and right. The decimal point of the
+   root will be above the decimal point of the radicand. One digit of the
+   root will appear above each group of digits of the original number.
+
+   Beginning with the left-most group of digits, do the following
+   procedure for each group:
+    1. Starting on the left, bring down the most significant (leftmost)
+       group of digits not yet used (if all the digits have been used,
+       write "0" the number of times required to make a group) and write
+       them to the right of the remainder from the previous step (on the
+       first step, there will be no remainder). In other words, multiply
+       the remainder by
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msup> <mn>10</mn> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       10^{n}}</annotation> </semantics> :MATH]
+       {\displaystyle 10^{n}} and add the digits from the next group. This
+       will be the current value c.
+    2. Find p and x, as follows:
+          + Let
+            [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+            displaystyle="true" scriptlevel="0"> <mi>p</mi> </mstyle>
+            </mrow> <annotation
+            encoding="application/x-tex">{\displaystyle p}</annotation>
+            </semantics> :MATH]
+            {\displaystyle p} be the part of the root found so far,
+            ignoring any decimal point. (For the first step,
+            [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+            displaystyle="true" scriptlevel="0"> <mi>p</mi> <mo>=</mo>
+            <mn>0</mn> </mstyle> </mrow> <annotation
+            encoding="application/x-tex">{\displaystyle p=0}</annotation>
+            </semantics> :MATH]
+            {\displaystyle p=0} and
+            [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+            displaystyle="true" scriptlevel="0"> <msup> <mn>0</mn> <mrow
+            class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msup> <mo>=</mo>
+            <mn>1</mn> </mstyle> </mrow> <annotation
+            encoding="application/x-tex">{\displaystyle
+            0^{0}=1}</annotation> </semantics> :MATH]
+            {\displaystyle 0^{0}=1} ).
+          + Determine the greatest digit
+            [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+            displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle>
+            </mrow> <annotation
+            encoding="application/x-tex">{\displaystyle x}</annotation>
+            </semantics> :MATH]
+            {\displaystyle x} such that
+            [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+            displaystyle="true" scriptlevel="0"> <mi>y</mi> <mo>≤</mo>
+            <mi>c</mi> </mstyle> </mrow> <annotation
+            encoding="application/x-tex">{\displaystyle y\leq
+            c}</annotation> </semantics> :MATH]
+            {\displaystyle y\leq c} .
+          + Place the digit
+            [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+            displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle>
+            </mrow> <annotation
+            encoding="application/x-tex">{\displaystyle x}</annotation>
+            </semantics> :MATH]
+            {\displaystyle x} as the next digit of the root, i.e., above
+            the group of digits you just brought down. Thus the next p
+            will be the old p times 10 plus x.
+    3. Subtract
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>y</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       y}</annotation> </semantics> :MATH]
+       {\displaystyle y} from
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>c</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       c}</annotation> </semantics> :MATH]
+       {\displaystyle c} to form a new remainder.
+    4. If the remainder is zero and there are no more digits to bring
+       down, then the algorithm has terminated. Otherwise go back to step
+       1 for another iteration.
+
+Examples
+
+   [edit]
+
+   This section needs editing to comply with Wikipedia's Manual of Style.
+   Please help improve the content. (April 2022) (Learn how and when to
+   remove this message)
+
+   Find the square root of 152.2756.
+          1  2. 3  4
+       /
+     \/  01 52.27 56          (Results)    (Explanations)
+
+         01                   x = 1        10^0·1·0^0·1^2 + 10^1·2·0^1·1^1
+≤      1   <   10^0·1·0^0·2^2   + 10^1·2·0^1·2^1
+         01                   y = 1        y = 10^0·1·0^0·1^2   + 10^1·2·0^1·1^1
+   =  1 +    0   =     1
+         00 52                x = 2        10^0·1·1^0·2^2 + 10^1·2·1^1·2^1
+≤     52   <   10^0·1·1^0·3^2   + 10^1·2·1^1·3^1
+         00 44                y = 44       y = 10^0·1·1^0·2^2   + 10^1·2·1^1·2^1
+   =  4 +   40   =    44
+            08 27             x = 3        10^0·1·12^0·3^2 + 10^1·2·12^1·3^1
+≤    827   <   10^0·1·12^0·4^2  + 10^1·2·12^1·4^1
+            07 29             y = 729      y = 10^0·1·12^0·3^2  + 10^1·2·12^1·3^
+1  =  9 +  720   =   729
+               98 56          x = 4        10^0·1·123^0·4^2 + 10^1·2·123^1·4^1
+≤   9856   <   10^0·1·123^0·5^2 + 10^1·2·123^1·5^1
+               98 56          y = 9856     y = 10^0·1·123^0·4^2 + 10^1·2·123^1·4
+^1 = 16 + 9840   =  9856
+               00 00
+
+   Algorithm terminates: Answer is 12.34
+
+   Find the cube root of 4192 truncated to the nearest thousandth.
+        1   6.  1   2   4
+ 3  /
+  \/  004 192.000 000 000          (Results)    (Explanations)
+
+      004                          x = 1        10^0·1·0^0·1^3    +  10^1·3·0^1
+·1^2   + 10^2·3·0^2·1^1    ≤          4  <  10^0·1·0^0·2^3     + 10^1·3·0^1·2^2
+   + 10^2·3·0^2·2^1
+      001                          y = 1        y = 10^0·1·0^0·1^3   + 10^1·3·0^
+1·1^2   + 10^2·3·0^2·1^1   =   1 +      0 +          0   =          1
+      003 192                      x = 6        10^0·1·1^0·6^3    +  10^1·3·1^1
+·6^2   + 10^2·3·1^2·6^1    ≤       3192  <  10^0·1·1^0·7^3     + 10^1·3·1^1·7^2
+   + 10^2·3·1^2·7^1
+      003 096                      y = 3096     y = 10^0·1·1^0·6^3   + 10^1·3·1^
+1·6^2   + 10^2·3·1^2·6^1   = 216 +  1,080 +      1,800   =      3,096
+          096 000                  x = 1        10^0·1·16^0·1^3   + 10^1·3·16^1
+·1^2   + 10^2·3·16^2·1^1   ≤      96000  <  10^0·1·16^0·2^3   + 10^1·3·16^1·2^2
+  + 10^2·3·16^2·2^1
+          077 281                  y = 77281    y = 10^0·1·16^0·1^3  + 10^1·3·16
+^1·1^2  + 10^2·3·16^2·1^1  =   1 +    480 +     76,800   =     77,281
+          018 719 000              x = 2        10^0·1·161^0·2^3  + 10^1·3·161^1
+·2^2  + 10^2·3·161^2·2^1  ≤   18719000  <  10^0·1·161^0·3^3  + 10^1·3·161^1·3^2
+ + 10^2·3·161^2·3^1
+              015 571 928          y = 15571928 y = 10^0·1·161^0·2^3 + 10^1·3·16
+1^1·2^2 + 10^2·3·161^2·2^1 =   8 + 19,320 + 15,552,600   = 15,571,928
+              003 147 072 000      x = 4        10^0·1·1612^0·4^3 + 10^1·3·1612^
+1·4^2 + 10^2·3·1612^2·4^1 ≤ 3147072000  <  10^0·1·1612^0·5^3 + 10^1·3·1612^1·5^2
+ + 10^2·3·1612^2·5^1
+
+   The desired precision is achieved. The cube root of 4192 is 16.124...
+
+Logarithmic calculation
+
+   [edit]
+
+   The principal nth root of a positive number can be computed using
+   logarithms. Starting from the equation that defines r as an nth root of
+   x, namely
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+   <mi>x</mi> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r^{n}=x,}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r^{n}=x,} with x positive and therefore its principal
+   root r also positive, one takes logarithms of both sides (any base of
+   the logarithm will do) to obtain
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> <msub> <mi>log</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow> </msub> <mo>⁡</mo>
+   <mi>r</mi> <mo>=</mo> <msub> <mi>log</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow> </msub> <mo>⁡</mo>
+   <mi>x</mi> <mspace width="1em" /> <mspace width="1em" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>hence</mtext> </mrow> <mspace
+   width="1em" /> <mspace width="1em" /> <msub> <mi>log</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow> </msub> <mo>⁡</mo>
+   <mi>r</mi> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+   <msub> <mi>log</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow>
+   </msub> <mo>⁡</mo> <mi>x</mi> </mrow> <mi>n</mi> </mfrac> </mrow>
+   <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle n\log _{b}r=\log _{b}x\quad
+   \quad {\text{hence}}\quad \quad \log _{b}r={\frac {\log
+   _{b}x}{n}}.}</annotation> </semantics> :MATH]
+   {\displaystyle n\log _{b}r=\log _{b}x\quad \quad {\text{hence}}\quad
+   \quad \log _{b}r={\frac {\log _{b}x}{n}}.}
+
+   The root r is recovered from this by taking the antilog:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>r</mi> <mo>=</mo> <msup>
+   <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow>
+   <msub> <mi>log</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow>
+   </msub> <mo>⁡</mo> <mi>x</mi> </mrow> </msup> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   r=b^{{\frac {1}{n}}\log _{b}x}.}</annotation> </semantics> :MATH]
+   {\displaystyle r=b^{{\frac {1}{n}}\log _{b}x}.}
+
+   (Note: That formula shows b raised to the power of the result of the
+   division, not b multiplied by the result of the division.)
+
+   For the case in which x is negative and n is odd, there is one real
+   root r which is also negative. This can be found by first multiplying
+   both sides of the defining equation by −1 to obtain
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mo
+   stretchy="false">|</mo> </mrow> <mi>r</mi> <msup> <mrow
+   class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow> <mi>x</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+   <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle |r|^{n}=|x|,}</annotation>
+   </semantics> :MATH]
+   {\displaystyle |r|^{n}=|x|,} then proceeding as before to find |r|, and
+   using r = −|r|.
+
+Geometric constructibility
+
+   [edit]
+
+   The ancient Greek mathematicians knew how to use compass and
+   straightedge to construct a length equal to the square root of a given
+   length, when an auxiliary line of unit length is given. In 1837 Pierre
+   Wantzel proved that an nth root of a given length cannot be constructed
+   if n is not a power of 2.^[11]
+
+Complex roots
+
+   [edit]
+
+   Every complex number other than 0 has n different nth roots.
+
+Square roots
+
+   [edit]
+
+   [220px-Imaginary2Root.svg.png] The square roots of i
+
+   The two square roots of a complex number are always negatives of each
+   other. For example, the square roots of −4 are 2i and −2i, and the
+   square roots of i are
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mstyle displaystyle="false" scriptlevel="0"> <mfrac> <mn>1</mn>
+   <msqrt> <mn>2</mn> </msqrt> </mfrac> </mstyle> </mrow> <mo
+   stretchy="false">(</mo> <mn>1</mn> <mo>+</mo> <mi>i</mi> <mo
+   stretchy="false">)</mo> <mspace width="1em" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>and</mtext> </mrow> <mspace width="1em"
+   /> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="false" scriptlevel="0"> <mfrac> <mn>1</mn> <msqrt>
+   <mn>2</mn> </msqrt> </mfrac> </mstyle> </mrow> <mo
+   stretchy="false">(</mo> <mn>1</mn> <mo>+</mo> <mi>i</mi> <mo
+   stretchy="false">)</mo> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\tfrac {1}{\sqrt
+   {2}}}(1+i)\quad {\text{and}}\quad -{\tfrac {1}{\sqrt
+   {2}}}(1+i).}</annotation> </semantics> :MATH]
+   {\displaystyle {\tfrac {1}{\sqrt {2}}}(1+i)\quad {\text{and}}\quad
+   -{\tfrac {1}{\sqrt {2}}}(1+i).}
+
+   If we express a complex number in polar form, then the square root can
+   be obtained by taking the square root of the radius and halving the
+   angle:
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>r</mi> <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>i</mi> <mi>θ</mi> </mrow> </msup> </msqrt> </mrow> <mo>=</mo>
+   <mo>±</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>r</mi> </msqrt>
+   </mrow> <mo>⋅</mo> <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>i</mi> <mi>θ</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+   <mn>2</mn> </mrow> </msup> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {re^{i\theta }}}=\pm
+   {\sqrt {r}}\cdot e^{i\theta /2}.}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {re^{i\theta }}}=\pm {\sqrt {r}}\cdot e^{i\theta
+   /2}.}
+
+   A principal root of a complex number may be chosen in various ways, for
+   example
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>r</mi> <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>i</mi> <mi>θ</mi> </mrow> </msup> </msqrt> </mrow> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mi>r</mi> </msqrt> </mrow> <mo>⋅</mo>
+   <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> <mi>θ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn> </mrow>
+   </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {re^{i\theta
+   }}}={\sqrt {r}}\cdot e^{i\theta /2}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {re^{i\theta }}}={\sqrt {r}}\cdot e^{i\theta /2}}
+
+   which introduces a branch cut in the complex plane along the positive
+   real axis with the condition 0 ≤ θ < 2π, or along the negative real
+   axis with −π < θ ≤ π.
+
+   Using the first(last) branch cut the principal square root
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>z</mi>
+   </msqrt> </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle {\sqrt
+   {z}}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\sqrt {z}}} maps
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mi>z</mi> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   z}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle z} to the half plane with non-negative
+   imaginary(real) part. The last branch cut is presupposed in
+   mathematical software like Matlab or Scilab.
+
+Roots of unity
+
+   [edit]
+
+   Main article: Root of unity
+
+   [220px-3rd_roots_of_unity.svg.png] The three 3rd roots of 1
+
+   The number 1 has n different nth roots in the complex plane, namely
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>1</mn> <mo>,</mo> <mspace
+   width="thickmathspace" /> <mi>ω</mi> <mo>,</mo> <mspace
+   width="thickmathspace" /> <msup> <mi>ω</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>,</mo> <mspace
+   width="thickmathspace" /> <mo>…</mo> <mo>,</mo> <mspace
+   width="thickmathspace" /> <msup> <mi>ω</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msup> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 1,\;\omega ,\;\omega
+   ^{2},\;\ldots ,\;\omega ^{n-1},}</annotation> </semantics> :MATH]
+   {\displaystyle 1,\;\omega ,\;\omega ^{2},\;\ldots ,\;\omega ^{n-1},}
+
+   where
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>ω</mi> <mo>=</mo> <msup>
+   <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn>
+   <mi>π</mi> <mi>i</mi> </mrow> <mi>n</mi> </mfrac> </mrow> </msup>
+   <mo>=</mo> <mi>cos</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>π</mi> </mrow>
+   <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mo>+</mo> <mi>i</mi>
+   <mi>sin</mi> <mo>⁡</mo> <mrow> <mo>(</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>π</mi> </mrow>
+   <mi>n</mi> </mfrac> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \omega
+   =e^{\frac {2\pi i}{n}}=\cos \left({\frac {2\pi }{n}}\right)+i\sin
+   \left({\frac {2\pi }{n}}\right).}</annotation> </semantics> :MATH]
+   {\displaystyle \omega =e^{\frac {2\pi i}{n}}=\cos \left({\frac {2\pi
+   }{n}}\right)+i\sin \left({\frac {2\pi }{n}}\right).}
+
+   These roots are evenly spaced around the unit circle in the complex
+   plane, at angles which are multiples of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>π</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>n</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle 2\pi
+   /n}</annotation> </semantics> :MATH]
+   {\displaystyle 2\pi /n} . For example, the square roots of unity are 1
+   and −1, and the fourth roots of unity are 1,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>i</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+   </semantics> :MATH]
+   {\displaystyle i} , −1, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>−</mo> <mi>i</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   -i}</annotation> </semantics> :MATH]
+   {\displaystyle -i} .
+
+nth roots
+
+   [edit]
+
+   [250px-Visualisation_complex_number_roots.svg.png] Geometric
+   representation of the 2nd to 6th roots of a complex number z, in polar
+   form re^iφ  where r = |z | and φ = arg z. If z is real, φ = 0 or π.
+   Principal roots are shown in black.
+
+   Every complex number has n different nth roots in the complex plane.
+   These are
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>η</mi> <mo>,</mo> <mspace
+   width="thickmathspace" /> <mi>η</mi> <mi>ω</mi> <mo>,</mo> <mspace
+   width="thickmathspace" /> <mi>η</mi> <msup> <mi>ω</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>,</mo> <mspace
+   width="thickmathspace" /> <mo>…</mo> <mo>,</mo> <mspace
+   width="thickmathspace" /> <mi>η</mi> <msup> <mi>ω</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msup> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \eta ,\;\eta \omega ,\;\eta
+   \omega ^{2},\;\ldots ,\;\eta \omega ^{n-1},}</annotation> </semantics>
+   :MATH]
+   {\displaystyle \eta ,\;\eta \omega ,\;\eta \omega ^{2},\;\ldots ,\;\eta
+   \omega ^{n-1},}
+
+   where η is a single nth root, and 1, ω, ω^2, ... ω^n−1 are the nth
+   roots of unity. For example, the four different fourth roots of 2 are
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow>
+   </mroot> </mrow> <mo>,</mo> <mspace width="1em" /> <mi>i</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mroot> <mn>2</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </mroot> </mrow> <mo>,</mo>
+   <mspace width="1em" /> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow>
+   </mroot> </mrow> <mo>,</mo> <mspace width="1em" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>and</mtext> </mrow> <mspace width="1em"
+   /> <mo>−</mo> <mi>i</mi> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+   <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </mroot>
+   </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt[{4}]{2}},\quad
+   i{\sqrt[{4}]{2}},\quad -{\sqrt[{4}]{2}},\quad {\text{and}}\quad
+   -i{\sqrt[{4}]{2}}.}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{4}]{2}},\quad i{\sqrt[{4}]{2}},\quad
+   -{\sqrt[{4}]{2}},\quad {\text{and}}\quad -i{\sqrt[{4}]{2}}.}
+
+   In polar form, a single nth root may be found by the formula
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mrow> <mi>r</mi> <msup> <mi>e</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> <mi>θ</mi> </mrow> </msup> </mrow>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+   <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mi>r</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow> <mo>⋅</mo>
+   <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>i</mi> <mi>θ</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>n</mi> </mrow>
+   </msup> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt[{n}]{re^{i\theta
+   }}}={\sqrt[{n}]{r}}\cdot e^{i\theta /n}.}</annotation> </semantics>
+   :MATH]
+   {\displaystyle {\sqrt[{n}]{re^{i\theta }}}={\sqrt[{n}]{r}}\cdot
+   e^{i\theta /n}.}
+
+   Here r is the magnitude (the modulus, also called the absolute value)
+   of the number whose root is to be taken; if the number can be written
+   as a+bi then
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>r</mi> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <msup> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo> <msup>
+   <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+   </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r={\sqrt
+   {a^{2}+b^{2}}}}</annotation> </semantics> :MATH]
+   {\displaystyle r={\sqrt {a^{2}+b^{2}}}} . Also,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>θ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \theta
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \theta } is the angle formed as one pivots on the origin
+   counterclockwise from the positive horizontal axis to a ray going from
+   the origin to the number; it has the properties that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>cos</mi> <mo>⁡</mo> <mi>θ</mi>
+   <mo>=</mo> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+   <mi>r</mi> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \cos \theta
+   =a/r,}</annotation> </semantics> :MATH]
+   {\displaystyle \cos \theta =a/r,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>sin</mi> <mo>⁡</mo> <mi>θ</mi>
+   <mo>=</mo> <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+   <mi>r</mi> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \sin \theta
+   =b/r,}</annotation> </semantics> :MATH]
+   {\displaystyle \sin \theta =b/r,} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>tan</mi> <mo>⁡</mo> <mi>θ</mi>
+   <mo>=</mo> <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+   <mi>a</mi> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \tan \theta
+   =b/a.}</annotation> </semantics> :MATH]
+   {\displaystyle \tan \theta =b/a.}
+
+   Thus finding nth roots in the complex plane can be segmented into two
+   steps. First, the magnitude of all the nth roots is the nth root of the
+   magnitude of the original number. Second, the angle between the
+   positive horizontal axis and a ray from the origin to one of the nth
+   roots is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>θ</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>n</mi> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \theta
+   /n}</annotation> </semantics> :MATH]
+   {\displaystyle \theta /n} , where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>θ</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \theta
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \theta } is the angle defined in the same way for the
+   number whose root is being taken. Furthermore, all n of the nth roots
+   are at equally spaced angles from each other.
+
+   If n is even, a complex number's nth roots, of which there are an even
+   number, come in additive inverse pairs, so that if a number r[1] is one
+   of the nth roots then r[2] = –r[1] is another. This is because raising
+   the latter's coefficient –1 to the nth power for even n yields 1: that
+   is, (–r[1])^n = (–1)^n × r[1]^n = r[1]^n.
+
+   As with square roots, the formula above does not define a continuous
+   function over the entire complex plane, but instead has a branch cut at
+   points where θ / n is discontinuous.
+
+Solving polynomials
+
+   [edit]
+
+   See also: Root-finding algorithms
+
+   It was once conjectured that all polynomial equations could be solved
+   algebraically (that is, that all roots of a polynomial could be
+   expressed in terms of a finite number of radicals and elementary
+   operations). However, while this is true for third degree polynomials
+   (cubics) and fourth degree polynomials (quartics), the Abel–Ruffini
+   theorem (1824) shows that this is not true in general when the degree
+   is 5 or greater. For example, the solutions of the equation
+
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </msup> <mo>=</mo>
+   <mi>x</mi> <mo>+</mo> <mn>1</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x^{5}=x+1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x^{5}=x+1}
+
+   cannot be expressed in terms of radicals. (cf. quintic equation)
+
+Proof of irrationality for non-perfect nth power x
+
+   [edit]
+
+   Assume that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}} is rational. That is, it can be reduced
+   to a fraction
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mi>a</mi> <mi>b</mi> </mfrac> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\frac
+   {a}{b}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\frac {a}{b}}} , where a and b are integers without a
+   common factor.
+
+   This means that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <msup> <mi>b</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mfrac>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x={\frac
+   {a^{n}}{b^{n}}}}</annotation> </semantics> :MATH]
+   {\displaystyle x={\frac {a^{n}}{b^{n}}}} .
+
+   Since x is an integer,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>a</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   a^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle a^{n}} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>b</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   b^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle b^{n}} must share a common factor if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>b</mi> <mo>≠</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle b\neq 1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b\neq 1} . This means that if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>b</mi> <mo>≠</mo> <mn>1</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle b\neq 1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b\neq 1} ,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   </mrow> </msup> <msup> <mi>b</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>n</mi> </mrow> </msup> </mfrac> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\frac
+   {a^{n}}{b^{n}}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\frac {a^{n}}{b^{n}}}} is not in simplest form. Thus b
+   should equal 1.
+
+   Since
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mn>1</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+   <mn>1</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 1^{n}=1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle 1^{n}=1} and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mi>n</mi> <mn>1</mn> </mfrac> </mrow> <mo>=</mo> <mi>n</mi>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\frac
+   {n}{1}}=n}</annotation> </semantics> :MATH]
+   {\displaystyle {\frac {n}{1}}=n} ,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   </mrow> </msup> <msup> <mi>b</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>n</mi> </mrow> </msup> </mfrac> </mrow> <mo>=</mo> <msup>
+   <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\frac
+   {a^{n}}{b^{n}}}=a^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle {\frac {a^{n}}{b^{n}}}=a^{n}} .
+
+   This means that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>=</mo> <msup>
+   <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x=a^{n}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x=a^{n}} and thus,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> <mo>=</mo> <mi>a</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}=a}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}=a} . This implies that
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}} is an integer. Since x is not a perfect
+   nth power, this is impossible. Thus
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}} is irrational.
+
+See also
+
+   [edit]
+
+     * Geometric mean
+     * Twelfth root of two
+
+References
+
+   [edit]
+
+    1. ^ "Lesson Explainer: nth Roots: Integers". Retrieved 22 July 2023.
+    2. ^ Bansal, R.K. (2006). New Approach to CBSE Mathematics IX. Laxmi
+       Publications. p. 25. ISBN 978-81-318-0013-3.
+    3. ^ Silver, Howard A. (1986). Algebra and trigonometry. Englewood
+       Cliffs, New Jersey: Prentice-Hall. ISBN 978-0-13-021270-2.
+    4. ^ "Definition of RADICATION". www.merriam-webster.com.
+    5. ^ "radication – Definition of radication in English by Oxford
+       Dictionaries". Oxford Dictionaries. Archived from the original on
+       April 3, 2018.
+    6. ^ Miller, Jeff. "Earliest Known Uses of Some of the Words of
+       Mathematics". Mathematics Pages. Retrieved 2008-11-30.
+    7. ^ Hardy, G. H. (1921). A Course of Pure Mathematics (3rd ed.).
+       Cambridge. §1.13 "Quadratic Surds" – §1.14, pp. 19–23.
+    8. ^ McKeague, Charles P. (2011). Elementary algebra. Cengage
+       Learning. p. 470. ISBN 978-0-8400-6421-9.
+    9. ^ Caviness, B. F.; Fateman, R. J. "Simplification of Radical
+       Expressions" (PDF). Proceedings of the 1976 ACM Symposium on
+       Symbolic and Algebraic Computation. p. 329.
+   10. ^ Richard, Zippel (1985). "Simplification of Expressions Involving
+       Radicals". Journal of Symbolic Computation. 1 (189–210): 189–210.
+       doi:10.1016/S0747-7171(85)80014-6.
+   11. ^ Wantzel, M. L. (1837). "Recherches sur les moyens de reconnaître
+       si un Problème de Géométrie peut se résoudre avec la règle et le
+       compas". Journal de Mathématiques Pures et Appliquées. 1 (2):
+       366–372.
+
+External links
+
+   [edit]
+
+   Look up surd in Wiktionary, the free dictionary.
+
+   Look up radical in Wiktionary, the free dictionary.
+
+     * v
+     * t
+     * e
+
+   Hyperoperations
+
+   Primary
+
+     * Successor (0)
+     * Addition (1)
+     * Multiplication (2)
+     * Exponentiation (3)
+     * Tetration (4)
+     * Pentation (5)
+     * Hexation (6)
+
+   Inverse for left argument
+
+     * Predecessor (0)
+     * Subtraction (1)
+     * Division (2)
+     * Root extraction (3)
+     * Super-root (4)
+
+   Inverse for right argument
+
+     * Predecessor (0)
+     * Subtraction (1)
+     * Division (2)
+     * Logarithm (3)
+     * Super-logarithm (4)
+
+   Related articles
+
+     * Ackermann function
+     * Conway chained arrow notation
+     * Grzegorczyk hierarchy
+     * Knuth's up-arrow notation
+     * Steinhaus–Moser notation
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Nth_root&oldid=1265710577"
+
+   Categories:
+     * Elementary algebra
+     * Operations on numbers
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Articles needing additional references from October 2022
+     * All articles needing additional references
+     * Articles containing Arabic-language text
+     * Articles containing Latin-language text
+     * Wikipedia articles with style issues from April 2022
+     * All articles with style issues
+
+     * This page was last edited on 28 December 2024, at 07:42 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

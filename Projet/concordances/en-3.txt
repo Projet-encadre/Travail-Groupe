@@ -1,0 +1,115 @@
+ * (Top)      * 1 Identifying roots      * 2 History      * 3 Ro
+ots      * 2 History      * 3 Root vs fundamental      * 4 Assum
+ fundamental      * 4 Assumed root        (BUTTON) Toggle Assume
+      (BUTTON) Toggle Assumed root subsection           + 4.1 In
+       + 4.1 In jazz      * 5 Root progressions in music      * 
+Toggle the table of contents  Root (chord)     [ ] 19 languages 
+racterizing a chord    [220px-Root_of_a_major_chord_on_C.png] Ro
+ot_of_a_major_chord_on_C.png] Root, in red, of a C major chord  
+ major chord    (Play^ⓘ). The root is doubled at the    octave.[
+er%2C_wohn%27_uns_bei_colored_roots_and_bass.png]    Root notes 
+olored_roots_and_bass.png]    Root notes (blue) and bass notes (
+ music theory of harmony, the root is a specific note that names
+en about in terms of    their root, their quality, and their ext
+a given harmonic context, the root of a chord need not be in the
+me,    and therefore the same root.     In tertian harmonic theo
+ommon practice tonality), the root of a chord    is the note on 
+stacked. For instance,    the root of a triad such as E Minor is
+ three possible positions, a "root position" with the root in th
+s, a "root position" with the root in the    bass (i.e., with th
+n the    bass (i.e., with the root as the lowest note, thus E, G
+is a third interval above the root, G, as    the lowest note) an
+is a fifth interval above the root (B) is the    lowest note.   
+less of whether a chord is in root position or in an inversion, 
+on or in an inversion,    the root remains the same in all three
+ord can be played with the    root as the bass note, the note a 
+e, the note a third above the root as the bass note    (first in
+), the note a fifth above the root as the bass note    (second i
+ the note a seventh above the root as the bass    note (third in
+ six positions, etc., but the root    position always is that of
+ the stack of thirds, and the root is the    lowest note of this
+so Factor (chord)).    [220px-Root_position%2C_first_inversion%2
+rsion_C_major    _chords.png] Root position, first inversion, an
+ersion C    major chords Play root position C major chord^ⓘ, Pla
+ersion C major chord^ⓘ. Chord roots    (all the same) in    red.
+ll the same) in    red.[220px-Root_position%2C_first_inversion%2
+n_cho    rds_over_C_bass.png] Root position, first inversion, an
+rsion chords over C bass Play root position C major chord^ⓘ, Pla
+ion F major    chord^ⓘ. Chord roots in red.  Identifying roots  
+rd roots in red.  Identifying roots     [edit]    [220px-Determi
+]    [220px-Determining_chord_root_from_inversion.png] Determini
+ion.png] Determining chord    root from inversion Play^ⓘ. "Revoi
+"Revoicing inverted triads to root    position".^[1]     The ide
+n".^[1]     The idea of chord root links to that of a chord's ro
+ot links to that of a chord's root position, as    opposed to it
+ of the chord (C) also is its root. When the root is the lowest 
+C) also is its root. When the root is the lowest    note in the 
+  note in the chord, it is in root position. When the root is a 
+is in root position. When the root is a higher    note (E G C or
+inverted but retains the same root.    Classified chords in tona
+st way to recognize a chord's root, in these cases, is to    rea
+ord as a stack of thirds: the root    then is the lowest note.  
+this: in inverted triads, the root is directly    above the inte
+s a    C major sixth chord in root position (a major triad – C, 
+  added sixth – A – above the root) or as a first inversion A mi
+). Deciding which note is the root of this chord could be    det
+ inverted chords and their    roots:      * Chord names and symb
+     note)     The concept of root has been extended for the des
+low note    considered as the root; or as an inversion of the sa
+h cases the upper note is the root. See Interval.     Some theor
+  possible interval above the root and consider in some cases th
+5] chords nevertheless are in root position – this is the case  
+amenable to    the concept of root, although in practice, in a l
+a quartal chord has a certain root (e.g., a    fake book chart t
+r has indicated that it has a root of A.)     A major scale cont
+f which might    serve as the root of a chord:    [400px-Root_po
+he root of a chord:    [400px-Root_position_triads_from_C_major_
+s_from_C_major_scale.svg.png] Root position    triads from C maj
+ic are often of indeterminate root, as are    equal-interval cho
+nes, in which the base (i.e., root) of the    chord appears only
+nica); he also uses the term "root"    (radix), but in a slightl
+mpion's "true base" is the    root of the chord.^[5]     Full re
+portance of the succession of roots (or of chords identified by 
+chords identified by their    roots) for the construction of ton
+ction of tonality (see below, Root progressions).  Root vs funda
+e below, Root progressions).  Root vs fundamental     [edit]    
+dit]     The concept of chord root is not the same as that of th
+ould be C3,    G4 and E5. The root of the triad is an abstract C
+sually not be heard.  Assumed root     [edit]    [220px-Assumed_
+     [edit]    [220px-Assumed_root_A_minor_ninth_chord.png] Assu
+inor_ninth_chord.png] Assumed root, Am^7/B: A    minor ninth cho
+    minor ninth chord without root and with B in the bass.^[7] P
+then full Am9.     An assumed root (also absent, or omitted root
+root (also absent, or omitted root) is "when a chord does    not
+a chord does    not contain a root ([which is] not unusual)".^[8
+ext, it is    the unperformed root of a performed chord. This 'a
+terpret a chord as having its root omitted when    the habits of
+ us to think of    the absent root in such a place."[emphasis or
+do not    acknowledge omitted Roots except in cases where the mi
+   accompaniment in which the root having been struck at the com
+cated, "to show you where the root    would be", and to assist o
+priate fret", with an assumed root in grey, other notes in white
+es in white,    and a sounded root in black.^[7]    [220px-Dimin
+e in modulation: each assumed root, in parentheses, may be    us
+     An example of an assumed root is the diminished seventh cho
+n assumed to be the absent    root, making it a ninth chord.^[13
+resent four different assumed roots.^[12]  In jazz     [edit]   
+     In jazz and jazz fusion, roots are often omitted from chord
+    the bass player plays the root. For example, if a band is pl
+t the bass player to play the root. The chord playing musicians 
+it    is one octave higher.)  Root progressions in music     [ed
+lled the progression of chord roots rather than the    actual lo
+he intervals    between their roots. Subsequently, music theory 
+ typically treated    chordal roots as the defining feature of h
+s it so important to know the root of the chord? Because the    
+f the chord? Because the      roots of the chords will sound whe
+etical symbol is correct. The root      progression which emerge
+s not      permit chance. The root progression supports the work
+orts the work. The total      root progression is heard as a sub
+theorize the    succession of roots. The theory of the fundament
+p.6. ISBN 0-7390-0368-2. "The root        is the note from which
+ the triad gets its name. The root of a C        triad is C."   
+346-5.     4. ^ Joel Lester, "Root-Position and Inverted Triads 
+ * e     Chord factors      * Root      * Third      * Fifth    
+n tone      * Doubling      * Root position and Inversion (1st, 
+kipedia.org/w/index.php?title=Root_(chord)&oldid=12394751    88"

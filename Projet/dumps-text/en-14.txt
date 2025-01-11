@@ -1,0 +1,329 @@
+   #Britannica Dictionary
+
+   IFRAME: https://www.googletagmanager.com/ns.html?id=GTM-W5CJ3FB
+
+   An Encylopedia Britannica Company
+   [LearnersLogo.png]
+   The Britannica Dictionary mobile search
+     * [ld_menu_icon_home_teal.png] Home
+     * [ld_menu_icon_qa_teal.png] Ask the Editor
+     * [ld_menu_icon_cal_teal.png] Word of the Day
+     * [ld_menu_icon_vocabquiz_teal.png] Quizzes
+     * [ld_menu_icon_3k_teal.png] Core Vocabulary
+     * [ld_menu_icon_dictionary.svg] Browse the Dictionary
+
+   root________________
+   ×
+     * Britannica Homepage
+     * Ask the Editor
+     * Word of the Day
+     * Quizzes
+     * Core Vocabulary
+     * Browse the Dictionary
+
+   The Britannica Dictionary
+   root________________
+   (BUTTON)
+
+root
+
+   13 ENTRIES FOUND:
+     * root (noun)
+     * root (verb)
+     * root (verb)
+     * root (verb)
+     * root beer (noun)
+     * root canal (noun)
+     * root cellar (noun)
+     * root vegetable (noun)
+     * cube root (noun)
+     * deep–rooted (adjective)
+     * grass roots (noun)
+     * square root (noun)
+     * branch (noun)
+
+   ^1 root /ˈruːt/ noun
+   plural roots
+   ^1 root
+   /ˈruːt/
+   noun
+   plural roots
+   Britannica Dictionary definition of ROOT
+   1
+   [count] : the part of a plant that grows underground, gets water from
+   the ground, and holds the plant in place
+     * Elm trees have shallow roots.
+     * Pull weeds up by the roots so that they don't grow back.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   — see color picture on this page
+   2
+   [count] : the part of a tooth, hair, fingernail, etc., that is attached
+   to the body
+     * You can tell that she dyes her hair blonde because her dark roots
+       are showing.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   3
+   [count]
+   a  : the cause or source of something — usually singular
+     * He believes that money is the root of all evil. [=money causes
+       people to do bad things]
+     * We need to get to the root of the problem. = We need to get to the
+       root cause of the problem.
+     * Simple greed was at the root of the robbery. [=was the reason for
+       the robbery]
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   b  : the origin of something — usually plural
+     * Rock-and-roll music has its roots in blues music. [=rock-and-roll
+       music originated/developed from blues music]
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   4
+   roots [plural]
+   a  : the family history of a person or a group of people
+     * They have traced their roots [=ancestry] back several generations.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   b  : a special connection to something — + in
+     * She's a dedicated teacher with roots in the community.
+     * His family has roots in the New York theater scene.
+     * a novelist with roots deep in Southern life
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   — see also grass roots
+   5
+   [count] mathematics : a number that is multiplied by itself a certain
+   number of times to produce another number
+     * 2 is the 4th root of 16. [=2 x 2 x 2 x 2 = 16]
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   — see also cube root, square root
+   6
+   [count] : a word from which other words are formed
+     * “Butler” and “bottle” come from the same Latin root.
+     * “Hold” is the root of “holder.”
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+
+put down roots
+
+   : to become a member of a community and begin to feel that it is your
+   home : to settle and live in one place
+     * The family put down roots in New England. [=they made New England
+       their home]
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+
+root and branch
+
+   chiefly British
+   1
+   : complete or thorough
+     * a root and branch overhaul of local schools
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   2
+   : completely or thoroughly
+     * The laws were reformed root and branch.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+
+take root
+
+   1
+   of a plant : to grow and develop roots
+     * There isn't enough time for the grass to take root before winter.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   2
+   : to begin to develop
+     * The classroom should be a place where creativity can take root and
+       flourish.
+     * It was years before democratic ideals took root in that part of the
+       world.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   ^2 root /ˈruːt/ verb
+   roots; rooted; rooting
+   ^2 root
+   /ˈruːt/
+   verb
+   roots; rooted; rooting
+   Britannica Dictionary definition of ROOT
+   1
+   of a plant
+   a  [no object] : to grow and develop roots
+     * The plants had difficulty rooting in the poor soil.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   b  [+ object] : to make (a plant) grow and develop roots
+     * She rooted the seedlings in pots before planting them in the
+       garden.
+     * The lichen rooted itself to the rock.
+     * The lichen was rooted to the rock.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   2
+   [+ object] : to make (someone) unable to move
+     * Fear rooted me to my chair.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   — usually used as (be) rooted
+     * I was rooted to my chair by/with fear.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+
+root in
+
+   [phrasal verb]
+   root (something) in (something)
+   : to form, make, or develop (something) by using (something) as a basis
+     * He roots his art in reality. [=bases his art on the real world]
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   — usually used as (be) rooted in
+     * His art is rooted in reality.
+     * Her opinions are deeply rooted in her faith.
+     * a dance rooted in African tradition
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   — compare ^3root, ^4root
+   ^3 root /ˈruːt/ verb
+   roots; rooted; rooting
+   ^3 root
+   /ˈruːt/
+   verb
+   roots; rooted; rooting
+   Britannica Dictionary definition of ROOT
+   [no object]
+   1
+   always followed by an adverb or preposition : to search for something
+   by moving around or by turning things over
+     * We rooted through the desk drawers for the phone bill.
+     * She rooted around in her purse to find her keys.
+     * I think I'll root around for some leftovers in the fridge.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   2
+   of animals : to look for food under the ground by digging with the nose
+   : grub
+     * a rooting pig
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+
+root out
+
+   [phrasal verb]
+   1
+   root (something or someone) out or root out (something or someone)
+   : to find and remove (something or someone)
+     * The mayor was determined to root out corruption in city government.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   2
+   : to find (something or someone) after searching for a long time
+     * He finally rooted out the cause of the problem.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   — compare ^2root, ^4root
+   ^4 root /ˈruːt/ verb
+   roots; rooted; rooting
+   ^4 root
+   /ˈruːt/
+   verb
+   roots; rooted; rooting
+   Britannica Dictionary definition of ROOT
+
+root for
+
+   [phrasal verb]
+   root for (someone or something)
+   : to express or show support for (a person, a team, etc.)
+     * They always root for the home team.
+     * We're rooting for the underdog.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   : to hope for the success of (someone or something)
+     * Remember that we're all rooting for you. [=we all want to see you
+       succeed]
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+
+root on
+
+   [phrasal verb]
+   root (someone or something) on US
+   : to help (someone or something) to win or succeed by expressing or
+   showing strong support
+     * The team is playing for the championship tomorrow, and thousands of
+       fans will be there to root them on.
+     * Her friends and family were there to root her on to victory.
+
+   [+] more examples [-] hide examples [+] Example sentences [-] Hide
+   examples
+   — compare ^2root, ^3root
+
+— rooter
+
+   /ˈruːtɚ/ noun, plural rooters [count]
+   ASK THE EDITOR
+   What are the plural forms of check-in, passerby, and spoonful?
+   See the answer »
+   QUIZZES
+   Vocabulary Quiz Icon
+   Vocabulary Quiz
+   Test your word power
+   Take the Quiz »
+   Name That Thing Icon
+   Name That Thing
+   Take our visual quiz
+   Test Your Knowledge »
+   WORD OF THE DAY
+   Compost Illustration
+   compost
+   : a decayed mixture of plants (such as leaves and grass) that is used
+   to improve the soil in a garden
+   Learn More »
+
+    1. About Us & Legal Info
+    2. Partner Program
+    3. Contact Us
+    4. Privacy Notice
+    5. Terms of Use
+    6. Pronunciation Symbols
+    7. Help
+
+    1.
+    2.
+    3.
+    4.
+    5.
+
+   © 2025 Encyclopædia Britannica, Inc.

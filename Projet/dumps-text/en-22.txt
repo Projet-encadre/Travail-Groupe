@@ -1,0 +1,90 @@
+   [ ]
+    1. Home
+    2. Features
+    3. Roots Dictionary
+    4. Word Frequency
+    5. Deconstructor
+    6. Grammar Dictionary
+    7.
+    8. www.dpdict.net
+    9. 1. Search
+   10. 2. Summary
+   11. 3. Dictionary display
+   12. 4. Settings
+   13. 5. API in GoldeDict
+   14. 6. API in DictTango
+   15.
+   16. Tipitaka Pali Reader
+   17. The Buddha's Words
+   18. Simsapa Dhamma Reader
+   19. Sutta Central
+   20.
+   21. Install on Windows
+   22. Install on Mac
+   23. Install on iOS
+   24. Install on Linux
+   25. Install on Android
+   26. Install on Kindle
+   27. Install on Kobo
+   28. Update
+   29.
+   30. GoldenDict: Setup the Hotkey
+   31. GoldenDict: Setup the Scan Popup
+   32. GoldenDict: Setup Advanced Features
+   33.
+   34. Changelog
+   35.
+   36. Bibliography
+   37. Thanks
+   38. Feedback Form
+   39. Help with Coding
+   40. Contact
+
+   (BUTTON)
+     * (BUTTON) Light
+     * (BUTTON) Rust
+     * (BUTTON) Coal
+     * (BUTTON) Navy
+     * (BUTTON) Ayu
+
+   (BUTTON)
+
+Digital Pāḷi Dictionary
+
+   Rus
+   ____________________
+
+Roots Dictionary
+
+   There is a detailed Pāḷi Roots Dictionary included in DPD. Clicking on
+   any root will take you to a special page containing all the root
+   information.
+
+   roots dict1
+
+Root Info
+
+   Root info contains comprehensive information from classical grammars.
+
+   roots dict2
+
+Root Matrix
+
+   Root matrix lists every word derived from a root, ordered according to
+   part of speech (verbs, participles, nouns, adjectives and adverbs) and
+   according to mode of the verb (causative, passive, intensive,
+   denominative, etc.).
+
+   root matrix
+
+   The result is a comprehensive table of how the root appears within Pāḷi
+   texts, useful for teachers and students alike.
+
+Root Families
+
+   Each root family contains every word with the same prefix and root.
+
+   roots dict3
+
+   These are very useful for seeing the range of nuanced meanings that a
+   prefix and root combination produces.

@@ -1,0 +1,1866 @@
+   #alternate Edit this page Wikipedia (en) Wikipedia Atom feed
+
+   Jump to content
+
+   [ ] Main menu
+   Main menu
+   (BUTTON) move to sidebar (BUTTON) hide
+   Navigation
+     * Main page
+     * Contents
+     * Current events
+     * Random article
+     * About Wikipedia
+     * Contact us
+
+   Contribute
+     * Help
+     * Learn to edit
+     * Community portal
+     * Recent changes
+     * Upload file
+
+   Wikipedia The Free Encyclopedia
+   Search
+   ____________________
+   (BUTTON) Search
+
+   [ ] Appearance
+
+     * Donate
+     * Create account
+     * Log in
+
+   [ ] Personal tools
+     * Donate
+     * Create account
+     * Log in
+
+   Pages for logged out editors learn more
+     * Contributions
+     * Talk
+
+Contents
+
+   (BUTTON) move to sidebar (BUTTON) hide
+     * (Top)
+     * 1 General definition
+     * 2 Elementary properties
+     * 3 Group properties
+       (BUTTON) Toggle Group properties subsection
+          + 3.1 Group of all roots of unity
+          + 3.2 Group of nth roots of unity
+          + 3.3 Galois group of the primitive nth roots of unity
+          + 3.4 Galois group of the real part of the primitive roots of
+            unity
+     * 4 Trigonometric expression
+     * 5 Algebraic expression
+       (BUTTON) Toggle Algebraic expression subsection
+          + 5.1 Explicit expressions in low degrees
+     * 6 Periodicity
+     * 7 Summation
+     * 8 Orthogonality
+     * 9 Cyclotomic polynomials
+     * 10 Cyclic groups
+     * 11 Cyclotomic fields
+     * 12 Relation to quadratic integers
+     * 13 See also
+     * 14 Notes
+     * 15 References
+
+   [ ] Toggle the table of contents
+
+Root of unity
+
+   [ ] 28 languages
+     * العربية
+     * Català
+     * Čeština
+     * Deutsch
+     * Eesti
+     * Español
+     * Esperanto
+     * فارسی
+     * Français
+     * 한국어
+     * Հայերեն
+     * हिन्दी
+     * Bahasa Indonesia
+     * Italiano
+     * עברית
+     * Magyar
+     * Nederlands
+     * 日本語
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Suomi
+     * Svenska
+     * தமிழ்
+     * Українська
+     * Tiếng Việt
+     * 中文
+
+   Edit links
+
+     * Article
+     * Talk
+
+   [ ] English
+
+     * Read
+     * Edit
+     * View history
+
+   [ ] Tools
+   Tools
+   (BUTTON) move to sidebar (BUTTON) hide
+   Actions
+     * Read
+     * Edit
+     * View history
+
+   General
+     * What links here
+     * Related changes
+     * Upload file
+     * Special pages
+     * Permanent link
+     * Page information
+     * Cite this page
+     * Get shortened URL
+     * Download QR code
+
+   Print/export
+     * Download as PDF
+     * Printable version
+
+   In other projects
+     * Wikimedia Commons
+     * Wikidata item
+
+   Appearance
+   (BUTTON) move to sidebar (BUTTON) hide
+   From Wikipedia, the free encyclopedia
+   Number that has an integer power equal to 1
+   This article needs additional citations for verification. Please help
+   improve this article by adding citations to reliable sources. Unsourced
+   material may be challenged and removed.
+   Find sources: "Root of unity" – news · newspapers · books · scholar ·
+   JSTOR (April 2012) (Learn how and when to remove this message)
+
+   [220px-One5Root.svg.png] The 5th roots of unity (blue points) in the
+   complex plane
+
+   In mathematics, a root of unity, occasionally called a de Moivre
+   number, is any complex number that yields 1 when raised to some
+   positive integer power n. Roots of unity are used in many branches of
+   mathematics, and are especially important in number theory, the theory
+   of group characters, and the discrete Fourier transform.
+
+   Roots of unity can be defined in any field. If the characteristic of
+   the field is zero, the roots are complex numbers that are also
+   algebraic integers. For fields with a positive characteristic, the
+   roots belong to a finite field, and, conversely, every nonzero element
+   of a finite field is a root of unity. Any algebraically closed field
+   contains exactly n nth roots of unity, except when n is a multiple of
+   the (positive) characteristic of the field.
+
+General definition
+
+   [edit]
+   [220px-Visualisation_complex_number_roots.svg.png] Geometric
+   representation of the 2nd to 6th root of a general complex number in
+   polar form. For the nth root of unity, set r = 1 and φ = 0. The
+   principal root is in black.
+
+   An nth root of unity, where n is a positive integer, is a number z
+   satisfying the equation^[1]^[2]
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>z</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+   <mn>1.</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle z^{n}=1.}</annotation>
+   </semantics> :MATH]
+   {\displaystyle z^{n}=1.} Unless otherwise specified, the roots of unity
+   may be taken to be complex numbers (including the number 1, and the
+   number −1 if n is even, which are complex with a zero imaginary part),
+   and in this case, the nth roots of unity are^[3]
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>exp</mi> <mo>⁡</mo> <mrow>
+   <mo>(</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn>
+   <mi>k</mi> <mi>π</mi> <mi>i</mi> </mrow> <mi>n</mi> </mfrac> </mrow>
+   <mo>)</mo> </mrow> <mo>=</mo> <mi>cos</mi> <mo>⁡</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>k</mi>
+   <mi>π</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>+</mo> <mi>i</mi>
+   <mi>sin</mi> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+   <mn>2</mn> <mi>k</mi> <mi>π</mi> </mrow> <mi>n</mi> </mfrac> </mrow>
+   <mo>,</mo> <mspace width="2em" /> <mi>k</mi> <mo>=</mo> <mn>0</mn>
+   <mo>,</mo> <mn>1</mn> <mo>,</mo> <mo>…</mo> <mo>,</mo> <mi>n</mi>
+   <mo>−</mo> <mn>1.</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \exp \left({\frac {2k\pi
+   i}{n}}\right)=\cos {\frac {2k\pi }{n}}+i\sin {\frac {2k\pi }{n}},\qquad
+   k=0,1,\dots ,n-1.}</annotation> </semantics> :MATH]
+   {\displaystyle \exp \left({\frac {2k\pi i}{n}}\right)=\cos {\frac
+   {2k\pi }{n}}+i\sin {\frac {2k\pi }{n}},\qquad k=0,1,\dots ,n-1.}
+
+   However, the defining equation of roots of unity is meaningful over any
+   field (and even over any ring) F, and this allows considering roots of
+   unity in F. Whichever is the field F, the roots of unity in F are
+   either complex numbers, if the characteristic of F is 0, or, otherwise,
+   belong to a finite field. Conversely, every nonzero element in a finite
+   field is a root of unity in that field. See Root of unity modulo n and
+   Finite field for further details.
+
+   An nth root of unity is said to be primitive
+   if it is not an mth root of unity for some smaller m, that is
+   if^[4]^[5]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+          <mn>1</mn> <mspace width="1em" /> <mrow class="MJX-TeXAtom-ORD">
+          <mtext>and</mtext> </mrow> <mspace width="1em" /> <msup>
+          <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow>
+          </msup> <mo>≠</mo> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD">
+          <mtext> for </mtext> </mrow> <mi>m</mi> <mo>=</mo> <mn>1</mn>
+          <mo>,</mo> <mn>2</mn> <mo>,</mo> <mn>3</mn> <mo>,</mo>
+          <mo>…</mo> <mo>,</mo> <mi>n</mi> <mo>−</mo> <mn>1.</mn>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle z^{n}=1\quad
+          {\text{and}}\quad z^{m}\neq 1{\text{ for }}m=1,2,3,\ldots
+          ,n-1.}</annotation> </semantics> :MATH]
+          {\displaystyle z^{n}=1\quad {\text{and}}\quad z^{m}\neq 1{\text{
+          for }}m=1,2,3,\ldots ,n-1.}
+
+   If n is a prime number, then all nth roots of unity, except 1, are
+   primitive.^[6]
+
+   In the above formula in terms of exponential and trigonometric
+   functions, the primitive nth roots of unity are those for which k and n
+   are coprime integers.
+
+   Subsequent sections of this article will comply with complex roots of
+   unity. For the case of roots of unity in fields of nonzero
+   characteristic, see Finite field § Roots of unity. For the case of
+   roots of unity in rings of modular integers, see Root of unity modulo
+   n.
+
+Elementary properties
+
+   [edit]
+
+   Every nth root of unity z is a primitive ath root of unity for some a ≤
+   n, which is the smallest positive integer such that z^a = 1.
+
+   Any integer power of an nth root of unity is also an nth root of
+   unity,^[7] as
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo stretchy="false">(</mo>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi>
+          </mrow> </msup> <msup> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi>
+          <mi>n</mi> </mrow> </msup> <mo>=</mo> <mo
+          stretchy="false">(</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <msup> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>k</mi> </mrow> </msup> <mo>=</mo> <msup> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> <mo>=</mo>
+          <mn>1.</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          (z^{k})^{n}=z^{kn}=(z^{n})^{k}=1^{k}=1.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle (z^{k})^{n}=z^{kn}=(z^{n})^{k}=1^{k}=1.}
+
+   This is also true for negative exponents. In particular, the reciprocal
+   of an nth root of unity is its complex conjugate, and is also an nth
+   root of unity:^[8]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>z</mi> </mfrac>
+          </mrow> <mo>=</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow> </msup>
+          <mo>=</mo> <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow> </msup> <mo>=</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD">
+          <mover> <mi>z</mi> <mo stretchy="false">¯</mo> </mover> </mrow>
+          </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac
+          {1}{z}}=z^{-1}=z^{n-1}={\bar {z}}.}</annotation> </semantics>
+          :MATH]
+          {\displaystyle {\frac {1}{z}}=z^{-1}=z^{n-1}={\bar {z}}.}
+
+   If z is an nth root of unity and a ≡ b (mod n) then z^a = z^b. Indeed,
+   by the definition of congruence modulo n, a = b + kn for some integer
+   k, and hence
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msup> <mo>=</mo>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi>
+          <mo>+</mo> <mi>k</mi> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi>
+          </mrow> </msup> <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>k</mi> <mi>n</mi> </mrow> </msup> <mo>=</mo> <msup>
+          <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow>
+          </msup> <mo stretchy="false">(</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <msup> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>k</mi> </mrow> </msup> <mo>=</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow> </msup> <msup>
+          <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow>
+          </msup> <mo>=</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow> </msup> <mo>.</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          z^{a}=z^{b+kn}=z^{b}z^{kn}=z^{b}(z^{n})^{k}=z^{b}1^{k}=z^{b}.}</
+          annotation> </semantics> :MATH]
+          {\displaystyle
+          z^{a}=z^{b+kn}=z^{b}z^{kn}=z^{b}(z^{n})^{k}=z^{b}1^{k}=z^{b}.}
+
+   Therefore, given a power z^a of z, one has z^a = z^r, where 0 ≤ r < n
+   is the remainder of the Euclidean division of a by n.
+
+   Let z be a primitive nth root of unity. Then the powers z,
+   z^2, ..., z^n−1, z^n = z^0 = 1 are nth roots of unity and are all
+   distinct. (If z^a = z^b where 1 ≤ a < b ≤ n, then z^b−a = 1, which
+   would imply that z would not be primitive.) This implies that z,
+   z^2, ..., z^n−1, z^n = z^0 = 1 are all of the nth roots of unity, since
+   an nth-degree polynomial equation over a field (in this case the field
+   of complex numbers) has at most n solutions.
+
+   From the preceding, it follows that, if z is a primitive nth root of
+   unity, then
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>z</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msup> <mo>=</mo> <msup>
+   <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow> </msup>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle z^{a}=z^{b}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle z^{a}=z^{b}} if and only if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>≡</mo> <mi>b</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mspace width="1em" /> <mo
+   stretchy="false">(</mo> <mi>mod</mi> <mspace width="0.333em" />
+   <mi>n</mi> <mo stretchy="false">)</mo> </mrow> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle a\equiv
+   b{\pmod {n}}.}</annotation> </semantics> :MATH]
+   {\displaystyle a\equiv b{\pmod {n}}.} If z is not primitive then
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>≡</mo> <mi>b</mi>
+   <mrow class="MJX-TeXAtom-ORD"> <mspace width="1em" /> <mo
+   stretchy="false">(</mo> <mi>mod</mi> <mspace width="0.333em" />
+   <mi>n</mi> <mo stretchy="false">)</mo> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a\equiv b{\pmod
+   {n}}}</annotation> </semantics> :MATH]
+   {\displaystyle a\equiv b{\pmod {n}}} implies
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>z</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>a</mi> </mrow> </msup> <mo>=</mo> <msup>
+   <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>b</mi> </mrow> </msup>
+   <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle z^{a}=z^{b},}</annotation>
+   </semantics> :MATH]
+   {\displaystyle z^{a}=z^{b},} but the converse may be false, as shown by
+   the following example. If n = 4, a non-primitive nth root of unity is z
+   = –1, and one has
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>z</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo> <msup>
+   <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup>
+   <mo>=</mo> <mn>1</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle z^{2}=z^{4}=1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle z^{2}=z^{4}=1} , although
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> <mo>≢</mo> <mn>4</mn>
+   <mrow class="MJX-TeXAtom-ORD"> <mspace width="1em" /> <mo
+   stretchy="false">(</mo> <mi>mod</mi> <mspace width="0.333em" />
+   <mn>4</mn> <mo stretchy="false">)</mo> </mrow> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle 2\not
+   \equiv 4{\pmod {4}}.}</annotation> </semantics> :MATH]
+   {\displaystyle 2\not \equiv 4{\pmod {4}}.}
+
+   Let z be a primitive nth root of unity. A power w = z^k of z is a
+   primitive ath root of unity for
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mi>n</mi> <mrow> <mo
+          movablelimits="true" form="prefix">gcd</mo> <mo
+          stretchy="false">(</mo> <mi>k</mi> <mo>,</mo> <mi>n</mi> <mo
+          stretchy="false">)</mo> </mrow> </mfrac> </mrow> <mo>,</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle a={\frac
+          {n}{\gcd(k,n)}},}</annotation> </semantics> :MATH]
+          {\displaystyle a={\frac {n}{\gcd(k,n)}},}
+
+   where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo movablelimits="true"
+   form="prefix">gcd</mo> <mo stretchy="false">(</mo> <mi>k</mi>
+   <mo>,</mo> <mi>n</mi> <mo stretchy="false">)</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   \gcd(k,n)}</annotation> </semantics> :MATH]
+   {\displaystyle \gcd(k,n)} is the greatest common divisor of n and k.
+   This results from the fact that ka is the smallest multiple of k that
+   is also a multiple of n. In other words, ka is the least common
+   multiple of k and n. Thus
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>a</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>lcm</mi> <mo>⁡</mo>
+          <mo stretchy="false">(</mo> <mi>k</mi> <mo>,</mo> <mi>n</mi> <mo
+          stretchy="false">)</mo> </mrow> <mi>k</mi> </mfrac> </mrow>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+          <mi>k</mi> <mi>n</mi> </mrow> <mrow> <mi>k</mi> <mo
+          movablelimits="true" form="prefix">gcd</mo> <mo
+          stretchy="false">(</mo> <mi>k</mi> <mo>,</mo> <mi>n</mi> <mo
+          stretchy="false">)</mo> </mrow> </mfrac> </mrow> <mo>=</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>n</mi> <mrow> <mo
+          movablelimits="true" form="prefix">gcd</mo> <mo
+          stretchy="false">(</mo> <mi>k</mi> <mo>,</mo> <mi>n</mi> <mo
+          stretchy="false">)</mo> </mrow> </mfrac> </mrow> <mo>.</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle a={\frac
+          {\operatorname {lcm} (k,n)}{k}}={\frac {kn}{k\gcd(k,n)}}={\frac
+          {n}{\gcd(k,n)}}.}</annotation> </semantics> :MATH]
+          {\displaystyle a={\frac {\operatorname {lcm} (k,n)}{k}}={\frac
+          {kn}{k\gcd(k,n)}}={\frac {n}{\gcd(k,n)}}.}
+
+   Thus, if k and n are coprime, z^k is also a primitive nth root of
+   unity, and therefore there are φ(n) distinct primitive nth roots of
+   unity (where φ is Euler's totient function). This implies that if n is
+   a prime number, all the roots except +1 are primitive.
+
+   In other words, if R(n) is the set of all nth roots of unity and P(n)
+   is the set of primitive ones, R(n) is a disjoint union of the P(n):
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">R</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <munder> <mo>⋃</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>d</mi> <mspace width="thinmathspace" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mspace width="thinmathspace" /> <mi>n</mi> </mrow> </munder>
+          <mi mathvariant="normal">P</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>d</mi> <mo stretchy="false">)</mo>
+          <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \operatorname {R}
+          (n)=\bigcup _{d\,|\,n}\operatorname {P} (d),}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \operatorname {R} (n)=\bigcup
+          _{d\,|\,n}\operatorname {P} (d),}
+
+   where the notation means that d goes through all the positive divisors
+   of n, including 1 and n.
+
+   Since the cardinality of R(n) is n, and that of P(n) is φ(n), this
+   demonstrates the classical formula
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <munder> <mo>∑</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>d</mi> <mspace
+          width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mspace width="thinmathspace" />
+          <mi>n</mi> </mrow> </munder> <mi>φ</mi> <mo
+          stretchy="false">(</mo> <mi>d</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <mi>n</mi> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \sum
+          _{d\,|\,n}\varphi (d)=n.}</annotation> </semantics> :MATH]
+          {\displaystyle \sum _{d\,|\,n}\varphi (d)=n.}
+
+Group properties
+
+   [edit]
+
+Group of all roots of unity
+
+   [edit]
+
+   The product and the multiplicative inverse of two roots of unity are
+   also roots of unity. In fact, if x^m = 1 and y^n = 1, then (x^−1)^m =
+   1, and (xy)^k = 1, where k is the least common multiple of m and n.
+
+   Therefore, the roots of unity form an abelian group under
+   multiplication. This group is the torsion subgroup of the circle group.
+
+Group of nth roots of unity
+
+   [edit]
+
+   For an integer n, the product and the multiplicative inverse of two nth
+   roots of unity are also nth roots of unity. Therefore, the nth roots of
+   unity form an abelian group under multiplication.
+
+   Given a primitive nth root of unity ω, the other nth roots are powers
+   of ω. This means that the group of the nth roots of unity is a cyclic
+   group. It is worth remarking that the term of cyclic group originated
+   from the fact that this group is a subgroup of the circle group.
+
+Galois group of the primitive nth roots of unity
+
+   [edit]
+
+   Let
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>ω</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {Q} (\omega
+   )}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\omega )} be the field extension of the
+   rational numbers generated over
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbb {Q}
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} } by a primitive nth root of unity ω. As
+   every nth root of unity is a power of ω, the field
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>ω</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {Q} (\omega
+   )}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\omega )} contains all nth roots of unity,
+   and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>ω</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {Q} (\omega
+   )}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\omega )} is a Galois extension of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo>.</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbb {Q}
+   .}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} .}
+
+   If k is an integer, ω^k is a primitive nth root of unity if and only if
+   k and n are coprime. In this case, the map
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>ω</mi> <mo
+          stretchy="false">↦</mo> <msup> <mi>ω</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \omega \mapsto \omega ^{k}}</annotation> </semantics> :MATH]
+          {\displaystyle \omega \mapsto \omega ^{k}}
+
+   induces an automorphism of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>ω</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {Q} (\omega
+   )}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\omega )} , which maps every nth root of
+   unity to its kth power. Every automorphism of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>ω</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {Q} (\omega
+   )}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\omega )} is obtained in this way, and
+   these automorphisms form the Galois group of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>ω</mi> <mo stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {Q} (\omega
+   )}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\omega )} over the field of the rationals.
+
+   The rules of exponentiation imply that the composition of two such
+   automorphisms is obtained by multiplying the exponents. It follows that
+   the map
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>k</mi> <mo
+          stretchy="false">↦</mo> <mrow> <mo>(</mo> <mrow> <mi>ω</mi> <mo
+          stretchy="false">↦</mo> <msup> <mi>ω</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> </mrow>
+          <mo>)</mo> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle k\mapsto
+          \left(\omega \mapsto \omega ^{k}\right)}</annotation>
+          </semantics> :MATH]
+          {\displaystyle k\mapsto \left(\omega \mapsto \omega ^{k}\right)}
+
+   defines a group isomorphism between the units of the ring of integers
+   modulo n and the Galois group of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>ω</mi> <mo stretchy="false">)</mo> <mo>.</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbb {Q}
+   (\omega ).}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\omega ).}
+
+   This shows that this Galois group is abelian, and implies thus that the
+   primitive roots of unity may be expressed in terms of radicals.
+
+Galois group of the real part of the primitive roots of unity
+
+   [edit]
+   Main article: Minimal polynomial of 2cos(2pi/n)
+
+   The real part of the primitive roots of unity are related to one
+   another as roots of the minimal polynomial of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>cos</mi> <mo>⁡</mo>
+   <mo stretchy="false">(</mo> <mn>2</mn> <mi>π</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>n</mi> <mo
+   stretchy="false">)</mo> <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 2\cos(2\pi
+   /n).}</annotation> </semantics> :MATH]
+   {\displaystyle 2\cos(2\pi /n).} The roots of the minimal polynomial are
+   just twice the real part; these roots form a cyclic Galois group.
+
+Trigonometric expression
+
+   [edit]
+   [220px-3rd_roots_of_unity_correction.svg.png] The cube roots of unity
+
+   De Moivre's formula, which is valid for all real x and integers n, is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mrow> <mo>(</mo>
+          <mrow> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <mo>+</mo> <mi>i</mi>
+          <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> </mrow> <mo>)</mo> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup>
+          <mo>=</mo> <mi>cos</mi> <mo>⁡</mo> <mi>n</mi> <mi>x</mi>
+          <mo>+</mo> <mi>i</mi> <mi>sin</mi> <mo>⁡</mo> <mi>n</mi>
+          <mi>x</mi> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \left(\cos x+i\sin
+          x\right)^{n}=\cos nx+i\sin nx.}</annotation> </semantics> :MATH]
+          {\displaystyle \left(\cos x+i\sin x\right)^{n}=\cos nx+i\sin
+          nx.}
+
+   Setting x = ⁠2π/n⁠
+   gives a primitive nth root of unity – one gets
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mrow> <mo>(</mo>
+          <mrow> <mi>cos</mi> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mrow> <mn>2</mn> <mi>π</mi> </mrow> <mi>n</mi> </mfrac>
+          </mrow> <mo>+</mo> <mi>i</mi> <mi>sin</mi> <mo>⁡</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>π</mi>
+          </mrow> <mi>n</mi> </mfrac> </mrow> </mrow> <mo>)</mo> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mspace
+          width="negativethinmathspace" /> <mi>n</mi> </mrow> </msup>
+          <mo>=</mo> <mi>cos</mi> <mo>⁡</mo> <mn>2</mn> <mi>π</mi>
+          <mo>+</mo> <mi>i</mi> <mi>sin</mi> <mo>⁡</mo> <mn>2</mn>
+          <mi>π</mi> <mo>=</mo> <mn>1</mn> <mo>,</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \left(\cos {\frac {2\pi }{n}}+i\sin {\frac {2\pi
+          }{n}}\right)^{\!n}=\cos 2\pi +i\sin 2\pi =1,}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \left(\cos {\frac {2\pi }{n}}+i\sin {\frac {2\pi
+          }{n}}\right)^{\!n}=\cos 2\pi +i\sin 2\pi =1,}
+
+   but
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mrow> <mo>(</mo>
+          <mrow> <mi>cos</mi> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mrow> <mn>2</mn> <mi>π</mi> </mrow> <mi>n</mi> </mfrac>
+          </mrow> <mo>+</mo> <mi>i</mi> <mi>sin</mi> <mo>⁡</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>π</mi>
+          </mrow> <mi>n</mi> </mfrac> </mrow> </mrow> <mo>)</mo> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mspace
+          width="negativethinmathspace" /> <mi>k</mi> </mrow> </msup>
+          <mo>=</mo> <mi>cos</mi> <mo>⁡</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>k</mi>
+          <mi>π</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>+</mo>
+          <mi>i</mi> <mi>sin</mi> <mo>⁡</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>k</mi>
+          <mi>π</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>≠</mo>
+          <mn>1</mn> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \left(\cos {\frac
+          {2\pi }{n}}+i\sin {\frac {2\pi }{n}}\right)^{\!k}=\cos {\frac
+          {2k\pi }{n}}+i\sin {\frac {2k\pi }{n}}\neq 1}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \left(\cos {\frac {2\pi }{n}}+i\sin {\frac {2\pi
+          }{n}}\right)^{\!k}=\cos {\frac {2k\pi }{n}}+i\sin {\frac {2k\pi
+          }{n}}\neq 1}
+
+   for k = 1, 2, …, n − 1. In other words,
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>cos</mi> <mo>⁡</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn>
+          <mi>π</mi> </mrow> <mi>n</mi> </mfrac> </mrow> <mo>+</mo>
+          <mi>i</mi> <mi>sin</mi> <mo>⁡</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>π</mi>
+          </mrow> <mi>n</mi> </mfrac> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \cos
+          {\frac {2\pi }{n}}+i\sin {\frac {2\pi }{n}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \cos {\frac {2\pi }{n}}+i\sin {\frac {2\pi }{n}}}
+
+   is a primitive nth root of unity.
+
+   This formula shows that in the complex plane the nth roots of unity are
+   at the vertices of a regular n-sided polygon inscribed in the unit
+   circle, with one vertex at 1 (see the plots for n = 3 and n = 5 on the
+   right). This geometric fact accounts for the term "cyclotomic" in such
+   phrases as cyclotomic field and cyclotomic polynomial; it is from the
+   Greek roots "cyclo" (circle) plus "tomos" (cut, divide).
+
+   Euler's formula
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>e</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>i</mi> <mi>x</mi> </mrow> </msup>
+          <mo>=</mo> <mi>cos</mi> <mo>⁡</mo> <mi>x</mi> <mo>+</mo>
+          <mi>i</mi> <mi>sin</mi> <mo>⁡</mo> <mi>x</mi> <mo>,</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle e^{ix}=\cos x+i\sin
+          x,}</annotation> </semantics> :MATH]
+          {\displaystyle e^{ix}=\cos x+i\sin x,}
+
+   which is valid for all real x, can be used to put the formula for the
+   nth roots of unity into the form
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>e</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> <mi>π</mi> <mi>i</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mi>k</mi> <mi>n</mi> </mfrac>
+          </mrow> </mrow> </msup> <mo>,</mo> <mspace width="1em" />
+          <mn>0</mn> <mo>≤</mo> <mi>k</mi> <mo><</mo> <mi>n</mi>
+          <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle e^{2\pi i{\frac
+          {k}{n}}},\quad 0\leq k<n.}</annotation> </semantics> :MATH]
+          {\displaystyle e^{2\pi i{\frac {k}{n}}},\quad 0\leq k<n.}
+
+   It follows from the discussion in the previous section that this is a
+   primitive nth-root if and only if the fraction ⁠k/n⁠
+   is in lowest terms; that is, that k and n are coprime. An irrational
+   number that can be expressed as the real part of the root of unity;
+   that is, as
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>cos</mi> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mn>2</mn> <mi>π</mi> <mi>k</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>n</mi> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \cos(2\pi
+   k/n)}</annotation> </semantics> :MATH]
+   {\displaystyle \cos(2\pi k/n)} , is called a trigonometric number.
+
+Algebraic expression
+
+   [edit]
+
+   The nth roots of unity are, by definition, the roots of the polynomial
+   x^n − 1, and are thus algebraic numbers. As this polynomial is not
+   irreducible (except for n = 1), the primitive nth roots of unity are
+   roots of an irreducible polynomial (over the integers) of lower degree,
+   called the nth cyclotomic polynomial, and often denoted Φ[n]. The
+   degree of Φ[n] is given by Euler's totient function, which counts
+   (among other things) the number of primitive nth roots of unity.^[9]
+   The roots of Φ[n] are exactly the primitive nth roots of unity.
+
+   Galois theory can be used to show that the cyclotomic polynomials may
+   be conveniently solved in terms of radicals. (The trivial form
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{1}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{1}}} is not convenient, because it contains
+   non-primitive roots, such as 1, which are not roots of the cyclotomic
+   polynomial, and because it does not give the real and imaginary parts
+   separately.) This means that, for each positive integer n, there exists
+   an expression built from integers by root extractions, additions,
+   subtractions, multiplications, and divisions (and nothing else), such
+   that the primitive nth roots of unity are exactly the set of values
+   that can be obtained by choosing values for the root extractions (k
+   possible values for a kth root). (For more details see § Cyclotomic
+   fields, below.)
+
+   Gauss proved that a primitive nth root of unity can be expressed using
+   only square roots, addition, subtraction, multiplication and division
+   if and only if it is possible to construct with compass and
+   straightedge the regular n-gon. This is the case if and only if n is
+   either a power of two or the product of a power of two and Fermat
+   primes that are all different.
+
+   If z is a primitive nth root of unity, the same is true for 1/z, and
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>r</mi> <mo>=</mo> <mi>z</mi>
+   <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>z</mi>
+   </mfrac> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle r=z+{\frac
+   {1}{z}}}</annotation> </semantics> :MATH]
+   {\displaystyle r=z+{\frac {1}{z}}} is twice the real part of z. In
+   other words, Φ[n] is a reciprocal polynomial, the polynomial
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>R</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   R_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle R_{n}} that has r as a root may be deduced from Φ[n] by
+   the standard manipulation on reciprocal polynomials, and the primitive
+   nth roots of unity may be deduced from the roots of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>R</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   R_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle R_{n}} by solving the quadratic equation
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>z</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>−</mo>
+   <mi>r</mi> <mi>z</mi> <mo>+</mo> <mn>1</mn> <mo>=</mo> <mn>0.</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle z^{2}-rz+1=0.}</annotation>
+   </semantics> :MATH]
+   {\displaystyle z^{2}-rz+1=0.} That is, the real part of the primitive
+   root is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mi>r</mi> <mn>2</mn> </mfrac> </mrow> <mo>,</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle {\frac
+   {r}{2}},}</annotation> </semantics> :MATH]
+   {\displaystyle {\frac {r}{2}},} and its imaginary part is
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>±</mo> <mi>i</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mo>−</mo> <msup> <mrow>
+   <mo>(</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>r</mi> <mn>2</mn>
+   </mfrac> </mrow> <mo>)</mo> </mrow> <mrow class="MJX-TeXAtom-ORD">
+   <mn>2</mn> </mrow> </msup> </msqrt> </mrow> <mo>.</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle \pm
+   i{\sqrt {1-\left({\frac {r}{2}}\right)^{2}}}.}</annotation>
+   </semantics> :MATH]
+   {\displaystyle \pm i{\sqrt {1-\left({\frac {r}{2}}\right)^{2}}}.}
+
+   The polynomial
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>R</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   R_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle R_{n}} is an irreducible polynomial whose roots are all
+   real. Its degree is a power of two, if and only if n is a product of a
+   power of two by a product (possibly empty) of distinct Fermat primes,
+   and the regular n-gon is constructible with compass and straightedge.
+   Otherwise, it is solvable in radicals, but one are in the casus
+   irreducibilis, that is, every expression of the roots in terms of
+   radicals involves nonreal radicals.
+
+Explicit expressions in low degrees
+
+   [edit]
+     * For n = 1, the cyclotomic polynomial is Φ[1](x) = x − 1 Therefore,
+       the only primitive first root of unity is 1, which is a
+       non-primitive nth root of unity for every n > 1.
+     * As Φ[2](x) = x + 1, the only primitive second (square) root of
+       unity is −1, which is also a non-primitive nth root of unity for
+       every even n > 2. With the preceding case, this completes the list
+       of real roots of unity.
+     * As Φ[3](x) = x^2 + x + 1, the primitive third (cube) roots of
+       unity, which are the roots of this quadratic polynomial, are
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mfrac> <mrow> <mo>−</mo> <mn>1</mn> <mo>+</mo> <mi>i</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <msqrt> <mn>3</mn> </msqrt> </mrow>
+       </mrow> <mn>2</mn> </mfrac> </mrow> <mo>,</mo> <mtext> </mtext>
+       <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mo>−</mo> <mn>1</mn>
+       <mo>−</mo> <mi>i</mi> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+       <mn>3</mn> </msqrt> </mrow> </mrow> <mn>2</mn> </mfrac> </mrow>
+       <mo>.</mo> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\frac {-1+i{\sqrt
+       {3}}}{2}},\ {\frac {-1-i{\sqrt {3}}}{2}}.}</annotation>
+       </semantics> :MATH]
+       {\displaystyle {\frac {-1+i{\sqrt {3}}}{2}},\ {\frac {-1-i{\sqrt
+       {3}}}{2}}.}
+     * As Φ[4](x) = x^2 + 1, the two primitive fourth roots of unity are i
+       and −i.
+     * As Φ[5](x) = x^4 + x^3 + x^2 + x + 1, the four primitive fifth
+       roots of unity are the roots of this quartic polynomial, which may
+       be explicitly solved in terms of radicals, giving the roots
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mfrac> <mrow> <mi>ε</mi> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+       <mn>5</mn> </msqrt> </mrow> <mo>−</mo> <mn>1</mn> </mrow>
+       <mn>4</mn> </mfrac> </mrow> <mo>±</mo> <mi>i</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <msqrt> <mn>10</mn> <mo>+</mo>
+       <mn>2</mn> <mi>ε</mi> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+       <mn>5</mn> </msqrt> </mrow> </msqrt> <mn>4</mn> </mfrac> </mrow>
+       <mo>,</mo> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\frac {\varepsilon
+       {\sqrt {5}}-1}{4}}\pm i{\frac {\sqrt {10+2\varepsilon {\sqrt
+       {5}}}}{4}},}</annotation> </semantics> :MATH]
+       {\displaystyle {\frac {\varepsilon {\sqrt {5}}-1}{4}}\pm i{\frac
+       {\sqrt {10+2\varepsilon {\sqrt {5}}}}{4}},} where
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>ε</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \varepsilon
+       }</annotation> </semantics> :MATH]
+       {\displaystyle \varepsilon } may take the two values 1 and −1 (the
+       same value in the two occurrences).
+     * As Φ[6](x) = x^2 − x + 1, there are two primitive sixth roots of
+       unity, which are the negatives (and also the square roots) of the
+       two primitive cube roots:
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mfrac> <mrow> <mn>1</mn> <mo>+</mo> <mi>i</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <msqrt> <mn>3</mn> </msqrt> </mrow>
+       </mrow> <mn>2</mn> </mfrac> </mrow> <mo>,</mo> <mtext> </mtext>
+       <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>1</mn> <mo>−</mo>
+       <mi>i</mi> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>3</mn>
+       </msqrt> </mrow> </mrow> <mn>2</mn> </mfrac> </mrow> <mo>.</mo>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\frac {1+i{\sqrt
+       {3}}}{2}},\ {\frac {1-i{\sqrt {3}}}{2}}.}</annotation> </semantics>
+       :MATH]
+       {\displaystyle {\frac {1+i{\sqrt {3}}}{2}},\ {\frac {1-i{\sqrt
+       {3}}}{2}}.}
+     * As 7 is not a Fermat prime, the seventh roots of unity are the
+       first that require cube roots. There are 6 primitive seventh roots
+       of unity, which are pairwise complex conjugate. The sum of a root
+       and its conjugate is twice its real part. These three sums are the
+       three real roots of the cubic polynomial
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msup> <mi>r</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> <mo>+</mo>
+       <msup> <mi>r</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+       </msup> <mo>−</mo> <mn>2</mn> <mi>r</mi> <mo>−</mo> <mn>1</mn>
+       <mo>,</mo> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle
+       r^{3}+r^{2}-2r-1,}</annotation> </semantics> :MATH]
+       {\displaystyle r^{3}+r^{2}-2r-1,} and the primitive seventh roots
+       of unity are
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mfrac> <mi>r</mi> <mn>2</mn> </mfrac> </mrow> <mo>±</mo>
+       <mi>i</mi> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn>
+       <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mi>r</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+       <mn>4</mn> </mfrac> </mrow> </msqrt> </mrow> <mo>,</mo> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       {\frac {r}{2}}\pm i{\sqrt {1-{\frac {r^{2}}{4}}}},}</annotation>
+       </semantics> :MATH]
+       {\displaystyle {\frac {r}{2}}\pm i{\sqrt {1-{\frac {r^{2}}{4}}}},}
+       where r runs over the roots of the above polynomial. As for every
+       cubic polynomial, these roots may be expressed in terms of square
+       and cube roots. However, as these three roots are all real, this is
+       casus irreducibilis, and any such expression involves non-real cube
+       roots.
+     * As Φ[8](x) = x^4 + 1, the four primitive eighth roots of unity are
+       the square roots of the primitive fourth roots, ± i. They are thus
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mo>±</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <msqrt> <mn>2</mn> </msqrt>
+       <mn>2</mn> </mfrac> </mrow> <mo>±</mo> <mi>i</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <msqrt> <mn>2</mn> </msqrt>
+       <mn>2</mn> </mfrac> </mrow> <mo>.</mo> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle \pm {\frac
+       {\sqrt {2}}{2}}\pm i{\frac {\sqrt {2}}{2}}.}</annotation>
+       </semantics> :MATH]
+       {\displaystyle \pm {\frac {\sqrt {2}}{2}}\pm i{\frac {\sqrt
+       {2}}{2}}.}
+     * See Heptadecagon for the real part of a 17th root of unity.
+
+Periodicity
+
+   [edit]
+
+   If z is a primitive nth root of unity, then the sequence of powers
+
+          … , z^−1, z^0, z^1, …
+
+   is n-periodic (because z^ j + n = z^ jz^ n = z^ j for all values of j),
+   and the n sequences of powers
+
+          s[k]: … , z^ k⋅(−1), z^ k⋅0, z^ k⋅1, …
+
+   for k = 1, … , n are all n-periodic (because z^ k⋅(j + n) = z^ k⋅j).
+   Furthermore, the set {s[1], … , s[n]} of these sequences is a basis of
+   the linear space of all n-periodic sequences. This means that any
+   n-periodic sequence of complex numbers
+
+          … , x[−1] , x[0] , x[1], …
+
+   can be expressed as a linear combination of powers of a primitive nth
+   root of unity:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msub> <mo>=</mo>
+          <munder> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi>
+          </mrow> </munder> <msub> <mi>X</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo>⋅</mo>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi>
+          <mo>⋅</mo> <mi>j</mi> </mrow> </msup> <mo>=</mo> <msub>
+          <mi>X</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow>
+          </msub> <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>1</mn> <mo>⋅</mo> <mi>j</mi> </mrow> </msup> <mo>+</mo>
+          <mo>⋯</mo> <mo>+</mo> <msub> <mi>X</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>⋅</mo>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          <mo>⋅</mo> <mi>j</mi> </mrow> </msup> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          x_{j}=\sum _{k}X_{k}\cdot z^{k\cdot j}=X_{1}z^{1\cdot j}+\cdots
+          +X_{n}\cdot z^{n\cdot j}}</annotation> </semantics> :MATH]
+          {\displaystyle x_{j}=\sum _{k}X_{k}\cdot z^{k\cdot
+          j}=X_{1}z^{1\cdot j}+\cdots +X_{n}\cdot z^{n\cdot j}}
+
+   for some complex numbers X[1], … , X[n] and every integer j.
+
+   This is a form of Fourier analysis. If j is a (discrete) time variable,
+   then k is a frequency and X[k] is a complex amplitude.
+
+   Choosing for the primitive nth root of unity
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>z</mi> <mo>=</mo>
+          <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+          <mn>2</mn> <mi>π</mi> <mi>i</mi> </mrow> <mi>n</mi> </mfrac>
+          </mrow> </msup> <mo>=</mo> <mi>cos</mi> <mo>⁡</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mn>2</mn> <mi>π</mi>
+          </mrow> <mi>n</mi> </mfrac> </mrow> <mo>+</mo> <mi>i</mi>
+          <mi>sin</mi> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mrow> <mn>2</mn> <mi>π</mi> </mrow> <mi>n</mi> </mfrac> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle z=e^{\frac {2\pi
+          i}{n}}=\cos {\frac {2\pi }{n}}+i\sin {\frac {2\pi
+          }{n}}}</annotation> </semantics> :MATH]
+          {\displaystyle z=e^{\frac {2\pi i}{n}}=\cos {\frac {2\pi
+          }{n}}+i\sin {\frac {2\pi }{n}}}
+
+   allows x[j] to be expressed as a linear combination of cos and sin:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>j</mi> </mrow> </msub> <mo>=</mo>
+          <munder> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi>
+          </mrow> </munder> <msub> <mi>A</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mi>cos</mi>
+          <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+          <mn>2</mn> <mi>π</mi> <mi>j</mi> <mi>k</mi> </mrow> <mi>n</mi>
+          </mfrac> </mrow> <mo>+</mo> <munder> <mo>∑</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </munder> <msub>
+          <mi>B</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow>
+          </msub> <mi>sin</mi> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mrow> <mn>2</mn> <mi>π</mi> <mi>j</mi> <mi>k</mi>
+          </mrow> <mi>n</mi> </mfrac> </mrow> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          x_{j}=\sum _{k}A_{k}\cos {\frac {2\pi jk}{n}}+\sum _{k}B_{k}\sin
+          {\frac {2\pi jk}{n}}.}</annotation> </semantics> :MATH]
+          {\displaystyle x_{j}=\sum _{k}A_{k}\cos {\frac {2\pi
+          jk}{n}}+\sum _{k}B_{k}\sin {\frac {2\pi jk}{n}}.}
+
+   This is a discrete Fourier transform.
+
+Summation
+
+   [edit]
+
+   Let SR(n) be the sum of all the nth roots of unity, primitive or not.
+   Then
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>SR</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mrow> <mo>{</mo>
+          <mtable columnalign="left left" rowspacing=".2em"
+          columnspacing="1em" displaystyle="false"> <mtr> <mtd> <mn>1</mn>
+          <mo>,</mo> </mtd> <mtd> <mi>n</mi> <mo>=</mo> <mn>1</mn> </mtd>
+          </mtr> <mtr> <mtd> <mn>0</mn> <mo>,</mo> </mtd> <mtd> <mi>n</mi>
+          <mo>></mo> <mn>1.</mn> </mtd> </mtr> </mtable> <mo fence="true"
+          stretchy="true" symmetric="true"></mo> </mrow> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \operatorname {SR}
+          (n)={\begin{cases}1,&n=1\\0,&n>1.\end{cases}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \operatorname {SR}
+          (n)={\begin{cases}1,&n=1\\0,&n>1.\end{cases}}}
+
+   This is an immediate consequence of Vieta's formulas. In fact, the nth
+   roots of unity being the roots of the polynomial X^ n – 1, their sum is
+   the coefficient of degree n – 1, which is either 1 or 0 according
+   whether n = 1 or n > 1.
+
+   Alternatively, for n = 1 there is nothing to prove, and for n > 1 there
+   exists a root z ≠ 1 – since the set S of all the nth roots of unity is
+   a group, z S = S, so the sum satisfies z SR(n) = SR(n), whence SR(n) =
+   0.
+
+   Let SP(n) be the sum of all the primitive nth roots of unity. Then
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>SP</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <mi>μ</mi> <mo stretchy="false">(</mo> <mi>n</mi> <mo
+          stretchy="false">)</mo> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \operatorname {SP}
+          (n)=\mu (n),}</annotation> </semantics> :MATH]
+          {\displaystyle \operatorname {SP} (n)=\mu (n),}
+
+   where μ(n) is the Möbius function.
+
+   In the section Elementary properties, it was shown that if R(n) is the
+   set of all nth roots of unity and P(n) is the set of primitive ones,
+   R(n) is a disjoint union of the P(n):
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi
+          mathvariant="normal">R</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <munder> <mo>⋃</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>d</mi> <mspace width="thinmathspace" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mspace width="thinmathspace" /> <mi>n</mi> </mrow> </munder>
+          <mi mathvariant="normal">P</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>d</mi> <mo stretchy="false">)</mo>
+          <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \operatorname {R}
+          (n)=\bigcup _{d\,|\,n}\operatorname {P} (d),}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \operatorname {R} (n)=\bigcup
+          _{d\,|\,n}\operatorname {P} (d),}
+
+   This implies
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>SR</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <munder> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>d</mi> <mspace width="thinmathspace" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mspace width="thinmathspace" /> <mi>n</mi> </mrow> </munder>
+          <mi>SP</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mi>d</mi>
+          <mo stretchy="false">)</mo> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \operatorname {SR} (n)=\sum _{d\,|\,n}\operatorname {SP}
+          (d).}</annotation> </semantics> :MATH]
+          {\displaystyle \operatorname {SR} (n)=\sum
+          _{d\,|\,n}\operatorname {SP} (d).}
+
+   Applying the Möbius inversion formula gives
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>SP</mi> <mo>⁡</mo> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <munder> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>d</mi> <mspace width="thinmathspace" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mspace width="thinmathspace" /> <mi>n</mi> </mrow> </munder>
+          <mi>μ</mi> <mo stretchy="false">(</mo> <mi>d</mi> <mo
+          stretchy="false">)</mo> <mi>SR</mi> <mo>⁡</mo> <mrow> <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>n</mi> <mi>d</mi>
+          </mfrac> </mrow> <mo>)</mo> </mrow> <mo>.</mo> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          \operatorname {SP} (n)=\sum _{d\,|\,n}\mu (d)\operatorname {SR}
+          \left({\frac {n}{d}}\right).}</annotation> </semantics> :MATH]
+          {\displaystyle \operatorname {SP} (n)=\sum _{d\,|\,n}\mu
+          (d)\operatorname {SR} \left({\frac {n}{d}}\right).}
+
+   In this formula, if d < n, then SR(⁠n/d⁠) = 0
+   , and for d = n: SR(⁠n/d⁠) = 1. Therefore, SP(n) = μ(n).
+
+   This is the special case c[n](1) of Ramanujan's sum c[n](s),^[10]
+   defined as the sum of the sth powers of the primitive nth roots of
+   unity:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>c</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo
+          stretchy="false">(</mo> <mi>s</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <munderover> <mo>∑</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac linethickness="0"> <mrow>
+          <mi>a</mi> <mo>=</mo> <mn>1</mn> </mrow> <mrow> <mo
+          movablelimits="true" form="prefix">gcd</mo> <mo
+          stretchy="false">(</mo> <mi>a</mi> <mo>,</mo> <mi>n</mi> <mo
+          stretchy="false">)</mo> <mo>=</mo> <mn>1</mn> </mrow> </mfrac>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </munderover> <msup> <mi>e</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> <mi>π</mi> <mi>i</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mi>a</mi> <mi>n</mi> </mfrac> </mrow> <mi>s</mi>
+          </mrow> </msup> <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle c_{n}(s)=\sum _{a=1
+          \atop \gcd(a,n)=1}^{n}e^{2\pi i{\frac {a}{n}}s}.}</annotation>
+          </semantics> :MATH]
+          {\displaystyle c_{n}(s)=\sum _{a=1 \atop \gcd(a,n)=1}^{n}e^{2\pi
+          i{\frac {a}{n}}s}.}
+
+Orthogonality
+
+   [edit]
+
+   From the summation formula follows an orthogonality relationship: for
+   j = 1, … , n and j′ = 1, … , n
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <munderover> <mo>∑</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>=</mo> <mn>1</mn>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </munderover> <mrow class="MJX-TeXAtom-ORD"> <mover> <msup>
+          <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>⋅</mo>
+          <mi>k</mi> </mrow> </msup> <mo accent="false">¯</mo> </mover>
+          </mrow> <mo>⋅</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <msup> <mi>j</mi> <mo>′</mo> </msup>
+          <mo>⋅</mo> <mi>k</mi> </mrow> </msup> <mo>=</mo> <mi>n</mi>
+          <mo>⋅</mo> <msub> <mi>δ</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>j</mi> <mo>,</mo> <msup> <mi>j</mi> <mo>′</mo> </msup>
+          </mrow> </msub> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \sum
+          _{k=1}^{n}{\overline {z^{j\cdot k}}}\cdot z^{j'\cdot k}=n\cdot
+          \delta _{j,j'}}</annotation> </semantics> :MATH]
+          {\displaystyle \sum _{k=1}^{n}{\overline {z^{j\cdot k}}}\cdot
+          z^{j'\cdot k}=n\cdot \delta _{j,j'}}
+
+   where δ is the Kronecker delta and z is any primitive nth root of
+   unity.
+
+   The n × n matrix U whose (j, k)th entry is
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>U</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>,</mo> <mi>k</mi>
+          </mrow> </msub> <mo>=</mo> <msup> <mi>n</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>−</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>2</mn> </mfrac>
+          </mrow> </mrow> </msup> <mo>⋅</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>⋅</mo> <mi>k</mi>
+          </mrow> </msup> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle U_{j,k}=n^{-{\frac
+          {1}{2}}}\cdot z^{j\cdot k}}</annotation> </semantics> :MATH]
+          {\displaystyle U_{j,k}=n^{-{\frac {1}{2}}}\cdot z^{j\cdot k}}
+
+   defines a discrete Fourier transform. Computing the inverse
+   transformation using Gaussian elimination requires O(n^3) operations.
+   However, it follows from the orthogonality that U is unitary. That is,
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <munderover> <mo>∑</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>=</mo> <mn>1</mn>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </munderover> <mrow class="MJX-TeXAtom-ORD"> <mover> <msub>
+          <mi>U</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>,</mo>
+          <mi>k</mi> </mrow> </msub> <mo accent="false">¯</mo> </mover>
+          </mrow> <mo>⋅</mo> <msub> <mi>U</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>,</mo> <msup> <mi>j</mi>
+          <mo>′</mo> </msup> </mrow> </msub> <mo>=</mo> <msub> <mi>δ</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>j</mi> <mo>,</mo> <msup>
+          <mi>j</mi> <mo>′</mo> </msup> </mrow> </msub> <mo>,</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \sum
+          _{k=1}^{n}{\overline {U_{j,k}}}\cdot U_{k,j'}=\delta
+          _{j,j'},}</annotation> </semantics> :MATH]
+          {\displaystyle \sum _{k=1}^{n}{\overline {U_{j,k}}}\cdot
+          U_{k,j'}=\delta _{j,j'},}
+
+   and thus the inverse of U is simply the complex conjugate. (This fact
+   was first noted by Gauss when solving the problem of trigonometric
+   interpolation.) The straightforward application of U or its inverse to
+   a given vector requires O(n^2) operations. The fast Fourier transform
+   algorithms reduces the number of operations further to O(n log n).
+
+Cyclotomic polynomials
+
+   [edit]
+   Main article: Cyclotomic polynomial
+
+   The zeros of the polynomial
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>p</mi> <mo
+          stretchy="false">(</mo> <mi>z</mi> <mo stretchy="false">)</mo>
+          <mo>=</mo> <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> </mrow> </msup> <mo>−</mo> <mn>1</mn> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          p(z)=z^{n}-1}</annotation> </semantics> :MATH]
+          {\displaystyle p(z)=z^{n}-1}
+
+   are precisely the nth roots of unity, each with multiplicity 1. The nth
+   cyclotomic polynomial is defined by the fact that its zeros are
+   precisely the primitive nth roots of unity, each with multiplicity 1.
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi
+          mathvariant="normal">Φ</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> </mrow> </msub> <mo stretchy="false">(</mo>
+          <mi>z</mi> <mo stretchy="false">)</mo> <mo>=</mo> <munderover>
+          <mo>∏</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>=</mo>
+          <mn>1</mn> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>φ</mi> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo stretchy="false">)</mo>
+          </mrow> </munderover> <mo stretchy="false">(</mo> <mi>z</mi>
+          <mo>−</mo> <msub> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>k</mi> </mrow> </msub> <mo stretchy="false">)</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \Phi _{n}(z)=\prod _{k=1}^{\varphi (n)}(z-z_{k})}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \Phi _{n}(z)=\prod _{k=1}^{\varphi (n)}(z-z_{k})}
+
+   where z[1], z[2], z[3], …, z[φ(n)] are the primitive nth roots of
+   unity, and φ(n) is Euler's totient function. The polynomial Φ[n](z) has
+   integer coefficients and is an irreducible polynomial over the rational
+   numbers (that is, it cannot be written as the product of two
+   positive-degree polynomials with rational coefficients).^[9] The case
+   of prime n, which is easier than the general assertion, follows by
+   applying Eisenstein's criterion to the polynomial
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mo
+          stretchy="false">(</mo> <mi>z</mi> <mo>+</mo> <mn>1</mn> <msup>
+          <mo stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> </mrow> </msup> <mo>−</mo> <mn>1</mn> </mrow> <mrow>
+          <mo stretchy="false">(</mo> <mi>z</mi> <mo>+</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo>−</mo> <mn>1</mn> </mrow> </mfrac>
+          </mrow> <mo>,</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\frac
+          {(z+1)^{n}-1}{(z+1)-1}},}</annotation> </semantics> :MATH]
+          {\displaystyle {\frac {(z+1)^{n}-1}{(z+1)-1}},}
+
+   and expanding via the binomial theorem.
+
+   Every nth root of unity is a primitive dth root of unity for exactly
+   one positive divisor d of n. This implies that^[9]
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>−</mo>
+          <mn>1</mn> <mo>=</mo> <munder> <mo>∏</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>d</mi> <mspace
+          width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mspace width="thinmathspace" />
+          <mi>n</mi> </mrow> </munder> <msub> <mi
+          mathvariant="normal">Φ</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>d</mi> </mrow> </msub> <mo stretchy="false">(</mo>
+          <mi>z</mi> <mo stretchy="false">)</mo> <mo>.</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          z^{n}-1=\prod _{d\,|\,n}\Phi _{d}(z).}</annotation> </semantics>
+          :MATH]
+          {\displaystyle z^{n}-1=\prod _{d\,|\,n}\Phi _{d}(z).}
+
+   This formula represents the factorization of the polynomial z^n − 1
+   into irreducible factors:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mtable columnalign="right left right
+          left right left right left right left right left"
+          rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em
+          0em 2em 0em" displaystyle="true"> <mtr> <mtd> <msup> <mi>z</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msup>
+          <mo>−</mo> <mn>1</mn> </mtd> <mtd> <mi></mi> <mo>=</mo>
+          <mi>z</mi> <mo>−</mo> <mn>1</mn> </mtd> </mtr> <mtr> <mtd>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>−</mo> <mn>1</mn> </mtd> <mtd> <mi></mi>
+          <mo>=</mo> <mo stretchy="false">(</mo> <mi>z</mi> <mo>−</mo>
+          <mn>1</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">(</mo> <mi>z</mi> <mo>+</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <msup>
+          <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow>
+          </msup> <mo>−</mo> <mn>1</mn> </mtd> <mtd> <mi></mi> <mo>=</mo>
+          <mo stretchy="false">(</mo> <mi>z</mi> <mo>−</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo stretchy="false">(</mo> <msup>
+          <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+          </msup> <mo>+</mo> <mi>z</mi> <mo>+</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <msup>
+          <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow>
+          </msup> <mo>−</mo> <mn>1</mn> </mtd> <mtd> <mi></mi> <mo>=</mo>
+          <mo stretchy="false">(</mo> <mi>z</mi> <mo>−</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo stretchy="false">(</mo> <mi>z</mi>
+          <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">(</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <mn>1</mn> <mo stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>5</mn>
+          </mrow> </msup> <mo>−</mo> <mn>1</mn> </mtd> <mtd> <mi></mi>
+          <mo>=</mo> <mo stretchy="false">(</mo> <mi>z</mi> <mo>−</mo>
+          <mn>1</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">(</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn>
+          </mrow> </msup> <mo>+</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <mi>z</mi> <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+          </mtd> </mtr> <mtr> <mtd> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow> </msup> <mo>−</mo>
+          <mn>1</mn> </mtd> <mtd> <mi></mi> <mo>=</mo> <mo
+          stretchy="false">(</mo> <mi>z</mi> <mo>−</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo stretchy="false">(</mo> <mi>z</mi>
+          <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">(</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <mi>z</mi> <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">(</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>−</mo>
+          <mi>z</mi> <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+          </mtd> </mtr> <mtr> <mtd> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>7</mn> </mrow> </msup> <mo>−</mo>
+          <mn>1</mn> </mtd> <mtd> <mi></mi> <mo>=</mo> <mo
+          stretchy="false">(</mo> <mi>z</mi> <mo>−</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo stretchy="false">(</mo> <msup>
+          <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow>
+          </msup> <mo>+</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn>
+          </mrow> </msup> <mo>+</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>+</mo> <mi>z</mi> <mo>+</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> <mtr> <mtd> <msup>
+          <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>8</mn> </mrow>
+          </msup> <mo>−</mo> <mn>1</mn> </mtd> <mtd> <mi></mi> <mo>=</mo>
+          <mo stretchy="false">(</mo> <mi>z</mi> <mo>−</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mo stretchy="false">(</mo> <mi>z</mi>
+          <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">(</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <mn>1</mn> <mo stretchy="false">)</mo> <mo
+          stretchy="false">(</mo> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup> <mo>+</mo>
+          <mn>1</mn> <mo stretchy="false">)</mo> </mtd> </mtr> </mtable>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\begin{aligned}z^{1}-1&=z-1\\z^{2}-1&=(z-1)(z+1)\\z^{3}-1&=(z-1
+          )(z^{2}+z+1)\\z^{4}-1&=(z-1)(z+1)(z^{2}+1)\\z^{5}-1&=(z-1)(z^{4}
+          +z^{3}+z^{2}+z+1)\\z^{6}-1&=(z-1)(z+1)(z^{2}+z+1)(z^{2}-z+1)\\z^
+          {7}-1&=(z-1)(z^{6}+z^{5}+z^{4}+z^{3}+z^{2}+z+1)\\z^{8}-1&=(z-1)(
+          z+1)(z^{2}+1)(z^{4}+1)\\\end{aligned}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle
+          {\begin{aligned}z^{1}-1&=z-1\\z^{2}-1&=(z-1)(z+1)\\z^{3}-1&=(z-1
+          )(z^{2}+z+1)\\z^{4}-1&=(z-1)(z+1)(z^{2}+1)\\z^{5}-1&=(z-1)(z^{4}
+          +z^{3}+z^{2}+z+1)\\z^{6}-1&=(z-1)(z+1)(z^{2}+z+1)(z^{2}-z+1)\\z^
+          {7}-1&=(z-1)(z^{6}+z^{5}+z^{4}+z^{3}+z^{2}+z+1)\\z^{8}-1&=(z-1)(
+          z+1)(z^{2}+1)(z^{4}+1)\\\end{aligned}}}
+
+   Applying Möbius inversion to the formula gives
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi
+          mathvariant="normal">Φ</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> </mrow> </msub> <mo stretchy="false">(</mo>
+          <mi>z</mi> <mo stretchy="false">)</mo> <mo>=</mo> <munder>
+          <mo>∏</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>d</mi> <mspace
+          width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mspace width="thinmathspace" />
+          <mi>n</mi> </mrow> </munder> <msup> <mrow> <mo>(</mo> <mrow>
+          <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mi>n</mi> <mi>d</mi> </mfrac> </mrow> </msup> <mo>−</mo>
+          <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mo stretchy="false">(</mo>
+          <mi>d</mi> <mo stretchy="false">)</mo> </mrow> </msup>
+          <mo>=</mo> <munder> <mo>∏</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>d</mi> <mspace width="thinmathspace" /> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mspace width="thinmathspace" /> <mi>n</mi> </mrow> </munder>
+          <msup> <mrow> <mo>(</mo> <mrow> <msup> <mi>z</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>d</mi> </mrow> </msup> <mo>−</mo>
+          <mn>1</mn> </mrow> <mo>)</mo> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>μ</mi> <mrow> <mo>(</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mi>n</mi> <mi>d</mi> </mfrac>
+          </mrow> <mo>)</mo> </mrow> </mrow> </msup> <mo>,</mo> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \Phi _{n}(z)=\prod _{d\,|\,n}\left(z^{\frac
+          {n}{d}}-1\right)^{\mu (d)}=\prod
+          _{d\,|\,n}\left(z^{d}-1\right)^{\mu \left({\frac
+          {n}{d}}\right)},}</annotation> </semantics> :MATH]
+          {\displaystyle \Phi _{n}(z)=\prod _{d\,|\,n}\left(z^{\frac
+          {n}{d}}-1\right)^{\mu (d)}=\prod
+          _{d\,|\,n}\left(z^{d}-1\right)^{\mu \left({\frac
+          {n}{d}}\right)},}
+
+   where μ is the Möbius function. So the first few cyclotomic polynomials
+   are
+
+          Φ[1](z) = z − 1
+          Φ[2](z) = (z^2 − 1)⋅(z − 1)^−1 = z + 1
+          Φ[3](z) = (z^3 − 1)⋅(z − 1)^−1 = z^2 + z + 1
+          Φ[4](z) = (z^4 − 1)⋅(z^2 − 1)^−1 = z^2 + 1
+          Φ[5](z) = (z^5 − 1)⋅(z − 1)^−1 = z^4 + z^3 + z^2 + z + 1
+          Φ[6](z) = (z^6 − 1)⋅(z^3 − 1)^−1⋅(z^2 − 1)^−1⋅(z − 1) = z^2 − z
+          + 1
+          Φ[7](z) = (z^7 − 1)⋅(z − 1)^−1 = z^6 + z^5 + z^4 + z^3 + z^2 +z
+          + 1
+          Φ[8](z) = (z^8 − 1)⋅(z^4 − 1)^−1 = z^4 + 1
+
+   If p is a prime number, then all the pth roots of unity except 1 are
+   primitive pth roots. Therefore,^[6]
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi
+   mathvariant="normal">Φ</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>p</mi>
+   </mrow> </msub> <mo stretchy="false">(</mo> <mi>z</mi> <mo
+   stretchy="false">)</mo> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mrow> <msup> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>p</mi> </mrow> </msup> <mo>−</mo> <mn>1</mn> </mrow> <mrow>
+   <mi>z</mi> <mo>−</mo> <mn>1</mn> </mrow> </mfrac> </mrow> <mo>=</mo>
+   <munderover> <mo>∑</mo> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi>
+   <mo>=</mo> <mn>0</mn> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>p</mi>
+   <mo>−</mo> <mn>1</mn> </mrow> </munderover> <msup> <mi>z</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> <mo>.</mo>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \Phi _{p}(z)={\frac
+   {z^{p}-1}{z-1}}=\sum _{k=0}^{p-1}z^{k}.}</annotation> </semantics>
+   :MATH]
+   {\displaystyle \Phi _{p}(z)={\frac {z^{p}-1}{z-1}}=\sum
+   _{k=0}^{p-1}z^{k}.} Substituting any positive integer ≥ 2 for z, this
+   sum becomes a base z repunit. Thus a necessary (but not sufficient)
+   condition for a repunit to be prime is that its length be prime.
+
+   Note that, contrary to first appearances, not all coefficients of all
+   cyclotomic polynomials are 0, 1, or −1. The first exception is Φ[105].
+   It is not a surprise it takes this long to get an example, because the
+   behavior of the coefficients depends not so much on n as on how many
+   odd prime factors appear in n. More precisely, it can be shown that if
+   n has 1 or 2 odd prime factors (for example, n = 150) then the nth
+   cyclotomic polynomial only has coefficients 0, 1 or −1. Thus the first
+   conceivable n for which there could be a coefficient besides 0, 1, or
+   −1 is a product of the three smallest odd primes, and that is 3 ⋅ 5 ⋅ 7
+   = 105. This by itself doesn't prove the 105th polynomial has another
+   coefficient, but does show it is the first one which even has a chance
+   of working (and then a computation of the coefficients shows it does).
+   A theorem of Schur says that there are cyclotomic polynomials with
+   coefficients arbitrarily large in absolute value. In particular, if
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>=</mo> <msub>
+   <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub>
+   <msub> <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+   </msub> <mo>⋯</mo> <msub> <mi>p</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>t</mi> </mrow> </msub> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle n=p_{1}p_{2}\cdots
+   p_{t},}</annotation> </semantics> :MATH]
+   {\displaystyle n=p_{1}p_{2}\cdots p_{t},} where
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>p</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo><</mo> <msub>
+   <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+   <mo><</mo> <mo>⋯</mo> <mo><</mo> <msub> <mi>p</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>t</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   p_{1}<p_{2}<\cdots <p_{t}}</annotation> </semantics> :MATH]
+   {\displaystyle p_{1}<p_{2}<\cdots <p_{t}} are odd primes,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>p</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>+</mo> <msub>
+   <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub>
+   <mo>></mo> <msub> <mi>p</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>t</mi>
+   </mrow> </msub> <mo>,</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   p_{1}+p_{2}>p_{t},}</annotation> </semantics> :MATH]
+   {\displaystyle p_{1}+p_{2}>p_{t},} and t is odd, then 1 − t occurs as a
+   coefficient in the nth cyclotomic polynomial.^[11]
+
+   Many restrictions are known about the values that cyclotomic
+   polynomials can assume at integer values. For example, if p is prime,
+   then d ∣ Φ[p](d) if and only if d ≡ 1 (mod p).
+
+   Cyclotomic polynomials are solvable in radicals, as roots of unity are
+   themselves radicals. Moreover, there exist more informative radical
+   expressions for nth roots of unity with the additional property^[12]
+   that every value of the expression obtained by choosing values of the
+   radicals (for example, signs of square roots) is a primitive nth root
+   of unity. This was already shown by Gauss in 1797.^[13] Efficient
+   algorithms exist for calculating such expressions.^[14]
+
+Cyclic groups
+
+   [edit]
+
+   The nth roots of unity form under multiplication a cyclic group of
+   order n, and in fact these groups comprise all of the finite subgroups
+   of the multiplicative group of the complex number field. A generator
+   for this cyclic group is a primitive nth root of unity.
+
+   The nth roots of unity form an irreducible representation of any cyclic
+   group of order n. The orthogonality relationship also follows from
+   group-theoretic principles as described in Character group.
+
+   The roots of unity appear as entries of the eigenvectors of any
+   circulant matrix; that is, matrices that are invariant under cyclic
+   shifts, a fact that also follows from group representation theory as a
+   variant of Bloch's theorem.^[15]^[page needed] In particular, if a
+   circulant Hermitian matrix is considered (for example, a discretized
+   one-dimensional Laplacian with periodic boundaries^[16]), the
+   orthogonality property immediately follows from the usual orthogonality
+   of eigenvectors of Hermitian matrices.
+
+Cyclotomic fields
+
+   [edit]
+   Main article: Cyclotomic field
+
+   By adjoining a primitive nth root of unity to
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo>,</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbb {Q}
+   ,}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} ,} one obtains the nth cyclotomic field
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>exp</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn>
+   <mi>π</mi> <mi>i</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+   <mi>n</mi> <mo stretchy="false">)</mo> <mo stretchy="false">)</mo>
+   <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {Q} (\exp(2\pi
+   i/n)).}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\exp(2\pi i/n)).} This field contains all
+   nth roots of unity and is the splitting field of the nth cyclotomic
+   polynomial over
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo>.</mo> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \mathbb {Q}
+   .}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} .} The field extension
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>exp</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn>
+   <mi>π</mi> <mi>i</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+   <mi>n</mi> <mo stretchy="false">)</mo> <mo stretchy="false">)</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">Q</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {Q} (\exp(2\pi
+   i/n))/\mathbb {Q} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\exp(2\pi i/n))/\mathbb {Q} } has degree
+   φ(n) and its Galois group is naturally isomorphic to the multiplicative
+   group of units of the ring
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Z</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>n</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">Z</mi> </mrow>
+   <mo>.</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {Z} /n\mathbb {Z}
+   .}</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Z} /n\mathbb {Z} .}
+
+   As the Galois group of
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">Q</mi> </mrow> <mo stretchy="false">(</mo>
+   <mi>exp</mi> <mo>⁡</mo> <mo stretchy="false">(</mo> <mn>2</mn>
+   <mi>π</mi> <mi>i</mi> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+   <mi>n</mi> <mo stretchy="false">)</mo> <mo stretchy="false">)</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">Q</mi> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \mathbb {Q} (\exp(2\pi
+   i/n))/\mathbb {Q} }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {Q} (\exp(2\pi i/n))/\mathbb {Q} } is abelian,
+   this is an abelian extension. Every subfield of a cyclotomic field is
+   an abelian extension of the rationals. It follows that every nth root
+   of unity may be expressed in term of k-roots, with various k not
+   exceeding φ(n). In these cases Galois theory can be written out
+   explicitly in terms of Gaussian periods: this theory from the
+   Disquisitiones Arithmeticae of Gauss was published many years before
+   Galois.^[17]
+
+   Conversely, every abelian extension of the rationals is such a subfield
+   of a cyclotomic field – this is the content of a theorem of Kronecker,
+   usually called the Kronecker–Weber theorem on the grounds that Weber
+   completed the proof.
+
+Relation to quadratic integers
+
+   [edit]
+   [220px-Roots_of_unity%2C_golden_ratio.svg.png] In the complex plane,
+   the red points are the fifth roots of unity, and the black points are
+   the sums of a fifth root of unity and its complex
+   conjugate.[160px-Star_polygon_8-2.svg.png] In the complex plane, the
+   corners of the two squares are the eighth roots of unity
+
+   For n = 1, 2, both roots of unity 1 and −1 are integers.
+
+   For three values of n, the roots of unity are quadratic integers:
+     * For n = 3, 6 they are Eisenstein integers (D = −3).
+     * For n = 4 they are Gaussian integers (D = −1): see Imaginary unit.
+
+   For four other values of n, the primitive roots of unity are not
+   quadratic integers, but the sum of any root of unity with its complex
+   conjugate (also an nth root of unity) is a quadratic integer.
+
+   For n = 5, 10, none of the non-real roots of unity (which satisfy a
+   quartic equation) is a quadratic integer, but the sum z + z = 2 Re z of
+   each root with its complex conjugate (also a 5th root of unity) is an
+   element of the ring Z[⁠1 + √5/2⁠] (D = 5). For two pairs of non-real
+   5th roots of unity these sums are inverse golden ratio and minus golden
+   ratio.
+
+   For n = 8, for any root of unity z + z equals to either 0, ±2, or ±√2
+   (D = 2).
+
+   For n = 12, for any root of unity, z + z equals to either 0, ±1, ±2 or
+   ±√3 (D = 3).
+
+See also
+
+   [edit]
+     * Argand system
+     * Circle group, the unit complex numbers
+     * Cyclotomic field
+     * Group scheme of roots of unity
+     * Dirichlet character
+     * Ramanujan's sum
+     * Witt vector
+     * Teichmüller character
+
+Notes
+
+   [edit]
+    1. ^ Hadlock, Charles R. (2000). Field Theory and Its Classical
+       Problems, Volume 14. Cambridge University Press. pp. 84–86.
+       ISBN 978-0-88385-032-9.
+    2. ^ Lang, Serge (2002). "Roots of unity". Algebra. Springer.
+       pp. 276–277. ISBN 978-0-387-95385-4.
+    3. ^ Meserve, Bruce E. (1982). Fundamental Concepts of Algebra. Dover
+       Publications. p. 52.
+    4. ^ Moskowitz, Martin A. (2003). Adventure in Mathematics. World
+       Scientific. p. 36. ISBN 9789812794949.
+    5. ^ Lidl, Rudolf; Pilz, Günter (1984). Applied Abstract Algebra.
+       Undergraduate Texts in Mathematics. Springer. p. 149.
+       doi:10.1007/978-1-4615-6465-2. ISBN 978-0-387-96166-8.
+    6. ^ ^a ^b Morandi, Patrick (1996). Field and Galois theory. Graduate
+       Texts in Mathematics. Vol. 167. Springer. p. 74.
+       doi:10.1007/978-1-4612-4040-2. ISBN 978-0-387-94753-2.
+    7. ^ Reilly, Norman R. (2009). Introduction to Applied Algebraic
+       Systems. Oxford University Press. p. 137. ISBN 978-0-19-536787-4.
+    8. ^ Rotman, Joseph J. (2015). Advanced Modern Algebra. Vol. 1
+       (3rd ed.). American Mathematical Society. p. 129.
+       ISBN 9781470415549.
+    9. ^ ^a ^b ^c Riesel, Hans (1994). Prime Factorization and Computer
+       Methods for Factorization. Springer. p. 306. ISBN 0-8176-3743-5.
+   10. ^ Apostol, Tom M. (1976). Introduction to Analytic Number Theory.
+       Undergraduate Texts in Mathematics. Springer. p. 160.
+       doi:10.1007/978-1-4757-5579-4. ISBN 978-1-4419-2805-4.
+   11. ^ Lehmer, Emma (1936). "On the magnitude of the coefficients of the
+       cyclotomic polynomial". Bulletin of the American Mathematical
+       Society. 42 (6): 389–392. doi:10.1090/S0002-9904-1936-06309-3.
+   12. ^ Landau, Susan; Miller, Gary L. (1985). "Solvability by radicals
+       is in polynomial time". Journal of Computer and System Sciences. 30
+       (2): 179–208. doi:10.1016/0022-0000(85)90013-3.
+   13. ^ Gauss, Carl F. (1965). Disquisitiones Arithmeticae. Yale
+       University Press. pp. §§359–360. ISBN 0-300-09473-6.
+   14. ^ Weber, Andreas; Keckeisen, Michael. "Solving Cyclotomic
+       Polynomials by Radical Expressions" (PDF). Retrieved 22 June 2007.
+   15. ^ Inui, Teturo; Tanabe, Yukito; Onodera, Yoshitaka (1996). Group
+       Theory and Its Applications in Physics. Springer.
+   16. ^ Strang, Gilbert (1999). "The discrete cosine transform". SIAM
+       Review. 41 (1): 135–147. Bibcode:1999SIAMR..41..135S.
+       doi:10.1137/S0036144598336745.
+   17. ^ The Disquisitiones was published in 1801, Galois was born in
+       1811, died in 1832, but wasn't published until 1846.
+
+References
+
+   [edit]
+     *
+
+   Lang, Serge (2002), Algebra, Graduate Texts in Mathematics, vol. 211
+   (Revised third ed.), New York: Springer-Verlag, ISBN 978-0-387-95385-4,
+   MR 1878556, Zbl 0984.00001
+
+     Milne, James S. (1998). "Algebraic Number Theory". Course Notes.
+
+     Milne, James S. (1997). "Class Field Theory". Course Notes.
+
+     Neukirch, Jürgen (1999). Algebraische Zahlentheorie. Grundlehren der
+   mathematischen Wissenschaften. Vol. 322. Berlin: Springer-Verlag.
+   ISBN 978-3-540-65399-8. MR 1697859. Zbl 0956.11021.
+
+     Neukirch, Jürgen (1986). Class Field Theory. Berlin: Springer-Verlag.
+   ISBN 3-540-15251-2.
+
+     Washington, Lawrence C. (1997). Introduction to Cyclotomic Fields
+   (2nd ed.). New York: Springer-Verlag. ISBN 0-387-94762-0.
+
+     Derbyshire, John (2006). "Roots of Unity". Unknown Quantity.
+   Washington, D.C.: Joseph Henry Press. ISBN 0-309-09657-X.
+
+     * v
+     * t
+     * e
+
+   Algebraic numbers
+
+     * Algebraic integer
+     * Chebyshev nodes
+     * Constructible number
+     * Conway's constant
+     * Cyclotomic field
+     * Doubling the cube
+     * Eisenstein integer
+     * Gaussian integer
+     * Golden ratio (φ)
+     * Perron number
+     * Pisot–Vijayaraghavan number
+     * Plastic ratio (ρ)
+     * Quadratic irrational number
+     * Rational number
+     * Root of unity
+     * Salem number
+     * Silver ratio (σ)
+     * Square root of 2
+     * Square root of 3
+     * Square root of 5
+     * Square root of 6
+     * Square root of 7
+     * Supergolden ratio (ψ)
+     * Supersilver ratio (ς)
+     * Twelfth root of 2
+
+   icon Mathematics portal
+
+   Retrieved from
+   "https://en.wikipedia.org/w/index.php?title=Root_of_unity&oldid=1245628
+   090"
+
+   Categories:
+     * Algebraic numbers
+     * Cyclotomic fields
+     * Polynomials
+     * 1 (number)
+     * Complex numbers
+
+   Hidden categories:
+     * Articles with short description
+     * Short description is different from Wikidata
+     * Articles needing additional references from April 2012
+     * All articles needing additional references
+     * Use dmy dates from January 2020
+     * Use American English from January 2019
+     * All Wikipedia articles written in American English
+     * Wikipedia articles needing page number citations from February 2023
+     * Articles containing German-language text
+
+     * This page was last edited on 14 September 2024, at 03:49 (UTC).
+     * Text is available under the Creative Commons Attribution-ShareAlike
+       4.0 License; additional terms may apply. By using this site, you
+       agree to the Terms of Use and Privacy Policy. Wikipedia® is a
+       registered trademark of the Wikimedia Foundation, Inc., a
+       non-profit organization.
+
+     * Privacy policy
+     * About Wikipedia
+     * Disclaimers
+     * Contact Wikipedia
+     * Code of Conduct
+     * Developers
+     * Statistics
+     * Cookie statement
+     * Mobile view
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
