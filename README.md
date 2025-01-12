@@ -11,7 +11,7 @@ Voici les membres du groupe et leurs profils GitHub :
 
 ### Description du Projet
 
-Ce projet fait partie du sujet "La Vie Multilingue des Mots" et vise à analyser le mot "racine" dans quatre langues : français, espagnol, anglais et chinois. Pour chaque langue, 50 liens de sites web sont utilisés comme corpus de base pour l'analyse.
+Ce projet fait partie du sujet "La Vie Multilingue des Mots" et vise à analyser le mot "racine" dans quatre langues : français, espagnol, anglais et chinois. Pour chaque langue, des URLs sont utilisés comme corpus de base pour l'analyse.
 
 Le projet comprend plusieurs fichiers et scripts destinés à réaliser des calculs textométriques et des analyses sur les corpus textuels. En particulier, il inclut des fichiers pour PALS (Python Autonomous Lafon Specificity Scripts), qui permettent de calculer la spécificité de Lafon. Cette mesure évalue la spécificité d'une forme dans une portion de corpus donnée, qu'il s'agisse d'un partitionnement général (par exemple, par chapitres ou livres) ou plus spécifique (autour d'un mot particulier).
 

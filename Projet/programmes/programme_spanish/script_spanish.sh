@@ -210,7 +210,7 @@ if [[ "$convert_to_html" == "oui" ]]; then
         fi
     done < "$output_file"
 
-    # Fin du fichier HTML
+
     echo "      </tbody>
         </table>
     </div>
