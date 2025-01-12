@@ -10,6 +10,5 @@ Xiaobo
 ## 12/01/2025
 J'ai travaillé sur la langue chinoise. Même si c'est difficile à traité, j'ai réussi à trouver la résolution.
 Et j'ai déploiyé avec succès le site de l'études du mot "racine" en chinois. 
-https://goddessuni.github.io/Projet-S1/
 Je continu d'essayer d'intégrer notre travail.
 Dingding CHENG
