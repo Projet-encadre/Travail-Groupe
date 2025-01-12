@@ -1,0 +1,1469 @@
+   #alternate 编辑本页 Wikipedia (zh) alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+   Wikipedia的Atom feed
+
+   跳转到内容
+
+   [ ] 主菜单
+   主菜单
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   导航
+     * 首页
+     * 分类索引
+     * 特色内容
+     * 新闻动态
+     * 最近更改
+     * 随机条目
+
+   帮助
+     * 帮助
+     * 维基社群
+     * 方针与指引
+     * 互助客栈
+     * 知识问答
+     * 字词转换
+     * IRC即时聊天
+     * 联络我们
+     * 关于维基百科
+
+   维基百科 自由的百科全书
+   搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 外观
+
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   [ ] 个人工具
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   未登录编辑者的页面 了解详�
+     * 贡献
+     * 讨论
+
+目录
+
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+     * 序言
+     * 1 符号史
+
+     2 基本运算
+
+     3 不尽根数
+
+     4 无穷级数
+
+
+
+   5 找到所有的方根
+
+   (BUTTON) 开关找到所有的方根子章节
+     * 5.1 正实数
+
+
+
+   6 解多项式
+
+
+
+   7 算法
+
+   (BUTTON) 开关算法子章节
+     * 7.1 從牛頓法導出
+
+
+
+   7.2 從牛頓二項式定理導出
+
+
+
+   8 参见
+
+
+
+   9 外部链接
+
+   [ ] 开关目录
+
+方根
+
+   [ ] 70种语言
+     * Afrikaans
+     * العربية
+     * Azərbaycanca
+     * Bikol Central
+     * Беларуская
+     * Български
+     * বাংলা
+     * Буряад
+     * Catal�
+     * کوردی
+     * Čeština
+     * Чӑвашла
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Español
+     * Eesti
+     * Euskara
+     * فارسی
+     * Suomi
+     * Français
+     * Galego
+     * Gaelg
+     * עברית
+     * हिन्दी
+     * Hrvatski
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * ქართული
+     * Қазақша
+     * ಕನ್ನಡ
+     * 한국어
+     * Кыргызча
+     * Limburgs
+     * Lietuvių
+     * Latviešu
+     * Македонски
+     * Plattdüütsch
+     * Nederlands
+     * Norsk nynorsk
+     * Norsk bokmål
+     * Oromoo
+     * Polski
+     * Português
+     * Runa Simi
+     * Română
+     * Русский
+     * Simple English
+     * Slovenčina
+     * Slovenščina
+     * ChiShona
+     * Српски / srpski
+     * Svenska
+     * தமிழ்
+     * ไทย
+     * Tagalog
+     * ئۇيغۇرچە / Uyghurche
+     * Українська
+     * اردو
+     * Oʻzbekcha / ўзбекча
+     * Tiếng Việt
+     * Winaray
+     * 吴语
+     * 粵語
+
+   编辑链接
+
+     * 条目
+     * 讨论
+
+   [ ] 不转换
+     * 不转换
+     * 简体
+     * 繁體
+     * 大陆简体
+     * 香港繁體
+     * 澳門繁體
+     * 大马简体
+     * 新加坡简体
+     * 臺灣正體
+
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   [ ] 工具
+   工具
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   操作
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   常规
+     * 链入页面
+     * 相关更改
+     * 上传文件
+     * 特殊页面
+     * 固定链接
+     * 页面信息
+     * 引用此页
+     * 获取短链接
+     * 下载二维码
+
+   打印/导出
+     * 下载为PDF
+     * 打印页面
+
+   在其他项目中
+     * 维基学院
+     * 维基数据项目
+
+   外观
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   本页使用了标题或全文手工转换
+   维基百科，自由的百科全书
+   「開方」重定向至此。关于古代人物，请见「衛開方」。
+   算术运算
+     * 查
+     * 论
+     * 编
+
+   加法 (+)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow> <mo fence="true" stretchy="true"
+   symmetric="true"></mo> <mrow class="MJX-TeXAtom-ORD"> <mtable
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>项 </mtext> </mrow> <mspace width="thinmathspace" /> <mo>+</mo>
+   <mspace width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>项</mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>加 数 </mtext> </mrow> <mspace width="thinmathspace" /> <mo>+</mo>
+   <mspace width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>加 数</mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>被 加 数 </mtext> </mrow> <mspace width="thinmathspace" />
+   <mo>+</mo> <mspace width="thinmathspace" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>加 数</mtext> </mrow> </mstyle> </mtd>
+   </mtr> </mtable> </mrow> <mo>}</mo> </mrow> <mspace
+   width="thinmathspace" /> <mo>=</mo> <mspace width="thinmathspace" />
+   </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   \left.{\begin{matrix}\scriptstyle {\text{项
+   }}\,+\,{\text{项}}\\\scriptstyle {\text{加 数 }}\,+\,{\text{�
+   数}}\\\scriptstyle {\text{被 加 数 }}\,+\,{\text{�
+   数}}\end{matrix}}\right\}\,=\,}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{项
+   }}\,+\,{\text{项}}\\\scriptstyle {\text{加 数 }}\,+\,{\text{�
+   数}}\\\scriptstyle {\text{被 加 数 }}\,+\,{\text{�
+   数}}\end{matrix}}\right\}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>和 </mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle {\text{和
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{和 }}}
+   減法 (−)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow> <mo fence="true" stretchy="true"
+   symmetric="true"></mo> <mrow class="MJX-TeXAtom-ORD"> <mtable
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>项 </mtext> </mrow> <mspace width="thinmathspace" /> <mo>−</mo>
+   <mspace width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>项</mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>被 减 数 </mtext> </mrow> <mspace width="thinmathspace" />
+   <mo>−</mo> <mspace width="thinmathspace" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>减 数 </mtext> </mrow> </mstyle> </mtd>
+   </mtr> </mtable> </mrow> <mo>}</mo> </mrow> <mspace
+   width="thinmathspace" /> <mo>=</mo> <mspace width="thinmathspace" />
+   </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   \left.{\begin{matrix}\scriptstyle {\text{项
+   }}\,-\,{\text{项}}\\\scriptstyle {\text{被 减 数 }}\,-\,{\text{减 数
+   }}\end{matrix}}\right\}\,=\,}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{项
+   }}\,-\,{\text{项}}\\\scriptstyle {\text{被 减 数 }}\,-\,{\text{减 数
+   }}\end{matrix}}\right\}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>差 </mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle {\text{差
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{差 }}}
+   乘法 (×)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow> <mo fence="true" stretchy="true"
+   symmetric="true"></mo> <mrow class="MJX-TeXAtom-ORD"> <mtable
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>因 数 </mtext> </mrow> <mspace width="thinmathspace" /> <mo>×</mo>
+   <mspace width="thinmathspace" /> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>因 数 </mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>被 乘 数 </mtext> </mrow> <mspace width="thinmathspace" />
+   <mo>×</mo> <mspace width="thinmathspace" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>乘 数 </mtext> </mrow> </mstyle> </mtd>
+   </mtr> <mtr> <mtd> <mstyle displaystyle="false" scriptlevel="1"> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>（ 英 文 中 ） </mtext> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>乘 数 </mtext> </mrow> <mspace
+   width="thinmathspace" /> <mo>×</mo> <mspace width="thinmathspace" />
+   <mrow class="MJX-TeXAtom-ORD"> <mtext>被 乘 数 </mtext> </mrow> </mstyle>
+   </mtd> </mtr> </mtable> </mrow> <mo>}</mo> </mrow> <mspace
+   width="thinmathspace" /> <mo>=</mo> <mspace width="thinmathspace" />
+   </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   \left.{\begin{matrix}\scriptstyle {\text{因 数 }}\,\times \,{\text{因 数
+   }}\\\scriptstyle {\text{被 乘 数 }}\,\times \,{\text{乘 数 }}\\\scriptstyle
+   {\text{（ 英 文 中 ） }}{\text{乘 数 }}\,\times \,{\text{被 乘 数
+   }}\end{matrix}}\right\}\,=\,}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\text{�
+   数 }}\,\times \,{\text{因 数 }}\\\scriptstyle {\text{被 乘 数 }}\,\times
+   \,{\text{乘 数 }}\\\scriptstyle {\text{（ 英 文 中 ） }}{\text{乘 数 }}\,\times
+   \,{\text{被 乘 数 }}\end{matrix}}\right\}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>积 </mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle {\text{积
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{积 }}}
+   除法 (÷)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow> <mo fence="true" stretchy="true"
+   symmetric="true"></mo> <mrow class="MJX-TeXAtom-ORD"> <mtable
+   rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mstyle displaystyle="false" scriptlevel="1"> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>被 除 数 </mtext> </mrow> </mstyle>
+   <mstyle displaystyle="false" scriptlevel="1"> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>除 数 </mtext> </mrow> </mstyle> </mfrac>
+   </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext> </mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mstyle displaystyle="false" scriptlevel="1"> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>分 子 </mtext> </mrow> </mstyle> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>分 母 </mtext> </mrow> </mstyle> </mfrac> </mrow> </mstyle> </mtd>
+   </mtr> </mtable> </mrow> <mo>}</mo> </mrow> <mspace
+   width="thinmathspace" /> <mo>=</mo> <mspace width="thinmathspace" />
+   </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   \left.{\begin{matrix}\scriptstyle {\frac {\scriptstyle {\text{被 除 数
+   }}}{\scriptstyle {\text{除 数 }}}}\\\scriptstyle {\text{ }}\\\scriptstyle
+   {\frac {\scriptstyle {\text{分 子 }}}{\scriptstyle {\text{分 母
+   }}}}\end{matrix}}\right\}\,=\,}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle \left.{\begin{matrix}\scriptstyle {\frac
+   {\scriptstyle {\text{被 除 数 }}}{\scriptstyle {\text{除 数
+   }}}}\\\scriptstyle {\text{ }}\\\scriptstyle {\frac {\scriptstyle
+   {\text{分 子 }}}{\scriptstyle {\text{分 母 }}}}\end{matrix}}\right\}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mtable rowspacing="4pt" columnspacing="1em"> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>商 </mtext> </mrow> </mstyle> </mtd> </mtr> <mtr> <mtd> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>比 值 </mtext> </mrow> </mstyle> </mtd> </mtr> </mtable> </mrow>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\begin{matrix}\scriptstyle
+   {\text{商 }}\\\scriptstyle {\text{比 值 }}\end{matrix}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\begin{matrix}\scriptstyle {\text{商 }}\\\scriptstyle
+   {\text{比 值 }}\end{matrix}}}
+   模除 (mod)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>被 除 数 </mtext>
+   </mrow> <mspace width="thinmathspace" /> <mi>m</mi> <mi>o</mi>
+   <mi>d</mi> <mspace width="thinmathspace" /> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>除 数</mtext> </mrow> <mspace
+   width="thinmathspace" /> <mspace width="thinmathspace" /> <mo>=</mo>
+   <mspace width="thinmathspace" /> </mstyle> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle \scriptstyle
+   {\text{被 除 数 }}\,mod\,{\text{除 数}}\,\,=\,}</annotation> </semantics>
+   :MATH]
+   {\displaystyle \scriptstyle {\text{被 除 数 }}\,mod\,{\text{除 数}}\,\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>余 数 </mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle {\text{余 数
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{余 数 }}}
+   乘方 (^)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <msup> <mrow class="MJX-TeXAtom-ORD"> <mtext>底
+   数 </mtext> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mtext>指 数 </mtext>
+   </mrow> </msup> <mspace width="thinmathspace" /> <mo>=</mo> <mspace
+   width="thinmathspace" /> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle {\text{底 数
+   }}^{\text{指 数 }}\,=\,}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{底 数 }}^{\text{指 数 }}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>幂 </mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle {\text{幂
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{幂 }}}
+   n 次方根 (√)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mstyle
+   displaystyle="false" scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>被 开 方 数 </mtext> </mrow> </mstyle> <mrow
+   class="MJX-TeXAtom-ORD"> <mtext>根 指 数 </mtext> </mrow> </mroot> </mrow>
+   <mspace width="thinmathspace" /> <mo>=</mo> <mspace
+   width="thinmathspace" /> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle
+   {\sqrt[{\text{根 指 数 }}]{\scriptstyle {\text{被 开 方 数
+   }}}}\,=\,}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\sqrt[{\text{根 指 数 }}]{\scriptstyle
+   {\text{被 开 方 数 }}}}\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>根 </mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle {\text{根
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{根 }}}
+   对数 (log)
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <msub> <mi>log</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mtext>底 </mtext> </mrow> </msub> <mo>⁡</mo> <mo
+   stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <mtext>真
+   数 </mtext> </mrow> <mo stretchy="false">)</mo> <mspace
+   width="thinmathspace" /> <mo>=</mo> <mspace width="thinmathspace" />
+   </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle \log _{\text{底
+   }}({\text{真 数 }})\,=\,}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle \log _{\text{底 }}({\text{真 数 }})\,=\,}
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mstyle displaystyle="false"
+   scriptlevel="1"> <mrow class="MJX-TeXAtom-ORD"> <mtext>对 数 </mtext>
+   </mrow> </mstyle> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \scriptstyle {\text{对 数
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle \scriptstyle {\text{对 数 }}}
+     * 查
+     * 论
+     * 编
+
+   [120px-Nuvola_mimetypes_kformula_kfo.png]
+
+   在数学中，一數
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>b</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle b}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b} 為数
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} 的
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 次方根，則
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>b</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+   <mi>a</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle b^{n}=a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b^{n}=a} 。在提及实数
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} 的
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 次方根的时候，若指的是此数的主
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 次方根，則可以用根号（
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mstyle mathcolor="white"> <mi>t</mi> </mstyle> </msqrt>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {\color
+   {white}t}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {\color {white}t}}} ）表示成
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{a}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{a}}} 。例如：1024的主10次方根为2，就可以记作
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mn>1024</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>10</mn>
+   </mrow> </mroot> </mrow> <mo>=</mo> <mn>2</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   {\sqrt[{10}]{1024}}=2}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{10}]{1024}}=2} 。當
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>=</mo> <mn>2</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle n=2}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n=2} 時，則
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 可以省略。定义实数
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} 的主
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 次方根为
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} 的
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 次方根，且具有与
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} 相同的正负号的唯一实数
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>b</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle b}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b} 。在
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 是偶数時，负数没有主
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 次方根。习惯上，将2次方根叫做平方根，将3次方根叫做立方根。
+
+   方根也是幂的分数指数，即數
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>b</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle b}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b} 為数
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} 的
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\frac
+   {1}{n}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\frac {1}{n}}} 次方：
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>b</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+          <mo>=</mo> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow> </msup> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          b={\sqrt[{n}]{a}}=a^{\frac {1}{n}}}</annotation> </semantics>
+          :MATH]
+          {\displaystyle b={\sqrt[{n}]{a}}=a^{\frac {1}{n}}}
+
+符号史
+
+   [编辑]
+
+   主条目：根号
+
+   最早的根号“√”源于字母「r」的变形（出自拉丁语latus的首字母，表示“边长”），没有线括号（即被开方数上的横线），后来数学家笛卡尔给其加上
+   线括号，但与前面的方根符号是分开的，因此在复杂的式子显得很乱。直至18世纪中叶，数学家卢贝将前面的方根符号与线括号一笔写成，并将根指数写在根号
+   的左上角，以表示高次方根（当根指数为2时，省略不写。）。形成了现在所熟悉的开方运算符号
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mstyle mathcolor="white"> <mi>x</mi> </mstyle> </msqrt>
+   </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {\color
+   {white}x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {\color {white}x}}} 。
+
+   考慮在计算机中的输入问题，有时也可以使用sqrt(a,b)来表示a的b次方根。
+
+基本运算
+
+   [编辑]
+
+   带有根号的运算可由如下公式推導而得:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <mrow> <mi>a</mi> <mi>b</mi>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </mroot> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+          </mrow> </mroot> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+          <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </mroot> </mrow> <mspace width="2em" /> <mi>a</mi> <mo>≥</mo>
+          <mn>0</mn> <mo>,</mo> <mi>b</mi> <mo>≥</mo> <mn>0</mn> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\sqrt[{n}]{ab}}={\sqrt[{n}]{a}}{\sqrt[{n}]{b}}\qquad a\geq
+          0,b\geq 0}</annotation> </semantics> :MATH]
+          {\displaystyle
+          {\sqrt[{n}]{ab}}={\sqrt[{n}]{a}}{\sqrt[{n}]{b}}\qquad a\geq
+          0,b\geq 0}
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <mfrac> <mi>a</mi> <mi>b</mi>
+          </mfrac> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </mroot> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mi>n</mi> </mrow> </mroot> <mroot> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mfrac>
+          </mrow> <mspace width="2em" /> <mi>a</mi> <mo>≥</mo> <mn>0</mn>
+          <mo>,</mo> <mi>b</mi> <mo>></mo> <mn>0</mn> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          {\sqrt[{n}]{\frac {a}{b}}}={\frac
+          {\sqrt[{n}]{a}}{\sqrt[{n}]{b}}}\qquad a\geq 0,b>0}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\sqrt[{n}]{\frac {a}{b}}}={\frac
+          {\sqrt[{n}]{a}}{\sqrt[{n}]{b}}}\qquad a\geq 0,b>0}
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+          <mo>=</mo> <msup> <mrow> <mo>(</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+          <mo>)</mo> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi>
+          </mrow> </msup> <mo>=</mo> <msup> <mrow> <mo>(</mo> <msup>
+          <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn>
+          <mi>n</mi> </mfrac> </mrow> </msup> <mo>)</mo> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msup> <mo>=</mo>
+          <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mi>m</mi> <mi>n</mi> </mfrac> </mrow> </msup> <mo>,</mo>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\sqrt[{n}]{a^{m}}}=\left({\sqrt[{n}]{a}}\right)^{m}=\left(a^{\f
+          rac {1}{n}}\right)^{m}=a^{\frac {m}{n}},}</annotation>
+          </semantics> :MATH]
+          {\displaystyle
+          {\sqrt[{n}]{a^{m}}}=\left({\sqrt[{n}]{a}}\right)^{m}=\left(a^{\f
+          rac {1}{n}}\right)^{m}=a^{\frac {m}{n}},}
+
+   这裡的a和b是正数。
+
+   对于所有的非零复数
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} ，有
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 个不同的复数
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>b</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle b}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b} 使得
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>b</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+   <mi>a</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle b^{n}=a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle b^{n}=a} ，所以符号
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{a}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{a}}} 就會出現歧义（通常這樣寫是取
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 個值當中主幅角最小的）。
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 次单位根是特别重要的。
+
+   当一个数从根号形式变换到幂形式，幂的规则仍适用（即使对分数幂），也就是
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msup> <msup>
+          <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </msup> <mo>=</mo> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>m</mi> <mo>+</mo> <mi>n</mi>
+          </mrow> </msup> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          a^{m}a^{n}=a^{m+n}}</annotation> </semantics> :MATH]
+          {\displaystyle a^{m}a^{n}=a^{m+n}}
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mrow> <mo>(</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>a</mi> <mi>b</mi>
+          </mfrac> </mrow> <mo>)</mo> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msup> <mo>=</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow> </msup> <msup>
+          <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi> </mrow>
+          </msup> </mfrac> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \left({\frac
+          {a}{b}}\right)^{m}={\frac {a^{m}}{b^{m}}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \left({\frac {a}{b}}\right)^{m}={\frac
+          {a^{m}}{b^{m}}}}
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mrow> <mo>(</mo>
+          <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi>
+          </mrow> </msup> <mo>)</mo> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+          <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>m</mi>
+          <mi>n</mi> </mrow> </msup> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          \left(a^{m}\right)^{n}=a^{mn}}</annotation> </semantics> :MATH]
+          {\displaystyle \left(a^{m}\right)^{n}=a^{mn}}
+
+   例如:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </mroot> </mrow>
+          <mo>=</mo> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mn>5</mn> <mn>3</mn> </mfrac> </mrow> </msup> <msup>
+          <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>4</mn>
+          <mn>5</mn> </mfrac> </mrow> </msup> <mo>=</mo> <msup> <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mn>5</mn> <mn>3</mn> </mfrac> </mrow> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>4</mn> <mn>5</mn> </mfrac>
+          </mrow> </mrow> </msup> <mo>=</mo> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>37</mn> <mn>15</mn>
+          </mfrac> </mrow> </msup> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\sqrt[{3}]{a^{5}}}{\sqrt[{5}]{a^{4}}}=a^{\frac {5}{3}}a^{\frac
+          {4}{5}}=a^{{\frac {5}{3}}+{\frac {4}{5}}}=a^{\frac
+          {37}{15}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt[{3}]{a^{5}}}{\sqrt[{5}]{a^{4}}}=a^{\frac
+          {5}{3}}a^{\frac {4}{5}}=a^{{\frac {5}{3}}+{\frac
+          {4}{5}}}=a^{\frac {37}{15}}}
+
+   若要做加法或减法，需考慮下列的概念。
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+          <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mrow>
+          <mi>a</mi> <mi>a</mi> <mi>a</mi> <mi>a</mi> <mi>a</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot>
+          </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mrow>
+          <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn>
+          </mrow> </msup> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> </mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+          <mo>=</mo> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+          <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn>
+          </mrow> </mroot> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\sqrt[{3}]{a^{5}}}={\sqrt[{3}]{aaaaa}}={\sqrt[{3}]{a^{3}a^{2}}}
+          =a{\sqrt[{3}]{a^{2}}}}</annotation> </semantics> :MATH]
+          {\displaystyle
+          {\sqrt[{3}]{a^{5}}}={\sqrt[{3}]{aaaaa}}={\sqrt[{3}]{a^{3}a^{2}}}
+          =a{\sqrt[{3}]{a^{2}}}}
+
+   若已可以简化根式表示式，则加法和减法就只是群的“同类项”问题。
+
+   例如
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow> </msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+          <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <msup>
+          <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>8</mn> </mrow>
+          </msup> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow>
+          </mroot> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\sqrt[{3}]{a^{5}}}+{\sqrt[{3}]{a^{8}}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\sqrt[{3}]{a^{5}}}+{\sqrt[{3}]{a^{8}}}}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <mrow> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msup> <msup>
+          <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+          </msup> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn>
+          </mrow> </mroot> </mrow> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <mrow> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>6</mn> </mrow> </msup> <msup>
+          <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow>
+          </msup> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn>
+          </mrow> </mroot> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          ={\sqrt[{3}]{a^{3}a^{2}}}+{\sqrt[{3}]{a^{6}a^{2}}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle
+          ={\sqrt[{3}]{a^{3}a^{2}}}+{\sqrt[{3}]{a^{6}a^{2}}}}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>=</mo> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+          <mo>+</mo> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mrow class="MJX-TeXAtom-ORD">
+          <mroot> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mrow class="MJX-TeXAtom-ORD">
+          <mn>3</mn> </mrow> </mroot> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          =a{\sqrt[{3}]{a^{2}}}+a^{2}{\sqrt[{3}]{a^{2}}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle =a{\sqrt[{3}]{a^{2}}}+a^{2}{\sqrt[{3}]{a^{2}}}}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>=</mo> <mo
+          stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mi>a</mi> <mo>+</mo> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mrow> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot>
+          <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mrow class="MJX-TeXAtom-ORD"> <mn>3</mn>
+          </mrow> </mroot> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          =({a+a^{2}}){\sqrt[{3}]{a^{2}}}}</annotation> </semantics>
+          :MATH]
+          {\displaystyle =({a+a^{2}}){\sqrt[{3}]{a^{2}}}}
+
+不尽根数
+
+   [编辑]
+
+   未經化簡的根數，一般叫做“不尽根数”（surd），可以处理为更简单的形式。
+
+   如下恒等式是處理不尽根数的基本技巧:
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+       </mrow> </msup> <mi>b</mi> </msqrt> </mrow> <mo>=</mo> <mi>a</mi>
+       <mi>b</mi> <mi>s</mi> <mo stretchy="false">(</mo> <mi>a</mi> <mo
+       stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+       <mi>b</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\sqrt
+       {a^{2}b}}=abs(a){\sqrt {b}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {a^{2}b}}=abs(a){\sqrt {b}}}
+
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mroot> <mrow> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mi>m</mi> </mrow> </msup> <mi>b</mi> </mrow> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+       <mo>=</mo> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+       <mi>m</mi> <mi>n</mi> </mfrac> </mrow> </msup> <mrow
+       class="MJX-TeXAtom-ORD"> <mroot> <mi>b</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+       </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle
+       {\sqrt[{n}]{a^{m}b}}=a^{\frac {m}{n}}{\sqrt[{n}]{b}}}</annotation>
+       </semantics> :MATH]
+       {\displaystyle {\sqrt[{n}]{a^{m}b}}=a^{\frac
+       {m}{n}}{\sqrt[{n}]{b}}}
+
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mi>a</mi> </msqrt> </mrow> <mrow class="MJX-TeXAtom-ORD">
+       <msqrt> <mi>b</mi> </msqrt> </mrow> <mo>=</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <msqrt> <mi>a</mi> <mi>b</mi> </msqrt>
+       </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\sqrt {a}}{\sqrt
+       {b}}={\sqrt {ab}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt {a}}{\sqrt {b}}={\sqrt {ab}}}
+
+     *
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msup> <mrow> <mo>(</mo>
+       <mrow> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>a</mi> </msqrt>
+       </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+       <mi>b</mi> </msqrt> </mrow> </mrow> <mo>)</mo> </mrow> <mrow
+       class="MJX-TeXAtom-ORD"> <mo>−</mo> <mn>1</mn> </mrow> </msup>
+       <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow>
+       <mo stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+       <mi>a</mi> </msqrt> </mrow> <mo>+</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <msqrt> <mi>b</mi> </msqrt> </mrow> <mo
+       stretchy="false">)</mo> </mrow> </mfrac> </mrow> <mo>=</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mrow
+       class="MJX-TeXAtom-ORD"> <msqrt> <mi>a</mi> </msqrt> </mrow>
+       <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>b</mi>
+       </msqrt> </mrow> </mrow> <mrow> <mo stretchy="false">(</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <msqrt> <mi>a</mi> </msqrt> </mrow>
+       <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>b</mi>
+       </msqrt> </mrow> <mo stretchy="false">)</mo> <mo
+       stretchy="false">(</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+       <mi>a</mi> </msqrt> </mrow> <mo>−</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <msqrt> <mi>b</mi> </msqrt> </mrow> <mo
+       stretchy="false">)</mo> </mrow> </mfrac> </mrow> <mo>=</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mrow
+       class="MJX-TeXAtom-ORD"> <msqrt> <mi>a</mi> </msqrt> </mrow>
+       <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>b</mi>
+       </msqrt> </mrow> </mrow> <mrow> <mi>a</mi> <mo>−</mo> <mi>b</mi>
+       </mrow> </mfrac> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \left({\sqrt
+       {a}}+{\sqrt {b}}\right)^{-1}={\frac {1}{({\sqrt {a}}+{\sqrt
+       {b}})}}={\frac {{\sqrt {a}}-{\sqrt {b}}}{({\sqrt {a}}+{\sqrt
+       {b}})({\sqrt {a}}-{\sqrt {b}})}}={\frac {{\sqrt {a}}-{\sqrt
+       {b}}}{a-b}}}</annotation> </semantics> :MATH]
+       {\displaystyle \left({\sqrt {a}}+{\sqrt {b}}\right)^{-1}={\frac
+       {1}{({\sqrt {a}}+{\sqrt {b}})}}={\frac {{\sqrt {a}}-{\sqrt
+       {b}}}{({\sqrt {a}}+{\sqrt {b}})({\sqrt {a}}-{\sqrt {b}})}}={\frac
+       {{\sqrt {a}}-{\sqrt {b}}}{a-b}}}
+
+无穷级数
+
+   [编辑]
+
+   方根可以表示为无穷级数:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mtable columnalign="right left right
+          left right left right left right left right left"
+          rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em
+          0em 2em 0em" displaystyle="true"> <mtr> <mtd /> <mtd> <mi></mi>
+          <mo stretchy="false">(</mo> <mn>1</mn> <mo>+</mo> <mi>x</mi>
+          <msup> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mi>s</mi> <mi>t</mi> </mfrac>
+          </mrow> </msup> <mo>=</mo> <munderover> <mo>∑</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>=</mo> <mn>0</mn>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">∞</mi> </mrow> </munderover> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mstyle displaystyle="true"
+          scriptlevel="0"> <munderover> <mo>∏</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>=</mo> <mn>0</mn>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </munderover> <mo stretchy="false">(</mo> <mi>s</mi> <mo>+</mo>
+          <mi>t</mi> <mo>−</mo> <mi>k</mi> <mi>t</mi> <mo
+          stretchy="false">)</mo> </mstyle> <mrow> <mo
+          stretchy="false">(</mo> <mi>s</mi> <mo>+</mo> <mi>t</mi> <mo
+          stretchy="false">)</mo> <mi>n</mi> <mo>!</mo> <msup> <mi>t</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup>
+          </mrow> </mfrac> </mrow> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mtd>
+          </mtr> <mtr> <mtd /> <mtd> <mi></mi> <mo stretchy="false">(</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo>
+          </mrow> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mo><</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> </mtd> </mtr> </mtable> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\begin{aligned}&(1+x)^{\frac {s}{t}}=\sum _{n=0}^{\infty
+          }{\frac {\displaystyle \prod
+          _{k=0}^{n}(s+t-kt)}{(s+t)n!t^{n}}}x^{n}\\&(|x|<1)\end{aligned}}}
+          </annotation> </semantics> :MATH]
+          {\displaystyle {\begin{aligned}&(1+x)^{\frac {s}{t}}=\sum
+          _{n=0}^{\infty }{\frac {\displaystyle \prod
+          _{k=0}^{n}(s+t-kt)}{(s+t)n!t^{n}}}x^{n}\\&(|x|<1)\end{aligned}}}
+
+找到所有的方根
+
+   [编辑]
+
+   任何数的所有的根，实数或复数的，可以通过简单的算法找到。这个数应当首先被写为如下形式
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> <msup> <mi>e</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>i</mi> <mi>φ</mi> </mrow> </msup>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle ae^{i\varphi
+   }}</annotation> </semantics> :MATH]
+   {\displaystyle ae^{i\varphi }} (参见欧拉公式)。接着所有的n次方根给出为:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>e</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">(</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>φ</mi> <mo>+</mo>
+          <mn>2</mn> <mi>k</mi> <mi>π</mi> </mrow> <mi>n</mi> </mfrac>
+          </mrow> <mo stretchy="false">)</mo> <mi>i</mi> </mrow> </msup>
+          <mo>×</mo> <mrow class="MJX-TeXAtom-ORD"> <mroot> <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle e^{({\frac {\varphi
+          +2k\pi }{n}})i}\times {\sqrt[{n}]{a}}}</annotation> </semantics>
+          :MATH]
+          {\displaystyle e^{({\frac {\varphi +2k\pi }{n}})i}\times
+          {\sqrt[{n}]{a}}}
+
+   对于
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>k</mi> <mo>=</mo> <mn>0</mn>
+   <mo>,</mo> <mn>1</mn> <mo>,</mo> <mn>2</mn> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle k=0,1,2,\ldots
+   ,n-1}</annotation> </semantics> :MATH]
+   {\displaystyle k=0,1,2,\ldots ,n-1} ，这裡的
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{a}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{a}}} 表示
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} 的主
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 次方根。
+
+正实数
+
+   [编辑]
+
+   所有
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>=</mo>
+   <mi>a</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x^{n}=a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x^{n}=a} 或
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} 的
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 次方根，这裡的
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} 是正实数，的复数解由如下简单等式给出:
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mi>e</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> <mi>π</mi> <mi>i</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mi>k</mi> <mi>n</mi> </mfrac>
+          </mrow> </mrow> </msup> <mo>×</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle e^{2\pi i{\frac
+          {k}{n}}}\times {\sqrt[{n}]{a}}}</annotation> </semantics> :MATH]
+          {\displaystyle e^{2\pi i{\frac {k}{n}}}\times {\sqrt[{n}]{a}}}
+
+   对于
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>k</mi> <mo>=</mo> <mn>0</mn>
+   <mo>,</mo> <mn>1</mn> <mo>,</mo> <mn>2</mn> <mo>,</mo> <mo>…</mo>
+   <mo>,</mo> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle k=0,1,2,\ldots
+   ,n-1}</annotation> </semantics> :MATH]
+   {\displaystyle k=0,1,2,\ldots ,n-1} ，这裡的
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{a}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{a}}} 表示
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>a</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle a} 的主
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} 次方根。
+
+解多项式
+
+   [编辑]
+
+   曾经有數學猜想，認為多项式的所有根可以用根号和四則运算来表达；但是阿贝尔-鲁菲尼定理断言了这不是普遍为真的。例如，方程
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mtext> </mtext> <msup>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>5</mn> </mrow>
+          </msup> <mo>=</mo> <mi>x</mi> <mo>+</mo> <mn>1</mn> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          \ x^{5}=x+1}</annotation> </semantics> :MATH]
+          {\displaystyle \ x^{5}=x+1}
+
+   的解不能用根号表达。
+
+   要解任何n次方程，参见求根算法。
+
+算法
+
+   [编辑]
+
+   對於正數
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle A} ，可以通過以下算法求得
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>A</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{A}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{A}}} 的值：
+    1. 猜一個
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mroot> <mi>A</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+       </mrow> </mroot> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle
+       {\sqrt[{n}]{A}}}</annotation> </semantics> :MATH]
+       {\displaystyle {\sqrt[{n}]{A}}} 的近似值，將其作為初始值
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>0</mn> </mrow> </msub> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       x_{0}}</annotation> </semantics> :MATH]
+       {\displaystyle x_{0}}
+    2. 設
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>+</mo> <mn>1</mn> </mrow>
+       </msub> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+       <mn>1</mn> <mi>n</mi> </mfrac> </mrow> <mrow> <mo>[</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mo stretchy="false">(</mo> <mi>n</mi>
+       <mo>−</mo> <mn>1</mn> <mo stretchy="false">)</mo> <msub> <mi>x</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub>
+       <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>A</mi>
+       <msubsup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi>
+       </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo>
+       <mn>1</mn> </mrow> </msubsup> </mfrac> </mrow> </mrow> <mo>]</mo>
+       </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle x_{k+1}={\frac
+       {1}{n}}\left[{(n-1)x_{k}+{\frac
+       {A}{x_{k}^{n-1}}}}\right]}</annotation> </semantics> :MATH]
+       {\displaystyle x_{k+1}={\frac {1}{n}}\left[{(n-1)x_{k}+{\frac
+       {A}{x_{k}^{n-1}}}}\right]} 。記誤差為
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">Δ</mi> <msub> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo>=</mo>
+       <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>n</mi>
+       </mfrac> </mrow> <mrow> <mo>[</mo> <mrow> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mi>A</mi> <msubsup> <mi>x</mi>
+       <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+       </msubsup> </mfrac> </mrow> <mo>−</mo> <msub> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> </mrow>
+       <mo>]</mo> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \Delta x_{k}={\frac
+       {1}{n}}\left[{\frac {A}{x_{k}^{n-1}}}-x_{k}\right]}</annotation>
+       </semantics> :MATH]
+       {\displaystyle \Delta x_{k}={\frac {1}{n}}\left[{\frac
+       {A}{x_{k}^{n-1}}}-x_{k}\right]} ，即
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>+</mo> <mn>1</mn> </mrow>
+       </msub> <mo>=</mo> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mi>k</mi> </mrow> </msub> <mo>+</mo> <mi
+       mathvariant="normal">Δ</mi> <msub> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> </mstyle>
+       </mrow> <annotation encoding="application/x-tex">{\displaystyle
+       x_{k+1}=x_{k}+\Delta x_{k}}</annotation> </semantics> :MATH]
+       {\displaystyle x_{k+1}=x_{k}+\Delta x_{k}} 。
+    3. 重複步驟2，直至絕對誤差足夠小，即：
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mo stretchy="false">|</mo> </mrow> <mi mathvariant="normal">Δ</mi>
+       <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow>
+       </msub> <mrow class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo>
+       </mrow> <mo><</mo> <mi>ϵ</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle |\Delta x_{k}|<\epsilon
+       }</annotation> </semantics> :MATH]
+       {\displaystyle |\Delta x_{k}|<\epsilon } 。
+
+從牛頓法導出
+
+   [编辑]
+
+   求
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>A</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{A}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{A}}} 之值，亦即求方程
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mo>−</mo>
+   <mi>A</mi> <mo>=</mo> <mn>0</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x^{n}-A=0}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x^{n}-A=0} 的根。
+
+   設
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+   <mo>=</mo> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi>
+   </mrow> </msup> <mo>−</mo> <mi>A</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle f(x)=x^{n}-A}</annotation>
+   </semantics> :MATH]
+   {\displaystyle f(x)=x^{n}-A} ，其導函數即
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>f</mi> <mo>′</mo>
+   </msup> <mo stretchy="false">(</mo> <mi>x</mi> <mo
+   stretchy="false">)</mo> <mo>=</mo> <mi>n</mi> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msup> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   f'(x)=nx^{n-1}}</annotation> </semantics> :MATH]
+   {\displaystyle f'(x)=nx^{n-1}} 。
+
+   以牛頓法作迭代，便得
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>+</mo> <mn>1</mn>
+          </mrow> </msub> <mo>=</mo> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo>−</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mi>f</mi> <mo
+          stretchy="false">(</mo> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> </mrow> <mrow> <msup> <mi>f</mi>
+          <mo>′</mo> </msup> <mo stretchy="false">(</mo> <msub> <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo
+          stretchy="false">)</mo> </mrow> </mfrac> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          x_{k+1}=x_{k}-{\frac {f(x_{k})}{f'(x_{k})}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle x_{k+1}=x_{k}-{\frac {f(x_{k})}{f'(x_{k})}}}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>=</mo> <msub>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow>
+          </msub> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+          <msubsup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+          </msubsup> <mo>−</mo> <mi>A</mi> </mrow> <mrow> <mi>n</mi>
+          <msubsup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo>
+          <mn>1</mn> </mrow> </msubsup> </mrow> </mfrac> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          =x_{k}-{\frac {x_{k}^{n}-A}{nx_{k}^{n-1}}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle =x_{k}-{\frac {x_{k}^{n}-A}{nx_{k}^{n-1}}}}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>=</mo> <msub>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow>
+          </msub> <mo>−</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <msub>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow>
+          </msub> <mi>n</mi> </mfrac> </mrow> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mi>A</mi> <mrow> <mi>n</mi>
+          <msubsup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi>
+          </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo>
+          <mn>1</mn> </mrow> </msubsup> </mrow> </mfrac> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          =x_{k}-{\frac {x_{k}}{n}}+{\frac
+          {A}{nx_{k}^{n-1}}}}</annotation> </semantics> :MATH]
+          {\displaystyle =x_{k}-{\frac {x_{k}}{n}}+{\frac
+          {A}{nx_{k}^{n-1}}}}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac>
+          </mrow> <mrow> <mo>[</mo> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo>−</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <msub> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mi>A</mi> <msubsup>
+          <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn>
+          </mrow> </msubsup> </mfrac> </mrow> </mrow> <mo>]</mo> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle ={\frac
+          {1}{n}}\left[{(n-1)x_{k}+{\frac
+          {A}{x_{k}^{n-1}}}}\right]}</annotation> </semantics> :MATH]
+          {\displaystyle ={\frac {1}{n}}\left[{(n-1)x_{k}+{\frac
+          {A}{x_{k}^{n-1}}}}\right]}
+
+從牛頓二項式定理導出
+
+   [编辑]
+
+   設
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   x_{k}}</annotation> </semantics> :MATH]
+   {\displaystyle x_{k}} 為迭代值，
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>y</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle y}</annotation>
+   </semantics> :MATH]
+   {\displaystyle y} 為誤差值。
+
+   令
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> <mo>=</mo> <mo
+   stretchy="false">(</mo> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo>−</mo>
+   <mi>y</mi> <msup> <mo stretchy="false">)</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   A=(x_{k}-y)^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle A=(x_{k}-y)^{n}} （*），作牛頓二項式展開，取首兩項：
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>A</mi> <mo>≈</mo> <msubsup>
+   <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msubsup> <mo>−</mo>
+   <mi>n</mi> <msubsup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>k</mi> </mrow> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo>
+   <mn>1</mn> </mrow> </msubsup> <mi>y</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle A\approx
+   x_{k}^{n}-nx_{k}^{n-1}y}</annotation> </semantics> :MATH]
+   {\displaystyle A\approx x_{k}^{n}-nx_{k}^{n-1}y}
+
+   調項得
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>y</mi> <mo>≈</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <msubsup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msubsup> <mo>−</mo>
+   <mi>A</mi> </mrow> <mrow> <mi>n</mi> <msubsup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msubsup> </mrow> </mfrac> </mrow> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow>
+   <mrow> <mo>(</mo> <mrow> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo>−</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mi>A</mi> <msubsup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msubsup> </mfrac> </mrow> </mrow> <mo>)</mo> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   y\approx {\frac {x_{k}^{n}-A}{nx_{k}^{n-1}}}={\frac
+   {1}{n}}\left(x_{k}-{\frac {A}{x_{k}^{n-1}}}\right)}</annotation>
+   </semantics> :MATH]
+   {\displaystyle y\approx {\frac {x_{k}^{n}-A}{nx_{k}^{n-1}}}={\frac
+   {1}{n}}\left(x_{k}-{\frac {A}{x_{k}^{n-1}}}\right)}
+
+   將以上結果代回（*），得遞歸公式
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>+</mo> <mn>1</mn> </mrow>
+   </msub> <mo>=</mo> <msub> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+   <mi>k</mi> </mrow> </msub> <mo>−</mo> <mi>y</mi> <mo>=</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mi>n</mi> </mfrac> </mrow>
+   <mrow> <mo>[</mo> <mrow class="MJX-TeXAtom-ORD"> <mo
+   stretchy="false">(</mo> <mi>n</mi> <mo>−</mo> <mn>1</mn> <mo
+   stretchy="false">)</mo> <msub> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msub> <mo>+</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mi>A</mi> <msubsup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>−</mo> <mn>1</mn> </mrow>
+   </msubsup> </mfrac> </mrow> </mrow> <mo>]</mo> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   x_{k+1}=x_{k}-y={\frac {1}{n}}\left[{(n-1)x_{k}+{\frac
+   {A}{x_{k}^{n-1}}}}\right]}</annotation> </semantics> :MATH]
+   {\displaystyle x_{k+1}=x_{k}-y={\frac {1}{n}}\left[{(n-1)x_{k}+{\frac
+   {A}{x_{k}^{n-1}}}}\right]}
+
+参见
+
+   [编辑]
+
+     * 增乘开平方法
+     * 幂
+     * 无理数
+     * 分母有理化
+     * 双重根号
+     * 2的12次方根
+
+外部链接
+
+   [编辑]
+
+     * icon 数学主题
+
+     * 高階根號求解 （页面存档备份，存于互联网档案馆）。此法亦可求任意正實數指數值
+     * 立方根與高次方根^[永久失效連結]
+     * 指數-高中數學教案
+     * 法国心算天才70.2秒算出200位数13次方根(图) （页面存档备份，存于互联网档案馆）
+
+   检索自“https://zh.wikipedia.org/w/index.php?title=方根&oldid=84256053”
+
+   分类：​
+     * 初等代数
+     * 数字运算
+
+   隐藏分类：​
+     * 自2018年6月带有失效链接的条目
+     * 条目有永久失效的外部链接
+
+     * 本页面最后修订于2024年9月18日 (星期三) 11:58。
+     * 本站的全部文字在知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+       Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+       维基媒体基金会是按美国国內稅收法501(c)(3)登记的非营利慈善机构。
+
+     * 隐私政策
+     * 关于维基百科
+     * 免责声明
+     * 行为准则
+     * 开发�
+     * 统计
+     * Cookie声明
+     * 手机版视图
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

@@ -1,0 +1,438 @@
+<!doctype html>
+<html lang="zh-tw">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property='og:title' content='平方與平方根 - Live 多媒體數學觀念典 Online' />
+<meta property='og:site_name' content='Live數學學習網'/>
+<meta property='og:url' content='https://www.liveism.com/live-concept.php?q=平方與平方根'/>
+<meta property='og:description' content='平方與平方根 - 2-1 平方根與近似值 - 第二章 平方根與畢氏定理 - 國中數學第三冊 - 國二上 - Live 多媒體數學觀念典 Online - Live數學學習網'/>
+<meta property='og:image' content='https://www.liveism.com/images/live-math-iconcept-online_600x315_i8121_3.jpg'/>
+<meta property='og:image:width' content='600' />
+<meta property='og:image:height' content='315' />
+<meta property='fb:admins' content='100000298044654'/>
+<meta property='fb:app_id' content='853111624817992'/>
+<meta property='og:type' content='website'/>
+<meta property='og:locale' content='zh_TW' />
+<meta name="msvalidate.01" content="BD92BE43612A7A7E835E796EC33AF5AB" />
+<title>平方與平方根 - Live 多媒體數學觀念典 Online</title>
+<meta name="description" content="平方與平方根 - 2-1 平方根與近似值 - 第二章 平方根與畢氏定理 - 國中數學第三冊 - 國二上 - Live 多媒體數學觀念典 Online - Live數學學習網" />
+<link href="favicon.ico" rel="shortcut icon">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="bootstrap-3.4.1-dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="stylesheets/livemathonline-min-v4.css" rel="stylesheet">
+<link href="font-awesome-4.7.0/css/font-awesome.min.css" rel="stylesheet">
+      			
+<link rel="stylesheet" href="fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+		<script src="javascripts/jquery-1.11.1.min.js"></script>			
+<!--[if lt IE 9]>
+<link href="stylesheets/bootstrap4ie8.css" rel="stylesheet">
+<script src="javascripts/html5shiv.min.js"></script>
+<script src="javascripts/respond.min.js"></script> 
+<![endif]-->
+<link href='stylesheets/livemathconcept-min-v1.css' rel='stylesheet'>
+	<script type='text/x-mathjax-config'>
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
+	</script>
+	<script type='text/javascript' async src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML'></script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-1015696-5"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-1015696-5');
+</script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3JWLL7YFS1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3JWLL7YFS1');
+</script>
+</head>
+
+<body>
+	<div class="container">
+			<div id="navstrip">
+				<div id="eyebrow" class="row">
+					<nav class="navbar navbar-default" role="navigation">
+		        <div class="navbar-header">
+		          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+		            <span class="sr-only">Toggle navigation</span>
+		            <span class="icon-bar"></span>
+		            <span class="icon-bar"></span>
+		            <span class="icon-bar"></span>
+		          </button>
+		          <a class="navbar-brand hidden-xs" href="index.php">Live數學學習網</a>
+		                 
+	        	<a class="visible-xs" id="navbar-brand-logo" href="index.php"><img src="images/live-logo.png" id="navbar-live-logo" alt="Live 數學學習網"></a>		          
+								<div class="btn-group navbar-btn">
+				          <a href="live-course.php" id="navbar-live-btn" class="btn btn-warning visible-xs" role="button"><i class="fa fa-folder-o"></i> 課程目錄</a>
+								  <button type="button" class="btn btn-warning dropdown-toggle visible-xs" data-toggle="dropdown" aria-haspopup="false" aria-expanded="false">
+								    <span class="caret"></span>
+								    <span class="sr-only">Toggle Dropdown</span>
+								  </button>
+								  <ul class="dropdown-menu">
+			          	  <li><a href="live-concept-list.php">Live 數學觀念典</a></li>
+			          	  <li><a href="live-question-list.php">Live 數學題型庫</a></li>   
+			          	  <li><a href="math-live.php">動態數學</a></li>             	  
+			          	  <li><a href="live-study-ceo.php">學習執行長</a></li>          	
+			              <li><a href="live-elementary-math.php">國小數學總複習</a></li>
+								    <li role="separator" class="divider"></li>
+			              <li><a href="live-math.php?b=1">國中數學一年級（上）</a></li>
+			              <li><a href="live-math.php?b=2">國中數學一年級（下）</a></li>
+			              <li><a href="live-math.php?b=3">國中數學二年級（上）</a></li>
+			              <li><a href="live-math.php?b=4">國中數學二年級（下）</a></li>
+			              <li><a href="live-math.php?b=5">國中數學三年級（上）</a></li>
+			              <li><a href="live-math.php?b=6">國中數學三年級（下）</a></li>		
+								  </ul>
+								</div>          
+		        </div>
+		          
+						<div class="collapse navbar-collapse" id="collapse">
+            	<ul class="nav navbar-nav navbar-right">
+				                 
+                	                	            			
+                	<li><a href="subscribe.php"><span class="glyphicon glyphicon-shopping-cart"></span> 訂閱課程</a></li>
+                	                      	               	                	
+                	                	<li><a href="login.php"><span class="glyphicon glyphicon-user"></span> 登入</a></li>
+                	                	
+                	
+              </ul>
+            </div>  
+
+					</nav>
+				</div>
+					<div id="header" class="row hidden-xs">
+	        	<a href="index.php"><img src="images/live-logo.png" id="live-logo" alt="Live 數學學習網"></a>
+						  <a href="live-course.php" id="header-btn" class="btn btn-warning" role="button"><i class="fa fa-folder-o"></i> 課程目錄</a>
+						  <a href="live-concept-list.php" id="header-btn" class="btn btn-info" role="button"><i class="fa fa-bullseye"></i> <span class="visible-lg-inline">Live 數學</span>觀念<span class="visible-md-inline visible-lg-inline">典</span></a>
+						  <a href="live-question-list.php" id="header-btn" class="btn btn-info" role="button"><i class="fa fa-star"></i> <span class="visible-lg-inline">Live 數學</span>題型<span class="visible-md-inline visible-lg-inline">庫</span></a>						  
+						  <a href="live-study-ceo.php" id="header-btn" class="btn btn-danger" role="button"><i class="fa fa-check"></i> 學習<span class="hidden-md hidden-lg">方法</span><span class="visible-md-inline visible-lg-inline">執行長</span></a>
+						 <div class="btn-group navbar-btn" role="group">       	
+						  <a href="live-math.php?b=1" id="header-btn" class="btn btn-primary " role="button"><span class="visible-md-inline visible-lg-inline">第</span>一<span class="visible-md-inline visible-lg-inline">冊</span></a>
+						  <a href="live-math.php?b=2" id="header-btn" class="btn btn-primary " role="button"><span class="visible-md-inline visible-lg-inline">第</span>二<span class="visible-md-inline visible-lg-inline">冊</span></a>
+						  <a href="live-math.php?b=3" id="header-btn" class="btn btn-primary " role="button"><span class="visible-md-inline visible-lg-inline">第</span>三<span class="visible-md-inline visible-lg-inline">冊</span></a>
+						  <a href="live-math.php?b=4" id="header-btn" class="btn btn-primary " role="button"><span class="visible-md-inline visible-lg-inline">第</span>四<span class="visible-md-inline visible-lg-inline">冊</span></a>
+						  <a href="live-math.php?b=5" id="header-btn" class="btn btn-primary " role="button"><span class="visible-md-inline visible-lg-inline">第</span>五<span class="visible-md-inline visible-lg-inline">冊</span></a>
+						  <a href="live-math.php?b=6" id="header-btn" class="btn btn-primary " role="button"><span class="visible-md-inline visible-lg-inline">第</span>六<span class="visible-md-inline visible-lg-inline">冊</span></a>
+						 </div>
+					</div>
+			</div>	
+		<div id="breadcrumbs" class="row">
+			<ol class="breadcrumb">
+			  <li><a href="index.php"><img src="images/live-logo-breadcrumb.png" id="breadcrumb-live-logo" alt="Live 數學學習網首頁"></a></li>
+			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  				  	
+			  			  			  			  
+			  			  			  <li><a href="live-concept-list.php">數學典目錄</a></li>
+			  <li><a href="live-math.php?b=3">國中數學第三冊</a></li>
+			  <li><a href="live-math.php?b=3#812">第二章　平方根與畢氏定理</a></li>
+			  <li><a href="live-lecture.php?s=8121">§2-1　平方根與近似值</a></li>
+			  <li class="active">(3) 平方與平方根</li>			  
+			  			  	
+			  	
+			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  			  	
+			  			  			  			  			  
+			  			  			  			  			  			  			  
+			  			  			  			  			  			  			  
+			  			  			  		
+			  		
+			  			  			  			  			  
+			  			  			  			  			  
+			  			  			  			  			  
+			  			  	
+			  			  			  			  			  
+			  			  			  			  			  			  			  			  
+			  			  			  			  				  				    			  			  			  
+			</ol>				
+		</div>		<div id="content" class="row">
+			<div id="main" class="col-sm-9 col-sm-push-3 col-md-9 col-md-push-3">
+				<div id="concept-main-top" class="row">
+					<h1 id="concept-main-title">平方與平方根</h1>
+					<div id="concept-main-pnmenubtn">
+						<div class="btn-group" role="group" aria-label="導覽按鈕群">
+														<a href="live-concept.php?q=%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B8%E7%9A%84%E4%BB%8B%E7%B4%B9%E8%88%87%E5%88%A4%E5%88%A5" role="button" class="btn btn-default"><i class="fa 
+							fa-arrow-left" aria-hidden="true"></i></a>
+																												
+							<a href="live-lecture.php?s=8121" role="button" class="btn btn-default"><i class="fa fa-list-ol" aria-hidden="true"></i></a>
+														<a href="live-concept.php?q=%E5%B9%B3%E6%96%B9%E6%A0%B9%E6%B3%95%E5%89%87%E8%88%87%E5%8E%BB%E5%B9%B3%E6%96%B9%E6%A0%B9" role="button" class="btn btn-default"><i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+																											</div>
+					</div>		
+				</div>
+				<div class="concept-main-content">
+					<p>若 $a$ 的平方等於 $b$ ，即 $a^2=b$ ，就稱 $a$ 是 $b$ 的平方根，若 $a$ 為正數，就稱 $a$ 是 $b$ 的正平方根；若 $a$ 為負數，就稱 $a$ 是 $b$ 的負平方根。</p>
+<p class="concept-content-example"><span class="concept-content-example-word">例</span> $(\pm 2)^2=4$ $\Rightarrow 2$ 是 $4$ 的正平方根， $-2$ 是 $4$ 的負平方根。</p>
+<p>一正數 $x$ 恰有兩個平方根，一為正，一為負， $x$ 的正平方根，以 $\sqrt x$ 來表示； $x$ 的負平方根，以 $−\sqrt x$ 來表示。</p>
+<p class="concept-content-example"><span class="concept-content-example-answer">說明</span></p>
+<p class="concept-content-example-indent"> $x\gt 0$ </p>
+<p class="concept-content-example-indent"> $\sqrt x\cdot \sqrt x=(\sqrt x)^2=x$ </p>
+<p class="concept-content-example-indent"> $(-\sqrt x)\cdot (-\sqrt x)=(-\sqrt x)^2=x$ </p>
+<p class="concept-content-example-indent"> $\Rightarrow (\pm \sqrt x)^2=x$ </p>
+<p class="concept-content-example-indent"> $\Rightarrow$ $x$ 的平方根為 $\pm \sqrt x$ </p>
+<p class="concept-content-example"><span class="concept-content-example-word">例</span> $(\pm \sqrt2)^2=2$ $\Rightarrow \sqrt2$ 是 $2$ 的正平方根， $-\sqrt2$ 是 $2$ 的負平方根。</p>
+<p>★ 負數沒有平方根。</p>
+<p>★ $0$ 的平方根就是 $0$ 。</p>				</div>				
+
+
+<h2 id="concept-video-table-title">觀念影片</h2>
+<table class="table table-hover">
+  <tr id="concept-video-table-link" class="idea_video_row">
+    <td id="first-col">
+    					<div id="first-col-top">
+								<span id="table-videonum">3</span>
+							</div>
+							<div id="first-col-bottom">
+																<a id="fancybox" href='../subscribe/go-to-subscribe.php?t=favorite'><div id="btn-favorite" class="btn-favo-unset"></div></a>
+															</div>								  
+    </td>
+
+    
+    <td id="sec-col">
+						<a id="fancybox" class="single_video_link_idea" href='live-player.php?i=i8121_3&v=wRbXP1_Ivig&t=0&token=873eadd3b2e5a4a22243363cce769389'>    	
+							<div class="row">
+									<div id="table-img" class="col-lg-2 col-md-3 col-sm-4 col-xs-10">
+											<img id="video-img" src="images/i8121_3.jpg" alt="§812-8121　平方根與近似值">
+									</div>
+									<div id="sectionlist-title" class="col-lg-10 col-md-9 col-sm-8 col-xs-0">
+											<h4 id="table-title-word"> <i class="fa fa-lock"></i> (3)平方與平方根</h4>
+  										<p><span id="table-title-word-time" class="glyphicon glyphicon-film"></span><span id="table-title-word-time"> 6:39</span></p>
+									</div>
+							</div>
+						</a>  
+     </td>
+    
+    <td id="last-col">
+    	<div id="last-col-top">
+    	</div>
+    	<div id="last-col-bottom">
+    		<button type="button" id="table-watched" class="btn btn-link btn-hidden video-watched glyphicon glyphicon-eye-open"></button>
+    	</div>
+    </td>
+  
+  </tr>
+  
+</table>
+
+
+			</div>
+			<div id="navs" class="col-sm-3 col-sm-pull-9 col-md-3 col-md-pull-9">
+				<div class="btn-group">
+				  <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><i class="fa fa-link" aria-hidden="true"></i> 前往其他章節 <span class="caret"></span>
+				  </button>
+				  <ul class="dropdown-menu">
+      	      				
+              <li id="concept-dropdown-chapter"><a href="live-math.php?b=3#811">（一） 乘法公式與多項式</a></li>
+         
+              
+			           								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E4%B9%98%E6%B3%95%E5%85%AC%E5%BC%8F%E7%9A%84%E5%AE%9A%E7%BE%A9%E8%88%87%E4%BB%8B%E7%B4%B9">1-1　乘法公式</a></li>
+	              								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E5%A4%9A%E9%A0%85%E5%BC%8F%E7%9A%84%E5%AE%9A%E7%BE%A9%E8%88%87%E5%88%A4%E5%88%A5">1-2　多項式與其加減運算</a></li>
+	              								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E5%A4%9A%E9%A0%85%E5%BC%8F%E7%9A%84%E4%B9%98%E6%B3%95%E9%81%8B%E7%AE%97_%E6%A9%AB%E5%BC%8F%E8%A8%88%E7%AE%97">1-3　多項式的乘除運算</a></li>
+	                            				
+              <li id="concept-dropdown-chapter"><a href="live-math.php?b=3#812">（二） 平方根與畢氏定理</a></li>
+         
+              
+			           								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E6%A0%B9%E8%99%9F%E8%88%87%E5%B9%B3%E6%96%B9%E6%A0%B9%28%E4%BA%8C%E6%AC%A1%E6%96%B9%E6%A0%B9%29">2-1　平方根與近似值</a></li>
+	              								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E6%A0%B9%E5%BC%8F%E7%9A%84%E4%BB%8B%E7%B4%B9%E8%88%87%E7%B0%A1%E8%A8%98">2-2　根式的運算</a></li>
+	              								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E7%9B%B4%E8%A7%92%E4%B8%89%E8%A7%92%E5%BD%A2%E4%B9%8B%E6%A7%8B%E4%BB%B6%E4%BB%8B%E7%B4%B9">2-3　畢氏定理(勾股定理)</a></li>
+	                            				
+              <li id="concept-dropdown-chapter"><a href="live-math.php?b=3#813">（三） 因式分解</a></li>
+         
+              
+			           								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E5%9B%A0%E5%BC%8F%E8%88%87%E5%80%8D%E5%BC%8F%E7%9A%84%E4%BB%8B%E7%B4%B9">3-1　因式、倍式與因式分解</a></li>
+	              								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E5%85%AC%E5%9B%A0%E5%BC%8F%E8%88%87%E6%8F%90%E5%85%AC%E5%9B%A0%E5%BC%8F">3-2　提出公因式與分組分解</a></li>
+	              								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E5%88%A9%E7%94%A8%E5%92%8C%E5%B9%B3%E6%96%B9%E5%85%AC%E5%BC%8F%E4%BD%9C%E5%9B%A0%E5%BC%8F%E5%88%86%E8%A7%A3">3-3　利用乘法公式做因式分解</a></li>
+	              								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E4%B9%98%E6%B3%95%E5%88%86%E9%85%8D%E5%BE%8B%E8%88%87%E5%8D%81%E5%AD%97%E4%BA%A4%E4%B9%98%E6%B3%95">3-4　利用十字交乘法做因式分解</a></li>
+	                            				
+              <li id="concept-dropdown-chapter"><a href="live-math.php?b=3#814">（四） 一元二次方程式</a></li>
+         
+              
+			           								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%BC%8F%E7%9A%84%E4%BB%8B%E7%B4%B9">4-1　因式分解解一元二次方程式</a></li>
+	              								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E5%88%A9%E7%94%A8%E5%B9%B3%E6%96%B9%E6%A0%B9%E6%A6%82%E5%BF%B5%E8%A7%A3%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%BC%8F">4-2　配方法與公式解</a></li>
+	              								
+              	<li id="concept-dropdown-section"><a href="live-concept.php?q=%E8%A7%A3%E4%B8%80%E5%85%83%E4%BA%8C%E6%AC%A1%E6%96%B9%E7%A8%8B%E5%BC%8F%E4%B9%8B%E6%87%89%E7%94%A8%E5%95%8F%E9%A1%8C">4-3　一元二次方程式應用問題</a></li>
+	                            				      				  </ul>
+				</div>				
+      	<h3 id="concept-nav-book"><a href="live-math.php?b=3">國中數學第三冊</a></h3>
+          <ul class="nav nav-pills nav-stacked">
+						<li id="concept-nav-chapter"><a href="live-math.php?b=3#812">（二） 平方根與畢氏定理</a></li>
+						<li id="concept-nav-section"><a href="live-lecture.php?s=8121">2-1　平方根與近似值</a></li>
+			           								
+              	<li><a href="live-concept.php?q=%E6%A0%B9%E8%99%9F%E8%88%87%E5%B9%B3%E6%96%B9%E6%A0%B9%28%E4%BA%8C%E6%AC%A1%E6%96%B9%E6%A0%B9%29">(1) 根號與平方根(二次方根)</a></li>
+	              								
+              	<li><a href="live-concept.php?q=%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B8%E7%9A%84%E4%BB%8B%E7%B4%B9%E8%88%87%E5%88%A4%E5%88%A5">(2) 完全平方數的介紹與判別</a></li>
+	              								
+              	<li><a href="live-concept.php?q=%E5%B9%B3%E6%96%B9%E8%88%87%E5%B9%B3%E6%96%B9%E6%A0%B9">(3) 平方與平方根</a></li>
+	              								
+              	<li><a href="live-concept.php?q=%E5%B9%B3%E6%96%B9%E6%A0%B9%E6%B3%95%E5%89%87%E8%88%87%E5%8E%BB%E5%B9%B3%E6%96%B9%E6%A0%B9">(4) 平方根法則與去平方根</a></li>
+	              								
+              	<li><a href="live-concept.php?q=%E6%95%B8%E7%9A%84%E6%9E%B6%E6%A7%8B%E2%94%80%E6%9C%89%E7%90%86%E6%95%B8%E8%88%87%E7%84%A1%E7%90%86%E6%95%B8">(5) 數的架構─有理數與無理數</a></li>
+	              								
+              	<li><a href="live-concept.php?q=%E5%B9%B3%E6%96%B9%E6%A0%B9%E2%94%80%E6%AF%94%E8%BC%83%E5%A4%A7%E5%B0%8F">(6) 平方根─比較大小</a></li>
+	              								
+              	<li><a href="live-concept.php?q=%E6%B1%82%E5%B9%B3%E6%96%B9%E6%A0%B9%E7%9A%84%E8%BF%91%E4%BC%BC%E5%80%BC%E2%94%80%E9%9B%BB%E7%AE%97%E5%99%A8%E6%B3%95">(7) 求平方根的近似值─電算器法</a></li>
+	              								
+              	<li><a href="live-concept.php?q=%E6%B1%82%E5%B9%B3%E6%96%B9%E6%A0%B9%E7%9A%84%E8%BF%91%E4%BC%BC%E5%80%BC%E2%94%80%E5%8D%81%E5%88%86%E9%80%BC%E8%BF%91%E6%B3%95">(8) 求平方根的近似值─十分逼近法</a></li>
+	              								
+              	<li><a href="live-concept.php?q=%E6%B1%82%E5%B9%B3%E6%96%B9%E6%A0%B9%E7%9A%84%E8%BF%91%E4%BC%BC%E5%80%BC%E2%94%80%E6%9F%A5%E4%B9%98%E6%96%B9%E9%96%8B%E6%96%B9%E8%A1%A8%E6%B3%95">(9) 求平方根的近似值─查乘方開方表法</a></li>
+	              				                </ul> 				
+			</div>			
+		</div>
+
+			<script>
+				$(function(){
+					$( ".btn-favo,.active" ).click(function(){
+							var $this = $(this);
+							var member = 0;
+							var hash = $this.attr("value");
+							var className = $this.attr('class');
+							var setFavo  = (className=='btn-favo') ? 1:0;							
+									$.ajax({
+							      url: "favorites.php",
+							      data: {"id": member, "hash":hash, "set_favo":setFavo },
+							      type: "POST",							      
+							      success: function(){
+						          $this.toggleClass('active');
+							      }
+							    });
+					});
+				});				
+			</script>
+		
+			<script>
+				function watched_icon_show() {
+					$("tr.success .video-watched").removeClass('btn-hidden');
+				}
+				$(function(){
+					$( ".single_video_link_idea" ).click(function(){
+							var $this = $(this);
+						$("tr.quiz_video_row").removeClass('success');	
+				    $this.parent().parent().addClass('success').siblings().removeClass('success');
+						setTimeout(watched_icon_show,2500);
+					});
+				});
+				$(function(){
+					$( ".single_video_link_quiz" ).click(function(){
+							var $this = $(this);
+						$("tr.idea_video_row").removeClass('success');
+				    $this.parent().parent().addClass('success').siblings().removeClass('success');
+						setTimeout(watched_icon_show,2500);
+					});
+				});								
+			</script>
+			
+			<script>
+				$(function(){
+					$( ".video-watched" ).click(function(){
+							var $this = $(this);
+							$this.addClass('btn-hidden');
+					});
+				});				
+			</script>
+
+		<a name="footer"></a><div id="footer" class="row">
+			<div id="footer-list" class="col-xs-6 col-sm-3">
+          <ul class="nav nav-pills nav-stacked">
+          	  <li id="footer-title" class="disabled"><a href="#footer">關於 Live</a></li>
+              <li><a href="about/vision-and-mission-of-live.php"><i class="fa fa-compass"></i> 願景與理念</a></li>
+              <li><a href="about/milestone-of-live.php"><i class="fa fa-history"></i> Live 大事紀</a></li>
+              <li><a href="about/live-math-teacher-galen.php"><i class="fa fa-microphone"></i> 名師葛倫</a></li>
+              <li><a href="about/benefits-to-subscribing-to-live.php"><i class="fa fa-thumbs-o-up"></i> 為何選 Live</a></li>
+              <li><a href="about/how-to-use-live.php"><i class="fa fa-pencil-square-o"></i> 如何用 Live</a></li>
+          </ul> 			
+      </div> 
+			<div id="footer-list" class="col-xs-6 col-sm-3">
+          <ul class="nav nav-pills nav-stacked">
+          	  <li id="footer-title" class="disabled"><a href="#footer">支援服務</a></li>
+              <li><a href="support/faq.php"><i class="fa fa-question-circle"></i> 常見問答</a></li>
+              <li><a href="support/how-to-subscribe.php"><i class="fa fa-info-circle"></i> 如何訂閱</a></li>
+              <li><a href="support/how-to-authorize.php"><i class="fa fa-university"></i> 校園授權</a></li>
+              <li><a href="support/apply-for-authorization-trial.php"><i class="fa fa-file-text-o"></i> 校園試用</a></li>
+          </ul> 			
+      </div>  
+			<div id="footer-list" class="col-xs-6 col-sm-3">
+          <ul class="nav nav-pills nav-stacked">
+          	  <li id="footer-title" class="disabled"><a href="#footer">數位教材</a></li>
+              <li><a href="live-concept-list.php"><i class="fa fa-bullseye"></i> Live 數學典</a></li>          	  
+              <li><a href="math-live.php"><i class="fa fa-calculator"></i> 動態數學</a></li>
+              <li><a href="ipad/live-math-ibooks.php"><i class="fa fa-book"></i> Live 電子書</a></li>             
+          </ul> 			
+      </div> 
+			<div id="footer-list" class="col-xs-6 col-sm-3">
+          <ul class="nav nav-pills nav-stacked">
+          	  <li id="footer-title" class="disabled"><a href="#footer">聯絡我們</a></li>
+              <li><a href="support/contact.php"><i class="fa fa-envelope-o"></i> 客服信箱</a></li>
+          	  <li id="footer-title" class="disabled"><a href="#footer">社群媒體</a></li>
+              <li><a href="blog/"><i class="fa fa-wordpress"></i> Live 部落格</a></li>
+              <li><a href="https://www.facebook.com/liveism" target="blank"><i class="fa fa-facebook-square"></i> Facebook</a></li>
+              <li><a href="https://www.youtube.com/user/liveism" target="blank"><i class="fa fa-youtube-play"></i> Youtube</a></li>
+          </ul> 			
+      </div>
+		</div>
+		<div id="footer-fin" class="row">
+			<div id="footer-fin-left" class="col-sm-6">
+				<ul class="nav nav-pills">
+					<li><a href="sitemap.php"><i class="fa fa-sitemap"></i> 網站地圖</a></li>
+					<li><a href="about/terms-of-service.php">服務條款</a></li>
+					<li><a href="about/privacy-policy.php">隱私權政策</a></li>
+				</ul>
+			</div>
+			<div id="footer-fin-right" class="col-sm-6">
+				Copyright© 2025 Live數學學習網<br/>
+				徠富數位學習科技有限公司（統一編號：53369047）　版權所有<br/>
+				Live e-Learning Technology Inc. All Rights Reserved
+			</div>			
+		</div>		
+		
+	</div><!-- close container>		
+
+
+
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="bootstrap-3.0.2-dist/dist/js/bootstrap.min.js"></script>
+    
+      			
+<script type="text/javascript" src="fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+<script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+<script type="text/javascript" src="fancybox/source/helpers/jquery.fancybox-media.pack.js?v=1.0.6"></script>
+<script type="text/javascript">
+		$(document).ready(function() {
+			$("a#fancybox").fancybox({
+				padding : 0,
+				margin : 20,
+				width : '100%',
+				height : '100%',
+				autoScale : false,
+				scrolling : 'no',
+				openEffect : 'elastic',
+				openSpeed  : 200,
+				closeEffect : 'elastic',
+				closeSpeed  : 200,
+				afterShow: function(){
+						    $('.fancybox-iframe').contents().find("#learn_on_demand").attr("tabindex",1).focus();
+						},																				
+				type				: 'iframe'
+			});
+
+		});
+</script>
+			
+</body>
+</html>

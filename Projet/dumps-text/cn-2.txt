@@ -1,0 +1,267 @@
+   #alternate 编辑本页 Wikipedia (zh) alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+   Wikipedia的Atom feed
+
+   跳转到内容
+
+   [ ] 主菜单
+   主菜单
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   导航
+     * 首页
+     * 分类索引
+     * 特色内容
+     * 新闻动态
+     * 最近更改
+     * 随机条目
+
+   帮助
+     * 帮助
+     * 维基社群
+     * 方针与指引
+     * 互助客栈
+     * 知识问答
+     * 字词转换
+     * IRC即时聊天
+     * 联络我们
+     * 关于维基百科
+
+   维基百科 自由的百科全书
+   搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 外观
+
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   [ ] 个人工具
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   未登录编辑者的页面 了解详�
+     * 贡献
+     * 讨论
+
+根 (数学)
+
+   [ ] 48种语言
+     * Afrikaans
+     * العربية
+     * Беларуская
+     * Bosanski
+     * Catal�
+     * کوردی
+     * Čeština
+     * Чӑвашла
+     * Dansk
+     * Deutsch
+     * Ελληνικά
+     * English
+     * Esperanto
+     * Español
+     * فارسی
+     * Suomi
+     * Français
+     * Galego
+     * עברית
+     * हिन्दी
+     * Hrvatski
+     * Magyar
+     * Հայերեն
+     * Bahasa Indonesia
+     * Ido
+     * Íslenska
+     * Italiano
+     * 日本語
+     * 한국어
+     * Nederlands
+     * Norsk bokmål
+     * Polski
+     * Português
+     * Română
+     * Русский
+     * Srpskohrvatski / српскохрватски
+     * Simple English
+     * Slovenščina
+     * Shqip
+     * Српски / srpski
+     * Svenska
+     * தமிழ்
+     * Tagalog
+     * Türkçe
+     * Українська
+     * اردو
+     * Tiếng Việt
+     * 粵語
+
+   编辑链接
+
+     * 条目
+     * 讨论
+
+   [ ] 不转换
+     * 不转换
+     * 简体
+     * 繁體
+     * 大陆简体
+     * 香港繁體
+     * 澳門繁體
+     * 大马简体
+     * 新加坡简体
+     * 臺灣正體
+
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   [ ] 工具
+   工具
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   操作
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   常规
+     * 链入页面
+     * 相关更改
+     * 上传文件
+     * 特殊页面
+     * 固定链接
+     * 页面信息
+     * 引用此页
+     * 获取短链接
+     * 下载二维码
+
+   打印/导出
+     * 下载为PDF
+     * 打印页面
+
+   在其他项目中
+     * 维基数据项目
+
+   外观
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   维基百科，自由的百科全书
+   [44px-Antistub.svg.png]
+   此條目需要擴充。 (2016年1月10日)
+   请協助改善这篇條目，更進一步的信息可能會在討論頁或扩充请求中找到。请在擴充條目後將此模板移除。
+   [45px-Tango-nosources.svg.png]
+   此條目没有列出任何参考或来源。 (2016年1月10日)
+   維基百科所有的內容都應該可供查證。请协助補充可靠来源以改善这篇条目。无法查证的內容可能會因為異議提出而被移除。
+   [300px-X-intercepts.svg.png] 区间[-2π,2π]上的函数ƒ(x)=cosx，红色点为函数的根。
+
+   數學上，函數
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+   </semantics> :MATH]
+   {\displaystyle f} 的一個根（或稱零點）是
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+   </semantics> :MATH]
+   {\displaystyle f} 的定義域
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>D</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle D}</annotation>
+   </semantics> :MATH]
+   {\displaystyle D} 中適合
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+   stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+   <mo>=</mo> <mn>0</mn> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle f(x)=0}</annotation>
+   </semantics> :MATH]
+   {\displaystyle f(x)=0} 的元�
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x} 。
+
+   例子：
+     * 若
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+       stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+       <mo>=</mo> <mi>cos</mi> <mo>⁡</mo> <mrow class="MJX-TeXAtom-ORD">
+       <mstyle displaystyle="false" scriptlevel="0"> <mtext> </mtext>
+       </mstyle> </mrow> <mi>x</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle f(x)=\cos {\mbox{
+       }}x}</annotation> </semantics> :MATH]
+       {\displaystyle f(x)=\cos {\mbox{ }}x} 是實數域上定義的函數，它的根是所有形如
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+       <mfrac> <mi>π</mi> <mn>2</mn> </mfrac> </mrow> <mo>+</mo>
+       <mi>k</mi> <mi>π</mi> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle {\frac {\pi }{2}}+k\pi
+       }</annotation> </semantics> :MATH]
+       {\displaystyle {\frac {\pi }{2}}+k\pi } 的數（
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>k</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       k}</annotation> </semantics> :MATH]
+       {\displaystyle k} 為整數）。
+     * 若
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+       stretchy="false">(</mo> <mi>x</mi> <mo stretchy="false">)</mo>
+       <mo>=</mo> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+       <mn>3</mn> </mrow> </msup> <mo>+</mo> <msup> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+       <mn>4</mn> <mi>x</mi> <mo>+</mo> <mn>4</mn> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       f(x)=x^{3}+x^{2}+4x+4}</annotation> </semantics> :MATH]
+       {\displaystyle f(x)=x^{3}+x^{2}+4x+4} 是實數域上定義的函數，它的根是
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>=</mo>
+       <mo>−</mo> <mn>1</mn> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle x=-1}</annotation>
+       </semantics> :MATH]
+       {\displaystyle x=-1} 。若
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>f</mi> </mstyle> </mrow>
+       <annotation encoding="application/x-tex">{\displaystyle
+       f}</annotation> </semantics> :MATH]
+       {\displaystyle f} 的定義域擴展至複數，則它會多了兩個根
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo>=</mo>
+       <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mi
+       mathvariant="normal">i</mi> </mrow> <mo>,</mo> <mo>−</mo>
+       <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mi
+       mathvariant="normal">i</mi> </mrow> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle x=2\mathrm {i}
+       ,-2\mathrm {i} }</annotation> </semantics> :MATH]
+       {\displaystyle x=2\mathrm {i} ,-2\mathrm {i} } 。
+
+   检索自“https://zh.wikipedia.org/w/index.php?title=根_(数学)&oldid=77636551”
+   分类：​
+     * 初等数学
+     * 函数
+     * 零
+
+   隐藏分类：​
+     * 自2016年1月扩充中的条目
+     * 自2016年1月缺少来源的条目
+
+     * 本页面最后修订于2023年6月11日 (星期日) 07:34。
+     * 本站的全部文字在知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+       Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+       维基媒体基金会是按美国国內稅收法501(c)(3)登记的非营利慈善机构。
+
+     * 隐私政策
+     * 关于维基百科
+     * 免责声明
+     * 行为准则
+     * 开发�
+     * 统计
+     * Cookie声明
+     * 手机版视图
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki

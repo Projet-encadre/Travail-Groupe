@@ -1,0 +1,185 @@
+
+   {{ 'fb_in_app_browser_popup.desc' | translate }} {{
+   'fb_in_app_browser_popup.copy_link' | translate }}
+   (BUTTON) {{ 'close' | translate }}
+
+   {{ 'in_app_browser_popup.desc' | translate }}
+   (BUTTON) {{ 'close' | translate }}
+
+   {{word('consent_title')}}
+
+   {{word('consent_desc')}} {{word('read_more')}}
+   (BUTTON) {{word('settings')}} (BUTTON) {{word('accept')}}
+   (BUTTON)
+   {{word('consent_title')}}
+
+   {{word('consent_desc')}} {{word('read_more')}}
+   {{setting.title}}
+   [ ]
+
+   {{setting.description}}
+   (BUTTON) {{word('save_preferences')}}
+
+     * 繁體中文
+          + English
+          + 繁體中文
+     *
+     *
+     *
+     *
+
+   [1200x.jpg?]
+     *
+          + 花田綠地
+          + 關於花田綠地
+          + 所有商品
+          + 達人養植經驗分享
+          + 購買通路及運送政策
+
+   [450x.jpg?]
+     *
+     *
+
+   你的購物車是空的
+   {{ (item.variation.media ? item.variation.media.alt_translations :
+   item.product.cover_media.alt_translations) | translateModel }} {{
+   (item.variation.media ? item.variation.media.alt_translations :
+   item.product.cover_media.alt_translations) | translateModel }}
+   {{ 'product.bundled_products.label' | translate }}
+   {{ 'product.bundle_group_products.label' | translate }}
+   {{ 'product.buyandget.label' | translate }}
+   {{ 'product.gift.label' | translate }}
+   {{ 'product.addon_products.label' | translate }}
+   {{item.product.title_translations|translateModel}}
+   {{ field.name_translations | translateModel }}
+     * {{ childProduct.title_translations | translateModel }}
+       {{ getChildVariationShorthand(childProduct.child_variation) }}
+
+   {{ 'product.set.open_variation' | translate }}
+     * {{ getSelectedItemDetail(selectedChildProduct,
+       item).childProductName }} x {{ selectedChildProduct.quantity || 1
+       }}
+       {{ getSelectedItemDetail(selectedChildProduct,
+       item).childVariationName }}
+
+   {{item.variation.name}}
+   {{item.quantity}}x NT$0 {{ item.unit_point }} 點
+   刪除
+   {{addonItem.product.cover_media.alt_translations | translateModel}}
+   {{ 'product.addon_products.label' | translate }}
+   {{addonItem.product.title_translations|translateModel}}
+   {{addonItem.quantity}}x {{
+   mainConfig.merchantData.base_currency.alternate_symbol + "0" }}
+   刪除
+   (BUTTON) {{ 'cart.checkout' | translate }}
+
+     * ____________________ (BUTTON)
+
+     * 花田綠地
+     * 關於花田綠地
+     * 所有商品
+     * 達人養植經驗分享
+     * 購買通路及運送政策
+
+   分類
+     * 精選商品
+     * 培養土及介質
+          + 通用土
+          + 特用介質
+          + 單方介質
+     * 速效與長效型肥料
+          + 粉狀水溶肥
+          + 長效及控釋肥
+     * 有機質肥料
+     * 營養液
+     * 植物植保系列
+     * 種子
+     * 園藝用品
+     * 新手專區
+
+     * 會員登入
+     * 新用戶註冊
+
+     * 聯絡我們
+     * 繁體中文
+
+   語言
+     * English
+     * 繁體中文
+
+   貨幣
+     * $ HKD
+     * P MOP
+     * ¥ CNY
+     * $ TWD
+     * $ USD
+     * $ SGD
+     * € EUR
+     * $ AUD
+     * £ GBP
+     * ₱ PHP
+     * RM MYR
+     * ฿ THB
+     * د.إ AED
+     * ¥ JPY
+     * $ BND
+     * ₩ KRW
+     * Rp IDR
+     * ₫ VND
+     * $ CAD
+
+   ____________________
+
+   健康的植物始於根
+
+   根是植物的營養吸收和運輸器官，並有呼吸及支撐植株的功效。但由於其隱身於泥土之中而常被忽視，實際上根所扮演的角色，足以左右植株的生死。根靠葉養，
+   葉靠根長，作物根系和葉片之間是相互依賴、相互依存的關係。
+
+   根系四大作用
+
+
+   『吸收、呼吸作用、固定支持、運輸貯藏』是植物根系四大功能，其中吸收主要是吸取水分及養分，根系吸收水分需要消耗能量，這需要透過呼吸作用來提供，�
+   此根系需要氧氣。（看到這裡是不是覺得好無聊，這與種好植物有什麼關係嗎??只要你能掌握根系基本需求，離綠手指就不遠了）
+
+
+   植物水分養分的吸收主要透過根系吸收，植物吸收了水分與養分後，根系會往上運輸提供給需要的地方，以及完成蒸散作用，而光合作用後產生的養分可以向下運
+   輸至根系貯藏(如球根、塊根)。根系另一個作用是固定與支持，根牢牢地紮於土壤中，讓植物不會倒伏。這些作用都與介質息息相關，根系的吸收需透過介質作
+   為媒介來取得，因此怎麼維持介質中水與空氣的平衡是很重要的。
+
+   土壤直接關乎根系健康
+
+   根系在土壤中生存和生長需要水也需要空氣，和人一樣，植物的根也要呼吸，土壤中的水分、空氣、溫度、團粒結構等都是影響根系生長的物理因素。如果土壤管
+   理不合理，根的生長首當其衝，而介質是植物根部獲得適當比例的水、空氣和養分的媒介物，這關係介質中水與空氣的平衡。
+
+   盆栽介質的話題可能看起來並不令人興奮，但盆栽介質是為了種植在容器中的植物開發的，這些植物的需求與長在田野地栽的植物有所不同，它對植物的健康非常
+   重要。
+
+   介質四大特性先知道，保水性、保肥性、透氣性及持久性，每種介質原料都有它的四特性，以下表格是常見的介質特性，了解後就可以透過適當的配方比例來調整
+   混和介質的特性。
+
+   介質沒有好壞區分，只要適合你的植物生長，就是好介質!第一要務是要了解你的植物需求，第二就是挑選適合的介質，市面上介質百家爭鳴，品質各有好壞，�
+   此在挑選介質上建議選擇有信譽的廠家購買，在品管上可先為您把關。或許你不是園藝高手，樣樣介質都可以自己調配，你也可以選擇廠家調配好的配方用土。
+
+   但要有件事請牢記在心，廠商配好的配方土是依照這個植物群需要的特性去調配介質，因此絕對沒有完美的比例，你也可以把配好的介質再加入一點點你的需求，
+   例如想要排水性再多一點，可以加入珍珠岩、椰糠。
+   以科學的方式照顧好植物
+
+   在歐洲，花草植物不只是一門生意，而是生活！在這樣的市場中，人們在生活場域中與植物共存，一起行著健康的光合作用！導入歐洲等級的介質混拌工廠並非為
+   了追求生產規模，而是期待讓產品從原料到開發過程都有實驗數據支持，讓花草在消費者生活中是享受，而不是頭痛的起源，我們相信用科學的方式可以解決種植
+   問題，能縮短消費者成為綠手指的路徑，也能將介質帶向更高的標準。
+
+聯絡我們
+
+     * 大益農業科技股份有限公司
+     * 統編 / 53561867
+     * 電話 / 0800-555-330
+     * 時間 / 星期一-星期五 09:00-18:00
+     * 電郵 / info@naturetouch.co
+     * line / @763ndohz
+     * 地址 / 台北市松山區南京東路四段164號9樓(非實體店面，不對外開放)
+
+   退換貨政策 | 運送政策 | 條款及細則 | 2023 © 花田綠地
+   [card_visa.png] [card_master.png] [card_jcb.png]    [card_linepay.png]
+   [card_tw_711_pay.png] [card_tw_fm_pay.png]
+
+   [tr?id=379880357666939&ev=PageView&noscript=1]

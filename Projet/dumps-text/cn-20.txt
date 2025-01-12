@@ -1,0 +1,309 @@
+   #alternate 编辑本页 Wikipedia (zh) alternate alternate alternate alternate
+   alternate alternate alternate alternate alternate alternate
+   Wikipedia的Atom feed
+
+   跳转到内容
+
+   [ ] 主菜单
+   主菜单
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   导航
+     * 首页
+     * 分类索引
+     * 特色内容
+     * 新闻动态
+     * 最近更改
+     * 随机条目
+
+   帮助
+     * 帮助
+     * 维基社群
+     * 方针与指引
+     * 互助客栈
+     * 知识问答
+     * 字词转换
+     * IRC即时聊天
+     * 联络我们
+     * 关于维基百科
+
+   维基百科 自由的百科全书
+   搜索
+   ____________________
+   (BUTTON) 搜索
+
+   [ ] 外观
+
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   [ ] 个人工具
+     * 资助维基百科
+     * 创建账号
+     * 登录
+
+   未登录编辑者的页面 了解详�
+     * 贡献
+     * 讨论
+
+目录
+
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+     * 序言
+     * 1 用例
+       (BUTTON) 开关用例子章节
+
+     * 1.1 平方根
+
+     1.2 高次方根
+
+     2 符號
+
+
+
+   3 參見
+
+   [ ] 开关目录
+
+根号
+
+   [ ] 14种语言
+     * العربية
+     * Беларуская (тарашкевіца)
+     * Deutsch
+     * English
+     * Eesti
+     * Italiano
+     * 日本語
+     * ქართული
+     * 한국어
+     * Русский
+     * Svenska
+     * தமிழ்
+     * ไทย
+     * Українська
+
+   编辑链接
+
+     * 条目
+     * 讨论
+
+   [ ] 不转换
+     * 不转换
+     * 简体
+     * 繁體
+     * 大陆简体
+     * 香港繁體
+     * 澳門繁體
+     * 大马简体
+     * 新加坡简体
+     * 臺灣正體
+
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   [ ] 工具
+   工具
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   操作
+     * 阅读
+     * 编辑
+     * 查看历史
+
+   常规
+     * 链入页面
+     * 相关更改
+     * 上传文件
+     * 特殊页面
+     * 固定链接
+     * 页面信息
+     * 引用此页
+     * 获取短链接
+     * 下载二维码
+
+   打印/导出
+     * 下载为PDF
+     * 打印页面
+
+   在其他项目中
+     * 维基共享资源
+     * 维基数据项目
+
+   外观
+   (BUTTON) 移至侧栏 (BUTTON) 隐藏
+   维基百科，自由的百科全书
+   此條目可参照外語維基百科相應條目来扩充。 (2017年7月11日)
+   若您熟悉来源语言和主题，请协助参考外语维基百科扩充条目。请勿直接提交机械翻译，也不要翻译不可靠、低品质内容。依版权协议，译文需在编辑摘要注明来
+   源，或于讨论页顶部标记{{Translated page}}标签。
+   此條目介紹的是符號。关于根號的應用，请见「方根」。
+   [220px-Root_symbol.svg.png] 根号的符号
+
+   在數學中，根号被用來表示一個數 x 的平方根或 n 次方根，分別寫作
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}} 及
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow>
+   </mroot> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{x}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{x}}} ，分別讀作「二次根號 x 」及「 n 次根號 x
+   」。有時在文字系統不支援數學式的時候，會使用“√”來代替平方根。
+
+用例
+
+   [编辑]
+
+平方根
+
+   [编辑]
+
+   在√下以橫式書寫，必要時須加強橫線長度或以不同大小的根號來表示嵌套算式。
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mspace
+          width="thinmathspace" /> </msqrt> </mrow> <mo>,</mo> <mspace
+          width="1em" /> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi>
+          <mspace width="thinmathspace" /> </msqrt> </mrow> <mo>,</mo>
+          <mspace width="1em" /> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mi>x</mi> <mo>+</mo> <mi>y</mi> <mo>+</mo> <mi>z</mi>
+          <mo>+</mo> <mi>w</mi> <mo>+</mo> <mo>⋯</mo> <mspace
+          width="thickmathspace" /> </msqrt> </mrow> <mo>,</mo> <mspace
+          width="1em" /> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi>
+          <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi>
+          <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi>
+          <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi>
+          <mo>+</mo> <mo>⋯</mo> <mtext> </mtext> </msqrt> </mrow> <mspace
+          width="thickmathspace" /> </msqrt> </mrow> <mspace
+          width="thickmathspace" /> </msqrt> </mrow> <mspace
+          width="thinmathspace" /> </msqrt> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+          {2\,}},\quad {\sqrt {x\,}},\quad {\sqrt {x+y+z+w+\cdots
+          \;}},\quad {\sqrt {x+{\sqrt {x+{\sqrt {x+{\sqrt {x+\cdots \
+          }}\;}}\;}}\,}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {2\,}},\quad {\sqrt {x\,}},\quad {\sqrt
+          {x+y+z+w+\cdots \;}},\quad {\sqrt {x+{\sqrt {x+{\sqrt {x+{\sqrt
+          {x+\cdots \ }}\;}}\;}}\,}}}
+
+   運算次序因橫線所及之處而有所不同。在某些印刷情況下，在後方有其他算式時不易判斷運算次序，因此可使用乘號或是括號來分離。
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+          <mspace width="thinmathspace" /> <mi>y</mi> <mo>=</mo> <mrow>
+          <mo>(</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi>
+          </msqrt> </mrow> <mo>)</mo> </mrow> <mi>y</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+          <mo>⋅</mo> <mi>y</mi> <mo>≠</mo> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mi>x</mi> <mi>y</mi> </msqrt> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+          {x}}\,y=\left({\sqrt {x}}\right)y={\sqrt {x}}\cdot y\neq {\sqrt
+          {xy}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {x}}\,y=\left({\sqrt {x}}\right)y={\sqrt
+          {x}}\cdot y\neq {\sqrt {xy}}}
+
+   非負數的平方根代表該數的 1/2 次方，根號有時會以冪來表示。
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+          <mo>=</mo> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>1</mn> <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow>
+          <mn>2</mn> </mrow> </msup> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt
+          {x}}=x^{1/2}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {x}}=x^{1/2}}
+
+高次方根
+
+   [编辑]
+   主条目：方根
+
+   對於三次以上的方根，會在 √ 左上有加上一個小數字來表示其次數。通常只在次數是整數時才會用根號表示，而非整數次數的情況通常就以冪次表示。
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mtable columnalign="right left right
+          left right left right left right left right left"
+          rowspacing="3pt" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em
+          0em 2em 0em" displaystyle="true"> <mtr> <mtd> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </mroot> </mrow>
+          </mtd> <mtd> <mi></mi> <mo>=</mo> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>3</mn> </mrow>
+          </msup> </mtd> </mtr> <mtr> <mtd> <mrow class="MJX-TeXAtom-ORD">
+          <mroot> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>4</mn>
+          </mrow> </mroot> </mrow> </mtd> <mtd> <mi></mi> <mo>=</mo>
+          <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>1</mn>
+          <mrow class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>4</mn>
+          </mrow> </msup> </mtd> </mtr> <mtr> <mtd /> <mtd> <mi></mi>
+          <mo>⋮</mo> </mtd> </mtr> <mtr> <mtd> <mrow
+          class="MJX-TeXAtom-ORD"> <mroot> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </mroot> </mrow>
+          </mtd> <mtd> <mi></mi> <mo>=</mo> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>1</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mi>n</mi> </mrow>
+          </msup> </mtd> </mtr> </mtable> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          {\begin{aligned}{\sqrt[{3}]{x}}&=x^{1/3}\\{\sqrt[{4}]{x}}&=x^{1/
+          4}\\&\vdots
+          \\{\sqrt[{n}]{x}}&=x^{1/n}\end{aligned}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle
+          {\begin{aligned}{\sqrt[{3}]{x}}&=x^{1/3}\\{\sqrt[{4}]{x}}&=x^{1/
+          4}\\&\vdots \\{\sqrt[{n}]{x}}&=x^{1/n}\end{aligned}}}
+
+符號
+
+   [编辑]
+   記号 Unicode JIS X 0213（日语：JIS X 0213） 字符實體引用 名称
+   √ U+221A 1-2-69 &radic;
+   &#x221A;
+   &#8730; 根號
+   SQUARE ROOT
+   ∛ U+221B - &#x221B;
+   &#8731; 三次根號
+   CUBIC ROOT
+   ∜ U+221C - &#x221C;
+   &#8732; 四次根號
+   FOURTH ROOT
+
+參見
+
+   [编辑]
+     * 方根
+     * 數學符號
+
+   检索自“https://zh.wikipedia.org/w/index.php?title=根号&oldid=85095732”
+
+   分类：​
+     * 數學表示法
+     * 標點符號
+
+   隐藏分类：​
+     * 自2017年7月需要從外語維基百科翻譯的條目
+     * 需要從外語維基百科翻譯的條目
+
+     * 本页面最后修订于2024年11月25日 (星期一) 10:47。
+     * 本站的全部文字在知识共享 署名-相同方式共享 4.0协议之条款下提供，附加条款亦可能应用。（请参阅使用条款）
+       Wikipedia®和维基百科标志是维基媒体基金会的注册商标；维基™是维基媒体基金会的商标。
+       维基媒体基金会是按美国国內稅收法501(c)(3)登记的非营利慈善机构。
+
+     * 隐私政策
+     * 关于维基百科
+     * 免责声明
+     * 行为准则
+     * 开发�
+     * 统计
+     * Cookie声明
+     * 手机版视图
+
+     * Wikimedia Foundation
+     * Powered by MediaWiki
