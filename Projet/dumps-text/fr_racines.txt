@@ -1,0 +1,203 @@
+   #[1]Biologie végétale » Flux [2]Biologie végétale » Flux des
+   commentaires [3]JSON [4]oEmbed (JSON) [5]oEmbed (XML)
+
+   [6]Skip to content
+
+     * [7]Accueil
+     * Modules
+          + [8]Morphologie végétale
+          + [9]Règne végétal
+          + [10]Physiologie végétale
+          + [11]Écologie végétale
+          + [12]Flore en ligne
+          + [13]Botalgotithme
+     * [14]Glossaire
+     * [15]Contact
+     * [16]Crédits
+
+     * [17]Accueil
+     * Modules
+          + [18]Morphologie végétale
+          + [19]Règne végétal
+          + [20]Physiologie végétale
+          + [21]Écologie végétale
+          + [22]Flore en ligne
+          + [23]Botalgotithme
+     * [24]Glossaire
+     * [25]Contact
+     * [26]Crédits
+
+Biologie végétale
+
+Morphologie végétale
+
+Contenu du module
+
+     * [27]Informations concernant le module
+     * [28]Angiospermes
+          + [29]Organographie
+          + [30]Anatomie
+          + [31]Histologie
+          + [32]Cytologie
+     * [33]Gymnospermes
+     * [34]Ptéridophytes
+     * [35]Bryophytes
+     * [36]Bibliographie
+
+Racines
+
+   [37]Accueil » [38]Morphologie végétale » [39]Angiospermes »
+   [40]Angiospermes : Organographie » Racines
+    1. [41]Différentes parties
+    2. [42]Organisation des systèmes racinaires
+    3. [43]Origine des racines
+
+1. Différentes parties
+
+   L'ensemble des racines forme le système racinaire de la plante et
+   permet la fixation du végétal dans le sol ainsi que l'absorption de
+   l'eau et des substances dissoutes nécessaires au développement de la
+   plante. Pour rappel, la racine ne porte jamais de feuilles et n'a pas
+   de noeuds ; sa structure anatomique est également différente et elle
+   porte une coiffe terminale.
+
+   On distingue quatre zones sur une racine en croissance :
+    1. une zone terminale effilée (point végétatif) formée de petites
+       cellules indifférenciées qui se multiplient activement et qui sont
+       protégées par la coiffe. La coiffe protège le méristème racinaire
+       pendant la croissance de la racine en évitant le contact immédiat
+       avec les particules solides du sol. La desquamation continue de la
+       coiffe facilite la progression de la racine dans le sol.
+    2. une zone glabre de quelques millimètres ou zone de croissance
+       séparant la coiffe de la zone pilifère
+    3. une zone pilifère, garnie de nombreux poils absorbants permettant
+       les échanges entre la racine et le sol. Les poils au début de la
+       zone pilifère sont courts (ils viennent de se former) et ceux
+       situés à l'endroit ou la zone pilifère s'achève sont plus longs et
+       flétris. Ils disparaîtront prochainement.
+    4. une zone subéreuse, dépourvue de poils, mais où apparaissent des
+       ébauches de jeunes racines, les racines secondaires
+       (ramifications).
+
+   Figure 1 : Le système racinaire
+
+2. L'organisation du système racinaire
+
+   L'organisation du système racinaire se présente sous différentes formes
+   :
+    1. la racine pivotante : racine importante qui se développe et qui
+       forme un pivot central sur lequel viennent se greffer de petites
+       racines secondaires. C'est le cas par exemple pour le chêne ou le
+       radis. C'est le cas également pour le cacaoyer (Theobroma cacao).
+       Figure 2 : racine pivotante
+    2. les racines fasciculées : plusieurs racines d'importance égale,
+       disposées en faisceau, portent de nombreuses radicelles (épicéa,
+       maïs). Figure 3: racines fasciculées
+    3. Les racines traçantes : racine principale peu développée et racines
+       latérales à extension horizontale et à faible profondeur
+       (peupliers, résineux qui adoptent ce système lors de conditions
+       édaphiques et climatiques difficiles).
+    4. les racines adventives : racine prenant naissance sur une tige
+       aérienne ou souterraine ou tout autres parties du végétal (maïs,
+       fraisier, lierre). Figure 4: racines adventives
+
+   Photo 1 : Les cuscutes sont des Angiospermes parasites, dépourvues de
+   racines. Ici, Cuscuta epithymum
+
+   Outre ces trois cas les plus courants, certaines plantes, en fonction
+   de leur environnement, notamment pour la fonction d'ancrage, semblent
+   avoir développé des racines fortement modifiées comme :
+    1. les racines contreforts (figuier)
+    2. les racines échasses, qui « soutiennent » le tronc au-dessus du sol
+       ou de l'eau (palétuvier)
+    3. les racines lianes (banyan)
+    4. les racines ventouses (vanillier)
+
+   D'autres ce sont spécialisées dans l'accumulation de réserve et
+   développent des racines « tubérisées » qui prennent la forme d'une
+   grosse racine pivotante (betterave) (Photo 2, 3) ou de tubercules de
+   racines fasciculées (dahlia, Figure 5)
+
+   Figure 5 : Racines tubérisées
+
+   Photo 2 : Beta vulgaris, la betterave à l'état sauvage.
+
+   Photo 3 : Racine pivotante tubérisée de Pastinaca sativa
+
+3. L'origine des racines
+
+    1. On peut différencier trois types de racines d'après leur origine :
+       les primaires ou séminales : qui proviennent de l'évolution de la
+       radicule de l'embryon ; elles sont persistantes
+    2. les secondaires : d'ordre 2,3,4, ... elles naissent par voie
+       endogène à partir de la racine primaire ou d'une racine secondaire
+       d'ordre plus élevé, elles ont une persistance variable
+    3. les adventives : formées sur une partie quelconque du végétal
+       (tiges, feuilles, etc.) (Photo 4).
+
+   Photo 4 : Trifolium repens forme des racines adventices sur ses tiges
+   rampantes
+
+   Copyright 2019 - 2025 - UCL Louvain - Biologie végétale, tous droits
+   réservés - Site et photos des entêtes : [44]Christophe Danaux
+
+   Nous utilisons des cookies pour vous garantir la meilleure expérience
+   sur notre site web. Si vous continuez à utiliser ce site, nous
+   supposerons que vous en êtes satisfait.[45]Ok
+
+References
+
+   Visible links:
+   1. https://biologievegetale.be/feed/
+   2. https://biologievegetale.be/comments/feed/
+   3. https://biologievegetale.be/wp-json/wp/v2/pages/3731
+   4. https://biologievegetale.be/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbiologievegetale.be%2Fmorphologie-vegetale%2Fangiospermes%2Fangiospermes-organographie%2Fracines%2F
+   5. https://biologievegetale.be/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbiologievegetale.be%2Fmorphologie-vegetale%2Fangiospermes%2Fangiospermes-organographie%2Fracines%2F&format=xml
+   6. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines.html#main
+   7. https://biologievegetale.be/
+   8. https://biologievegetale.be/morphologie-vegetale/
+   9. https://biologievegetale.be/regne-vegetal/
+  10. https://biologievegetale.be/physiologie-vegetale/
+  11. https://biologievegetale.be/ecologie-vegetale/
+  12. https://biologievegetale.be/flore-en-ligne/
+  13. http://botalgorithme.be/
+  14. https://biologievegetale.be/glossaire/
+  15. https://biologievegetale.be/contact/
+  16. https://biologievegetale.be/credits/
+  17. https://biologievegetale.be/
+  18. https://biologievegetale.be/morphologie-vegetale/
+  19. https://biologievegetale.be/regne-vegetal/
+  20. https://biologievegetale.be/physiologie-vegetale/
+  21. https://biologievegetale.be/ecologie-vegetale/
+  22. https://biologievegetale.be/flore-en-ligne/
+  23. http://botalgorithme.be/
+  24. https://biologievegetale.be/glossaire/
+  25. https://biologievegetale.be/contact/
+  26. https://biologievegetale.be/credits/
+  27. https://biologievegetale.be/morphologie-vegetale/
+  28. https://biologievegetale.be/morphologie-vegetale/angiospermes/
+  29. https://biologievegetale.be/morphologie-vegetale/angiospermes/angiospermes-organographie/
+  30. https://biologievegetale.be/morphologie-vegetale/angiospermes/angiospermes-anatomie/
+  31. https://biologievegetale.be/morphologie-vegetale/angiospermes/angiospermes-histologie/
+  32. https://biologievegetale.be/morphologie-vegetale/angiospermes/angiospermes-cytologie/
+  33. https://biologievegetale.be/morphologie-vegetale/gymnospermes/
+  34. https://biologievegetale.be/morphologie-vegetale/pteridophytes/
+  35. https://biologievegetale.be/morphologie-vegetale/bryophytes/
+  36. https://biologievegetale.be/morphologie-vegetale/bibliographie/
+  37. https://biologievegetale.be/
+  38. https://biologievegetale.be/morphologie-vegetale/
+  39. https://biologievegetale.be/morphologie-vegetale/angiospermes/
+  40. https://biologievegetale.be/morphologie-vegetale/angiospermes/angiospermes-organographie/
+  41. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines.html#ancre1
+  42. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines.html#ancre2
+  43. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines.html#ancre3
+  44. https://christophedanaux.photo/
+  45. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines.html
+
+   Hidden links:
+  47. https://biologievegetale.be/
+  48. https://biologievegetale.be/wp-content/uploads/2020/01/Image1-1.png
+  49. https://biologievegetale.be/wp-content/uploads/2020/01/29-2019-05-St-H-1.jpg
+  50. https://biologievegetale.be/wp-content/uploads/2020/01/Givet-2018-Fr-C-2-scaled.jpg
+  51. https://biologievegetale.be/wp-content/uploads/2020/01/29-201908-OR.jpg
+  52. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines.html

@@ -1,0 +1,25 @@
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+--
+ 101. file:///wiki/Code_source
+ 102. file:///wiki/Code_machine
+ 103. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#cite_note-1
+ 104. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&veaction=edit&section=2
+ 105. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=edit&section=2
+--
+ 108. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&veaction=edit&section=3
+ 109. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=edit&section=3
+ 110. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#cite_ref-1
+ 111. https://archive.wikiwix.com/cache/20181129124658/https://blog.alterway.fr/post/2017/04/28/optimisations-de-performances-avec-php-7/
+ 112. file:///wiki/Wikiwix
+--
+
+   Hidden links:
+ 264. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html
+ 265. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#Utilisation
+ 266. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#Voir_aussi
+ 267. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#R%C3%A9f%C3%A9rences
+ 268. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#Liens_externes

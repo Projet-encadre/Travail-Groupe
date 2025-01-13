@@ -1,0 +1,36 @@
+   None est donc un arbre (l'arbre vide). Un arbre non vide possèdera donc
+   3 attributs :
+     * Une étiquette (label) qui est le nom de la racine. C'est une chaîne
+       de caractères.
+     * L'enfant gauche (G) qui est un arbre binaire (éventuellement vide).
+     * L'enfant droit (D) qui est un arbre binaire (éventuellement vide)
+
+   Si T est un objet de type Arbre (binaire) alors sa racine a pour nom
+   T.label, son enfant gauche est T.G et son enfant droit est T.D. On peut
+   créer un arbre binaire T de racine R en faisant T = Arbre('R'). Pour
+   cela il suffit de définir une classe Arbre.
+
+--
+   à droite, ce qui est résumé par T.D.G.D. En codant chaque virage à
+   gauche par un 0 et chaque virage à droite par un 1, I est représenté
+   par 101 en binaire. Chaque noeud autre que la racine possède ainsi un
+   code binaire.
+
+--
+   Pour effectuer un parcours de l'arbre en largeur, on définit la notion
+   de niveau d'un noeud :
+     * La racine est au niveau 0.
+     * Les enfants d'un noeud au niveau n-1 sont au niveau n.
+
+--
+   Pour l'arbre A, la liste renvoyée est [['A'], ['B', 'C'], ['D', 'E',
+   'F', 'G'], ['H', 'I']] ce qui signifie qu'il y a
+     * Un seul noeud au niveau 0 : la racine A.
+     * Deux noeuds au niveau 1 : B, C.
+     * Quatre noeuds au niveau 2 : D, E, F, G.
+--
+   équilibré. Mais ses feuilles portant des lettres, il sert à décoder des
+   mots binaires écrits avec les 13 lettres. Par exemple pour arriver à la
+   lettre T on effectue (depuis la racine) le trajet GDD et la lettre T se
+   code 011. On peut vérifier que les 13 bits 0111100101000 représentent
+   le code de Huffman du mot TAIE qui s'écrit sur 32 bits en Ascii et au

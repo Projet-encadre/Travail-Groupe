@@ -1,0 +1,587 @@
+     * 1 Histoire
+
+     2 Construction géométrique de la racine carrée
+
+     3 Fonction réelle
+
+     4 Extraction de racines carrées
+
+
+
+   5 Racines carrées particulières
+
+   (BUTTON) Afficher/masquer la sous-section Racines carrées particulières
+     * 5.1 Nombre d'or
+
+
+
+   5.2 Nombres entiers supérieurs à 1 sous forme de racines carrées
+
+
+--
+
+   (BUTTON) Afficher/masquer la sous-section Notion algébrique générale
+     * 6.1 Définition algébrique d'une racine carrée
+
+
+
+   6.2 Racines carrées de nombres complexes
+
+
+
+   6.3 Racines carrées de matrices et d'opérateurs
+
+
+--
+   [ ] Basculer la table des matières
+
+Racine carrée
+
+   [ ] 97 langues
+--
+   [147]Page d'aide sur l'homonymie
+
+   Pour l'album de Stromae, voir [148]Racine carrée (album).
+   [149]Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour
+   en savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
+--
+   En pratique : [153]Quelles sources sont attendues ? [154]Comment
+   ajouter mes sources ?
+   Fonction racine carrée
+   [155][langfr-260px-Squareroot-0-9-metapost.svg.png]
+   [156]Courbe représentative de la fonction racine carrée.
+   Notation
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   [167]modifier - [168]modifier le code - [169]modifier Wikidata[170]
+   Documentation du modèle
+   Racine carrée
+   [171]Image du caractère
+
+--
+
+   Code U+221A
+   Nom Racine carrée (ou radical)^[173][1]
+   Bloc [174]Symboles mathématiques
+   (U+2200 à U+22FF)
+--
+   [175]modifier
+
+   En [176]mathématiques élémentaires, la racine carrée d'un nombre réel
+   positif x est l'unique réel positif qui, lorsqu'il est multiplié par
+   lui-même, donne x, c'est-à-dire le nombre positif dont le [177]carré
+--
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {\quad }}} est appelé le radical^[178][2]. La
+   [179]fonction qui, à tout réel positif, associe sa racine carrée
+   s'appelle la fonction racine carrée.
+
+   En [180]algèbre et [181]analyse, dans un [182]anneau ou un [183]corps
+   A, on appelle racine carrée de a tout élément de A dont le carré vaut
+   a. Par exemple, dans le [184]corps des complexes , on dira de i (ou de
+   - i) qu'il est une racine carrée de - 1. Selon la nature de l'anneau et
+   la valeur de a, on peut trouver 0, 1, 2 ou plus de 2 racines carrées de
+   a.
+
+   La recherche de la racine carrée d'un nombre, ou extraction de la
+   racine carrée, donne lieu à de nombreux algorithmes. La nature de la
+   racine carrée d'un [185]entier naturel qui n'est pas le carré d'un
+   entier est à l'origine de la première prise de conscience de
+   l'existence de [186]nombres irrationnels. La recherche de racines
+   carrées pour des [187]nombres négatifs a conduit à l'invention des
+   [188]nombres complexes.
+--
+   Cette section est vide, insuffisamment détaillée ou incomplète.
+   [191]Votre aide est la bienvenue ! [192]Comment faire ?
+   Article détaillé : [193]Histoire de la racine carrée.
+   [194][220px-Ybc7289-bw.jpg] Photographie de la tablette [195]YBC 7289
+   avec des annotations traduisant les nombres écrits dans le système
+   babylonien (crédits : Bill Casselman).
+
+   La plus ancienne racine carrée connue apparaît vers 1700 av. J.-C. sur
+   la tablette [196]YBC 7289. Il s'agit de la représentation d'un
+   [197]carré avec, sur un côté, le nombre 30 et, le long de la diagonale,
+   une [198]valeur approchée de SQRT 2.
+
+Construction géométrique de la racine carrée
+
+   [[199]modifier | [200]modifier le code]
+   [201][220px-Construction_racine_carree.png] AO = 1, OB = a, OH = SQRT
+   a.
+   Article détaillé : [202]Théorème de la moyenne géométrique.
+--
+   SQRT a.
+
+   Cette construction montre que la racine carrée d'un [210]nombre
+   constructible (par exemple un nombre rationnel positif) est encore un
+   nombre constructible.
+--
+
+   [[211]modifier | [212]modifier le code]
+   Article détaillé : [213]Fonction racine n-ième.
+   [214][440px-Mplwp_sqrt.svg.png] [215]Représentation graphique de la
+   fonction racine carrée.
+
+   L'application
+--
+   {x}}}</annotation> </semantics> :MATH]
+   {\displaystyle x\mapsto {\sqrt {x}}} . Cette fonction s'appelle la
+   fonction racine carrée. Géométriquement, on peut affirmer que la racine
+   carrée de l'aire d'un [217]carré du [218]plan euclidien est la longueur
+   de l'un de ses côtés.
+
+   La fonction racine carrée vérifie les propriétés élémentaires suivantes
+   valables pour tous nombres réels positifs x et y :
+
+--
+             avec }}a_{n}={(2n)! \over (n!)^{2}2^{2n}(2n-1)}>0,}
+       avec [229]convergence normale sur [-1, 1] (voir le [230]§
+       « Développement en série entière » de l'article « Racine d'un
+       nombre »). Les coefficients s'expriment comme quotients de
+       [231]nombres de Catalan par des [232]puissances de 2 :
+--
+       {1}{8}},a_{3}={\frac {1}{16}},a_{4}={\frac {5}{128}}.}
+
+Extraction de racines carrées
+
+   [[233]modifier | [234]modifier le code]
+   Article détaillé : [235]Extraction de racine carrée.
+
+   Le calcul de la racine carré d'un nombre positif n'est pas toujours
+   évident, notamment pour de grands nombres. Ainsi, plusieurs algorithmes
+   ont été développés au cours de l'histoire afin d'obtenir ce nombre.
+   Parmi les méthodes d'extraction de racine carrée, on peut citer
+   notamment la [236]méthode de Héron, qui est une méthode historique qui
+   peut être vue d'un point de vue moderne comme un cas particulier de la
+--
+   principe de dichotomie.
+
+Racines carrées particulières
+
+   [[240]modifier | [241]modifier le code]
+--
+          {1+\cdots }}}}}}}}} .
+
+Nombres [247]entiers supérieurs à 1 sous forme de racines carrées
+
+   [[248]modifier | [249]modifier le code]
+--
+
+   Le nombre [256]p s'exprime sous la forme d'une [257]itération infinie
+   de racines carrées :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+          {\displaystyle \pi =\lim _{k\to \infty }\left(2^{k}\cdot {\sqrt
+          {2-{\sqrt {2+{\sqrt {2+{\sqrt {2+\cdots {\sqrt {2+{\sqrt
+          {2}}}}}}}}}}}}\right)} , où k est le nombre de racines carrées
+          emboitées
+
+--
+   [[258]modifier | [259]modifier le code]
+
+Définition algébrique d'une racine carrée
+
+   [[260]modifier | [261]modifier le code]
+
+   Soient x et a deux éléments d'un [262]anneau A, tels que x^2 = a.
+   L'élément x est alors une racine carrée de a. La notation SQRT a est
+   néanmoins souvent déconseillée car il peut exister plusieurs tels
+   éléments x.
+
+   En général (si l'anneau n'est pas [263]intègre ou s'il n'est pas
+   commutatif), un élément peut avoir plus de deux racines carrées. Par
+   exemple dans l'[264]anneau ¤/9¤, les racines carrées de 0 sont 0, 3 et
+   -3, et dans le [265]corps gauche des [266]quaternions, tout réel
+   strictement négatif possède une infinité de racines carrées.
+
+   Dans le cas des nombres réels, un auteur parlant d'une racine carrée de
+   2, traite d'un des deux éléments SQRT 2 ou bien - SQRT 2. En revanche,
+   l'expression la racine carrée de deux évoque toujours la solution
+   positive. Comme l'expression SQRT 2 est toujours positive et le terme
+   fonction racine définie sur les réels positifs désigne toujours la
+   valeur positive, on évite cette confusion dans les enseignements un peu
+   élémentaires des mathématiques en ne faisant usage que de
+   l'expression : la racine carrée, alors toujours positive.
+
+Racines carrées de nombres complexes
+
+   [[267]modifier | [268]modifier le code]
+   Article connexe : [269]Racine d'un nombre complexe.
+
+   La racine carrée sur est définie seulement pour les nombres positifs.
+   Dans la résolution effective des [270]équations polynomiales,
+   l'introduction d'une racine carrée formelle d'un nombre négatif dans
+   les calculs intermédiaires donne des résultats exacts. C'est ainsi que
+   le corps des [271]nombres complexes a été introduit^[272][5]
+--
+                {\displaystyle w=\pm {\frac {z+|z|}{\sqrt {2(a+|z|)}}}} .
+
+   Méthode de calcul des racines carrées w d'un nombre complexe z = a + ib
+
+   Pour trouver w = x + iy tel que w^2 = a + ib, on pose le système
+--
+   [273][220px-Imaginary2Root.svg.png]
+
+   Les deux racines carrées de [274]i sont
+
+          1 + i/[275] SQRT 2 =
+--
+
+   Pour des raisons de nature topologique, il est impossible^[277][7] de
+   prolonger la fonction racine carrée, de [+] dans [+], en une fonction
+   continue
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   = z.
+
+   On appelle [278]détermination de la racine carrée sur un ouvert U de
+   toute fonction continue
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   {\displaystyle f(z)^{2}=z} .
+
+   La [279]détermination principale de la racine carrée est la fonction de
+   dans ainsi définie : si z s'écrit sous forme trigonométrique z = r e^i
+   f avec -p < f <= p, alors on pose f(z) = SQRT r e^i f/2. Cette
+--
+          {\left|a+\mathrm {i} b\right|-a}{2}}}}
+
+   où le signe de la partie imaginaire de la racine est
+     * si b != 0 : le signe de b
+     * si b = 0 et a < 0 : le signe +
+--
+
+   Notons qu'à cause de la nature discontinue de la détermination
+   principale de la racine carrée dans le plan complexe, la relation
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+--
+   général.
+
+Racines carrées de matrices et d'opérateurs
+
+   [[281]modifier | [282]modifier le code]
+   Article détaillé : [283]Racine carrée d'une matrice.
+
+   Si A est une [284]matrice autoadjointe positive ou un [285]opérateur
+--
+
+   En général, il y a plusieurs tels opérateurs B pour chaque A et la
+   fonction racine carrée ne peut pas être définie pour les opérateurs
+   normaux d'une façon satisfaisante (continue par exemple). Les
+   opérateurs positifs sont apparentés à des nombres réels positifs, et
+--
+    2. [296]^| Collection Mistral, Mathématiques 3^e, 1985, p. 20.
+    3. [297]^| Pour une preuve élémentaire, voir par exemple
+       [298]« Fonction racine carrée » sur Wikiversité..
+    4. [299]^| Pour une démonstration, voir par exemple le [300]chapitre
+       « Dérivées usuelles » de la leçon « Fonction dérivée » sur
+--
+       la [303]méthode de Cardan s'applique formellement et donne des
+       résultats réels, si l'on accepte d'introduire dans certains cas des
+       racines carrées « imaginaires » de réels négatifs. Pour plus de
+       détails, voir [304]histoire des nombres complexes, et aussi la
+       [305]description des résultats de Bombelli.
+--
+
+   Sur les autres projets Wikimedia :
+     * [314]Racine carrée, sur Wikimedia Commons
+     * [315]Racine carrée, sur Wikiversity
+
+   Sur les autres projets Wikimedia :
+     * [316]Fonction racine carrée, sur Wikiversity
+
+Articles connexes
+--
+   [[317]modifier | [318]modifier le code]
+     * [319]Équation du second degré
+     * [320]Racine carrée de deux
+     * [321]Racine carrée de trois
+     * [322]Racine carrée de cinq
+     * [323]Racine cubique
+     * [324]Racine d'un nombre complexe
+     * [325]Racine n-ième
+     * [326]Nombre d'or
+     * [327]Nombre irrationnel
+--
+   [[333]modifier | [334]modifier le code]
+
+   (en) [335]Suites concernant la racine carrée dans l'[336]encyclopédie
+   en ligne des suites de nombres entiers (entre autres : développements
+   décimaux des racines carrées des entiers de 2 à 99)
+
+Bibliographie
+--
+       ([348]ISBN [349]978-81-8332-367-3, [350]lire en ligne), chap. 3
+       (« Irrational numbers ») (ce chapitre, malgré son titre, porte sur
+       les racines carrées)
+     * (en) A V Vijaya, Figuring Out Mathematics, [351]Dorling Kindersley,
+       2007 ([352]ISBN [353]978-81-317-0359-5, [354]lire en ligne), p. 15
+--
+
+   Ce document provient de
+   « [357]https://fr.wikipedia.org/w/index.php?title=Racine_carrée&oldid=2
+   20344938 ».
+
+   [358]Catégories:
+     * [359]Racine carrée
+     * [360]Fonction de référence
+
+--
+
+   Visible links:
+   1. file://fr.m.wikipedia.org/wiki/Racine_carr%C3%A9e
+   2. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+--
+  15. file:///wiki/Sp%C3%A9cial:Recherche
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  17. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+carr%C3%A9e
+  18. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+carr%C3%A9e
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  20. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+carr%C3%A9e
+  21. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+carr%C3%A9e
+  22. file:///wiki/Aide:Premiers_pas
+  23. file:///wiki/Sp%C3%A9cial:Mes_contributions
+--
+ 120. https://zh-yue.wikipedia.org/wiki/%E9%96%8B%E6%96%B9%E6%A0%B9
+ 121. https://www.wikidata.org/wiki/Special:EntityPage/Q134237#sitelinks-wikipedia
+ 122. file:///wiki/Racine_carr%C3%A9e
+ 123. file:///wiki/Discussion:Racine_carr%C3%A9e
+ 124. file:///wiki/Racine_carr%C3%A9e
+ 125. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit
+ 126. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit
+ 127. file:///w/index.php?title=Racine_carr%C3%A9e&action=history
+ 128. file:///wiki/Racine_carr%C3%A9e
+ 129. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit
+ 130. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit
+ 131. file:///w/index.php?title=Racine_carr%C3%A9e&action=history
+ 132. file:///wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Racine_carr%C3%A9e
+ 133. file:///wiki/Sp%C3%A9cial:Suivi_des_liens/Racine_carr%C3%A9e
+ 134. file:///wiki/Aide:Importer_un_fichier
+ 135. file:///wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+ 136. file:///w/index.php?title=Racine_carr%C3%A9e&oldid=220344938
+ 137. file:///w/index.php?title=Racine_carr%C3%A9e&action=info
+ 138. file:///w/index.php?title=Sp%C3%A9cial:Citer&page=Racine_carr%C3%A9e&id=220344938&wpFormIdentifier=titleform
+ 139. file:///w/index.php?title=Sp%C3%A9cial:UrlShortener&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_carr%25C3%25A9e
+ 140. file:///w/index.php?title=Sp%C3%A9cial:QrCode&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_carr%25C3%25A9e
+ 141. file:///w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Racine+carr%C3%A9e
+ 142. file:///w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Racine_carr%C3%A9e&action=show-download-screen
+ 143. file:///w/index.php?title=Racine_carr%C3%A9e&printable=yes
+ 144. https://commons.wikimedia.org/wiki/Category:Square_root
+ 145. https://fr.wikiversity.org/wiki/Racine_carr%C3%A9e
+ 146. https://www.wikidata.org/wiki/Special:EntityPage/Q134237
+ 147. file:///wiki/Aide:Homonymie
+ 148. file:///wiki/Racine_carr%C3%A9e_(album)
+ 149. file:///wiki/Mod%C3%A8le:%C3%80_sourcer
+ 150. file:///wiki/Wikip%C3%A9dia:Citez_vos_sources
+--
+ 165. file:///wiki/Z%C3%A9ro_d%27une_fonction
+ 166. file:///wiki/Point_fixe
+ 167. https://fr.wikipedia.org/w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=0
+ 168. https://fr.wikipedia.org/w/index.php?title=Racine_carr%C3%A9e&action=edit&section=0
+ 169. https://www.wikidata.org/wiki/Q134237
+ 170. file:///wiki/Mod%C3%A8le:Infobox_Fonction_math%C3%A9matique
+ 171. file:///w/index.php?title=Fichier:Root_symbol.svg&lang=fr
+ 172. file:///wiki/Unicode
+ 173. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-1
+ 174. file:///wiki/Table_des_caract%C3%A8res_Unicode/U2200
+ 175. https://fr.wikipedia.org/w/index.php?title=Racine_carr%C3%A9e&action=edit
+ 176. file:///wiki/Math%C3%A9matiques_%C3%A9l%C3%A9mentaires
+ 177. file:///wiki/Carr%C3%A9_(alg%C3%A8bre)
+ 178. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-2
+ 179. file:///wiki/Fonction_(math%C3%A9matiques)
+ 180. file:///wiki/Alg%C3%A8bre
+--
+ 187. file:///wiki/Nombre_n%C3%A9gatif
+ 188. file:///wiki/Nombre_complexe
+ 189. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=1
+ 190. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=1
+ 191. file:///wiki/Sp%C3%A9cial:EditPage/Racine_carr%C3%A9e
+ 192. file:///wiki/Aide:Comment_modifier_une_page
+ 193. file:///wiki/Histoire_de_la_racine_carr%C3%A9e
+ 194. file:///wiki/Fichier:Ybc7289-bw.jpg
+ 195. file:///wiki/YBC_7289
+--
+ 197. file:///wiki/Carr%C3%A9
+ 198. file:///wiki/Valeur_approch%C3%A9e
+ 199. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=2
+ 200. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=2
+ 201. file:///wiki/Fichier:Construction_racine_carree.png
+ 202. file:///wiki/Th%C3%A9or%C3%A8me_de_la_moyenne_g%C3%A9om%C3%A9trique
+ 203. file:///wiki/R%C3%A8gle_(instrument_de_g%C3%A9om%C3%A9trie)
+--
+ 209. file:///wiki/Triangles_semblables
+ 210. file:///wiki/Nombre_constructible
+ 211. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=3
+ 212. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=3
+ 213. file:///wiki/Fonction_puissance#Racines_n-i%C3%A8mes
+ 214. file:///wiki/Fichier:Mplwp_sqrt.svg
+ 215. file:///wiki/Repr%C3%A9sentation_graphique_d%27une_fonction_math%C3%A9matique
+--
+ 219. file:///wiki/Fonction_croissante
+ 220. file:///wiki/Condition_de_H%C3%B6lder
+ 221. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-3
+ 222. file:///wiki/Continuit%C3%A9_uniforme
+ 223. file:///wiki/D%C3%A9riv%C3%A9e
+ 224. file:///wiki/Tangente_(g%C3%A9om%C3%A9trie)
+ 225. file:///wiki/D%C3%A9riv%C3%A9e
+ 226. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-4
+ 227. file:///wiki/Classe_de_r%C3%A9gularit%C3%A9
+ 228. file:///wiki/S%C3%A9rie_de_Taylor
+ 229. file:///wiki/Convergence_normale
+ 230. file:///wiki/Racine_d%27un_nombre#D%C3%A9veloppement_en_s%C3%A9rie_enti%C3%A8re
+ 231. file:///wiki/Nombre_de_Catalan
+ 232. file:///wiki/Puissance_de_deux
+ 233. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=4
+ 234. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=4
+ 235. file:///wiki/Extraction_de_racine_carr%C3%A9e
+ 236. file:///wiki/M%C3%A9thode_de_H%C3%A9ron
+ 237. file:///wiki/M%C3%A9thode_de_Newton
+ 238. file:///wiki/Th%C3%A9or%C3%A8me_des_suites_adjacentes
+ 239. file:///wiki/Fraction_continue
+ 240. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=5
+ 241. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=5
+ 242. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=6
+ 243. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=6
+ 244. file:///wiki/Radical_imbriqu%C3%A9
+ 245. file:///wiki/Nombre_r%C3%A9el
+ 246. file:///wiki/Nombre_d%27or
+ 247. file:///wiki/Entier_naturel
+ 248. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=7
+ 249. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=7
+ 250. file:///wiki/Radical_imbriqu%C3%A9#Radicaux_infinis_de_Ramanujan
+ 251. file:///wiki/Srinivasa_Ramanujan
+ 252. file:///wiki/Nombre_r%C3%A9el
+ 253. file:///wiki/Pi
+ 254. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=8
+ 255. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=8
+ 256. file:///wiki/Pi
+ 257. file:///wiki/It%C3%A9ration
+ 258. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=9
+ 259. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=9
+ 260. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=10
+ 261. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=10
+ 262. file:///wiki/Anneau_unitaire
+ 263. file:///wiki/Anneau_int%C3%A8gre
+--
+ 265. file:///wiki/Corps_gauche
+ 266. file:///wiki/Quaternion
+ 267. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=11
+ 268. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=11
+ 269. file:///wiki/Racine_d%27un_nombre_complexe
+ 270. file:///wiki/%C3%89quation_polynomiale
+ 271. file:///wiki/Nombre_complexe
+ 272. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-5
+ 273. file:///wiki/Fichier:Imaginary2Root.svg
+ 274. file:///wiki/Unit%C3%A9_imaginaire
+ 275. file:///wiki/Racine_carr%C3%A9e_de_deux
+ 276. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-6
+ 277. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-7
+ 278. file:///wiki/D%C3%A9termination_d%27une_fonction_multivalu%C3%A9e
+ 279. file:///wiki/D%C3%A9termination_d%27une_fonction_multivalu%C3%A9e
+ 280. file:///wiki/Demi-droite
+ 281. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=12
+ 282. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=12
+ 283. file:///wiki/Racine_carr%C3%A9e_d%27une_matrice
+ 284. file:///wiki/Matrice_autoadjointe_positive
+ 285. file:///wiki/Endomorphisme_autoadjoint
+--
+ 288. file:///wiki/Espace_de_Hilbert
+ 289. file:///wiki/Op%C3%A9rateur_(math%C3%A9matiques)
+ 290. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=13
+ 291. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=13
+ 292. https://en.wikipedia.org/wiki/Square_root?oldid=755244
+ 293. https://en.wikipedia.org/wiki/Square_root?action=history
+ 294. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-1
+ 295. https://www.unicode.org/charts/fr/PDF/U2200.pdf
+ 296. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-2
+ 297. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-3
+ 298. https://fr.wikiversity.org/wiki/fr:Fonction_racine_carr%C3%A9e
+ 299. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-4
+ 300. https://fr.wikiversity.org/wiki/fr:Fonction_d%C3%A9riv%C3%A9e/D%C3%A9riv%C3%A9es_usuelles#Fonction_racine_carr%C3%A9e
+ 301. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-5
+ 302. file:///wiki/%C3%89quation_cubique
+ 303. file:///wiki/M%C3%A9thode_de_Cardan
+ 304. file:///wiki/Nombre_complexe#Historique
+ 305. file:///wiki/%C3%89quation_cubique#Rapha%C3%ABl_Bombelli
+ 306. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-6
+ 307. file:///wiki/On-Line_Encyclopedia_of_Integer_Sequences
+ 308. file://oeis.org/A010503
+ 309. file:///wiki/OEIS
+ 310. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-7
+ 311. file:///wiki/Surface_de_Riemann
+ 312. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=14
+ 313. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=14
+ 314. https://commons.wikimedia.org/wiki/Racine_carr%C3%A9e?uselang=fr
+ 315. https://fr.wikiversity.org/wiki/Racine_carr%C3%A9e
+ 316. https://fr.wikiversity.org/wiki/%C3%89tude_et_trac%C3%A9_d%27une_fonction/Annexe/Fonction_racine_carr%C3%A9e
+ 317. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=15
+ 318. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=15
+ 319. file:///wiki/%C3%89quation_du_second_degr%C3%A9
+ 320. file:///wiki/Racine_carr%C3%A9e_de_deux
+ 321. file:///wiki/Racine_carr%C3%A9e_de_trois
+ 322. file:///wiki/Racine_carr%C3%A9e_de_cinq
+ 323. file:///wiki/Racine_cubique
+ 324. file:///wiki/Racine_d%27un_nombre_complexe
+ 325. file:///wiki/Racine_n-i%C3%A8me
+ 326. file:///wiki/Nombre_d%27or
+ 327. file:///wiki/Nombre_irrationnel
+--
+ 331. file:///wiki/Fonction_exponentielle
+ 332. file:///wiki/R%C3%A9sidu_quadratique
+ 333. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=16
+ 334. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=16
+ 335. http://oeis.org/search?q=square+root
+ 336. file:///wiki/Encyclop%C3%A9die_en_ligne_des_suites_de_nombres_entiers
+ 337. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=17
+ 338. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=17
+ 339. file:///wiki/David_Eugene_Smith
+ 340. https://books.google.fr/books?id=uTytJGnTf1kC
+--
+ 355. file:///wiki/Portail:Math%C3%A9matiques
+ 356. file:///wiki/Portail:Math%C3%A9matiques
+ 357. https://fr.wikipedia.org/w/index.php?title=Racine_carr%C3%A9e&oldid=220344938
+ 358. file:///wiki/Cat%C3%A9gorie:Accueil
+ 359. file:///wiki/Cat%C3%A9gorie:Racine_carr%C3%A9e
+ 360. file:///wiki/Cat%C3%A9gorie:Fonction_de_r%C3%A9f%C3%A9rence
+ 361. file:///wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences_depuis_mars_2008
+--
+ 372. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr
+ 373. file:///wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques
+ 374. file:///wiki/Sp%C3%A9cial:Citer/Racine_carr%C3%A9e
+ 375. https://wikimediafoundation.org/
+ 376. file:///wiki/501c
+--
+ 383. https://stats.wikimedia.org/#/fr.wikipedia.org
+ 384. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 385. file://fr.m.wikipedia.org/w/index.php?title=Racine_carr%C3%A9e&mobileaction=toggle_view_mobile
+ 386. https://wikimediafoundation.org/
+ 387. https://www.mediawiki.org/
+
+   Hidden links:
+ 389. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html
+ 390. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Histoire
+ 391. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Construction_g%C3%A9om%C3%A9trique_de_la_racine_carr%C3%A9e
+ 392. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Fonction_r%C3%A9elle
+ 393. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Extraction_de_racines_carr%C3%A9es
+ 394. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Racines_carr%C3%A9es_particuli%C3%A8res
+ 395. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Nombre_d'or
+ 396. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Nombres_entiers_sup%C3%A9rieurs_%C3%A0_1_sous_forme_de_racines_carr%C3%A9es
+ 397. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Pi
+ 398. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Notion_alg%C3%A9brique_g%C3%A9n%C3%A9rale
+ 399. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#D%C3%A9finition_alg%C3%A9brique_d'une_racine_carr%C3%A9e
+ 400. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Racines_carr%C3%A9es_de_nombres_complexes
+ 401. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Racines_carr%C3%A9es_de_matrices_et_d%E2%80%99op%C3%A9rateurs
+ 402. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Notes_et_r%C3%A9f%C3%A9rences
+ 403. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Voir_aussi
+ 404. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Articles_connexes
+ 405. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Lien_externe
+ 406. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Bibliographie
+ 407. https://gan.wikipedia.org/wiki/%E5%B9%B3%E6%96%B9%E6%A0%B9
+ 408. file://localhost/wiki/Fichier:2017-fr.wp-orange-source.svg

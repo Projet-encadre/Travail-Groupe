@@ -1,0 +1,66 @@
+
+   En [105]théorie des graphes, un arbre enraciné ou une [106]arborescence
+   est un [107]graphe acyclique orienté possédant une unique racine, et
+   tel que tous les noeuds sauf la racine ont un unique parent.
+
+   En [108]informatique, c'est également une [109]structure de données
+--
+     * les noeuds internes, éléments possédant des fils (sous-branches).
+
+   La racine de l'arbre est l'unique noeud ne possédant pas de parent. Les
+   noeuds (les pères avec leurs fils) sont reliés entre eux par une arête.
+   Selon le contexte, un noeud peut désigner un noeud interne ou externe
+--
+
+   La profondeur d'un noeud est la distance, i.e. le nombre d'arêtes, de
+   la racine au noeud^[112][note 1]. La hauteur d'un arbre est la plus
+   grande profondeur d'une feuille de l'arbre. La taille d'un arbre est
+   son nombre de noeuds (en comptant les feuilles ou non), la longueur de
+--
+       des noeuds et des feuilles ; en effet, toutes les feuilles d'un
+       arbre ne sont pas nécessairement situées à la même « distance » du
+       noeud racine.
+
+Références
+--
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+--
+ 110. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=1
+ 111. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=1
+ 112. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#cite_note-1
+ 113. file:///wiki/Ordre_total
+ 114. file:///wiki/Syst%C3%A8me_de_fichiers
+--
+ 135. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=4
+ 136. file:///wiki/Algorithme_de_parcours_en_largeur
+ 137. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#cite_note-2
+ 138. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=5
+ 139. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=5
+--
+ 177. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=11
+ 178. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=11
+ 179. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#cite_ref-1
+ 180. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#cite_ref-2
+ 181. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=12
+ 182. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=12
+--
+
+   Hidden links:
+ 497. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html
+ 498. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Vocabulaire
+ 499. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Construction
+ 500. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Parcours
+ 501. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Parcours_en_largeur
+ 502. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Parcours_en_profondeur
+ 503. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Voir_aussi
+ 504. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Articles_connexes
+ 505. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Notions_apparent%C3%A9es
+ 506. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Structures_de_donn%C3%A9es_d%C3%A9riv%C3%A9es
+ 507. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Notes_et_r%C3%A9f%C3%A9rences
+ 508. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Notes
+ 509. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#R%C3%A9f%C3%A9rences
+ 510. file://localhost/wiki/Fichier:2017-fr.wp-orange-source.svg

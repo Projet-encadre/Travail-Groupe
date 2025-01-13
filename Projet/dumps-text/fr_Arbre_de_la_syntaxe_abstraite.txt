@@ -1,0 +1,612 @@
+   #[1]alternate [2]Modifier [3]Wikipédia (fr) [4]Flux Atom de Wikipédia
+
+   [5]Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * [6]Accueil
+     * [7]Portails thématiques
+     * [8]Article au hasard
+     * [9]Contact
+
+   Contribuer
+     * [10]Débuter sur Wikipédia
+     * [11]Aide
+     * [12]Communauté
+     * [13]Modifications récentes
+
+   [14]Wikipédia l'encyclopédie libre
+   [15]Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * [16]Faire un don
+     * [17]Créer un compte
+     * [18]Se connecter
+
+   [ ] Outils personnels
+     * [19]Faire un don
+     * [20]Créer un compte
+     * [21]Se connecter
+
+   Pages pour les contributeurs déconnectés [22]en savoir plus
+     * [23]Contributions
+     * [24]Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Utilisation
+
+     2 Voir aussi
+
+     3 Références
+
+     4 Liens externes
+
+   [ ] Basculer la table des matières
+
+Arbre de la syntaxe abstraite
+
+   [ ] 21 langues
+     * [25]a+l+e+r+b+y+tm
+     * [26]Bosanski
+     * [27]Cestina
+     * [28]Deutsch
+     * [29]English
+     * [30]Español
+     * [31]f+a+r+s+
+     * [32]Hrvatski
+     * [33]¡µ¥¥¶
+     * [34]Ido
+     * [35]Italiano
+     * [36]¥¬
+     * [37]­´
+     * [38]Lombard
+     * [39]Polski
+     * [40]Português
+     * [41]Russkij
+     * [42]Ukrayins'ka
+     * [43]Tie>'ng Vie>-.t
+     * [44]­
+     * [45]µ
+
+   [46]Modifier les liens
+
+     * [47]Article
+     * [48]Discussion
+
+   [ ] français
+
+     * [49]Lire
+     * [50]Modifier
+     * [51]Modifier le code
+     * [52]Voir l'historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * [53]Lire
+     * [54]Modifier
+     * [55]Modifier le code
+     * [56]Voir l'historique
+
+   Général
+     * [57]Pages liées
+     * [58]Suivi des pages liées
+     * [59]Téléverser un fichier
+     * [60]Pages spéciales
+     * [61]Lien permanent
+     * [62]Informations sur la page
+     * [63]Citer cette page
+     * [64]Obtenir l'URL raccourcie
+     * [65]Télécharger le code QR
+
+   Imprimer/exporter
+     * [66]Créer un livre
+     * [67]Télécharger comme PDF
+     * [68]Version imprimable
+
+   Dans d'autres projets
+     * [69]Wikimedia Commons
+     * [70]Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   [71]Page d'aide sur l'homonymie
+
+   Pour les articles homonymes, voir [72]ASA et [73]AST.
+   Arbre syntaxique abstrait
+   [74][langfr-260px-Abstract_syntax_tree_for_Euclidean_algorithm.svg.png]
+
+   CAPTION: Présentation
+
+   Type
+   [75]Arbre enraciné[76] Voir et modifier les données sur Wikidata
+
+   [77]modifier - [78]modifier le code - [79]modifier Wikidata[80]
+   Documentation du modèle
+
+   En [81]informatique, un arbre de la syntaxe abstraite ou ASA (abstract
+   syntax tree, ou AST, en anglais) est un [82]arbre dont les noeuds
+   internes sont marqués par des [83]opérateurs et dont les feuilles (ou
+   noeuds externes) représentent les [84]opérandes de ces opérateurs.
+   Autrement dit, généralement, une feuille est une [85]variable ou une
+   [86]constante.
+
+   Un arbre de la syntaxe abstraite est utilisé par un [87]analyseur
+   syntaxique comme un intermédiaire entre un [88]arbre d'analyse et une
+   [89]structure de données. Il est utilisé comme la [90]représentation
+   intermédiaire interne d'un [91]programme informatique pendant qu'il est
+   optimisé et à partir duquel la génération de code est effectuée.
+
+   Un AST diffère d'un arbre d'analyse par l'omission des noeuds et des
+   branches qui n'affectent pas la [92]sémantique d'un programme. Un
+   exemple classique est l'omission des parenthèses de groupement puisque,
+   dans un AST, le groupement des opérandes est explicité par la structure
+   de l'arbre.
+
+   La création d'un arbre de la syntaxe abstraite pour un langage décrit
+   par sa [93]grammaire est généralement facile : la plupart des règles de
+   la grammaire créent un nouveau noeud dont les branches sont les
+   symboles de la règle. Les seules règles qui n'ajoutent pas de symboles
+   à l'arbre sont les règles de groupement, représentées par un noeud
+   (parenthèses, par exemple). Un analyseur syntaxique peut aussi créer un
+   arbre complet, et faire une [94]passe ultérieure pour supprimer les
+   noeuds non utilisés par l'arbre de la syntaxe abstraite. Le schéma
+   représente le code ci-dessous, écrit en [95]Python (calcul d'un
+   [96]PGCD).
+while b != 0:
+    if a > b:
+        a = a - b
+    else:
+        b = b - a
+return a
+
+Utilisation
+
+   [[97]modifier | [98]modifier le code]
+
+   En [99]PHP, l'AST a été introduit depuis la version 7 (en 2016) à la
+   [100]compilation entre le [101]code source et le [102]code
+   machine^[103][1].
+
+Voir aussi
+
+   [[104]modifier | [105]modifier le code]
+     * [106]Table des symboles
+     * [107]Arbre syntaxique
+
+Références
+
+   [[108]modifier | [109]modifier le code]
+    1. [110]^| « [111]Optimisations de performances avec PHP 7 · alter way
+       blog », sur alterway.fr via [112]Wikiwix, 28 avril 2017 (consulté
+       le 21 novembre 2023).
+
+     * (en) Cet article contient des extraits de la [113]Free On-line
+       Dictionary of Computing qui [114]autorise l'utilisation de son
+       contenu sous licence [115]GFDL.
+
+Liens externes
+
+   [[116]modifier | [117]modifier le code]
+     * [118]Notices d'autorité[119] Voir et modifier les données sur
+       Wikidata  :
+          + [120]GND
+     *
+     *
+
+   [121]v · [122]m
+   [123]Arbre enraciné
+   [124]Arbre binaire
+     * [125]Arbre binaire de recherche
+     * [126]Arbre de fouille
+     * [127]Arbre cartésien
+     * [128]MVP Tree [129](en)
+     * [130]Top tree [131](en)
+     * [132]T-tree [133](en)
+
+   [134]Arbre équilibré
+     * [135]AA tree [136](en)
+     * [137]Arbre AVL
+     * [138]LLRB tree [139](en)
+     * [140]Arbre bicolore
+     * [141]Arbre bouc-émissaire
+     * [142]Arbre splay
+     * [143]Treap
+
+   [144]Arbre B
+     * [145]B*-tree [146](en)
+     * [147]Bx-tree [148](en)
+     * [149]UB-tree [150](en)
+     * [151]2-3 tree [152](en)
+     * [153]Arbre 2-3-4
+     * [154](a,b)-tree [155](en)
+     * [156]Dancing tree
+     * [157]Htree [158](en)
+
+   [159]Trie
+     * [160]Arbre des suffixes
+     * [161]Arbre radix
+     * [162]Arbre ternaire de recherche
+     * [163]X-fast trie [164](en)
+     * [165]Y-fast trie [166](en)
+
+   [167]Partition binaire de l'espace trees
+     * [168]Quadtree
+     * [169]Octree
+     * [170]Arbre kd ([171]relaxé)
+     * [172]Implicit k-d tree [173](en)
+     * [174]Vp-tree
+
+   Arbres non binaires
+     * [175]Arbre exponentiel
+     * [176]Fusion tree [177](en)
+     * [178]arbre d'intervalles
+     * [179]arbre PQ
+     * [180]arbre de portée (range tree)
+     * [181]arbre SPQR
+     * [182]arbre de Van Emde Boas
+
+   Arbre de [183]base de données spatiales
+     * [184]R-arbre
+     * [185]R+ tree [186](en)
+     * [187]R* tree [188](en)
+     * [189]X-tree [190](en)
+     * [191]M-tree [192](en)
+     * [193]arbre de segments
+     * [194]Hilbert R-tree [195](en)
+     * [196]Priority R-tree [197](en)
+
+   Autres arbres
+     * [198]Arbre de Merkle
+     * [199]Arbre couvrant de poids minimal
+     * [200]Arbre syntaxique
+     * Arbre de la syntaxe abstraite
+     * [201]Finger tree [202](en)
+     * [203]Order statistic tree [204](en)
+     * [205]Arbre métrique
+     * [206]Cover tree [207](en)
+     * [208]BK-tree [209](en)
+     * [210]Doubly chained tree
+     * [211]iDistance [212](en)
+     * [213]Link-cut tree [214](en)
+     * [215]Fenwick tree [216](en)
+     * [217]Tas
+          + [218]Binaire
+          + [219]Binomial
+          + [220]Fibonacci
+     * [221]Arbre cousu
+
+     * [222]icône décorative [223]Portail de l'informatique théorique
+     * [224]icône décorative [225]Portail de la linguistique
+
+   Ce document provient de
+   « [226]https://fr.wikipedia.org/w/index.php?title=Arbre_de_la_syntaxe_a
+   bstraite&oldid=209861568 ».
+   [227]Catégories:
+     * [228]Théorie de la compilation
+     * [229]Arbre (structure de données)
+
+   Catégories cachées:
+     * [230]Page utilisant P31
+     * [231]Page utilisant P18
+     * [232]Page géolocalisable sans coordonnées paramétrées
+     * [233]Article utilisant une Infobox en Lua
+     * [234]Article utilisant une Infobox
+     * [235]Article de Wikipédia avec notice d'autorité
+     * [236]Page utilisant un modèle Bases inactif
+     * [237]Article utilisant le modèle Dictionnaires inactif
+     * [238]Article contenant un appel à traduction en anglais
+     * [239]Portail:Informatique théorique/Articles liés
+     * [240]Portail:Informatique/Articles liés
+     * [241]Projet:Mathématiques/Articles
+     * [242]Portail:Linguistique/Articles liés
+     * [243]Portail:Langues/Articles liés
+     * [244]Portail:Sciences humaines et sociales/Articles liés
+
+     * La dernière modification de cette page a été faite le 21 novembre
+       2023 à 13:58.
+     * [245]Droit d'auteur : les textes sont disponibles sous [246]licence
+       Creative Commons attribution, partage dans les mêmes conditions ;
+       d'autres conditions peuvent s'appliquer. Voyez les [247]conditions
+       d'utilisation pour plus de détails, ainsi que les [248]crédits
+       graphiques. En cas de réutilisation des textes de cette page, voyez
+       [249]comment citer les auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la [250]Wikimedia Foundation,
+       Inc., organisation de bienfaisance régie par le paragraphe
+       [251]501(c)(3) du code fiscal des États-Unis.
+
+     * [252]Politique de confidentialité
+     * [253]À propos de Wikipédia
+     * [254]Avertissements
+     * [255]Contact
+     * [256]Code de conduite
+     * [257]Développeurs
+     * [258]Statistiques
+     * [259]Déclaration sur les témoins (cookies)
+     * [260]Version mobile
+
+     * [261]Wikimedia Foundation
+     * [262]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://fr.m.wikipedia.org/wiki/Arbre_de_la_syntaxe_abstraite
+   2. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+   8. file:///wiki/Sp%C3%A9cial:Page_au_hasard
+   9. file:///wiki/Wikip%C3%A9dia:Contact
+  10. file:///wiki/Aide:D%C3%A9buter
+  11. file:///wiki/Aide:Accueil
+  12. file:///wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9
+  13. file:///wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes
+  14. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+  15. file:///wiki/Sp%C3%A9cial:Recherche
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  17. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Arbre+de+la+syntaxe+abstraite
+  18. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Arbre+de+la+syntaxe+abstraite
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  20. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Arbre+de+la+syntaxe+abstraite
+  21. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Arbre+de+la+syntaxe+abstraite
+  22. file:///wiki/Aide:Premiers_pas
+  23. file:///wiki/Sp%C3%A9cial:Mes_contributions
+  24. file:///wiki/Sp%C3%A9cial:Mes_discussions
+  25. https://ar.wikipedia.org/wiki/%D8%B4%D8%AC%D8%B1%D8%A9_%D9%86%D8%AD%D9%88_%D9%85%D8%AC%D8%B1%D8%AF
+  26. https://bs.wikipedia.org/wiki/Apstraktno_sintaksno_stablo
+  27. https://cs.wikipedia.org/wiki/Syntaktick%C3%BD_strom
+  28. https://de.wikipedia.org/wiki/Abstrakter_Syntaxbaum
+  29. https://en.wikipedia.org/wiki/Abstract_syntax_tree
+  30. https://es.wikipedia.org/wiki/%C3%81rbol_de_sintaxis_abstracta
+  31. https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D8%AE%D8%AA_%D9%86%D8%AD%D9%88_%D8%A7%D9%86%D8%AA%D8%B2%D8%A7%D8%B9%DB%8C
+  32. https://hr.wikipedia.org/wiki/Apstraktno_sintaksno_stablo
+  33. https://hy.wikipedia.org/wiki/%D4%B1%D5%A2%D5%BD%D5%BF%D6%80%D5%A1%D5%AF%D5%BF_%D5%B7%D5%A1%D6%80%D5%A1%D5%B0%D5%B5%D5%B8%D6%82%D5%BD%D5%A1%D5%AF%D5%A1%D5%B6_%D5%AE%D5%A1%D5%BC
+  34. https://io.wikipedia.org/wiki/Abstrakta_sintax-arboro
+  35. https://it.wikipedia.org/wiki/Albero_sintattico_astratto
+  36. https://ja.wikipedia.org/wiki/%E6%8A%BD%E8%B1%A1%E6%A7%8B%E6%96%87%E6%9C%A8
+  37. https://ko.wikipedia.org/wiki/%EC%B6%94%EC%83%81_%EA%B5%AC%EB%AC%B8_%ED%8A%B8%EB%A6%AC
+  38. https://lmo.wikipedia.org/wiki/Abstract_syntax_tree
+  39. https://pl.wikipedia.org/wiki/Drzewo_sk%C5%82adniowe
+  40. https://pt.wikipedia.org/wiki/%C3%81rvore_sint%C3%A1tica_abstrata
+  41. https://ru.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BD%D0%BE%D0%B5_%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE
+  42. https://uk.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D1%82%D1%80%D0%B0%D0%BA%D1%82%D0%BD%D0%B5_%D1%81%D0%B8%D0%BD%D1%82%D0%B0%D0%BA%D1%81%D0%B8%D1%87%D0%BD%D0%B5_%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE
+  43. https://vi.wikipedia.org/wiki/C%C3%A2y_c%C3%BA_ph%C3%A1p_tr%E1%BB%ABu_t%C6%B0%E1%BB%A3ng
+  44. https://zh.wikipedia.org/wiki/%E6%8A%BD%E8%B1%A1%E8%AA%9E%E6%B3%95%E6%A8%B9
+  45. https://zh-yue.wikipedia.org/wiki/%E6%8A%BD%E8%B1%A1%E5%8F%A5%E6%B3%95%E6%A8%B9
+  46. https://www.wikidata.org/wiki/Special:EntityPage/Q127380#sitelinks-wikipedia
+  47. file:///wiki/Arbre_de_la_syntaxe_abstraite
+  48. file:///wiki/Discussion:Arbre_de_la_syntaxe_abstraite
+  49. file:///wiki/Arbre_de_la_syntaxe_abstraite
+  50. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&veaction=edit
+  51. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=edit
+  52. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=history
+  53. file:///wiki/Arbre_de_la_syntaxe_abstraite
+  54. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&veaction=edit
+  55. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=edit
+  56. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=history
+  57. file:///wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Arbre_de_la_syntaxe_abstraite
+  58. file:///wiki/Sp%C3%A9cial:Suivi_des_liens/Arbre_de_la_syntaxe_abstraite
+  59. file:///wiki/Aide:Importer_un_fichier
+  60. file:///wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+  61. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&oldid=209861568
+  62. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=info
+  63. file:///w/index.php?title=Sp%C3%A9cial:Citer&page=Arbre_de_la_syntaxe_abstraite&id=209861568&wpFormIdentifier=titleform
+  64. file:///w/index.php?title=Sp%C3%A9cial:UrlShortener&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FArbre_de_la_syntaxe_abstraite
+  65. file:///w/index.php?title=Sp%C3%A9cial:QrCode&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FArbre_de_la_syntaxe_abstraite
+  66. file:///w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Arbre+de+la+syntaxe+abstraite
+  67. file:///w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Arbre_de_la_syntaxe_abstraite&action=show-download-screen
+  68. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&printable=yes
+  69. https://commons.wikimedia.org/wiki/Category:Abstract_syntax_trees
+  70. https://www.wikidata.org/wiki/Special:EntityPage/Q127380
+  71. file:///wiki/Aide:Homonymie
+  72. file:///wiki/ASA
+  73. file:///wiki/AST
+  74. file:///w/index.php?title=Fichier:Abstract_syntax_tree_for_Euclidean_algorithm.svg&lang=fr
+  75. file:///wiki/Arbre_enracin%C3%A9
+  76. https://www.wikidata.org/wiki/Q127380?uselang=fr#P31
+  77. https://fr.wikipedia.org/w/index.php?title=Arbre_de_la_syntaxe_abstraite&veaction=edit&section=0
+  78. https://fr.wikipedia.org/w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=edit&section=0
+  79. https://www.wikidata.org/wiki/Q127380
+  80. file:///wiki/Mod%C3%A8le:Infobox
+  81. file:///wiki/Informatique
+  82. file:///wiki/Arbre_(informatique)
+  83. file:///wiki/Op%C3%A9rateur_(informatique)
+  84. file:///wiki/Op%C3%A9rande
+  85. file:///wiki/Variable_(informatique)
+  86. file:///wiki/Constante_(programmation_informatique)
+  87. file:///wiki/Analyseur_syntaxique
+  88. file:///w/index.php?title=Arbre_d%27analyse&action=edit&redlink=1
+  89. file:///wiki/Structure_de_donn%C3%A9es
+  90. file:///wiki/Repr%C3%A9sentation_interm%C3%A9diaire
+  91. file:///wiki/Programme_informatique
+  92. file:///wiki/S%C3%A9mantique
+  93. file:///wiki/Grammaire
+  94. file:///wiki/Passe_(technique)
+  95. file:///wiki/Python_(langage)
+  96. file:///wiki/Plus_grand_commun_diviseur
+  97. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&veaction=edit&section=1
+  98. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=edit&section=1
+  99. file:///wiki/PHP
+ 100. file:///wiki/Compilateur
+ 101. file:///wiki/Code_source
+ 102. file:///wiki/Code_machine
+ 103. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#cite_note-1
+ 104. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&veaction=edit&section=2
+ 105. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=edit&section=2
+ 106. file:///wiki/Table_des_symboles
+ 107. file:///wiki/Arbre_syntaxique
+ 108. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&veaction=edit&section=3
+ 109. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=edit&section=3
+ 110. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#cite_ref-1
+ 111. https://archive.wikiwix.com/cache/20181129124658/https://blog.alterway.fr/post/2017/04/28/optimisations-de-performances-avec-php-7/
+ 112. file:///wiki/Wikiwix
+ 113. file:///wiki/Free_On-line_Dictionary_of_Computing
+ 114. https://en.wikipedia.org/wiki/Wikipedia:Foldoc_license
+ 115. file:///wiki/Licence_de_documentation_libre_GNU
+ 116. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&veaction=edit&section=4
+ 117. file:///w/index.php?title=Arbre_de_la_syntaxe_abstraite&action=edit&section=4
+ 118. file:///wiki/Autorit%C3%A9_(sciences_de_l%27information)
+ 119. https://www.wikidata.org/wiki/Q127380?uselang=fr#identifiers
+ 120. http://d-nb.info/gnd/4702177-9
+ 121. file:///wiki/Mod%C3%A8le:Palette_Arbres_informatiques
+ 122. https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Arbres_informatiques&action=edit
+ 123. file:///wiki/Arbre_enracin%C3%A9
+ 124. file:///wiki/Arbre_binaire
+ 125. file:///wiki/Arbre_binaire_de_recherche
+ 126. file:///wiki/Arbre_de_fouille
+ 127. file:///wiki/Arbre_cart%C3%A9sien
+ 128. file:///w/index.php?title=MVP_Tree&action=edit&redlink=1
+ 129. https://en.wikipedia.org/wiki/MVP_Tree
+ 130. file:///w/index.php?title=Top_tree&action=edit&redlink=1
+ 131. https://en.wikipedia.org/wiki/Top_tree
+ 132. file:///w/index.php?title=T-tree&action=edit&redlink=1
+ 133. https://en.wikipedia.org/wiki/T-tree
+ 134. file:///wiki/Arbre_%C3%A9quilibr%C3%A9
+ 135. file:///w/index.php?title=AA_tree&action=edit&redlink=1
+ 136. https://en.wikipedia.org/wiki/AA_tree
+ 137. file:///wiki/Arbre_AVL
+ 138. file:///w/index.php?title=LLRB_tree&action=edit&redlink=1
+ 139. https://en.wikipedia.org/wiki/LLRB_tree
+ 140. file:///wiki/Arbre_bicolore
+ 141. file:///wiki/Arbre_bouc-%C3%A9missaire
+ 142. file:///wiki/Arbre_splay
+ 143. file:///wiki/Treap
+ 144. file:///wiki/Arbre_B
+ 145. file:///w/index.php?title=B*-tree&action=edit&redlink=1
+ 146. https://en.wikipedia.org/wiki/B*-tree
+ 147. file:///w/index.php?title=Bx-tree&action=edit&redlink=1
+ 148. https://en.wikipedia.org/wiki/Bx-tree
+ 149. file:///w/index.php?title=UB-tree&action=edit&redlink=1
+ 150. https://en.wikipedia.org/wiki/UB-tree
+ 151. file:///w/index.php?title=2-3_tree&action=edit&redlink=1
+ 152. https://en.wikipedia.org/wiki/2-3_tree
+ 153. file:///wiki/Arbre_2-3-4
+ 154. file:///w/index.php?title=(a,b)-tree&action=edit&redlink=1
+ 155. https://en.wikipedia.org/wiki/(a,b)-tree
+ 156. file:///wiki/Dancing_tree
+ 157. file:///w/index.php?title=Htree&action=edit&redlink=1
+ 158. https://en.wikipedia.org/wiki/Htree
+ 159. file:///wiki/Trie_(informatique)
+ 160. file:///wiki/Arbre_des_suffixes
+ 161. file:///wiki/Arbre_radix
+ 162. file:///wiki/Arbre_ternaire_de_recherche
+ 163. file:///w/index.php?title=X-fast_trie&action=edit&redlink=1
+ 164. https://en.wikipedia.org/wiki/X-fast_trie
+ 165. file:///w/index.php?title=Y-fast_trie&action=edit&redlink=1
+ 166. https://en.wikipedia.org/wiki/Y-fast_trie
+ 167. file:///wiki/Partition_binaire_de_l%27espace
+ 168. file:///wiki/Quadtree
+ 169. file:///wiki/Octree
+ 170. file:///wiki/Arbre_kd
+ 171. file:///wiki/Arbre_kd_relax%C3%A9
+ 172. file:///w/index.php?title=Implicit_k-d_tree&action=edit&redlink=1
+ 173. https://en.wikipedia.org/wiki/Implicit_k-d_tree
+ 174. file:///wiki/Vantage_point_tree
+ 175. file:///wiki/Arbre_exponentiel
+ 176. file:///w/index.php?title=Fusion_tree&action=edit&redlink=1
+ 177. https://en.wikipedia.org/wiki/Fusion_tree
+ 178. file:///wiki/Arbre_d%27intervalles
+ 179. file:///wiki/Arbre_PQ
+ 180. file:///wiki/Arbre_de_port%C3%A9e
+ 181. file:///wiki/Arbre_SPQR
+ 182. file:///wiki/Arbre_de_Van_Emde_Boas
+ 183. file:///wiki/Base_de_donn%C3%A9es_spatiales
+ 184. file:///wiki/R-arbre
+ 185. file:///w/index.php?title=R%2B_tree&action=edit&redlink=1
+ 186. https://en.wikipedia.org/wiki/R%2B_tree
+ 187. file:///w/index.php?title=R*_tree&action=edit&redlink=1
+ 188. https://en.wikipedia.org/wiki/R*_tree
+ 189. file:///w/index.php?title=X-tree&action=edit&redlink=1
+ 190. https://en.wikipedia.org/wiki/X-tree
+ 191. file:///w/index.php?title=M-tree&action=edit&redlink=1
+ 192. https://en.wikipedia.org/wiki/M-tree
+ 193. file:///wiki/Arbre_de_segments
+ 194. file:///w/index.php?title=Hilbert_R-tree&action=edit&redlink=1
+ 195. https://en.wikipedia.org/wiki/Hilbert_R-tree
+ 196. file:///w/index.php?title=Priority_R-tree&action=edit&redlink=1
+ 197. https://en.wikipedia.org/wiki/Priority_R-tree
+ 198. file:///wiki/Arbre_de_Merkle
+ 199. file:///wiki/Arbre_couvrant_de_poids_minimal
+ 200. file:///wiki/Arbre_syntaxique
+ 201. file:///w/index.php?title=Finger_tree&action=edit&redlink=1
+ 202. https://en.wikipedia.org/wiki/Finger_tree
+ 203. file:///w/index.php?title=Order_statistic_tree&action=edit&redlink=1
+ 204. https://en.wikipedia.org/wiki/Order_statistic_tree
+ 205. file:///wiki/Arbre_m%C3%A9trique
+ 206. file:///w/index.php?title=Cover_tree&action=edit&redlink=1
+ 207. https://en.wikipedia.org/wiki/Cover_tree
+ 208. file:///w/index.php?title=BK-tree&action=edit&redlink=1
+ 209. https://en.wikipedia.org/wiki/BK-tree
+ 210. file:///wiki/Doubly_chained_tree
+ 211. file:///w/index.php?title=IDistance&action=edit&redlink=1
+ 212. https://en.wikipedia.org/wiki/iDistance
+ 213. file:///w/index.php?title=Link-cut_tree&action=edit&redlink=1
+ 214. https://en.wikipedia.org/wiki/Link-cut_tree
+ 215. file:///w/index.php?title=Fenwick_tree&action=edit&redlink=1
+ 216. https://en.wikipedia.org/wiki/Fenwick_tree
+ 217. file:///wiki/Tas_(informatique)
+ 218. file:///wiki/Tas_binaire
+ 219. file:///wiki/Tas_binomial
+ 220. file:///wiki/Tas_de_Fibonacci
+ 221. file:///wiki/Arbre_cousu
+ 222. file:///wiki/Portail:Informatique_th%C3%A9orique
+ 223. file:///wiki/Portail:Informatique_th%C3%A9orique
+ 224. file:///wiki/Portail:Linguistique
+ 225. file:///wiki/Portail:Linguistique
+ 226. https://fr.wikipedia.org/w/index.php?title=Arbre_de_la_syntaxe_abstraite&oldid=209861568
+ 227. file:///wiki/Cat%C3%A9gorie:Accueil
+ 228. file:///wiki/Cat%C3%A9gorie:Th%C3%A9orie_de_la_compilation
+ 229. file:///wiki/Cat%C3%A9gorie:Arbre_(structure_de_donn%C3%A9es)
+ 230. file:///wiki/Cat%C3%A9gorie:Page_utilisant_P31
+ 231. file:///wiki/Cat%C3%A9gorie:Page_utilisant_P18
+ 232. file:///wiki/Cat%C3%A9gorie:Page_g%C3%A9olocalisable_sans_coordonn%C3%A9es_param%C3%A9tr%C3%A9es
+ 233. file:///wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox_en_Lua
+ 234. file:///wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox
+ 235. file:///wiki/Cat%C3%A9gorie:Article_de_Wikip%C3%A9dia_avec_notice_d%27autorit%C3%A9
+ 236. file:///wiki/Cat%C3%A9gorie:Page_utilisant_un_mod%C3%A8le_Bases_inactif
+ 237. file:///wiki/Cat%C3%A9gorie:Article_utilisant_le_mod%C3%A8le_Dictionnaires_inactif
+ 238. file:///wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais
+ 239. file:///wiki/Cat%C3%A9gorie:Portail:Informatique_th%C3%A9orique/Articles_li%C3%A9s
+ 240. file:///wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s
+ 241. file:///wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles
+ 242. file:///wiki/Cat%C3%A9gorie:Portail:Linguistique/Articles_li%C3%A9s
+ 243. file:///wiki/Cat%C3%A9gorie:Portail:Langues/Articles_li%C3%A9s
+ 244. file:///wiki/Cat%C3%A9gorie:Portail:Sciences_humaines_et_sociales/Articles_li%C3%A9s
+ 245. file:///wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia
+ 246. https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+ 247. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr
+ 248. file:///wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques
+ 249. file:///wiki/Sp%C3%A9cial:Citer/Arbre_de_la_syntaxe_abstraite
+ 250. https://wikimediafoundation.org/
+ 251. file:///wiki/501c
+ 252. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/fr
+ 253. file:///wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia
+ 254. file:///wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux
+ 255. file://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contact
+ 256. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 257. https://developer.wikimedia.org/
+ 258. https://stats.wikimedia.org/#/fr.wikipedia.org
+ 259. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 260. file://fr.m.wikipedia.org/w/index.php?title=Arbre_de_la_syntaxe_abstraite&mobileaction=toggle_view_mobile
+ 261. https://wikimediafoundation.org/
+ 262. https://www.mediawiki.org/
+
+   Hidden links:
+ 264. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html
+ 265. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#Utilisation
+ 266. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#Voir_aussi
+ 267. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#R%C3%A9f%C3%A9rences
+ 268. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_de_la_syntaxe_abstraite.html#Liens_externes

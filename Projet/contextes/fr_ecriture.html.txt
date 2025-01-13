@@ -1,0 +1,56 @@
+
+    Quand je disais que cette langue fait une différence profonde entre
+   racines et suffixes, cela se voit aussi au niveau du système
+   d'écriture. Ainsi, les racines en Azak s'écrivent à l'aide d'un
+   [1]alphabet tandis que les suffixes s'écrivent à l'aide d'un
+   [2]syllabaire dont l'origine semble être complètement différente tant
+--
+
+     L'alphabet.
+        L'alphabet ne sert à écrire que les racines. Il est formé de
+       lettres assez anguleuses et plus hautes que larges. Voyez
+       ci-dessous cet alphabet mis dans l'ordre traditionnel (de droite à
+--
+        Les suffixes étant parfaitement définis, il n'est pas nécessaire
+       de discuter de leur structure. Seule la structure de la syllabe
+       dans la racine nous intéresse ici. La structure de la syllabe peut
+       être résumée par le schéma suivant : ((C)V)C. Oui, vous avez bien
+       vu, une syllabe peut n'être composée que d'une consonne, et il
+       existe des racines composées d'une seule consonne ! Il existe une
+       règle supplémentaire qui dit que les suites de trois consonnes ou
+       plus sont interdites, ainsi que les suites de deux consonnes en
+--
+        L'Azak possède un accent tonique de mot qui consiste à appuyer sur
+       la voyelle tonique (comme en espagnol). Cet accent porte toujours
+       sur la dernière voyelle du radical (racine ou mot composé), ou sur
+       la première voyelle du premier suffixe si la racine est formée
+       d'une unique consonne. Comme l'[8]alphabet et le [9]syllabaire à
+       l'écrit, l'accent tonique sert à différencier les racines des
+       suffixes à l'oral. Dans un mot composé, seule la dernière racine
+       possède un véritable accent tonique, mais les autres racines
+       possèdent aussi un accent secondaire plus faible.
+        Comme la transcription latine peut créer des ambiguïtés en ce qui
+       concerne la séparation entre racine et suffixes (ambiguïtés qui
+       n'existent pas avec l'écriture azak, ce qui explique pourquoi
+       l'accent tonique n'est pas noté), j'ai adopté une convention qui
+       consiste à relier les suffixes entre eux et avec la racine avec des
+       tirets. S'il faut mettre en relief le fait qu'un mot est composé,
+       cela sera fait en séparant les racines par des points.
+     __________________________________________________________________
+
+--
+References
+
+   1. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ecriture.html#alphabet
+   2. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ecriture.html#syllabaire
+   3. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ecriture.html#prononciation
+   4. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ecriture.html#alphabet
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ecriture.html#alphabet
+   6. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/Grammaire/externe.html#contextuel
+   7. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ecriture.html
+   8. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ecriture.html#alphabet
+   9. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ecriture.html#syllabaire
+  10. mailto:rainbow.conlang@free.fr
+  11. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/intro.html
+  12. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ecriture.html#debut
+  13. mailto:rainbow.conlang@free.fr

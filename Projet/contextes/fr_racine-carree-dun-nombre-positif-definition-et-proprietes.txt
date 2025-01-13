@@ -1,0 +1,160 @@
+          + [56]Contact
+
+Racine carrée d'un nombre positif. Définition et propriétés
+
+   (BUTTON) Racine carrée d'un nombre réel positif
+    1. [57]Découverte de la racine carrée d'un nombre réel positif
+    2. [58]Définition et propriétés de la racine carrée
+    3. [59]Comment simplifier ou réduire une racine carrée ?
+    4. [60]Comment calculer une expression avec des racines carrées ?
+    5. [61]Comment réduire une somme ou un produit avec les racines
+       carrées ?
+    6. [62]Résolution d'équations de la forme $x^2=a$
+    7. [63]Applications des identités remarquables aux racines carrées.
+    8. [64]Rendre rationnel un dénominateur.
+       Applications en géométrie
+--
+     __________________________________________________________________
+
+1. Racine carrée d'un nombre positif
+
+1.1. Définitions et exemples
+--
+   Soit $a$ un nombre positif.
+   Il existe un seul nombre positif $c$ dont le carré est égal à $a$. Ce
+   nombre est appelé « racine carrée de $a$ » et se note $\sqrt{a}$. Ce
+   qui donne : $$ \boxed{\; c=\sqrt{a}\quad\text{si et seulement si}\quad
+   c^2=a\;}$$ Le symbole $\sqrt{{.}}$ s'appelle un « radical ».
+--
+   $\sqrt{25}=5$ car $5^2=25$ et $5 > 0$.
+
+   $\sqrt{25}\not=-5$ car $(-5)^2=25$, mais $-5<0$. La racine carrée d'un
+   nombre réel positif est un nombre réel positif.
+
+--
+   $(P_3)$ : $\sqrt{a^2}=a$.
+   L'attribut alt de cette image est vide, son nom de fichier est
+   ReciprociteCarreRacine-1024x349.jpg. Réciprocité des opérations «
+   Élever au carré » et « Prendre la racine carrée »
+
+   En effet :
+
+   1°) Par définition, la racine carrée d'un nombre positif est un nombre
+   positif. Et $0$ est le seul nombre positif dont le carré est égal à
+   $0$. On obtient les deux propriétés $(P_0)$ et $(P_1)$.
+--
+   obtient la propriété $(P_{2bis})$.
+
+   3°) Si $a\geqslant0$, donc par définition de la racine carrée,
+   $(\sqrt{a^2})^2=a^2$. Or est le seul nombre positif dont le carré est
+   égal à $a^2$ est $a$ lui-même. Donc, $\sqrt{a^2}=a$. On obtient la
+--
+   $\sqrt{N}$ est un nombre irrationnel.
+
+2. Opérations et racines carrées
+
+2.1. Racine carrée et multiplication
+
+   Propriété 4.
+   Soient $a$ et $b$ deux nombres positifs. Alors, la racine carrée du
+   produit est égal au produit des racines carrées : $$(P_4):\quad
+   \boxed{\; \sqrt{ab}=\sqrt{a}\times\sqrt{b}\;}$$
+
+   On dit que « La racine carrée est compatible (c'est-à-dire qui se marie
+   bien) avec la multiplication ».
+
+--
+   $\sqrt{8}\times\sqrt{2}=\sqrt{8\times2}=\sqrt{16}= \boxed{\; 4\;}$.
+
+2.2. Racine carrée et quotient
+
+   Propriété 5.
+   Soient $a$ et $b$ deux nombres positifs, $b\not=0$. Alors, la racine
+   carrée du quotient est égal au quotient des racines carrées :
+   $$(P_5):\quad \boxed{\;
+   \sqrt{\dfrac{a}{b}}=\dfrac{\sqrt{a}}{\sqrt{b}}\;}$$
+
+   On dit que « La racine carrée est compatible avec la division ».
+
+Exemple
+--
+   }}\;}$
+
+2.3. Racine carrée et addition
+
+   Propriété 6.
+   Soient $a$ et $b$ deux nombres positifs non nuls. Alors, en général, la
+   somme des deux racines carrées n'est pas égale à la racine carrée de la
+   somme : $$(P_6):\quad \boxed{\; \sqrt{a+b}\not=\sqrt{a}+\sqrt{b}\;}$$
+
+   On dit que « La racine carrée est n'est pas compatible avec l'addition
+   ».
+
+--
+   Donc, on a bien : $\sqrt{16+9}\not=\sqrt{16}+\sqrt{9}$.
+
+3.4) Racine carrée et soustraction
+
+   Propriété 7.
+   Soient $a$ et $b$ deux nombres positifs non nuls, $a>b$. Alors, en
+   général, la différence des deux racines carrées n'est pas égale à la
+   racine carrée de la différence : $$(P_7):\quad \boxed{\;
+   \sqrt{a-b}\not=\sqrt{a}-\sqrt{b}\;}$$
+
+   On dit que « La racine carrée est n'est pas compatible avec la
+   soustraction ».
+
+--
+   Donc, on a bien : $\sqrt{16-9}\not=\sqrt{16}-\sqrt{9}$.
+
+3. Comment simplifier ou réduire une racine carrée ?
+
+   Définition 3.
+   Simplifier ou réduire la racine carrée $\sqrt{18}$ revient à l'écrire
+   sous la forme $a\sqrt{b}$, où $a$ et $b$ sont des entiers et le nombre
+   $b$ sous le radical est le plus petit possible !
+
+   Pour simplifier ou réduire la racine carrée d'un nombre entier, il faut
+   commencer par le décomposer au maximum à l'aide des nombres entiers
+   carrés parfaits : $0$ ; $1$ ; $4$ ; $9$ ; $16$ ; $25$ ; $36$ ; $49$ ;
+--
+   \end{array}$$
+
+   Comme vous le voyez, pour simplifier ou réduire une racine carrée, nous
+   allons utiliser les nombres entiers carrés parfaits et les propriétés
+   des racines carrées. On va donc en rajouter une à partir de $(P_3)$ et
+   $(P_4)$ :
+
+   Propriété 8. simplification des racine carrées.
+   Soient k et a deux nombres positifs. Alors : $$(P_8):\quad \boxed{\;
+   \sqrt{k^2a}=k\sqrt{a}\;}$$
+--
+
+   Exercice résolu n°1.
+   Écrire les racines carrées suivantes sous la forme $a\sqrt{b}$, où $a$
+   et $b$ sont des entiers et le nombre $b$ sous le radical est le plus
+   petit possible !
+--
+
+   Exercice résolu n°2.
+   Écrire les nombres suivant sous la forme de d'une seule racine carrée.
+   $7\sqrt{2}$ ; $4\sqrt{5}$ et $3\sqrt{11}$.
+   (BUTTON) Corrigé Exercice 2.
+--
+
+   Exercice résolu n°3.
+   Écrire les nombres suivant sous la forme de d'une seule racine carrée.
+   $\dfrac{2}{3}\sqrt{5}$ et $\dfrac{5}{\sqrt{2}}$.
+   (BUTTON) Corrigé Exercice 3.
+--
+  55. https://www.logamaths.fr/calendrier-des-vacances-scolaires-zone-a/
+  56. https://www.logamaths.fr/contact/
+  57. https://www.logamaths.fr/decouverte-de-la-racine-carree-dun-nombre-reel-positif/
+  58. https://www.logamaths.fr/racine-carree-dun-nombre-positif-definition-et-proprietes/
+  59. https://www.logamaths.fr/comment-simplifier-ou-reduire-une-racine-carree/
+  60. https://www.logamaths.fr/comment-reduire-une-somme-ou-un-produit-avec-des-racines-carrees/
+  61. https://www.logamaths.fr/comment-reduire-une-somme-ou-un-produit-avec-des-racines-carrees/
+  62. https://www.logamaths.fr/resolution-dequations-de-la-forme-x-au-carre-egal-a/
+  63. https://www.logamaths.fr/applications-des-identites-remarquables-aux-racines-carrees/
+  64. https://www.logamaths.fr/rendre-rationnel-un-denominateur/
+  65. https://www.logamaths.fr/calcul-de-la-diagonale-d-dun-carre-en-fonction-de-la-longueur-du-cote-a/

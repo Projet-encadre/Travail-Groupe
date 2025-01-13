@@ -1,0 +1,1459 @@
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Rôles de la racine
+
+     2 Structure de la racine
+   (BUTTON) Afficher/masquer la sous-section Structure de la racine
+     * 2.1 Morphologie
+
+     * 2.1.1 Types de racines spécialisées
+
+     2.1.2 Différentes formes de racines
+
+     2.1.3 Ramification
+--
+
+
+   4 Racine et génie végétal
+
+
+--
+
+
+   8 Profondeur des racines
+
+   (BUTTON) Afficher/masquer la sous-section Profondeur des racines
+     * 8.1 Records de profondeur
+
+
+
+   9 Les racines et l'humain
+
+   (BUTTON) Afficher/masquer la sous-section Les racines et l'humain
+     * 9.1 Importance économique
+
+--
+   [ ] Basculer la table des matières
+
+Racine (botanique)
+
+   [ ] 126 langues
+--
+   [176]Page d'aide sur l'homonymie
+
+   Pour les articles homonymes, voir [177]Racine.
+   [178][220px-Pinus_silvestris_roots001xx.jpg] Racines de [179]pins
+   sylvestres (Pinus sylvestris). Les systèmes racinaires peuvent faire
+   des [180]anastomoses intra ou inter-individus^[181][1] qui font partie,
+--
+   qui joue un rôle dans les mécanismes d'assemblage de
+   [183]communautés^[184][2].[185][220px-Bosque_dos_Jequitib%C3%A1s_-_IMG_
+   9971.jpg] Racines-[186]contreforts (fréquentes en [187]forêt
+   tropicale).[188][220px-Roots_of_hedera_helix_and_other_plants_delaminat
+   ed_from_brick_wall_near_water_Lamiot_2016_07.jpg] Tapis de racines de
+   [189]lierre grimpant (Hedera helix), et de [190]graminées.
+
+   En [191]botanique, la racine est l'organe souterrain d'une [192]plante
+   servant à la fixer au [193]sol et à y puiser l'[194]eau et les
+   [195]éléments nutritifs nécessaires à son développement. Prolongement
+   de la [196]tige vers le bas (pas toujours, la racine peut être issue de
+   la radicule, organe embryonnaire, lorsque la tige est issue de la
+   tigelle), elle en diffère par plusieurs caractères : sa structure
+--
+   fondamentalement de la tige.
+
+   Les racines sont souvent le siège de [202]symbioses avec les
+   [203]bactéries et les [204]champignons du sol, en particulier pour le
+   [205]métabolisme de l'azote. Les racines peuvent présenter des
+   adaptations afin de faciliter le développement de la plante dans un
+   environnement particulier (exemple des racines du [206]palétuvier).
+   Dans certains cas les racines servent aussi à stocker des nutriments
+   (exemple du [207]radis, la [208]betterave, le [209]navet, etc.).
+   Certaines racines de plantes sont comestibles ou à usage médicinal,
+   d'autres sont hautement toxiques.
+
+   Les racines sont les organes cibles des [210]herbicides racinaires,
+   qu'on emploie pour lutter contre les [211]adventices.
+
+Rôles de la racine
+
+   [[212]modifier | [213]modifier le code]
+   [214][220px-Racine_-_240.jpg] Racine déformée et sortie du sol.
+
+   La racine est un organe vital de la plante, qui se forme très tôt lors
+   du développement de la plante, dès le début de la [215]germination.
+   Elle a plusieurs rôles au sein de la plante :
+     * ancrage au sol (sol plus ou moins meuble) ou sur une paroi ; selon
+       la [216]granulométrie du substrat, les racines ligneuses, dont le
+       diamètre peut aller de quelques millimètres à plusieurs décimètres,
+       se développent et se ramifient plus ou moins. l'aspect du système
+       racinaire change généralement d'une espèce de plante à une autre :
+       un [217]chêne a des racines développées en profondeur, alors qu'un
+       [218]peuplier a un système racinaire de surface^[219][3]. « Une
+       défaillance de cet ancrage peut causer des [220]chablis ou un
+--
+       suffisamment d'énergie et peut ainsi engendrer la casse du tronc
+       ([221]volis)^[222][4] » ;
+     * fonction de tuteur. Certains végétaux développent des racines
+       aériennes (situées au-dessus de la surface du sol) qui ont pour
+       origine des [223]méristèmes apicaux racinaires situés dans une
+       partie plus haute de la plante qu'habituellement. Ces racines ont
+       une fonction de tuteur en s'ancrant dans le sol de part et d'autre
+       de la plante et en l'empêchant de se courber ;
+--
+       mobilisation de ces ressources qui sont essentiellement sous forme
+       de glucides (sucres solubles et amidon stockés dans le parenchyme
+       ligneux de l'aubier des branches et des racines), de lipides
+       (surtout des triglycérides, comme dans le cas des [228]Ailanthus
+       sp.) et de protéines de réserve (albumines, globulines, prolamines
+--
+       micro-organismes (bactéries et champignons) qui vont, par exemple,
+       aider à la solubilisation du phosphore, à la fixation de l'azote
+       atmosphérique, au développement de racines secondaires ;
+     * décolmatage du sol ;
+     * création de sol. Les molécules et enzymes sécrétés par les racines
+       et leurs manchons symbiotiques contribuent à la formation du sol.
+       Les racines de nombreux arbres sécrètent des acides organiques
+       assez puissants pour ronger les pierres [230]calcaires et en
+       libérer le [231]calcium et d'autres minéraux utiles pour les
+       espèces qui produisent et exploitent l'[232]humus ;
+     * communication. Certaines espèces d'arbres peuvent [233]anastomoser
+       leurs racines à celles d'arbres de la même espèce et ainsi mettre
+       en commun des ressources hydriques et nutritives. Ces anastomoses
+       peuvent aider une souche ou un arbre gravement blessé à survivre et
+--
+       physique, des communications via le tissu [237]mycorhizien peuvent
+       exister. L'anastomose ne doit pas être confondue avec la production
+       d'un nouvel arbre ([238]clone) à partir d'une racine.
+
+   On a découvert que des linéaires d'arbres, des bosquets, voire des
+--
+   l'occasion du passage rapide de pathogènes d'un arbre à l'autre lorsque
+   l'un des arbres est infecté.
+     * [239]De nombreux arbres tropicaux ont des racines et contreforts
+       solides leur permettant de pousser sur des milieux a priori
+       hostiles, Angkor Vat, Cambodge.
+       De nombreux arbres tropicaux ont des racines et contreforts solides
+       leur permettant de pousser sur des milieux a priori hostiles,
+       [240]Angkor Vat, [241]Cambodge.
+     * [242]Dans toutes les forêts primaires les racines exploitent
+       volontiers les nutriments du bois mort, ici au fur et à mesure de
+       sa décomposition, qui facilite la mycorhization des radicelles,
+       réserve de parc national Pacific Rim, Colombie-Britannique, Canada.
+       Dans toutes les forêts primaires les racines exploitent volontiers
+       les nutriments du bois mort, ici au fur et à mesure de sa
+       décomposition, qui facilite la [243]mycorhization des radicelles,
+       [244]réserve de parc national Pacific Rim,
+       [245]Colombie-Britannique, [246]Canada.
+     * [247]Les racines jouent un rôle majeur dans le maintien des berges,
+       Schwielowsee, Brandebourg, Allemagne.
+       Les racines jouent un rôle majeur dans le maintien des [248]berges,
+       Schwielowsee, Brandebourg, Allemagne.
+     * [249]Pont naturel constitué de racines, Meghalaya, Inde.
+       Pont naturel constitué de racines, [250]Meghalaya, [251]Inde.
+
+Structure de la racine
+
+   [[252]modifier | [253]modifier le code]
+--
+   [[254]modifier | [255]modifier le code]
+
+   La jeune racine présente, en partant de son extrémité, une zone
+   embryonnaire qui constitue le pôle de croissance, protégée par une
+   [256]coiffe conique composée de cellules subérifiées se renouvelant
+   constamment. Cette coiffe, par la sécrétion de polyosides, a un rôle
+   lubrifiant afin de permettre une meilleure pénétration de la racine
+   dans le sol. Au sein de la coiffe, des cellules spécifiques, les
+   [257]statocytes, sont impliquées dans la perception de la gravité grâce
+--
+   l'eau et des [263]sels minéraux par [264]osmose. La présence de ces
+   nombreux poils permet d'augmenter considérablement la surface
+   d'absorption de la racine. Ces poils meurent très vite et sont
+   remplacés par d'autres au fur et à mesure de la croissance de la
+   racine, ce qui fait que la zone pilifère est globalement toujours de la
+   même taille. La zone suivante est une couche de cellules enrichies en
+   [265]subérine appelée assise subéreuse. Les racines secondaires issues
+   du [266]péricycle situé autour du [267]faisceau conducteur, permettent
+   d'accroître l'étendue du tissu racinaire. Leur morphologie est
+   comparable à celle de la racine principale. Les plus fines racines
+   secondaires sont appelées les [268]radicelles et comportent
+   généralement beaucoup de poils absorbants.
+
+   Les racines fines représentent moins de 10 % de la masse totale d'un
+   arbre mais forment un chevelu racinaire (appelé aussi tapis racinaire)
+   qui correspond à 90 % de sa longueur. Les arbres dans les sols riches
+   peuvent développer plusieurs millions d'extrémités de ces racines fines
+   par mètre carré et sur 30 cm de profondeur^[269][7].
+
+   Chez les [270]plantes ligneuses coexistent deux types de racines
+   (phénomène connu sous le nom d'hétérorhizie, caractéristique des arbres
+   à [271]ectomycorhizes) : les macrorhizes (littéralement « racines
+   longues ») qui sont des racines secondaires de structure, assurant
+   l'ancrage mécanique et explorant le sol sur de grandes distances ; les
+   brachyrhizes (littéralement « racines courtes »), racines primaires
+   analogues à des feuilles souterraines, l'[272]activité photosynthétique
+   en moins^[273][8]. Ces racines fines absorbent l'eau et les sels
+   minéraux du sol et sont le siège de la symbiose
+   [274]ectomycorhizienne^[275][9]. Comme les feuilles, elles
+--
+   formant une « [277]litière souterraine »^[278][10].
+
+Types de racines spécialisées
+
+   [[279]modifier | [280]modifier le code]
+   [281][220px-Shukugawa04s3872.jpg] Sur sol sableux, les résineux étalent
+   parfois largement leurs racines traçantes. L'épaississement de leur
+   face supérieure dans la ZRT^[282][11] les rend visible près de la
+   [283]souche et confirme leur rôle de contrefort assurant l'ancrage de
+   l'arbre^[284][12].[285][220px-Deyrolle_421991.jpg] Planche botanique de
+   quatre types de racines par [286]Émile Deyrolle : [287]dahlia,
+   [288]lentilles d'eau, [289]lierre et moutarde.
+     * [290]racines pivot ; chez certaines plantes, une partie des racines
+       s'enfoncent verticalement, assurant la stabilité de la plante.
+     * racines [291]adventives : ce sont des racines qui apparaissent le
+       long d'une tige, spécialement dans les entre-noeuds ;
+     * racines-crampons : sorte de racines adventives qui permettent à la
+       plante de s'accrocher à son support ([292]lierre) ;
+     * [293]racines aériennes : développées par les plantes [294]épiphytes
+       pour absorber l'humidité atmosphérique ;
+     * racines internes : ce sont des racines adventives qui peuvent se
+       développer à l'intérieur du tronc [295]creux d'un arbre vivant, qui
+       vont prélever l'[296]humus produit là par des organismes
+--
+       ([298]armilaires) qui peuvent tapisser les cavités du bois et qui
+       ont une forme dite rhizomorphe, c'est-à-dire rappelant celle des
+       racines.
+     * racines tubérisées (en [299]tubercule) : adaptation à
+       l'accumulation de réserves, généralement d'[300]amidon ou
+       d'[301]inuline, dans les différents tissus des racines (exemple de
+       la [302]ficaire, du [303]dahlia, de la [304]betterave sucrière) ;
+     * racines succulentes : adaptées au stockage de l'eau ;
+     * racines-échasses : ce sont des racines adventives, plus ou moins
+       arquées, ancrées dans le sol. Cette structure est typique de
+       certains [305]palétuviers poussant dans les [306]mangroves (ex. :
+--
+       stabilisatrice pour des espèces poussant sur des sols meubles
+       (ex. : [308]Pandanus spp.) ou d'étai pour le tronc ou les branches
+       (ex. : [309]figuier banian). Les racines-échasses peuvent parfois
+       être garnies d'épines comme chez les [310]palmiers [311]Socratea
+       exorrhiza ou [312]Eugeissona utilis, entre autres.
+     * racines [313]contreforts : ce sont des empattements racinaires
+       remontant le long du [314]tronc et stabilisant les [315]arbres.
+       Cette structure est souvent présente chez les espèces poussant sur
+       des sols meubles (ex. : [316]Pterocarpus officinalis,
+       [317]fromager...).
+     * [318]pneumatophores : racines verticales qui émergent de l'eau et
+       permettent d'assurer les échanges gazeux chez certains arbres des
+       marécages et de la [319]mangrove (exemple : [320]cyprès chauve,
+       Taxodium distichum);
+     * racines [321]suçoirs : observées chez les plantes parasites comme
+       le [322]gui (Viscum album, [323]Loranthacées).
+
+     * [324]Racines échasses du palétuvier.
+       Racines échasses du [325]palétuvier.
+     * [326]D'autres espèces tropicales poussent sur des échasses, ici
+       garnies d'épines, hors de zones inondées, pour des raisons
+--
+       d'épines, hors de zones inondées, pour des raisons évolutives non
+       élucidées ([327]Guyane).
+     * [328]Racines pneumatophores de Taxodium ascendens
+       Racines pneumatophores de Taxodium ascendens
+     * [329]Racines-contreforts de fromager.
+       Racines-contreforts de [330]fromager.
+     * [331]Racines échasses sur Eugeissona utilis
+       Racines échasses sur Eugeissona utilis
+
+Différentes formes de racines
+
+   [[332]modifier | [333]modifier le code]
+
+   La racine peut avoir différents aspects : grêle (1), filiforme,
+   [334]pivot (2) ; (3) et fasciculée (4) pour les herbes. Elles peuvent
+   aussi former un [335]caudex comme chez le [336]baobab.
+--
+                                     (4)
+
+   [337][Racine_gr%C3%AAle.png] [338][Racine_c%C3%B4nique.png]
+   [339][Racine_%C3%A9paissie.jpg] [340][Racines_fascicul%C3%A9es.png]
+
+Ramification
+--
+   berge.[349][220px-Tree_stump_in_the_Old_Malay_Cemetery_at_Kampong_Glam%
+   2C_Singapore_-_20140816.JPG] Croissance radiale dissymétrique des
+   racines traçantes.
+
+   Chez les [350]plantes herbacées ou [351]ligneuses, une fois la
+   [352]racine pivotante principale formée, la [353]ramification met en
+   place des racines secondaires, tertiaires, etc. créées à partir d'un
+   tissu spécialisé de la racine, le [354]péricycle. Ce tissu forme une
+   masse de cellules [355]méristématiques qui se différencient et
+   prolifèrent vers l'extérieur de la racine, pour former une racine
+   latérale. De nouveaux faisceaux conducteurs de [356]sève se forment
+   ensuite dans cette nouvelle racine.
+
+   En outre, des racines [357]adventives peuvent apparaître sur les tiges,
+   soit aux noeuds, soit aux entre-noeuds, voire sur les feuilles (ce qui
+   permet de multiplier les [358]bégonias par des boutures de fragments de
+   feuilles). Les tiges souterraines émettent des racines adventives, de
+   même que les tiges rampantes appelées stolons (exemple du
+   [359]fraisier).
+--
+   Les botanistes distinguent trois types de ramifications racinaires chez
+   l'arbre mature^[360][13] :
+     * les racines ligneuses principales (racines pivotantes verticales
+       qui constituent le réseau plongeant et [361]charpentières
+       horizontales ou obliques qui constituent le réseau
+       traçant)^[362][14] qui assurent l'ancrage de l'arbre ;
+     * les racines ligneuses de prospection qui jouent un rôle
+       d'exploration du sol (racines latérales ramifiées secondaires,
+       tertiaires, etc. qui peuvent dans certains cas prendre beaucoup
+       d'importance par rapport au pivot central) et dont le développement
+       est fonction des ressources disponibles ;
+     * les racines non ligneuses (les [363]radicelles constituant le
+       chevelu racinaire, et les [364]mycorhizes formant le [365]réseau
+       mycorhizien) qui assurent l'[366]absorption de l'eau et des
+--
+   s'organise au cours du temps et est l'expression d'un équilibre entre
+   des processus endogènes de croissance ([370]croissance primaire en
+   longueur et [371]secondaire en diamètre des racines, [372]ramification
+   intrinsèque et réitération, processus sous fort [373]contrôle
+   génétique) et des contraintes extérieures exercées par le milieu (sol,
+   climat, etc.). La typologie de l'architecture racinaire chez les arbres
+   fait l'objet de nombreuses études qui classent les systèmes racinaires
+   en fonction de trois critères (pourcentage de racines
+   obliques^[374][15], importance des [375]fourchaisons
+   spontanées^[376][16], avec sans développement retardé^[377][17]). Les
+--
+   traditionnellement trois grands types chez les végétaux herbacés et
+   ligneux^[378][18] :
+     * système racinaire pivotant : développement prédominant de la racine
+       principale, par la dimension de sa « balle » (largeur et
+       profondeur), système fréquent chez les dicotylédones ;
+     * système racinaire fasciculé (en coeur) : racines adventives
+       disposées en faisceau à la base de la tige (poireau, plantain) ou
+       racines latérales de même « balle » que la racine principale et non
+       ramifiées ([379]Poacées), système fréquent chez les
+       [380]Monocotylédones ;
+     * système racinaire traçant : racine principale peu développée,
+       racines latérales à extension horizontale et à faible profondeur
+       (peupliers, résineux qui adoptent ce système lors de conditions
+       édaphiques et climatiques difficiles). Soumises à des stress
+       mécaniques importants, les racines traçantes développent une
+       croissance radiale dissymétrique qui tend à leur donner une forme
+       de poutre en « I » ou en « T » qui offre une meilleure résistance
+--
+   L'expression « l'arbre cache la forêt » qui s'applique à la partie
+   aérienne ([386]tronc et [387]houppier) de l'arbre concerne aussi son
+   système racinaire (racines principales, racines secondaires et
+   radicelles) qui est invisible, car son importance est toujours
+   sous-estimée. La portion visible ne représente que la partie émergée
+--
+   vasculaires (par provocation, il est tentant avec ce chiffre de dire
+   que « les plantes, dans leur état naturel, ont des [397]mycorhizes
+   plutôt que des racines^[398][24] ») développent un [399]mycélium
+   racinaire représentant jusqu'à 30 % de la biomasse racinaire^[400][25].
+   Chez un [401]pin taeda de 48 ans d'âge, la répartition de la biomasse
+   est la suivante : tronc 62,4 % ; branches 15,2 % ; feuillage 2,4 % ;
+   racines pivotantes 11 % ; racines latérales 6,8 % ; racines fines
+   2,2 %^[402][26].
+
+   Les études sur le système racinaire des plantes non ligneuses donnent
+   également des résultats insoupçonnés. Ainsi^[403][27], « un pied
+   d'avoine sans concurrence produirait environ 86 kilomètres de racines
+   au cours d'une seule saison, alors qu'un pied normal n'en élabore à
+   peine qu'un kilomètre ». Un seul plant de seigle « produit 14 millions
+   de racines en quatre mois, soit 500 kilomètres, à un rythme qui peut
+   atteindre 5 kilomètres par jour^[404][28] ».
+
+   Une idée reçue veut que le système racinaire est limité à l'espace
+   défini par la projection au sol du houppier, les racines couvrant la
+   même surface au sol que le houppier. En réalité, la majorité des
+   racines tapissent le sol plutôt qu'elles ne le pénètrent et certaines
+   racines horizontales s'étendent jusqu'à des longueurs égales à trois
+   fois la hauteur de l'arbre^[405][29]. L'évolution du système racinaire
+   va généralement d'un cône renversé étroit et profond à un cône renversé
+   à la base très large et peu profond. Le rapport du diamètre du houppier
+   au diamètre de la surface explorée par les racines est en moyenne de
+   l'ordre de 1/2, celui des surfaces respectives varie de 1 à
+   5^[406][30].
+--
+   [[407]modifier | [408]modifier le code]
+
+   La racine peut présenter deux types successifs de structure : la
+   structure primaire (fig. 1) chez les jeunes plantules, et la structure
+   secondaire (fig. 2) chez les plantes plus âgées mais uniquement chez
+--
+
+   [[411]modifier | [412]modifier le code]
+   [413][440px-Racine1.jpg] Fig. 1 : structure primaire d'une racine
+   complète[414][240px-Racine_primaire_de_Phaseolus.jpg] Fig 1 bis :
+   structure primaire d'une racine de haricot.
+
+   Il s'agit de la structure anatomique des jeunes racines. Sur une coupe
+   transversale (dans le sens de la largeur : voir fig. 1 ci-dessus) d'une
+   telle racine, on distingue deux zones :
+     * l'écorce : distincte de ce que l'on appelle également l'[415]écorce
+       dans le langage courant, cette partie est constituée du
+       [416]rhizoderme qui porte d'abord les poils absorbants de la racine
+       (ou assise pilifère) puis une couche de cellules [417]subérisées
+       (l'assise subéreuse, lorsque la racine vieillit), et du
+       [418]parenchyme cortical, qui assure le transport des éléments
+       absorbés jusqu'au centre de la racine pour leur transport à travers
+       toute la plante. La dernière couche de cellules de ce parenchyme
+       est épaissie et forme une sorte de barrière de contrôle des
+       molécules circulant dans la racine, c'est l'[419]endoderme.
+
+     * le cylindre central : c'est ici que se trouvent les tissus de
+       transport de la sève, de la racine vers le reste de la plante. Il
+       est composé tout d'abord du [420]péricycle, une couche de cellules
+       à partir de laquelle vont se former les ramifications de la racine.
+       Viennent ensuite les deux types de tissus conducteurs, le
+       [421]xylème (ou bois) qui conduit la sève brute vers les feuilles
+--
+       toute la plante. Ces deux types de tissus, issus d'une couche
+       intermédiaire de [423]procambium, sont disposés en cercle,
+       alternativement. Enfin, au centre de la racine, la moelle, composée
+       de parenchyme médullaire, n'a pas de fonction particulière (si ce
+       n'est un rôle de réserve).
+--
+
+   [[424]modifier | [425]modifier le code]
+   [426][Racine2.jpg] Fig. 2 : structure secondaire d'une racine complète
+
+   Cette structure ne se met en place que chez les plantes pluriannuelles
+--
+   [428]cambium continu, qui apparait d'abord, en coupe, sous une forme
+   étoilée, qui devient progressivement circulaire avec la croissance de
+   la racine en épaisseur. Le cambium vasculaire (ou assise
+   libéro-ligneuse) va créer les tissus de conduction secondaires que sont
+   le xylème II et le phloème II. Le phellogène (situé vers la périphérie
+   de la racine (ou assise subéro-phellodermique), crée quant à lui une
+   couche externe de suber (ou [429]liège) ainsi qu'une couche plus
+   interne de [430]phelloderme, toutes deux assurant la protection de la
+   racine.
+
+Croissance racinaire
+--
+   produisent d'autres méristèmes, les cellules de la coiffe et des
+   cellules souches indifférenciées. Ces dernières vont devenir les tissus
+   primaires de la racine.
+
+   Les racines vont généralement croître dans toute direction présentant
+   les bonnes conditions en air, nutriments, et eau pour satisfaire aux
+   besoins de la plante. Les racines ne pousseront pas dans un sol sec.
+   Avec le temps, si les conditions sont favorables, les racines peuvent
+   casser fondations, conduites d'eau souterraines, et soulever le
+   trottoir. À la [436]germination, les racines croissent vers le bas sous
+   l'effet du [437]gravitropisme (mécanisme de croissance de la plante,
+   opposable à l'[438]héliotropisme de la tige qui la pousse à croître
+   vers la source de lumière). Certaines plantes, disposant de
+   racines-crampons (comme le [439]lierre grimpant) grimpent aux murs et
+   sur les autres végétaux. C'est ce qu'on appelle le [440]thigmotropisme.
+
+--
+   croissance primaire ou principale, qui permet la croissance verticale.
+   D'un autre côté, la croissance secondaire permet la croissance en
+   diamètre des racines. Déjà évoquée dans le chapitre Anatomie (fig. 2),
+   la croissance secondaire se produit à partir du [441]cambium vasculaire
+   et du [442]cambium cortical.
+--
+   Chez les plantes ligneuses, le cambium vasculaire, qui se forme à
+   partir du procambium entre le [443]xylème et le [444]phloème primaire,
+   forme un cylindre de tissu tout au long de la racine. Cette couche
+   forme de nouvelles cellules vers l'intérieur (qui se différencient en
+   xylème secondaire) et l'extérieur (qui se différencient en phloème
+   secondaire) du cylindre de cambium. Comme ces tissus secondaires de
+   xylème et phloème se développent, le périmètre de la racine augmente.
+   Conséquemment, les tissus au-delà du phloème secondaire (le
+   [445]parenchyme), ont tendance à être poussés et écrasés contre la
+--
+   Article détaillé : [449]rhizogenèse.
+   [450][220px-R%C3%A9seau_mycorhizien.svg.png] Le [451]réseau mycorhizien
+   établit un système de « relation sociale » avec les racines et joue un
+   rôle dans la rhizogénèse.
+
+   La formation des racines, appelée [452]rhizogenèse, est conditionnée
+   par plusieurs [453]facteur limitants : disponibilité en sels minéraux,
+   en sucres, température, lumière et développement foliaire (stimulation
+   de la ramification racinaire par la croissance des feuilles et le
+   développement de racines^[454][31].
+
+   « Similaire à la [455]chute périodique des feuilles, la mortalité et le
+   renouvellement cyclique des [456]racines fines est un processus naturel
+   qui intervient constamment au cours du développement de l'arbre. Les
+   racines fines ont une longévité le plus souvent inférieure à un an.
+   Elles se renouvellent une ou plusieurs fois pendant plusieurs années à
+   peu près aux mêmes points sur les racines ligneuses. Ce renouvellement
+   est particulièrement coûteux en énergie : plus de 50 % du carbone
+   [457]assimilé par [458]photosynthèse est [459]alloué à la production
+   des racines fines (cas de [460]Picea abies, Lebègue et al^[461][32],
+   2004)^[462][33]. »
+
+Racine et génie végétal
+
+   [[463]modifier | [464]modifier le code]
+
+   Le [465]génie végétal utilise les racines pour fixer, dépolluer ou
+   décolmater certains sols ou sédiments.
+   Inversement, sur des digues étroites ou fragiles (sables, limons fins
+   peu cohérents) l'action du vent sur les arbres ou la putréfaction des
+   racines après la mort des arbres peuvent être des sources de
+   dégradation de la digue^[466][34].
+   Article détaillé : [467]Génie végétal.
+--
+   forestière peut aider le [470]forestier et l'[471]agrosylviculteur ou
+   un [472]pépiniériste à mieux « installer chaque essence à sa
+   place »^[473][35] dont en fonction de ses capacités d'enracinement de
+   chaque essence^[474][36]
+   Article détaillé : [475]Autécologie.
+--
+   [[476]modifier | [477]modifier le code]
+
+   Savoir si les plantes détectent les racines de leurs voisines, y
+   répondent et si oui, comment et à quelles conditions, est crucial pour
+   bien comprendre les [478]biocénoses et améliorer l'[479]agroécologie.
+--
+   plantes réagissent à leurs voisines par l'évitement, ou parfois par des
+   associations synergiques. Par exemple en 2001, Gersani et al. ont
+   montré que le soja produit plus de racines en présence de concurrents
+   de la même espèce^[480][37].
+
+   Les racines, au moins chez certaines espèces, détectent les racines des
+   plantes voisines et y répondre différemment selon l'identité de chaque
+   voisine (i.e. si ces racines sont émises par la même plante, par un
+   clone, par un individu physiologiquement différent, d'un génotype
+   différent ou d'une espèce différente^[481][38].
+--
+   plantes [485]buissonneuses de [486]désert [487]Ambrosia dumosa et de
+   [488]Larrea tridenta avaient des capacités de reconnaissances et
+   d'interactions de type racine-racine. Dans ce cas le système racinaire
+   d' Ambrosia dumosa se montre capable de détecter et éviter les racines
+   d'autres [489]Ambrosia dumosa, alors que les racines de [490]Larrea
+   tridenta inhibent la croissance d'autres [491]Larrea tridenta et
+   [492]Ambrosia dumosa autour d'elles^[493][39]^,^[494][40], ce qu'ont
+--
+
+   En [504]2003, des chercheurs, sur la base de données
+   [505]écophysiologiques, estiment que les racines sont pour la plante un
+   lieu de discrimination du [506]soi et du [507]non-soi, bien qu'elle ne
+   dispose pas de réseau neuronal semblable à celui des animaux^[508][43].
+   Ces notions de relations entre racines d'un même individu et entre
+   racines de clones de la même d'espèces et d'individus de la même espèce
+   ou d'espèces différentes, notamment vis-à-vis de la concurrence pour
+   les ressources^[509][38], ont des répercussions en écologie végétale et
+--
+   [[518]modifier | [519]modifier le code]
+
+   Les racines des plantes sont capables de produire une réaction
+   immunitaire pour se défendre contre les pathogènes du sol. La réaction
+   immunitaire a besoin de 2 signaux différents pour être déclenchée.
+--
+       motifs moléculaires (PRR acronyme pour : pattern-recognition
+       receptor) dans les cellules bordant la zone endommagée de la
+       racine.
+
+     * Le deuxième est la détection de [521]motifs moléculaires associés
+--
+
+   [[523]modifier | [524]modifier le code]
+   [525][220px-RacineAulneSymbioseBact309.JPG] Association
+   [526]symbiotique subaquatique (de [527]bactéries filamenteuses et
+   [528]cyanophycées probablement) formant un manchon dense de l'épaisseur
+   d'un doigt) autour des racines immergées d'un [529]aulne (le manchon a
+   été dégagé pour permettre de voir la racine.)
+
+   Outre les fonctions de reconnaissance décrites ci-dessus, les
+   botanistes distinguent les fonctions suivantes chez les racines :
+     * ancrage superficiel au sol et stabilisation du végétal. Chez les
+       arbres ce rôle mécanique a plus pour effet une « augmentation de la
+--
+       1989 le phénomène de [541]redistribution hydrique
+       racinaire^[542][53] ;
+     * [543]mise en réserve ([544]tubérisation, [545]racine pivotante) de
+       protéines et de produits de la [546]photosynthèse qui sont stockés
+       dans les racines ;
+     * [547]effet rhizosphère, les racines assurant une interface avec des
+       organismes vivants ([548]micro-organismes et [549]faune du sol) ;
+     * [550]excrétion : les racines excrètent des [551]exsudats organiques
+       et minéraux favorables au développement du [552]microbiote du sol.
+       L'[553]exsudation « représente une dérivation vers le sol de 5 à
+--
+       micro-organismes)^[554][54] ».
+
+Profondeur des racines
+
+   [[555]modifier | [556]modifier le code]
+--
+   [560]Espagne.
+
+   La distribution des racines des plantes vasculaires dans le sol dépend
+   de la forme des plantes, de la distribution spatiale et temporelle de
+   l'eau et des nutriments, et des propriétés physiques du sol lui-même.
+   Les racines les plus profondes se rencontrent en général dans les
+   déserts et dans les forêts tempérées de conifères ; les moins profondes
+   se trouvent dans la toundra, dans les forêts boréales et dans les
+   prairies tempérées. Dans une roche-mère fissurée, les racines pivots
+   peuvent poursuivre leur extension verticale. Le record d'enracinement
+   en France est de 150 mètres de profondeur pour des chênes, 140 mètres
+   pour des merisiers ou 110 mètres pour des ormes, comme l'ont rapporté
+   des spéléologues^[561][55] explorant des grottes
+   souterraines^[562][56].
+   [563][220px-Raices_P1010293mod.jpg] Racines captant l'eau de
+   condensation dans l'aven des Renardières, [564]La Vacquerie,
+   [565]Hérault, [566]France.
+--
+   extensive du sol qui s'effectue par la périphérie du système ou une
+   exploration et une exploitation intensives du sol dans laquelle tout le
+   système racinaire intervient. En général, la plupart des racines
+   actives des arbres qui assurent l'absorption des ions minéraux et de
+   l'eau sont des racines superficielles (entre 50 et 80 % selon les
+   espèces et les milieux, situées dans les 20 à 30 premiers centimètres
+   du sol) formant le chevelu racinaire caduc à court terme, les racines
+   ligneuses pérennes (racines superficielles et profondes dont le
+   diamètre est supérieur à 1 cm) qui constituent la charpente racinaire
+   assurant essentiellement l'ancrage et les racines ligneuses caduques se
+   spécialisant dans la [567]colonisation et l'exploitation du
+   [568]sol^[569][57].
+--
+   [578]Prosopis juliflora Désert de l'Arizona 53.3 Phillips (1963)
+
+Les racines et l'humain
+
+   [[579]modifier | [580]modifier le code]
+   Article détaillé : [581]Liste de racines et tubercules comestibles.
+   [582][220px-Andain_plantation_dgs.jpg] Lors des défrichements médiévaux
+   et plus récents, les racines d'arbres coupés étaient parfois extraites
+   du sol par les pauvres pour le chauffage. Le dessouchage demande
+   beaucoup d'énergie ; mais produit un bois peu apprécié car riche en
+--
+
+   Dès l'[588]Antiquité existaient des professions de rhizotomos
+   rhizoto'µo*s / rhizotómos, « coupeur de racine » (ramasseur de plantes,
+   herboriste) et de farµakopw%ly*s / pharmakopôlês, « vendeur de drogues,
+   de médicaments ». Le rhizotome se chargeait de la cueillette des
+--
+   la conception occidentale, sont des plantes de mortification
+   alimentaire ou de pénitence^[592][61]. La culture de
+   [593]légumes-racines ([594]betterave sucrière, [595]igname) reste
+   encore aujourd'hui d'une importance économique relativement grande.
+
+   Les racines étaient utilisées pour fabriquer certaines pièces de
+   [596]charpenterie navale, le [597]bois tors; plutôt que d'être coupés,
+   les arbres étaient déracinés pour prélever les précieuses
+--
+   maçonneries (joints humides faits de terres ou de chaux hydraulique
+   naturelle faiblement dosée). De même dans les sols pauvres et drainants
+   et secs en été, les racines peuvent se diriger vers les réseaux
+   d'[607]eaux pluviales^[608][65] et/ou d'eaux usées ([609]égouts) en
+   écartant les joints de tuyaux de béton^[610][66]^,^[611][67] ou en
+--
+   organiques. Un programme de recherche européen piloté par la Suède ou
+   ce phénomène a été très étudié a montré qu'il est possible de détourner
+   les racines et d'éviter cela^[613][69], notamment en entourant le tuyau
+   d'un feutre-antiracine. Programme européen de travail piloté par la
+   Orjan Stal Sverige^[614][70]. Quand elles manquent d'eau, des racines
+   peuvent pénétrer presque tous les types de joints de tuyaux de béton ou
+   de pvc^[615][71].
+--
+
+   [[624]modifier | [625]modifier le code]
+     * [626]Principaux types de racines (« pivot », « en chevelu »..).
+       Principaux types de racines (« pivot », « en chevelu »..).
+     * [627]Structure fractale de type racine, modélisée informatiquement.
+       Structure [628]fractale de type racine, [629]modélisée
+       informatiquement.
+     * [630]Pointe racinaire (microscope).
+       Pointe racinaire (microscope).
+     * [631]Racine mycorrhizée par un champignon symbiote (Amanite)
+       Racine mycorrhizée par un champignon [632]symbiote ([633]Amanite)
+     * [634]Présentation pédagogique des racines d'un arbre, vue de
+       dessous.
+       Présentation pédagogique des racines d'un arbre, vue de dessous.
+     * [635]Exemple d'adaptation au substrat.
+       Exemple d'adaptation au substrat.
+     * [636]Berge érodée et surpiétinée, mais maintenue par les racines.
+       [637]Berge érodée et [638]surpiétinée, mais maintenue par les
+       racines.
+     * [639]Racines d'un corme de glaïeul.
+       Racines d'un [640]corme de [641]glaïeul.
+     * [642]Racines mises à nu par l'érosion.
+       Racines mises à nu par l'[643]érosion.
+     * [644]Racines limitant le phénomène d'érosion.
+       Racines limitant le phénomène d'[645]érosion.
+     * [646]Racines d'arbre tombé et mort ; habitat d'invertébrés
+       spécifique.
+       Racines d'arbre tombé et mort ; [647]habitat d'[648]invertébrés
+       spécifique.
+     * [649]Système racinaire de sequoia géant.
+--
+     * [656]Fromager à Ta Prohm, Angkor Vat, Cambodge.
+       Fromager à [657]Ta Prohm, [658]Angkor Vat, [659]Cambodge.
+     * [660]Racines de Pandanus
+       Racines de [661]Pandanus
+     * [662]Wodyetia bifurcata (Cairns, Australie).
+       [663]Wodyetia bifurcata ([664]Cairns, [665]Australie).
+     * [666]Racines aériennes (Metrosideros excelsa).
+       Racines aériennes ([667]Metrosideros excelsa).
+     * [668]Racine aérienne d'une liane (Hedera helix).
+       Racine aérienne d'une liane ([669]Hedera helix).
+     * [670]Ficus elastica
+       [671]Ficus elastica
+     * [672]Racines aquatique libre de saule.
+       Racines aquatique libre de [673]saule.
+     * [674]Contreforts de Ficus variegata, Sulawesi
+       Contreforts de [675]Ficus variegata, [676]Sulawesi
+     * [677]Contreforts du genre Ceiba (Amazonie péruvienne).
+       Contreforts du genre [678]Ceiba (Amazonie péruvienne).
+     * [679]Intrusion de racines de chêne dans l'aqueduc de Fréjus.
+       Intrusion de racines de [680]chêne dans l'[681]aqueduc de
+       [682]Fréjus.
+
+--
+   [[683]modifier | [684]modifier le code]
+    1. [685]^| Les anastomoses entre individus de la même espèce
+       permettent aux racines des arbres abattus en [686]éclaircie de
+       survivre et de s'intégrer au système racinaire d'arbres voisins
+       vivants.
+    2. [687]^| Christophe Drénou, « Uni par les racines »,
+       Forêt-Entreprise, vol. 153, 2003, p. 34-38.
+    3. [688]^| [689]Drénou 2006, p. 25.
+    4. [690]^| F. Danjon, T. Fourcaud, « L'arbre et son enracinement »,
+       Revues Innovations Agronomiques, vol. 6, 2009, p. 17 ([691]lire en
+       ligne).
+--
+       Sud Nature, 2016 ([703]lire en ligne), p. 187.
+   11. [704]^| ZRT pour « Zone of Rapid Taper » (zone de défilement
+       rapide), partie des racines traçantes proche de la [705]souche. Cf
+       (en) Eis S., 1972. Root system morphology of western hemlock,
+       western red cedar, and douglas-fir. Canadian Journal of Forest
+--
+       Geneviève, « Mise en oeuvre de carottages de sol et de
+       minirhizotrons pour l'étude à long terme de la réponse des fines
+       racines d'épicéa (Picea abies (L.) Karst.) à l'augmentation de la
+       concentration en CO2 dans l'atmosphère et la nutrition minérale »,
+       Biotechnology, Agronomy, Society and Environment, vol. 8, n^o 1,
+       2004, p. 41-53
+   33. [747]^| [748]Drénou 2006, p. 65-66.
+   34. [749]^| L'enracinement des arbres dans les digues en remblai :
+       étude des systèmes racinaires et impacts sur la sécurité des
+       ouvrages Zanetti, C. ; Vennetier, M. ; Meriaux, P. ; Royet, P. ;
+--
+   35. [750]^| Masson G (2005) Autécologie des essences forestières:
+       comment installer chaque essence à sa place. Ed. Tec & Doc
+   36. [751]^| Lebourgeois F & Jabiol B (2002) Enracinements comparés des
+       chênes (sessile et pédonculé) et du hêtre sur différents matériaux.
+       Réflexions sur l'autécologie des essences. Rev. For. Fr, 54, 17-42.
+--
+       [831]Dunod, 2011, p. 533.
+   55. [832]^| Les spéléologues observent l'eau ruisseler (issue de
+       l'excédent de l'eau de pluie) le long des racines profondes.
+   56. [833]^| Ernst Zürcher, Les arbres, entre visible et invisible,
+       Actes Sud Nature, 2016, p. 193.
+--
+
+   Sur les autres projets Wikimedia :
+     * [865]Les racines, sur Wikimedia Commons
+     * [866]racine, sur le Wiktionnaire
+
+Bibliographie
+
+   [[867]modifier | [868]modifier le code]
+     * Christophe Drénou, Les racines : face cachée des arbres, Forêt
+       privée française, 2006, 335 p. ([869]lire en ligne).
+     * Danjon F., Drénou C., Dupuy L., Lebourgeois F., 2007. « Le rôle du
+--
+
+   [[870]modifier | [871]modifier le code]
+     * Antoine Beauchamp, « [872]Racines : vingt mille liens sous les
+       terres », sur [873]France Culture, 10 mai 2021.
+
+--
+     * [883]Humus
+     * [884]Rhizotron [885](en)
+     * [886]Pont de racines vivant
+     * [887]Rhizocylindre
+
+--
+
+   [[888]modifier | [889]modifier le code]
+     * [890]Voir un schéma détaillé de : racines diverses.
+     * [891]Structure et croissance de la racine, Université Pierre et
+       Marie Curie.
+     * [892]Animation Flash de la mise en place de la structure
+       secondaire, Université Pierre et Marie Curie.
+     * [893]Structure primaire des racines de dicotylédones.
+     * [894]Database d'illustrations des structures/formes des plantes
+       incluant collet et système racinaire, par espèce.
+     * [895]Drawings of forest trees in the Root Systems Collection - WUR
+       - Dessins de racines d'arbres en forêt, travail de
+       l'[896]université de Wageningue.
+
+--
+     * [928]Feuille
+     * [929]Méristème
+     * Racine
+     * [930]Tige
+     * [931]Stomate
+--
+   Organes souterrains
+     * [1001]Poil absorbant
+     * Racine
+     * [1002]Radicelle
+     * [1003]Radicule
+--
+
+   Ce document provient de
+   « [1019]https://fr.wikipedia.org/w/index.php?title=Racine_(botanique)&o
+   ldid=220475651 ».
+   [1020]Catégories:
+--
+
+   Visible links:
+   1. file://fr.m.wikipedia.org/wiki/Racine_(botanique)
+   2. file:///w/index.php?title=Racine_(botanique)&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+--
+  15. file:///wiki/Sp%C3%A9cial:Recherche
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  17. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+%28botanique%29
+  18. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+%28botanique%29
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  20. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+%28botanique%29
+  21. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+%28botanique%29
+  22. file:///wiki/Aide:Premiers_pas
+  23. file:///wiki/Sp%C3%A9cial:Mes_contributions
+--
+ 150. https://zh-yue.wikipedia.org/wiki/%E6%A0%B9
+ 151. https://www.wikidata.org/wiki/Special:EntityPage/Q41500#sitelinks-wikipedia
+ 152. file:///wiki/Racine_(botanique)
+ 153. file:///wiki/Discussion:Racine_(botanique)
+ 154. file:///wiki/Racine_(botanique)
+ 155. file:///w/index.php?title=Racine_(botanique)&veaction=edit
+ 156. file:///w/index.php?title=Racine_(botanique)&action=edit
+ 157. file:///w/index.php?title=Racine_(botanique)&action=history
+ 158. file:///wiki/Racine_(botanique)
+ 159. file:///w/index.php?title=Racine_(botanique)&veaction=edit
+ 160. file:///w/index.php?title=Racine_(botanique)&action=edit
+ 161. file:///w/index.php?title=Racine_(botanique)&action=history
+ 162. file:///wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Racine_(botanique)
+ 163. file:///wiki/Sp%C3%A9cial:Suivi_des_liens/Racine_(botanique)
+ 164. file:///wiki/Aide:Importer_un_fichier
+ 165. file:///wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+ 166. file:///w/index.php?title=Racine_(botanique)&oldid=220475651
+ 167. file:///w/index.php?title=Racine_(botanique)&action=info
+ 168. file:///w/index.php?title=Sp%C3%A9cial:Citer&page=Racine_%28botanique%29&id=220475651&wpFormIdentifier=titleform
+ 169. file:///w/index.php?title=Sp%C3%A9cial:UrlShortener&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_%28botanique%29
+ 170. file:///w/index.php?title=Sp%C3%A9cial:QrCode&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_%28botanique%29
+ 171. file:///w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Racine+%28botanique%29
+ 172. file:///w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Racine_%28botanique%29&action=show-download-screen
+ 173. file:///w/index.php?title=Racine_(botanique)&printable=yes
+ 174. https://commons.wikimedia.org/wiki/Root
+ 175. https://www.wikidata.org/wiki/Special:EntityPage/Q41500
+ 176. file:///wiki/Aide:Homonymie
+ 177. file:///wiki/Racine
+ 178. file:///wiki/Fichier:Pinus_silvestris_roots001xx.jpg
+ 179. file:///wiki/Pin_sylvestre
+ 180. file:///wiki/Anastomose_(botanique)
+ 181. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-1
+ 182. file:///wiki/R%C3%A9seau_mycorhizien
+ 183. file:///wiki/Communaut%C3%A9s
+ 184. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-2
+ 185. file:///wiki/Fichier:Bosque_dos_Jequitib%C3%A1s_-_IMG_9971.jpg
+ 186. file:///wiki/Contrefort_(botanique)
+--
+ 210. file:///wiki/Herbicide
+ 211. file:///wiki/Adventice
+ 212. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=1
+ 213. file:///w/index.php?title=Racine_(botanique)&action=edit&section=1
+ 214. file:///wiki/Fichier:Racine_-_240.jpg
+ 215. file:///wiki/Germination
+ 216. file:///wiki/Granulom%C3%A9trie
+ 217. file:///wiki/Ch%C3%AAne
+ 218. file:///wiki/Peuplier
+ 219. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-Dr%C3%A9nou200625-3
+ 220. file:///wiki/Chablis_(arbre)
+ 221. file:///wiki/Volis
+ 222. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-4
+ 223. file:///wiki/M%C3%A9rist%C3%A8me_apical_racinaire
+ 224. file:///wiki/Photosynth%C3%A8se
+--
+ 227. file:///wiki/Hydatode
+ 228. file:///wiki/Ailanthus
+ 229. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-Dr%C3%A9nou200626-5
+ 230. file:///wiki/Calcaire
+ 231. file:///wiki/Calcium
+--
+ 234. file:///wiki/%C3%89rosion
+ 235. file:///wiki/Berge
+ 236. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-6
+ 237. file:///wiki/Mycorhize
+ 238. file:///wiki/Clonage
+--
+ 250. file:///wiki/Meghalaya
+ 251. file:///wiki/Inde
+ 252. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=2
+ 253. file:///w/index.php?title=Racine_(botanique)&action=edit&section=2
+ 254. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=3
+ 255. file:///w/index.php?title=Racine_(botanique)&action=edit&section=3
+ 256. file:///wiki/Coiffe_(botanique)
+ 257. file:///wiki/Statocyte
+--
+ 267. file:///wiki/Faisceau_cribro-vasculaire
+ 268. file:///wiki/Radicelle
+ 269. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-Dr%C3%A9nou200627-7
+ 270. file:///wiki/Plante_ligneuse
+ 271. file:///wiki/Ectomycorhize
+ 272. file:///wiki/Photosynth%C3%A8se
+ 273. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-8
+ 274. file:///wiki/Ectomycorhize
+ 275. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-9
+ 276. file:///wiki/Biomasse_(%C3%A9cologie)
+ 277. file:///wiki/Liti%C3%A8re_(%C3%A9cologie)
+ 278. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-10
+ 279. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=4
+ 280. file:///w/index.php?title=Racine_(botanique)&action=edit&section=4
+ 281. file:///wiki/Fichier:Shukugawa04s3872.jpg
+ 282. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-11
+ 283. file:///wiki/Souche
+ 284. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-12
+ 285. file:///wiki/Fichier:Deyrolle_421991.jpg
+ 286. file:///wiki/%C3%89mile_Deyrolle
+--
+ 288. file:///wiki/Lentille_d%27eau
+ 289. file:///wiki/Lierre_terrestre
+ 290. file:///wiki/Racine_pivotante
+ 291. file:///wiki/Organe_adventif
+ 292. file:///wiki/Hedera
+ 293. file:///wiki/Racine_a%C3%A9rienne
+ 294. file:///wiki/%C3%89piphyte
+ 295. file:///wiki/Arbre_creux
+--
+ 329. file:///wiki/Fichier:Ceiba_pentandra_MS4104.JPG
+ 330. file:///wiki/Ceiba_pentandra
+ 331. file:///wiki/Fichier:Eugeissona_utilis_-_Racines_%C3%A9chasses_-_P1000413.jpg
+ 332. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=5
+ 333. file:///w/index.php?title=Racine_(botanique)&action=edit&section=5
+ 334. file:///wiki/Racine_pivotante
+ 335. file:///wiki/Caudex
+ 336. file:///wiki/Adansonia
+ 337. file:///wiki/Fichier:Racine_gr%C3%AAle.png
+ 338. file:///wiki/Fichier:Racine_c%C3%B4nique.png
+ 339. file:///wiki/Fichier:Racine_%C3%A9paissie.jpg
+ 340. file:///wiki/Fichier:Racines_fascicul%C3%A9es.png
+ 341. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=6
+ 342. file:///w/index.php?title=Racine_(botanique)&action=edit&section=6
+ 343. file:///wiki/Fichier:Plant_Anatomy.svg
+ 344. file:///wiki/Tige
+--
+ 350. file:///wiki/Plante_herbac%C3%A9e
+ 351. file:///wiki/Plante_ligneuse
+ 352. file:///wiki/Racine_pivotante
+ 353. file:///wiki/Ramification_(botanique)
+ 354. file:///wiki/P%C3%A9ricycle
+--
+ 358. file:///wiki/B%C3%A9gonia
+ 359. file:///wiki/Fragaria
+ 360. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-Dr%C3%A9nou200669-84-13
+ 361. file:///wiki/Branche_(botanique)
+ 362. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-14
+ 363. file:///wiki/Radicelle
+ 364. file:///wiki/Mycorhize
+--
+ 372. file:///wiki/Ramification_(botanique)
+ 373. file:///wiki/Biologie_du_d%C3%A9veloppement
+ 374. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-K%C3%B6stler-15
+ 375. file:///wiki/Architecture_v%C3%A9g%C3%A9tale
+ 376. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-16
+ 377. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-17
+ 378. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-18
+ 379. file:///wiki/Poaceae
+ 380. file:///wiki/Monocotyl%C3%A9done
+ 381. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-19
+ 382. https://fr.wiktionary.org/wiki/pierrosit%C3%A9
+ 383. file:///wiki/Texture_du_sol
+ 384. file:///wiki/Stress
+ 385. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-K%C3%B6stler-15
+ 386. file:///wiki/Tronc_(botanique)
+ 387. file:///wiki/Houppier
+ 388. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-20
+ 389. file:///wiki/Biomasse_(%C3%A9cologie)
+ 390. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-21
+ 391. file:///wiki/Embryophyta
+ 392. file:///wiki/Photosynth%C3%A8se
+ 393. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-22
+ 394. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-23
+ 395. file:///wiki/Mycorhize
+ 396. file:///wiki/Tracheophyta
+ 397. file:///wiki/Mycorhize
+ 398. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-24
+ 399. file:///wiki/Myc%C3%A9lium
+ 400. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-25
+ 401. file:///wiki/Pinus_taeda
+ 402. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-26
+ 403. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-27
+ 404. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-28
+ 405. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-Dr%C3%A9nou2006291-29
+ 406. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-30
+ 407. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=7
+ 408. file:///w/index.php?title=Racine_(botanique)&action=edit&section=7
+ 409. file:///wiki/Magnoliopsida
+ 410. file:///wiki/Gymnosperme
+ 411. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=8
+ 412. file:///w/index.php?title=Racine_(botanique)&action=edit&section=8
+ 413. file:///wiki/Fichier:Racine1.jpg
+ 414. file:///wiki/Fichier:Racine_primaire_de_Phaseolus.jpg
+ 415. file:///wiki/%C3%89corce
+ 416. file:///wiki/Rhizoderme
+--
+ 422. file:///wiki/Phlo%C3%A8me
+ 423. file:///wiki/Procambium
+ 424. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=9
+ 425. file:///w/index.php?title=Racine_(botanique)&action=edit&section=9
+ 426. file:///wiki/Fichier:Racine2.jpg
+ 427. file:///wiki/Monocotyl%C3%A9done
+ 428. file:///wiki/Cambium
+ 429. file:///wiki/%C3%89corce
+ 430. file:///wiki/Phelloderme
+ 431. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=10
+ 432. file:///w/index.php?title=Racine_(botanique)&action=edit&section=10
+ 433. file:///wiki/Fichier:Litchi_root.jpg
+ 434. file:///wiki/Litchi
+--
+ 445. file:///wiki/Parenchyme
+ 446. file:///wiki/P%C3%A9ricycle
+ 447. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=11
+ 448. file:///w/index.php?title=Racine_(botanique)&action=edit&section=11
+ 449. file:///wiki/Rhizogen%C3%A8se
+ 450. file:///wiki/Fichier:R%C3%A9seau_mycorhizien.svg
+--
+ 452. file:///wiki/Rhizogen%C3%A8se
+ 453. file:///wiki/Facteur_limitant
+ 454. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-31
+ 455. file:///wiki/Abscission
+ 456. file:///wiki/Radicelle
+--
+ 459. file:///wiki/Allocation_des_ressources
+ 460. file:///wiki/%C3%89pic%C3%A9a_commun
+ 461. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-32
+ 462. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-Dr%C3%A9nou200665-66-33
+ 463. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=12
+ 464. file:///w/index.php?title=Racine_(botanique)&action=edit&section=12
+ 465. file:///wiki/G%C3%A9nie_v%C3%A9g%C3%A9tal
+ 466. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-34
+ 467. file:///wiki/G%C3%A9nie_v%C3%A9g%C3%A9tal
+ 468. file:///wiki/Aut%C3%A9cologie
+--
+ 471. file:///wiki/Agroforesterie
+ 472. file:///wiki/P%C3%A9pini%C3%A9riste
+ 473. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-35
+ 474. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-36
+ 475. file:///wiki/Aut%C3%A9cologie
+ 476. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=13
+ 477. file:///w/index.php?title=Racine_(botanique)&action=edit&section=13
+ 478. file:///wiki/Bioc%C3%A9nose
+ 479. file:///wiki/Agro%C3%A9cologie
+ 480. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-37
+ 481. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-DeKroon2007-38
+ 482. file:///wiki/Ann%C3%A9es_1990
+ 483. file:///wiki/1991
+--
+ 491. file:///w/index.php?title=Larrea_tridenta&action=edit&redlink=1
+ 492. file:///w/index.php?title=Ambrosia_dumosa&action=edit&redlink=1
+ 493. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-39
+ 494. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-40
+ 495. file:///wiki/1995
+ 496. file:///wiki/Agropyre_%C3%A0_%C3%A9pi
+ 497. file:///w/index.php?title=Agropyron_desertorum&action=edit&redlink=1
+ 498. file:///wiki/Artemisia_tridentata
+ 499. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-41
+ 500. file:///wiki/2003
+ 501. file:///wiki/Pois_cultiv%C3%A9
+ 502. file:///wiki/Miscanthus_sinensis
+ 503. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-42
+ 504. file:///wiki/2003
+ 505. file:///wiki/%C3%89cophysiologie_v%C3%A9g%C3%A9tale
+ 506. file:///wiki/Soi_(biologie)
+ 507. file:///wiki/Non-soi_(biologie)
+ 508. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-43
+ 509. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-DeKroon2007-38
+ 510. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-44
+ 511. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-DeKroon2007-38
+ 512. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-45
+ 513. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-46
+ 514. file:///wiki/Charbon_actif
+ 515. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-47
+ 516. file:///wiki/Symbiose
+ 517. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-DeKroon2007-38
+ 518. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=14
+ 519. file:///w/index.php?title=Racine_(botanique)&action=edit&section=14
+ 520. file:///wiki/R%C3%A9cepteur_de_reconnaissance_de_motifs_mol%C3%A9culaires
+ 521. file:///wiki/Motif_mol%C3%A9culaire_associ%C3%A9_aux_pathog%C3%A8nes
+ 522. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-48
+ 523. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=15
+ 524. file:///w/index.php?title=Racine_(botanique)&action=edit&section=15
+ 525. file:///wiki/Fichier:RacineAulneSymbioseBact309.JPG
+ 526. file:///wiki/Symbiotique
+ 527. file:///wiki/Bact%C3%A9ries_filamenteuses
+--
+ 529. file:///wiki/Aulne
+ 530. file:///wiki/Levier_(m%C3%A9canique)
+ 531. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-49
+ 532. file:///wiki/Botanique
+ 533. file:///wiki/Poil_racinaire
+ 534. file:///wiki/Germination
+ 535. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-50
+ 536. file:///wiki/Hyphe
+ 537. file:///wiki/Mycorhize
+ 538. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-51
+ 539. file:///wiki/Esp%C3%A8ce_pionni%C3%A8re
+ 540. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-52
+ 541. file:///wiki/Redistribution_hydraulique
+ 542. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-53
+ 543. file:///wiki/Organe_de_r%C3%A9serve
+ 544. file:///wiki/Tub%C3%A9risation
+ 545. file:///wiki/Racine_pivotante
+ 546. file:///wiki/Photosynth%C3%A8se
+ 547. file:///wiki/Rhizosph%C3%A8re
+--
+ 552. file:///wiki/Microbiote
+ 553. file:///wiki/Exsudat
+ 554. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-54
+ 555. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=16
+ 556. file:///w/index.php?title=Racine_(botanique)&action=edit&section=16
+ 557. file:///wiki/Fichier:Raices_P1010775mod.jpg
+ 558. file:///wiki/Porreres
+ 559. file:///wiki/Majorque
+ 560. file:///wiki/Espagne
+ 561. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-55
+ 562. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-56
+ 563. file:///wiki/Fichier:Raices_P1010293mod.jpg
+ 564. file:///wiki/La_Vacquerie-et-Saint-Martin-de-Castries
+--
+ 567. file:///wiki/Colonisation_(biologie)
+ 568. file:///wiki/Sol_(p%C3%A9dologie)
+ 569. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-57
+ 570. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=17
+ 571. file:///w/index.php?title=Racine_(botanique)&action=edit&section=17
+ 572. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-58
+ 573. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-59
+ 574. file:///wiki/Boscia_albitrunca
+ 575. file:///wiki/Juniperus_monosperma
+--
+ 577. file:///wiki/Acacia_erioloba
+ 578. file:///wiki/Prosopis_juliflora
+ 579. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=18
+ 580. file:///w/index.php?title=Racine_(botanique)&action=edit&section=18
+ 581. file:///wiki/Liste_de_racines_et_tubercules_comestibles
+ 582. file:///wiki/Fichier:Andain_plantation_dgs.jpg
+ 583. file:///wiki/Fichier:Empilement_de_souches_de_pins_apr%C3%A8s_d%C3%A9souchage_d%27une_coupe_rase_2018_Landes_de_Gascogne_13.jpg
+ 584. file:///wiki/Coupe_rase
+ 585. file:///wiki/Landes_de_Gascogne
+ 586. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=19
+ 587. file:///w/index.php?title=Racine_(botanique)&action=edit&section=19
+ 588. file:///wiki/Antiquit%C3%A9
+ 589. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-60
+ 590. file:///wiki/Moyen_%C3%82ge
+ 591. file:///wiki/Scala_natur%C3%A6
+ 592. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-61
+ 593. file:///wiki/L%C3%A9gume-racine
+ 594. file:///wiki/Betterave_sucri%C3%A8re
+ 595. file:///wiki/Igname
+--
+ 597. file:///wiki/Bois_tors
+ 598. file:///wiki/Courbe_(marine)
+ 599. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-Goujon-62
+ 600. file:///wiki/Abattage_(arbre)
+ 601. file:///wiki/Extraction_de_souches
+ 602. file:///wiki/Biomasse_(%C3%A9nergie)
+ 603. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=20
+ 604. file:///w/index.php?title=Racine_(botanique)&action=edit&section=20
+ 605. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-63
+ 606. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-64
+ 607. file:///wiki/Eau_pluviale
+ 608. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-65
+ 609. file:///wiki/%C3%89gout
+ 610. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-66
+ 611. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-67
+ 612. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-68
+ 613. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-69
+ 614. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-70
+ 615. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-71
+ 616. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=21
+ 617. file:///w/index.php?title=Racine_(botanique)&action=edit&section=21
+ 618. file:///wiki/Biomim%C3%A9tisme
+ 619. file:///wiki/Mat%C3%A9riel_informatique
+--
+ 621. file:///wiki/Capteur
+ 622. file:///wiki/Actionneur
+ 623. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_note-72
+ 624. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=22
+ 625. file:///w/index.php?title=Racine_(botanique)&action=edit&section=22
+ 626. file:///wiki/Fichier:Nsr-slika-001.png
+ 627. file:///wiki/Fichier:ContextFree_Root.png
+--
+ 632. file:///wiki/Symbiose
+ 633. file:///wiki/Amanite
+ 634. file:///wiki/Fichier:ParcHogeVeluweRacines.jpg
+ 635. file:///wiki/Fichier:RacinesComprim%C3%A9esCitadelleLille.jpg
+ 636. file:///wiki/Fichier:Roots_and_Soil_Erosion.jpg
+ 637. file:///wiki/Berge
+ 638. file:///wiki/Surfr%C3%A9quentation
+ 639. file:///wiki/Fichier:Racines_d%27un_corme_de_gla%C3%AFeul_%C3%A0_Orelle.jpg
+ 640. file:///wiki/Corme_(bulbe)
+ 641. file:///wiki/Gla%C3%AFeul
+--
+ 670. file:///wiki/Fichier:Ficus_elastica0.jpg
+ 671. file:///wiki/Ficus_elastica
+ 672. file:///wiki/Fichier:RacinesAquatiquesSauleD%C3%AAuleD%C3%A9tail2.jpg
+ 673. file:///wiki/Saule
+ 674. file:///wiki/Fichier:Sulawesi_trsr_ph07.jpg
+--
+ 681. file:///wiki/Aqueduc
+ 682. file:///wiki/Fr%C3%A9jus
+ 683. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=23
+ 684. file:///w/index.php?title=Racine_(botanique)&action=edit&section=23
+ 685. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-1
+ 686. file:///wiki/%C3%89claircie
+ 687. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-2
+ 688. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-Dr%C3%A9nou200625_3-0
+ 689. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Dr%C3%A9nou2006
+ 690. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-4
+ 691. https://www6.inra.fr/ciag/content/download/3585/35443/file/Vol6-3-Danjon.pdf
+ 692. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-Dr%C3%A9nou200626_5-0
+ 693. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Dr%C3%A9nou2006
+ 694. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-6
+ 695. http://www.afs-journal.org/index.php?option=article&access=doi&doi=10.1051/forest:2006085
+ 696. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-Dr%C3%A9nou200627_7-0
+ 697. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Dr%C3%A9nou2006
+ 698. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-8
+ 699. file:///wiki/Francis_Hall%C3%A9
+ 700. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-9
+ 701. file:///wiki/Preslia
+ 702. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-10
+ 703. file://books.google.com/books?id=5dldDwAAQBAJ
+ 704. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-11
+ 705. file:///wiki/Souche
+ 706. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-12
+ 707. file:///wiki/Aide:R%C3%A9f%C3%A9rence_non_conforme
+ 708. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-Dr%C3%A9nou200669-84_13-0
+ 709. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Dr%C3%A9nou2006
+ 710. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-14
+ 711. file:///wiki/Collet_(botanique)
+ 712. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-K%C3%B6stler_15-0
+ 713. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-K%C3%B6stler_15-1
+ 714. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-16
+ 715. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-17
+ 716. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-18
+ 717. file:///wiki/Chapman_%26_Hall
+ 718. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-19
+ 719. file://books.google.com/books?id=s8jK_I5C2fsC
+ 720. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-20
+ 721. file:///wiki/Digital_Object_Identifier
+ 722. https://dx.doi.org/10.1139/x87-208
+ 723. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-21
+ 724. file://books.google.com/books?id=k8EDCwAAQBAJ
+ 725. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-22
+ 726. file:///wiki/Marc-Andr%C3%A9_Selosse
+ 727. file:///wiki/Actes_Sud
+ 728. file://books.google.com/books?id=wqMlDwAAQBAJ
+ 729. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-23
+ 730. file:///wiki/Marc-Andr%C3%A9_Selosse
+ 731. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-24
+ 732. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-25
+ 733. file:///wiki/Digital_Object_Identifier
+ 734. https://dx.doi.org/10.1139/b04-060
+ 735. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-26
+ 736. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-27
+ 737. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-28
+ 738. file:///wiki/Jean-Marie_Pelt
+ 739. file:///wiki/Librairie_Arth%C3%A8me_Fayard
+ 740. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-Dr%C3%A9nou2006291_29-0
+ 741. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Dr%C3%A9nou2006
+ 742. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-30
+ 743. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-31
+ 744. file:///wiki/Digital_Object_Identifier
+ 745. https://dx.doi.org/10.1016/j.tplants.2007.08.012
+ 746. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-32
+ 747. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-Dr%C3%A9nou200665-66_33-0
+ 748. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Dr%C3%A9nou2006
+ 749. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-34
+ 750. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-35
+ 751. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-36
+ 752. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-37
+ 753. file:///wiki/Digital_Object_Identifier
+ 754. https://dx.doi.org/10.1046/j.0022-0477.2001.00609.x
+ 755. http://doi.wiley.com/10.1046/j.0022-0477.2001.00609.x
+ 756. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-DeKroon2007_38-0
+ 757. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-DeKroon2007_38-1
+ 758. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-DeKroon2007_38-2
+ 759. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-DeKroon2007_38-3
+ 760. file:///wiki/Digital_Object_Identifier
+ 761. https://dx.doi.org/10.1111/j.1365-2745.2006.01204.x
+ 762. http://doi.wiley.com/10.1111/j.1365-2745.2006.01204.x
+ 763. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-39
+ 764. file:///wiki/Digital_Object_Identifier
+ 765. https://dx.doi.org/10.2307/1941462
+ 766. http://doi.wiley.com/10.2307/1941462
+ 767. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-40
+ 768. file:///wiki/International_Standard_Serial_Number
+ 769. https://portal.issn.org/resource/issn/0027-8424
+--
+ 776. https://dx.doi.org/10.1073/pnas.88.3.874
+ 777. https://www.pnas.org/content/88/3/874
+ 778. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-41
+ 779. file:///wiki/Digital_Object_Identifier
+ 780. https://dx.doi.org/10.1016/S0367-2530%2817%2930647-3
+ 781. https://linkinghub.elsevier.com/retrieve/pii/S0367253017306473
+ 782. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-42
+ 783. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-43
+ 784. file:///wiki/International_Standard_Serial_Number
+ 785. https://portal.issn.org/resource/issn/0022-0477
+ 786. https://www.jstor.org/stable/3599566
+ 787. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-44
+ 788. file:///wiki/International_Standard_Serial_Number
+ 789. https://portal.issn.org/resource/issn/0027-8424
+--
+ 796. https://dx.doi.org/10.1073/pnas.0306604101
+ 797. http://www.pnas.org/cgi/doi/10.1073/pnas.0306604101
+ 798. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-45
+ 799. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-46
+ 800. file:///wiki/Digital_Object_Identifier
+ 801. https://dx.doi.org/10.1078/1618-8667-00023
+ 802. https://linkinghub.elsevier.com/retrieve/pii/S1618866704700230
+ 803. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-47
+ 804. file:///wiki/Digital_Object_Identifier
+ 805. https://dx.doi.org/10.1111/j.1365-2745.2007.01210.x
+ 806. http://doi.wiley.com/10.1111/j.1365-2745.2007.01210.x
+ 807. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-48
+ 808. file:///wiki/International_Standard_Serial_Number
+ 809. https://portal.issn.org/resource/issn/1097-4172
+--
+ 815. https://dx.doi.org/10.1016/j.cell.2020.01.013
+ 816. https://pubmed.ncbi.nlm.nih.gov/32032516/
+ 817. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-49
+ 818. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-50
+ 819. file:///wiki/Biologie_v%C3%A9g%C3%A9tale
+ 820. file:///wiki/Arabidopsis_thaliana
+ 821. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-51
+ 822. file:///wiki/Digital_Object_Identifier
+ 823. https://dx.doi.org/10.1007/3-540-27043-4_11
+ 824. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-52
+ 825. file:///wiki/Marc-Andr%C3%A9_Selosse
+ 826. file:///wiki/Actes_Sud
+ 827. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-53
+ 828. file:///wiki/Digital_Object_Identifier
+ 829. https://dx.doi.org/10.1007/BF00378231
+ 830. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-54
+ 831. file:///wiki/%C3%89ditions_Dunod
+ 832. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-55
+ 833. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-56
+ 834. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-57
+ 835. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-58
+ 836. file:///wiki/Digital_Object_Identifier
+ 837. https://dx.doi.org/10.1007/BF00329030
+ 838. http://www.springerlink.com/content/mt5024gq08612853/
+ 839. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-59
+ 840. file:///wiki/Digital_Object_Identifier
+ 841. https://dx.doi.org/10.1016/0378-1127%2891%2990245-Q
+ 842. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-60
+ 843. file:///wiki/International_Standard_Book_Number
+ 844. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/2-296-01061-X
+ 845. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-61
+ 846. file:///wiki/France_Culture
+ 847. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-Goujon_62-0
+ 848. file:///wiki/Louis_Joseph_Marie_Achille_Goujon
+ 849. https://books.google.be/books?id=r2cDAAAAYAAJ&pg
+ 850. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-63
+ 851. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-64
+ 852. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-65
+ 853. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-66
+ 854. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-67
+ 855. http://joa.isa-arbor.com/request.asp?JournalID=1&ArticleID=2650&Type=2
+ 856. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-68
+ 857. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-69
+ 858. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-70
+ 859. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-71
+ 860. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#cite_ref-72
+ 861. http://www.plantoid-project.eu/index.php/the-project/project-details
+ 862. https://www.youtube.com/watch?v=rHMaiExI-PM
+ 863. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=24
+ 864. file:///w/index.php?title=Racine_(botanique)&action=edit&section=24
+ 865. https://commons.wikimedia.org/wiki/Root?uselang=fr
+ 866. https://fr.wiktionary.org/wiki/racine
+ 867. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=25
+ 868. file:///w/index.php?title=Racine_(botanique)&action=edit&section=25
+ 869. file://books.google.com/books?id=b9Xxpx1BV58C
+ 870. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=26
+ 871. file:///w/index.php?title=Racine_(botanique)&action=edit&section=26
+ 872. https://www.franceculture.fr/emissions/la-methode-scientifique/racines-vingt-mille-liens-sous-les-terres
+ 873. file:///wiki/France_Culture
+ 874. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=27
+ 875. file:///w/index.php?title=Racine_(botanique)&action=edit&section=27
+ 876. file:///wiki/Glossaire_de_botanique
+ 877. file:///wiki/Nodosit%C3%A9
+--
+ 884. file:///w/index.php?title=Rhizotron&action=edit&redlink=1
+ 885. https://en.wikipedia.org/wiki/Rhizotron
+ 886. file:///wiki/Pont_de_racines_vivant
+ 887. file:///wiki/Rhizocylindre
+ 888. file:///w/index.php?title=Racine_(botanique)&veaction=edit&section=28
+ 889. file:///w/index.php?title=Racine_(botanique)&action=edit&section=28
+ 890. http://www.infovisual.info/01/015_fr.html
+ 891. http://www.snv.jussieu.fr/bmedia/racine/index.htm
+ 892. http://www.snv.jussieu.fr/bmedia/racine/images/racine.swf
+ 893. http://www.botanique.org/botanique/anatomie-tige-racine/anatomie-tige/structure-primaire-tige-dicotyledones/structure-primaire-tige-dicotyledones-article24538.html
+ 894. http://www.butbn.cas.cz/clopla/index.php?page=alb
+ 895. https://www.wur.nl/en/newsarticle/Drawings-of-Forest-trees-in-the-Root-Systems-Collection.htm
+--
+1017. file:///wiki/Portail:Jardinage_et_horticulture
+1018. file:///wiki/Portail:Jardinage_et_horticulture
+1019. https://fr.wikipedia.org/w/index.php?title=Racine_(botanique)&oldid=220475651
+1020. file:///wiki/Cat%C3%A9gorie:Accueil
+1021. file:///wiki/Cat%C3%A9gorie:Morphologie_v%C3%A9g%C3%A9tale
+--
+1037. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr
+1038. file:///wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques
+1039. file:///wiki/Sp%C3%A9cial:Citer/Racine_(botanique)
+1040. https://wikimediafoundation.org/
+1041. file:///wiki/501c
+--
+1048. https://stats.wikimedia.org/#/fr.wikipedia.org
+1049. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+1050. file://fr.m.wikipedia.org/w/index.php?title=Racine_(botanique)&mobileaction=toggle_view_mobile
+1051. https://wikimediafoundation.org/
+1052. https://www.mediawiki.org/
+
+   Hidden links:
+1054. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html
+1055. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#R%C3%B4les_de_la_racine
+1056. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Structure_de_la_racine
+1057. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Morphologie
+1058. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Types_de_racines_sp%C3%A9cialis%C3%A9es
+1059. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Diff%C3%A9rentes_formes_de_racines
+1060. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Ramification
+1061. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Anatomie
+1062. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Structure_primaire
+1063. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Structure_secondaire
+1064. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Croissance_racinaire
+1065. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Rhizogen%C3%A8se
+1066. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Racine_et_g%C3%A9nie_v%C3%A9g%C3%A9tal
+1067. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Reconnaissance_du_soi_et_du_non-soi_?
+1068. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#D%C3%A9fense_contre_les_pathog%C3%A8nes
+1069. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Fonctions
+1070. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Profondeur_des_racines
+1071. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Records_de_profondeur
+1072. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Les_racines_et_l'humain
+1073. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Importance_%C3%A9conomique
+1074. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Interactions_avec_le_patrimoine_b%C3%A2ti
+1075. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Int%C3%A9r%C3%AAt_pour_la_biomim%C3%A9tique
+1076. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Illustrations
+1077. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Notes_et_r%C3%A9f%C3%A9rences
+1078. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Voir_aussi
+1079. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Bibliographie
+1080. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Radiographie
+1081. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Articles_connexes
+1082. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_%28botanique%29.html#Liens_externes

@@ -1,0 +1,233 @@
+   [ ] Basculer la table des matières
+
+Racine nerveuse
+
+   [ ] 5 langues
+--
+   Consultez la liste des tâches à accomplir en [58]page de discussion.
+   [59][220px-Gray770-en.svg.png] Schéma d'une coupe transversale de la
+   moelle spinale et de l'émergence des racines d'une paire de nerfs
+   spinaux[60][220px-Gray796.png] Schéma d'une vue latérale droite d'un
+   partie de la moelle spinale montrant les racines de plusieurs nerfs
+   spinaux (sectionnés)[61][220px-Gray792.png] Schéma du tronc cérébral et
+   de la portion initiale de la moelle spinale en vue postérieure
+   ([62]cervelet réséqué), montrant l'émergence de plusieurs nerfs
+   crâniens, notamment les racines du nerf accessoire, et des premiers
+   nerfs cervicaux[63][220px-Gray788A.JPG] Schéma du nerf facial, les deux
+   racines sont représentées en haut à gauche
+
+   Une racine nerveuse est le segment initial d'un [64]nerf au niveau de
+   son émergence du [65]névraxe ([66]encéphale et [67]moelle spinale). Ces
+   racines nerveuses sont disposées de manière symétrique de chaque côté
+   de l'encéphale en ce qui concerne les [68]nerfs crâniens, et de chaque
+   côté de la moelle spinale en ce qui concerne les [69]nerfs spinaux. En
+   principe, on réserve habituellement le nom de racine à la partie
+   initiale des nerfs qui est composée de plusieurs troncs séparés.
+
+--
+   1 coccygien (Co).
+
+   La partie initiale de chaque nerf spinal se compose de deux racines,
+   une racine ventrale (ou antérieure), motrice, et une racine dorsale (ou
+   postérieure), sensitive. Ces deux troncs nerveux fusionnent à chaque
+   niveau pour former le nerf spinal correspondant.
+--
+   sont au nombre de 12 paires chez l'Homme. Leur partie initiale est en
+   général composée d'un unique tronc qui ne prend habituellement pas le
+   nom de racine. Cependant, trois de ces nerfs, le [81]trijumeau (V), le
+   [82]facial (VII) et l'[83]accessoire (XI), possèdent deux racines.
+
+   Le nerf trijumeau possède une racine sensitive, principale, et une
+   deuxième racine motrice. Bien que ces deux troncs nerveux ne se
+   réunissent pas (la racine motrice s'unit seulement avec une branche de
+   la racine sensitive), leur contiguïté fait qu'ils sont considérés comme
+   faisant partie d'un même nerf.
+
+   Le nerf facial possède une racine principale appelée nerf facial
+   « proprement dit », et une seconde racine appelée nerf intermédiaire.
+   Ces deux troncs fusionnent pour former le nerf facial.
+
+   Le nerf accessoire possède une racine spinale et une racine bulbaire.
+   Ces deux troncs se réunissent pour former le nerf accessoire.
+
+--
+   [[84]modifier | [85]modifier le code]
+
+   Les nerfs composés de deux racines (l'ensemble des nerfs spinaux, et
+   les nerfs crâniens V, VII et XI) sont mixtes, c'est-à-dire à la fois
+   moteurs et sensoriels. Les nerfs qui disposent d'un seul tronc
+--
+   [97]Votre aide est la bienvenue ! [98]Comment faire ?
+
+   Radiculalgie : douleur suivant le trajet du dermatome de la racine
+   nerveuse comprimée. Un dermatome désigne une zone cutanée où tous les
+   nerfs sensitifs proviennent d'une même racine.
+
+   Le syndrome de la queue de cheval résulte d'une compression
+   pluriradiculaire (de plusieurs racines) et se présente cliniquement par
+   une anesthésie en selle et des troubles génito-sphinctériens.
+
+   En ce qui concerne les nerfs périphériques (situés en aval des
+   racines), lorsqu'ils sont comprimés au sein de zones anatomiques
+   étroites on parle de syndrome canalaire.
+
+--
+
+   C'est l'anatomiste et médecin anglais [101]Charles Bell qui découvrit
+   que les racines antérieures de la moelle spinale servent au mouvement
+   alors que les racines postérieures servent à la sensibilité, découverte
+   capitale qu'il consigna dans son Exposition of the natural system of
+   the nerves publiée à [102]Londres, en [103]1824, et traduit par
+--
+
+   [[113]modifier | [114]modifier le code]
+     * [115]Base de données publique répertoriant les muscles par racines
+       nerveuse associée (en)
+
+--
+
+   Ce document provient de
+   « [159]https://fr.wikipedia.org/w/index.php?title=Racine_nerveuse&oldid
+   =212693168 ».
+   [160]Catégorie:
+--
+
+   Visible links:
+   1. file://fr.m.wikipedia.org/wiki/Racine_nerveuse
+   2. file:///w/index.php?title=Racine_nerveuse&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+--
+  15. file:///wiki/Sp%C3%A9cial:Recherche
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  17. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+nerveuse
+  18. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+nerveuse
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  20. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+nerveuse
+  21. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+nerveuse
+  22. file:///wiki/Aide:Premiers_pas
+  23. file:///wiki/Sp%C3%A9cial:Mes_contributions
+--
+  29. https://pt.wikipedia.org/wiki/Raiz_nervosa
+  30. https://www.wikidata.org/wiki/Special:EntityPage/Q674696#sitelinks-wikipedia
+  31. file:///wiki/Racine_nerveuse
+  32. file:///wiki/Discussion:Racine_nerveuse
+  33. file:///wiki/Racine_nerveuse
+  34. file:///w/index.php?title=Racine_nerveuse&veaction=edit
+  35. file:///w/index.php?title=Racine_nerveuse&action=edit
+  36. file:///w/index.php?title=Racine_nerveuse&action=history
+  37. file:///wiki/Racine_nerveuse
+  38. file:///w/index.php?title=Racine_nerveuse&veaction=edit
+  39. file:///w/index.php?title=Racine_nerveuse&action=edit
+  40. file:///w/index.php?title=Racine_nerveuse&action=history
+  41. file:///wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Racine_nerveuse
+  42. file:///wiki/Sp%C3%A9cial:Suivi_des_liens/Racine_nerveuse
+  43. file:///wiki/Aide:Importer_un_fichier
+  44. file:///wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+  45. file:///w/index.php?title=Racine_nerveuse&oldid=212693168
+  46. file:///w/index.php?title=Racine_nerveuse&action=info
+  47. file:///w/index.php?title=Sp%C3%A9cial:Citer&page=Racine_nerveuse&id=212693168&wpFormIdentifier=titleform
+  48. file:///w/index.php?title=Sp%C3%A9cial:UrlShortener&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_nerveuse
+  49. file:///w/index.php?title=Sp%C3%A9cial:QrCode&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_nerveuse
+  50. file:///w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Racine+nerveuse
+  51. file:///w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Racine_nerveuse&action=show-download-screen
+  52. file:///w/index.php?title=Racine_nerveuse&printable=yes
+  53. https://www.wikidata.org/wiki/Special:EntityPage/Q674696
+  54. file:///wiki/Aide:%C3%89bauche
+--
+  56. file:///wiki/Aide:Comment_modifier_une_page
+  57. file:///wiki/Projet:Accueil
+  58. file:///wiki/Discussion:Racine_nerveuse
+  59. file:///wiki/Fichier:Gray770-en.svg
+  60. file:///wiki/Fichier:Gray796.png
+--
+  68. file:///wiki/Nerf_cr%C3%A2nien
+  69. file:///wiki/Nerf_spinal
+  70. file:///w/index.php?title=Racine_nerveuse&veaction=edit&section=1
+  71. file:///w/index.php?title=Racine_nerveuse&action=edit&section=1
+  72. file:///w/index.php?title=Racine_nerveuse&veaction=edit&section=2
+  73. file:///w/index.php?title=Racine_nerveuse&action=edit&section=2
+  74. file:///wiki/Nerfs_spinaux
+  75. file:///wiki/Moelle_spinale
+  76. file:///w/index.php?title=Racine_nerveuse&veaction=edit&section=3
+  77. file:///w/index.php?title=Racine_nerveuse&action=edit&section=3
+  78. file:///wiki/Nerfs_cr%C3%A2niens
+  79. file:///wiki/Enc%C3%A9phale
+--
+  82. file:///wiki/Nerf_facial
+  83. file:///wiki/Nerf_accessoire
+  84. file:///w/index.php?title=Racine_nerveuse&veaction=edit&section=4
+  85. file:///w/index.php?title=Racine_nerveuse&action=edit&section=4
+  86. file:///wiki/Nerf_trochl%C3%A9aire
+  87. file:///wiki/Nerf_abducens
+--
+  93. file:///wiki/Nerf_glossopharyngien
+  94. file:///wiki/Nerf_vague
+  95. file:///w/index.php?title=Racine_nerveuse&veaction=edit&section=5
+  96. file:///w/index.php?title=Racine_nerveuse&action=edit&section=5
+  97. file:///wiki/Sp%C3%A9cial:EditPage/Racine_nerveuse
+  98. file:///wiki/Aide:Comment_modifier_une_page
+  99. file:///w/index.php?title=Racine_nerveuse&veaction=edit&section=6
+ 100. file:///w/index.php?title=Racine_nerveuse&action=edit&section=6
+ 101. file:///wiki/Charles_Bell
+ 102. file:///wiki/Londres
+--
+ 104. file:///w/index.php?title=Jean-Louis_Genest&action=edit&redlink=1
+ 105. file:///wiki/1825
+ 106. file:///w/index.php?title=Racine_nerveuse&veaction=edit&section=7
+ 107. file:///w/index.php?title=Racine_nerveuse&action=edit&section=7
+ 108. file:///w/index.php?title=Racine_nerveuse&veaction=edit&section=8
+ 109. file:///w/index.php?title=Racine_nerveuse&action=edit&section=8
+ 110. file:///wiki/Syst%C3%A8me_nerveux_central
+ 111. file:///wiki/Neuroanatomie
+ 112. file:///wiki/Colonne_vert%C3%A9brale
+ 113. file:///w/index.php?title=Racine_nerveuse&veaction=edit&section=9
+ 114. file:///w/index.php?title=Racine_nerveuse&action=edit&section=9
+ 115. https://www.msu.edu/user/vosskurt/Miscellaneous%20pages/musnvrt.htm
+ 116. file:///wiki/Sp%C3%A9cial:EditPage/Racine_nerveuse
+ 117. file:///wiki/Aide:Comment_modifier_une_page
+ 118. file:///w/index.php?title=Racine_nerveuse&veaction=edit&section=10
+ 119. file:///w/index.php?title=Racine_nerveuse&action=edit&section=10
+ 120. file:///wiki/Sp%C3%A9cial:EditPage/Racine_nerveuse
+ 121. file:///wiki/Aide:Comment_modifier_une_page
+ 122. file:///w/index.php?title=Racine_nerveuse&veaction=edit&section=11
+ 123. file:///w/index.php?title=Racine_nerveuse&action=edit&section=11
+ 124. file:///wiki/Mod%C3%A8le:Palette_Syst%C3%A8me_nerveux
+ 125. https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Syst%C3%A8me_nerveux&action=edit
+--
+ 157. file:///wiki/Portail:Anatomie
+ 158. file:///wiki/Portail:Anatomie
+ 159. https://fr.wikipedia.org/w/index.php?title=Racine_nerveuse&oldid=212693168
+ 160. file:///wiki/Cat%C3%A9gorie:Accueil
+ 161. file:///wiki/Cat%C3%A9gorie:Syst%C3%A8me_nerveux
+--
+ 173. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr
+ 174. file:///wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques
+ 175. file:///wiki/Sp%C3%A9cial:Citer/Racine_nerveuse
+ 176. https://wikimediafoundation.org/
+ 177. file:///wiki/501c
+--
+ 184. https://stats.wikimedia.org/#/fr.wikipedia.org
+ 185. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 186. file://fr.m.wikipedia.org/w/index.php?title=Racine_nerveuse&mobileaction=toggle_view_mobile
+ 187. https://wikimediafoundation.org/
+ 188. https://www.mediawiki.org/
+
+   Hidden links:
+ 190. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html
+ 191. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#Description
+ 192. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#Nerfs_spinaux
+ 193. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#Nerfs_cr%C3%A2niens
+ 194. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#Cons%C3%A9quence
+ 195. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#Pathologies
+ 196. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#Histoire
+ 197. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#Voir_aussi
+ 198. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#Articles_connexes
+ 199. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#Liens_externes
+ 200. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#Bibliographie
+ 201. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_nerveuse.html#Notes_et_r%C3%A9f%C3%A9rences
+ 202. file://localhost/wiki/Fichier:Brain_Surface_Gyri.SVG
+ 203. file://localhost/wiki/Fichier:Fairytale_warning.png

@@ -1,0 +1,120 @@
+   #[1]Fonction logarithme népérien
+
+Fonction logarithme népérien
+
+     * [2]contenu
+     * [3]menu
+     * [4]navigation
+     * [5]outils
+     __________________________________________________________________
+
+Racine n-ième d'un nombre
+
+Définition : Propriété et définition
+
+   Soit \(k\) un nombre strictement positif connu et \(n\) un entier
+   naturel non nul.
+
+   Dans \(]0 ;+\infty[\), l'équation \(x^n=k\) possède une unique solution
+   \(x=k^{1/n}\).
+
+   Le nombre \(k^{1/n}\) est la racine n-ième de k.
+
+Complément :
+
+   \(\ln(k^{1/n})=\dfrac{1}{n}\ln k\) donc\(
+   k^{1/n}=\text{e}^{\tfrac{1}{n}\ln k}\) par passage à l'exponentielle.
+
+   \(\left(k^{1/n}\right)^n=\left(\text{e}^{\tfrac{1}{n}\ln
+   k}\right)^n=\text{e}^{n\tfrac{1}{n}\ln k}=\text{e}^{\ln k}=k\).
+
+   La racine n-ième de k élevée à la puissance n donne bien k.
+
+Exemple : Exemple d'application concrète
+
+   La consommation d'électricité par habitant en Chine est passée de
+   993kWh en 2000 à 2455kWh en 2008.
+
+   On suppose que, chaque année, la consommation a été multipliée par le
+   même nombre. (Autrement dit, la suite des consommations annuelles est
+   une suite géométrique)
+
+   Quelle est l'augmentation annuelle moyenne en pourcentage de la
+   consommation d'électricité en Chine ? (Autrement dit, quelle est la
+   raison de cette suite ?)
+
+   Si \(q\) est le coefficient multiplicateur correspondant à
+   l'augmentation de la consommation en un an, alors on peut écrire que
+   \(2455=993\times q^8\)
+
+   Par conséquent, \(q^8=\dfrac{2455}{993}\approx 2,4723\).
+
+   On a donc \(q=\left(\dfrac{2455}{993} \right)
+   ^{1/8}=\text{e}^{\tfrac{1}{8}\ln \tfrac{2455}{993}} \approx 1,1198\).
+
+   Le pourcentage d'augmentation correspondant est donc \((q-1)\times
+   100\approx 12\) donc 12% par an.
+
+   Autre méthode : \(q^8=\dfrac{2455}{993}\) donc en prenant le logarithme
+   népérien de chaque côté, on obtient :
+
+   \(\ln~(q^8)=\ln~ \left(\dfrac{2455}{993}\right)\) donc \(8\ln q=\ln
+   \left(\dfrac{2455}{993}\right)\).
+
+   Il en résulte que :\(\ln~q=\dfrac{\ln
+   \left(\tfrac{2455}{993}\right)}{8}\) et donc \(q=\text{e}^{\tfrac{\ln~
+   \left(\tfrac{2455}{993}\right)}{8}}\).
+     __________________________________________________________________
+
+     * [6]Précédent
+     * [7]Suivant
+     __________________________________________________________________
+
+     * [8]Objectifs
+     * [9]Introduction
+     * [10]Exercice : Utilisation des tables de log
+     * [11]La règle à calcul
+     * [12]Notion de Logarithme Néperien
+     * [13]Relation fonctionnelle
+     * [14]Étude de la fonction Logarithme népérien
+     * [15]Résolution d'équations avec les logarithmes
+          + [16]Introduction
+          + Racine n-ième d'un nombre
+          + [17]Exercice : Une erreur de mathématiques en direct
+          + [18]Exercice : Déterminer un seuil
+     * [19]Exercice : Logarithme décimal : Activité
+     * [20]Tester ses connaissances
+     __________________________________________________________________
+
+     * [21]Accueil
+     * Module
+     * [22]Outils
+     __________________________________________________________________
+
+   [23]Réalisé avec Scenari (nouvelle fenêtre)
+
+References
+
+   1. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/module_Ch09_Logarithme.html
+   2. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_G_racnieme.html.html#content
+   3. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_G_racnieme.html.html#menu
+   4. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_G_racnieme.html.html#navigation
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_G_racnieme.html.html#tools
+   6. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_ResolEqn_1.html
+   7. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ER_ErreurJT.html
+   8. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/module_Ch09_Logarithme_1.html
+   9. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/module_Ch09_Logarithme_2.html
+  10. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ER_tablesLog.html
+  11. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/G_rac.html
+  12. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_NotionLn.html
+  13. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_RelationFonctionnelle.html
+  14. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_EtudeLn.html
+  15. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_ResolEqn.html
+  16. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_ResolEqn_1.html
+  17. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ER_ErreurJT.html
+  18. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ER_seuil.html
+  19. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ER_Log10.html
+  20. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/activiteeval.html
+  21. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/module_Ch09_Logarithme.html
+  22. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/Ch09_Logarithme_web.html
+  23. https://www.scenari.org/

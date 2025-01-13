@@ -1,0 +1,32 @@
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   Un root (litt. racine) est, sur les [80]systèmes d'exploitation de type
+   [81]Unix, un utilisateur qui possède toutes les [82]permissions sur le
+   système (on dit aussi « super-utilisateur »), aussi bien en mode mono
+--
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+--
+  82. file:///wiki/Permissions_Unix
+  83. file:///wiki/Multi-utilisateur
+  84. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#cite_note-1
+  85. file:///wiki/Aide:R%C3%A9f%C3%A9rence_non_conforme
+  86. file:///wiki/User_identifier
+--
+ 112. file:///w/index.php?title=Utilisateur_root&veaction=edit&section=4
+ 113. file:///w/index.php?title=Utilisateur_root&action=edit&section=4
+ 114. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#cite_ref-1
+ 115. http://forums.cnetfrance.fr/topic/1170024-root-android--rooter-c-est-quoi-au-juste/
+ 116. file:///wiki/Portail:S%C3%A9curit%C3%A9_informatique
+--
+
+   Hidden links:
+ 146. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html
+ 147. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#Utilit%C3%A9
+ 148. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#Pr%C3%A9cautions
+ 149. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#S%C3%A9curit%C3%A9_des_serveurs
+ 150. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#R%C3%A9f%C3%A9rences
+ 151. https://zh-classical.wikipedia.org/wiki/%E6%A0%B9%E6%88%B6

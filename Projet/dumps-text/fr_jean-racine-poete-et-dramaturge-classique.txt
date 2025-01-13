@@ -1,0 +1,553 @@
+     * [1]Aller au contenu principal
+     * [2]Choisir un niveau
+     * [3]Rechercher un contenu
+
+     *
+          + [4]Retour à la page précédente
+          + [5]Accueil Lumni Accueil Lumni
+          + JE SUIS :
+          +
+               o ÉLÈVE Site actuel
+               o [6]ENSEIGNANT
+     * (BUTTON) POUR T'INSCRIRE À LA NEWSLETTER C'EST PAR ICI
+     *
+          + [7]En savoir plus sur les Lumniz
+            Vous avez :0 LumnizLumniz
+          + (BUTTON)
+            Mon compte
+               o [8]Mon espace Lumni
+               o [9]Mes listes
+               o [10]Mon historique
+               o [11]Mes paramètres
+               o [12]Mes notifications
+               o [13]Déconnexion
+
+   (BUTTON) popin.accompany.close
+   Oups !
+   Pour utiliser cette fonctionnalité tu dois être connecté. Maintenant,
+   il est temps de [14]créer ton compte (et c'est gratuit) !
+   [15]J'ai déjà un compte
+
+   [16]Je crée mon compte [17]J'ai déjà un compte
+     * [18]Accueil
+     * (BUTTON) Primaire
+          + Primaire
+          + [19]Maternelle
+          + [20]CP
+          + [21]CE1
+          + [22]CE2
+          + [23]CM1
+          + [24]CM2
+     * (BUTTON) Collège
+          + Collège
+          + [25]Sixième
+          + [26]Cinquième
+          + [27]Quatrième
+          + [28]Troisième
+     * (BUTTON) Lycée
+          + Lycée
+          + [29]Seconde
+          + [30]Première
+          + [31]Terminale
+
+   [32]Rechercher
+     * [33]En savoir plus sur les Lumniz
+       Vous avez :0 LumnizLumniz
+     * (BUTTON)
+       Mon compte
+          + [34]Mon espace Lumni
+          + [35]Mes listes
+          + [36]Mon historique
+          + [37]Mes paramètres
+          + [38]Mes notifications
+          + [39]Déconnexion
+
+     * [40]Je crée mon compte
+     * [41]Je me connecte
+     *
+     * [42]Pourquoi s'inscrire ?
+     * [43]Mes notifications
+
+   (BUTTON) Fermer la fenêtre d'information sur les Lumniz
+   Prêt à embarquer ?
+
+   Plus organisé, moins stressé... Avec Lumni, tu vas y arriver !
+
+   Crée ton compte pour accéder à tout, c'est gratuit.
+   [44]Je crée mon compte[45]Je me connecte
+   EUR, c'est 100% gratuit et sans pub !
+
+     * [46]Maternelle
+     * [47]CP
+     * [48]CE1
+     * [49]CE2
+     * [50]CM1
+     * [51]CM2
+     * [52]Sixième
+     * [53]Cinquième
+     * [54]Quatrième
+     * [55]Troisième
+     * [56]Seconde
+     * [57]Première
+     * [58]Terminale
+     * [59]Enseignement
+
+    1. [60]Lycée
+    2. [61]Première
+    3. [62]Français
+    4. Jean Racine, poète et dramaturge classique
+
+   [63]Première
+   Matières
+     * [64]Bac 2025
+     * [65]Orientation
+     * (BUTTON) Enseignements communs
+     * (BUTTON) Spécialités voie générale
+     * (BUTTON) Spécialités voie technologique
+     * [66]Méthodes de travail
+
+   Et plus
+     * [67]Actualité
+     * (BUTTON) Vivre en société
+     * (BUTTON) Bien-être au quotidien
+
+   (BUTTON) Enseignements communs
+     * [68]Français
+     * [69]Anglais
+     * [70]Espagnol
+     * [71]Allemand
+     * [72]Histoire
+     * [73]Géographie
+     * [74]EMC
+     * [75]Enseignement scientifique
+     * [76]Maths (voie générale)
+     * [77]Maths (voie techno)
+
+   (BUTTON) Spécialités voie générale
+     * [78]Maths
+     * [79]Physique-chimie
+     * [80]SVT
+     * [81]SES
+     * [82]HGGSP
+     * [83]LLCER
+     * [84]HLP
+     * [85]LLCA
+     * [86]NSI
+     * [87]Sciences de l'ingénieur
+     * [88]Arts
+     * [89]EPPCS
+
+   (BUTTON) Spécialités voie technologique
+     * [90]STMG
+     * [91]ST2S
+     * [92]STL
+     * [93]STI2D
+
+   (BUTTON) Vivre en société
+     * [94]Développement durable
+     * [95]Culture
+     * [96]Violences morales et physiques
+
+   (BUTTON) Bien-être au quotidien
+     * [97]Santé
+     * [98]Sport
+     * [99]Sexualité
+
+     * (BUTTON) Première
+     * (BUTTON) Matières
+     * [100]Bac
+     * [101]Recherche
+
+Jean Racine, poète et dramaturge classique
+
+   Jean Racine est un poète et dramaturge français qui a vécu au XVII^e
+   siècle sous le règne de Louis XIV. Avec ses personnages victimes de
+   passions incontrôlables, il est un maître de la tragédie classique.
+   Biographie.
+     __________________________________________________________________
+
+   Publié le 09/05/2022 o Modifié le 06/05/2024
+
+   Temps de lecture : 2 min.
+
+   Écrit par Elodie Pinel
+
+   Jean Racine, poète et dramaturge classique
+
+   Aimé à 87% par nos utilisateurs
+   (BUTTON) J'aime (BUTTON)
+   (BUTTON) Ma liste
+   (BUTTON) Partager
+
+   Lis cet article et gagne facilement 10 Lumniz en te connectant !
+
+   Il n'y a pas de Lumniz à gagner car tu as déjà vu ce contenu. Ne
+   t'inquiète pas, il y a plein d'autres vidéos, jeux, quiz ou articles
+   intéressants à explorer et toujours plus de Lumniz à remporter.
+   [102]->   En savoir plus
+
+Qui était Jean Racine ?
+
+   [103]Jean Racine est un dramaturge français du XVII^e siècle. Destiné à
+   une carrière dans l'Église, il préfère s'en écarter pour composer des
+   pièces. Il est remarqué par Louis XIV dès 1665, à 26 ans, avec la pièce
+   Alexandre le Grand. Et lorsque Louis XIV le fait concourir contre
+   Pierre Corneille en leur demandant d'écrire une tragédie sur l'Histoire
+   antique de Titus, empereur romain et Bérénice, reine de Palestine,
+   c'est Racine qui l'emporte avec sa pièce seulement intitulée Bérénice.
+   Les faveurs du roi et de sa Cour lui permettent de faire représenter
+   dans les palais royaux des tragédies inspirées de l'Histoire ou de la
+   mythologie antiques. Mais la découverte de son implication dans
+   l'affaire des poisons en 1679, un scandale d'État ayant révélé que bon
+   nombre de personnes de la cour commandaient des poisons et des messes
+   noires pour assassiner leurs ennemis, met temporairement entre
+   parenthèses sa carrière théâtrale. Il y revient à la demande de Mme de
+   Maintenon, dernière épouse de Louis XIV, lorsqu'elle fonde en 1686
+   l'école pour jeunes filles nobles de Saint-Cyr. Elle commande alors à
+   Racine deux pièces religieuses pour ses élèves, Esther et Athalie. Ses
+   principales oeuvres sont Britannicus, Iphigénie, Mithridate ou encore
+   [104]Phèdre.
+
+Dates-clés
+
+     * 1639 : naissance à Ferté-Milon (Picardie)
+     * 1649 - 1658 : scolarité chez les jansénistes, puis études de
+       logique et de philosophie
+     * 1663 : entrée à la cour du roi Louis XIV
+     * 1667 : premier grand succès avec la pièce Andromaque
+     * 1677 : écriture de Phèdre, puis abandon du théâtre
+     * 1689 - 1691 : retour au théâtre avec les pièces Esther et Athalie
+     * 1699 : mort à Paris
+
+Dans quel contexte est écrit Phèdre ?
+
+   La pièce Phèdre est représentée en 1677. Le règne de [105]Louis XIV est
+   alors à son apogée : le roi a 39 ans, est l'époux de Marie-Thérèse
+   d'Autriche et a un nombre incalculable de maîtresses, dont la favorite
+   est Madame de Montespan, avec laquelle il aura quatre enfants. Ayant eu
+   à affronter une révolte des nobles, la Fronde, alors qu'il était encore
+   enfant, Louis XIV a gardé une méfiance vis-à-vis de la Cour, raison
+   pour laquelle il fait construire sa résidence principale à Versailles,
+   loin de Paris, pour isoler les courtisans et mieux les contrôler. En
+   1677, pourtant, le château de Versailles n'est pas encore achevé et le
+   roi gouverne depuis le château de Saint-Germain-en-Laye, où il s'était
+   réfugié pendant la Fronde, et depuis le palais du Louvre et celui des
+   Tuileries. Ayant révoqué tous ses ministres en accédant au trône, Louis
+   XIV exerce un [106]pouvoir absolu. Racine assiste à la vie de la Cour ;
+   il y participe même, puisqu'il connaît intimement tant les maîtresses
+   du roi que son épouse la reine. Sa pièce Phèdre est dans le goût des
+   courtisans, hommes et femmes, de son époque.
+
+Qu'a changé Jean Racine à la littérature ?
+
+   Jean Racine est un des plus grands représentants du théâtre classique.
+   S'il a écrit une comédie, Les Plaideurs, il est surtout connu pour son
+   art de la tragédie. Ce genre théâtral, inventé à l'Antiquité, a été
+   remis au goût de jour à la Renaissance par des auteurs humanistes comme
+   Étienne Jodelle. Cent ans après ces dramaturges qui se tournent vers la
+   mythologie pour écrire des tirades sous forme de vers, Jean Racine
+   s'inspire à son tour de l'Antiquité pour y trouver des histoires de
+   meurtres, d'adultères, d'incestes et d'amours impossibles. Le théâtre
+   de Racine est violent mais il montre des personnages qui luttent contre
+   leurs pulsions et leurs désirs au nom de la bienséance et de l'ordre.
+   Tous, toutefois, n'y parviennent pas : c'est là la définition de la
+   tragédie, à savoir la loi d'une fatalité à laquelle rien ni personne ne
+   peut échapper.
+
+OEuvres principales
+
+   La Nymphe de la Seine (1660), Andromaque (1667), Britannicus (1669),
+   Mithridate (1673), Iphigénie (1674), Phèdre (1677).
+
+Parcours littéraire
+
+   Maître de la tragédie classique, Jean Racine met en scène des histoires
+   violentes (meurtres, adultères, incestes, amours impossibles) dans
+   lesquelles les personnages luttent, en vain, contre leurs pulsions et
+   leurs désirs au nom de la bienséance et de l'ordre.
+
+
+   |> Découvrez la vidéo de la série [107]Félix déLIRE consacrée
+   à [108]Phèdre de Jean Racine.
+
+   |>|> Tout sur [109]le théâtre du XVII^e au XXI^e siècle.
+   (BUTTON) Fermer la fenêtre de partage
+   Partager cet article
+   [110]Copier le lien[111] facebook[112] twitter
+     __________________________________________________________________
+
+Ce contenu est proposé par
+
+   France Télévisions
+   [113]Jean Racine, maître de la tragédie classique [114]« Phèdre », Jean
+   Racine [115]« Andromaque » de Jean Racine
+
+   [116]Jean Racine [117]Edvard Munch, une frise de vie expressionniste
+   [118]Charles Dickens [119]Les outils d'analyse d'un texte littéraire
+   [120]La Première Guerre mondiale (1914-1918) [121]Comprendre la laïcité
+
+Programmes
+
+     * [122]La grande explication
+     * [123]Décod'actu
+     * [124]Géopoliticus
+     * [125]Félix déLIRE
+     * [126]Sexotuto
+     * [127]Apocalypse : la 1re Guerre mondiale
+     * [128]Apocalypse : la 2e Guerre mondiale
+
+Catégories
+
+     * [129]Réviser le bac en première
+     * [130]Réviser le bac en terminale
+     * [131]Méthodologie
+     * [132]Théorèmes
+     * [133]Les grands auteurs
+     * [134]Environnement
+     * [135]Evènements Historiques
+     * [136]Anglais
+     * [137]Géopolitique
+
+Nos contenus
+
+     * [138]Toutes les vidéos Première
+     * [139]Tous les quiz Première
+     * [140]Tous les jeux Première
+     * [141]Tous les articles Première
+     * [142]Toutes les séries Première
+     * [143]Tous les dossiers Première
+     * [144]Cours Lumni Première
+
+Suivez-nous
+
+     * [145]Inscription Newsletter
+
+     * [146]Notre compte Tiktok ( Nouvelle fenêtre ) [147]Notre compte
+       Instagram ( Nouvelle fenêtre ) [148]Notre compte Youtube ( Nouvelle
+       fenêtre ) [149]Notre compte Facebook ( Nouvelle fenêtre )
+
+[150]Nos affiches
+
+[151]Nos partenaires
+
+[152]Nos événements
+
+   Nation Apprenante, Reconnu contenu pédagogique par l'éducation
+   nationale. République française
+
+     * [153]Contactez-nous [external-link.svg]
+     * [154]CGU [external-link.svg]
+     * [155]Gérer mes traceurs [external-link.svg]
+     * [156]Qui sommes-nous ? [external-link.svg]
+     * [157]Politique de confidentialité [external-link.svg]
+     * [158]Mentions légales [external-link.svg]
+     * [159]Plan du site [external-link.svg]
+
+   coche verte Bienvenue ! Votre compte a bien été créé.
+   (BUTTON) Fermer
+
+   Autorises-tu ton navigateur à rester automatiquement connecté à Lumni ?
+   (*) (*) oui (*) non
+
+   (BUTTON) popin.action.close
+
+   Jean Racine, poète et dramaturge classique
+   Jean Racine, poète et dramaturge classique Jean Racine, poète et
+   dramaturge classique
+
+     * [160]Je crée mon compte
+     * [161]Je me connecte
+
+   (BUTTON) Fermer la fenêtre de validation de mise à jour du niveau
+   scolaire Ton niveau a bien été pris en compte ! Bienvenue. (BUTTON)
+   Fermer
+
+   (BUTTON) Fermer la fenêtre d'information sur les Lumniz
+   Bravo ! Tu viens de gagner avec cette action : Regarder une vidéo
+   jusqu'au boutLire un articleLancer un jeuFaire un quizSe créer un
+   compte sur LumniS'inscrire à la newsletterFinir la consommation d'un
+   contenu grâce à la reprise de lecture
+   [ ] Ne plus afficher
+
+   (BUTTON) Fermer la fenêtre d'information sur les Lumniz
+
+   Félicitations ! Tu viens d'atteindre le niveau . Continue à explorer,
+   apprendre et grandir.
+
+   (BUTTON) Fermer la fenêtre d'information sur les Lumniz
+   Bravo ! Tu viens de gagner la carte  . Continue à explorer pour aller
+   chercher la carte épique ! Continue à explorer pour aller chercher la
+   carte légendaire ! Continue à explorer !
+   niveau title-card
+   3/3 quêtes
+
+   (BUTTON) Fermer la fenêtre d'information sur les Lumniz
+   Bravo ! Tu viens de gagner la carte  . Continue à explorer pour aller
+   chercher la carte épique ! Continue à explorer pour aller chercher la
+   carte légendaire ! Continue à explorer !
+   niveau title-card
+   3/3 quêtes
+
+References
+
+   1. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_jean-racine-poete-et-dramaturge-classique.html#content
+   2. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_jean-racine-poete-et-dramaturge-classique.html#nav
+   3. file:///recherche
+   4. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_jean-racine-poete-et-dramaturge-classique.html
+   5. https://www.lumni.fr/
+   6. https://enseignants.lumni.fr/
+   7. file:///la-gamification-arrive-sur-lumni
+   8. file:///mon-espace-lumni
+   9. file:///mes-listes
+  10. file:///mon-historique
+  11. file:///mes-informations
+  12. file:///notifications
+  13. file:///deconnexion
+  14. file:///inscription
+  15. file:///connexion
+  16. file:///inscription
+  17. file:///connexion
+  18. file:///
+  19. file:///primaire/maternelle
+  20. file:///primaire/cp
+  21. file:///primaire/ce1
+  22. file:///primaire/ce2
+  23. file:///primaire/cm1
+  24. file:///primaire/cm2
+  25. file:///college/sixieme
+  26. file:///college/cinquieme
+  27. file:///college/quatrieme
+  28. file:///college/troisieme
+  29. file:///lycee/seconde
+  30. file:///lycee/premiere
+  31. file:///lycee/terminale
+  32. file:///recherche
+  33. file:///la-gamification-arrive-sur-lumni
+  34. file:///mon-espace-lumni
+  35. file:///mes-listes
+  36. file:///mon-historique
+  37. file:///mes-informations
+  38. file:///notifications
+  39. file:///deconnexion
+  40. file:///inscription
+  41. file:///connexion
+  42. file:///avantages-profil
+  43. file:///notifications
+  44. file:///inscription
+  45. file:///connexion
+  46. file:///primaire/maternelle
+  47. file:///primaire/cp
+  48. file:///primaire/ce1
+  49. file:///primaire/ce2
+  50. file:///primaire/cm1
+  51. file:///primaire/cm2
+  52. file:///college/sixieme
+  53. file:///college/cinquieme
+  54. file:///college/quatrieme
+  55. file:///college/troisieme
+  56. file:///lycee/seconde
+  57. file:///lycee/premiere
+  58. file:///lycee/terminale
+  59. https://enseignants.lumni.fr/
+  60. file:///lycee
+  61. file:///lycee/premiere
+  62. file:///lycee/premiere/francais
+  63. file:///lycee/premiere
+  64. file:///lycee/premiere/bac
+  65. file:///lycee/premiere/orientation
+  66. file:///lycee/premiere/methodes-de-travail
+  67. file:///lycee/premiere/actualite
+  68. file:///lycee/premiere/francais
+  69. file:///lycee/premiere/anglais
+  70. file:///lycee/premiere/espagnol
+  71. file:///lycee/premiere/allemand
+  72. file:///lycee/premiere/histoire
+  73. file:///lycee/premiere/geographie
+  74. file:///lycee/premiere/enseignement-moral-et-civique
+  75. file:///lycee/premiere/enseignement-scientifique
+  76. file:///lycee/premiere/maths-voie-generale
+  77. file:///lycee/premiere/maths-voie-techno
+  78. file:///lycee/premiere/mathematiques
+  79. file:///lycee/premiere/physique-chimie
+  80. file:///lycee/premiere/sciences-de-la-vie-et-de-la-terre
+  81. file:///lycee/premiere/sciences-economiques-et-sociales
+  82. file:///lycee/premiere/hggsp
+  83. file:///lycee/premiere/llcer
+  84. file:///lycee/premiere/hlp
+  85. file:///lycee/premiere/llca
+  86. file:///lycee/premiere/nsi
+  87. file:///lycee/premiere/sciences-de-l-ingenieur
+  88. file:///lycee/premiere/arts
+  89. file:///lycee/premiere/eppcs
+  90. file:///lycee/premiere/stmg
+  91. file:///lycee/premiere/st2s
+  92. file:///lycee/premiere/stl
+  93. file:///lycee/premiere/sti2d
+  94. file:///lycee/premiere/developpement-durable
+  95. file:///lycee/premiere/culture
+  96. file:///lycee/premiere/violences-morales-et-physiques
+  97. file:///lycee/premiere/sante
+  98. file:///lycee/premiere/education-physique-et-sportive
+  99. file:///lycee/premiere/sexualite
+ 100. file:///lycee/premiere/bac
+ 101. file:///recherche?establishment=lycee&schoolLevel=premiere
+ 102. file:///la-gamification-arrive-sur-lumni
+ 103. https://www.lumni.fr/dossier/vie-et-oeuvre-de-jean-racine
+ 104. https://www.lumni.fr/article/phedre-de-jean-racine-fiche-de-revision
+ 105. https://www.lumni.fr/dossier/louis-xiv-1638-1715
+ 106. https://www.lumni.fr/video/louis-xiv-et-le-pouvoir-absolu
+ 107. https://www.lumni.fr/programme/felix-delire
+ 108. https://www.lumni.fr/video/phedre-jean-racine
+ 109. https://www.lumni.fr/lycee/premiere/francais/le-theatre-du-xviie-siecle-au-xxie-siecle-1
+ 110. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_jean-racine-poete-et-dramaturge-classique.html
+ 111. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_jean-racine-poete-et-dramaturge-classique.html
+ 112. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_jean-racine-poete-et-dramaturge-classique.html
+ 113. file:///quiz/quizz-racine
+ 114. file:///video/phedre-jean-racine
+ 115. file:///video/andromaque-de-jean-racine
+ 116. file:///dossier/vie-et-oeuvre-de-jean-racine
+ 117. file:///dossier/edvard-munch-une-frise-de-vie-expressionniste
+ 118. file:///dossier/vie-et-oeuvre-de-charles-dickens
+ 119. file:///dossier/l-essentiel-a-savoir-pour-reussir-les-etudes-de-textes-litteraires
+ 120. file:///dossier/la-guerre-de-1914-1918-premiere-guerre-mondiale
+ 121. file:///dossier/la-laicite
+ 122. file:///programme/la-grande-explication
+ 123. file:///serie/decod-actu
+ 124. file:///serie/geopoliticus
+ 125. file:///programme/felix-delire
+ 126. file:///programme/sexotuto
+ 127. file:///serie/apocalypse-la-premiere-guerre-mondiale
+ 128. file:///serie/apocalypse-la-deuxieme-guerre-mondiale
+ 129. file:///lycee/premiere/bac
+ 130. file:///lycee/terminale/bac
+ 131. file:///recherche?query=methodologie
+ 132. file:///recherche?query=theoremes
+ 133. file:///recherche?query=les-grands-auteurs
+ 134. file:///recherche?query=environnement
+ 135. file:///recherche?query=evenements-historiques
+ 136. file:///recherche?query=anglais
+ 137. file:///recherche?query=geopolitique
+ 138. file:///lycee/premiere/toutes-les-videos
+ 139. file:///lycee/premiere/tous-les-quiz
+ 140. file:///lycee/premiere/tous-les-jeux
+ 141. file:///lycee/premiere/tous-les-articles
+ 142. file:///lycee/premiere/toutes-les-series
+ 143. file:///lycee/premiere/tous-les-dossiers
+ 144. file:///lycee/premiere/tous-les-cours-lumni
+ 145. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_jean-racine-poete-et-dramaturge-classique.html
+ 146. https://www.tiktok.com/@lumnifr
+ 147. https://www.instagram.com/lumnifr
+ 148. https://m.youtube.com/user/francetveducation
+ 149. https://www.facebook.com/Lumnifr
+ 150. file:///article/le-kit-d-affichage-de-lumni
+ 151. file:///dossier/nos-partenaires
+ 152. file:///dossier/nos-evenements
+ 153. file:///contact
+ 154. file:///cgu
+ 155. javascript:Didomi.preferences.show()
+ 156. file:///qui-sommes-nous
+ 157. file:///cgu#donnees-personnelles
+ 158. file:///mentions-legales
+ 159. file:///plan-du-site
+ 160. file:///inscription
+ 161. file:///connexion

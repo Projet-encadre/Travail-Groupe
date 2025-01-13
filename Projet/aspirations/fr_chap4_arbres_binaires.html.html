@@ -1,0 +1,1628 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="utf-8">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Arbres binaires</h1>
+<h2>I/ Construction</h2>
+<h3>1) Définition</h3>
+<p>Un arbre est binaire si chaque nœud a, au maximum, 2 enfants.</p>
+<p>Voici un exemple d'arbre binaire <em>strict</em> (chaque 
+nœud ayant 0 ou 2 enfants) :</p>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="277.46094"
+   height="135.46875"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><g
+     transform="matrix(1.25,0,0,-1.25,-233.33031,1016.9447)"
+     id="g10"><g
+       transform="translate(311.758,716.837)"
+       id="g12"><g
+         id="g14"><g
+           id="g16"><g
+             id="g18"><path
+               d="m -2.7055,85.04042 c 0,6.33362 -5.13427,11.46788 -11.46789,11.46788 -6.33361,0 -11.46789,-5.13426 -11.46789,-11.46788 0,-6.33362 5.13428,-11.46788 11.46789,-11.46788 6.33362,0 11.46789,5.13426 11.46789,11.46788 z"
+               id="path20"
+               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+               transform="translate(-18.56,80.922)"
+               id="g22"><g
+                 id="g24"><g
+                   transform="translate(-293.198,-797.759)"
+                   id="g26"><text
+                     transform="matrix(1,0,0,-1,293.198,797.759)"
+                     id="text28"><tspan
+                       x="0"
+                       y="0"
+                       id="tspan30"
+                       style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">A</tspan></text>
+<g
+                     transform="translate(293.198,797.759)"
+                     id="g32" /></g></g><g
+                 transform="translate(18.56,-80.922)"
+                 id="g34" /></g></g><g
+             id="g36"><path
+               d="m -73.72504,56.69362 c 0,6.24938 -5.06601,11.31537 -11.31538,11.31537 -6.24939,0 -11.31538,-5.06599 -11.31538,-11.31537 0,-6.24939 5.06599,-11.31539 11.31538,-11.31539 6.24937,0 11.31538,5.066 11.31538,11.31539 z"
+               id="path38"
+               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+               transform="translate(-89.183,52.576)"
+               id="g40"><g
+                 id="g42"><g
+                   transform="translate(-222.575,-769.413)"
+                   id="g44"><text
+                     transform="matrix(1,0,0,-1,222.575,769.413)"
+                     id="text46"><tspan
+                       x="0"
+                       y="0"
+                       id="tspan48"
+                       style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">B</tspan></text>
+<g
+                     transform="translate(222.575,769.413)"
+                     id="g50" /></g></g><g
+                 transform="translate(89.183,-52.576)"
+                 id="g52" /></g></g><g
+             id="g54"><path
+               d="m 68.06226,56.69362 c 0,6.27879 -5.08985,11.36864 -11.36864,11.36864 -6.27881,0 -11.36865,-5.08985 -11.36865,-11.36864 0,-6.27881 5.08984,-11.36865 11.36865,-11.36865 6.27879,0 11.36864,5.08984 11.36864,11.36865 z"
+               id="path56"
+               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+               transform="translate(52.467,52.576)"
+               id="g58"><g
+                 id="g60"><g
+                   transform="translate(-364.225,-769.413)"
+                   id="g62"><text
+                     transform="matrix(1,0,0,-1,364.225,769.413)"
+                     id="text64"><tspan
+                       x="0"
+                       y="0"
+                       id="tspan66"
+                       style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">C</tspan></text>
+<g
+                     transform="translate(364.225,769.413)"
+                     id="g68" /></g></g><g
+                 transform="translate(-52.467,-52.576)"
+                 id="g70" /></g></g><g
+             id="g72"><path
+               d="m -101.86778,28.3468 c 0,6.3621 -5.15737,11.51946 -11.51946,11.51946 -6.36207,0 -11.51944,-5.15736 -11.51944,-11.51946 0,-6.36209 5.15737,-11.51945 11.51944,-11.51945 6.36209,0 11.51946,5.15736 11.51946,11.51945 z"
+               id="path74"
+               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+               transform="translate(-117.855,24.23)"
+               id="g76"><g
+                 id="g78"><g
+                   transform="translate(-193.903,-741.067)"
+                   id="g80"><text
+                     transform="matrix(1,0,0,-1,193.903,741.067)"
+                     id="text82"><tspan
+                       x="0"
+                       y="0"
+                       id="tspan84"
+                       style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">D</tspan></text>
+<g
+                     transform="translate(193.903,741.067)"
+                     id="g86" /></g></g><g
+                 transform="translate(117.855,-24.23)"
+                 id="g88" /></g></g><g
+             id="g90"><path
+               d="m -45.4777,28.3468 c 0,6.19444 -5.02148,11.2159 -11.21592,11.2159 -6.19443,0 -11.2159,-5.02146 -11.2159,-11.2159 0,-6.19444 5.02147,-11.2159 11.2159,-11.2159 6.19444,0 11.21592,5.02146 11.21592,11.2159 z"
+               id="path92"
+               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+               transform="translate(-60.674,24.23)"
+               id="g94"><g
+                 id="g96"><g
+                   transform="translate(-251.084,-741.067)"
+                   id="g98"><text
+                     transform="matrix(1,0,0,-1,251.084,741.067)"
+                     id="text100"><tspan
+                       x="0"
+                       y="0"
+                       id="tspan102"
+                       style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">E</tspan></text>
+<g
+                     transform="translate(251.084,741.067)"
+                     id="g104" /></g></g><g
+                 transform="translate(60.674,-24.23)"
+                 id="g106" /></g></g><g
+             id="g108"><path
+               d="m 39.44133,28.3468 c 0,6.12741 -4.96712,11.09453 -11.09453,11.09453 -6.12741,0 -11.09453,-4.96712 -11.09453,-11.09453 0,-6.12741 4.96712,-11.09453 11.09453,-11.09453 6.12741,0 11.09453,4.96712 11.09453,11.09453 z"
+               id="path110"
+               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+               transform="translate(24.528,24.23)"
+               id="g112"><g
+                 id="g114"><g
+                   transform="translate(-336.286,-741.067)"
+                   id="g116"><text
+                     transform="matrix(1,0,0,-1,336.286,741.067)"
+                     id="text118"><tspan
+                       x="0"
+                       y="0"
+                       id="tspan120"
+                       style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">F</tspan></text>
+<g
+                     transform="translate(336.286,741.067)"
+                     id="g122" /></g></g><g
+                 transform="translate(-24.528,-24.23)"
+                 id="g124" /></g></g><g
+             id="g126"><path
+               d="m 96.66592,28.3468 c 0,6.42067 -5.20483,11.6255 -11.6255,11.6255 -6.42065,0 -11.6255,-5.20483 -11.6255,-11.6255 0,-6.42065 5.20485,-11.6255 11.6255,-11.6255 6.42067,0 11.6255,5.20485 11.6255,11.6255 z"
+               id="path128"
+               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+               transform="translate(80.448,24.23)"
+               id="g130"><g
+                 id="g132"><g
+                   transform="translate(-392.206,-741.067)"
+                   id="g134"><text
+                     transform="matrix(1,0,0,-1,392.206,741.067)"
+                     id="text136"><tspan
+                       x="0"
+                       y="0"
+                       id="tspan138"
+                       style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">G</tspan></text>
+<g
+                     transform="translate(392.206,741.067)"
+                     id="g140" /></g></g><g
+                 transform="translate(-80.448,-24.23)"
+                 id="g142" /></g></g><g
+             id="g144"><path
+               d="M 11.46788,0 C 11.46788,6.3336 6.3336,11.46788 0,11.46788 -6.3336,11.46788 -11.46788,6.3336 -11.46788,0 c 0,-6.3336 5.13428,-11.46788 11.46788,-11.46788 6.3336,0 11.46788,5.13428 11.46788,11.46788 z"
+               id="path146"
+               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+               transform="translate(-4.387,-4.117)"
+               id="g148"><g
+                 id="g150"><g
+                   transform="translate(-307.371,-712.72)"
+                   id="g152"><text
+                     transform="matrix(1,0,0,-1,307.371,712.72)"
+                     id="text154"><tspan
+                       x="0"
+                       y="0"
+                       id="tspan156"
+                       style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">H</tspan></text>
+<g
+                     transform="translate(307.371,712.72)"
+                     id="g158" /></g></g><g
+                 transform="translate(4.387,4.117)"
+                 id="g160" /></g></g><g
+             id="g162"><path
+               d="m 66.6571,0 c 0,5.50275 -4.46073,9.96349 -9.96348,9.96349 -5.50276,0 -9.9635,-4.46074 -9.9635,-9.96349 0,-5.50275 4.46074,-9.96349 9.9635,-9.96349 5.50275,0 9.96348,4.46074 9.96348,9.96349 z"
+               id="path164"
+               style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+               transform="translate(54.582,-4.117)"
+               id="g166"><g
+                 id="g168"><g
+                   transform="translate(-366.34,-712.72)"
+                   id="g170"><text
+                     transform="matrix(1,0,0,-1,366.34,712.72)"
+                     id="text172"><tspan
+                       x="0"
+                       y="0"
+                       id="tspan174"
+                       style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">I</tspan></text>
+<g
+                     transform="translate(366.34,712.72)"
+                     id="g176" /></g></g><g
+                 transform="translate(-54.582,4.117)"
+                 id="g178" /></g></g><path
+             d="M -25.04314,80.6923 -74.31274,60.98454"
+             id="path180"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+             d="M -3.30363,80.6923 45.91632,61.0044"
+             id="path182"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+             d="m -93.18268,48.55154 -11.918,-11.91836"
+             id="path184"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+             d="M -76.898,48.55154 -64.76552,36.41853"
+             id="path186"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+             d="M 48.51317,48.51387 36.33289,36.3327"
+             id="path188"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+             d="M 64.8737,48.51387 76.67888,36.70816"
+             id="path190"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+             d="M 20.36072,20.3609 8.25009,8.24991"
+             id="path192"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+             d="M 36.33289,20.3609 49.50731,7.18614"
+             id="path194"
+             style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g></g></g></g></svg>
+
+<h3>2) Exemple</h3>
+<p>Le codage de l'arbre binaire ci-dessus est </p>
+<pre>{   'A': ['B','C'],
+    'B': ['D','E'],
+    'C': ['F','G'],
+    'D': [],
+    'E': [],
+    'F': ['H','I'],
+    'G': [],
+    'H': [],
+    'I': [] }
+</pre>
+<p>Mais pour un arbre binaire, comme chaque parent n'a au 
+maximum que 2 enfants, on distingue l'enfant gauche de 
+l'enfant droit. Alors il y a 4 sortes de nœuds :</p>
+<ul>
+    <li>Ceux comme <code>D</code> qui n'ont aucun enfant : 
+    ce sont les feuilles de l'arbre.</li>
+    <li>Ceux qui n'ont qu'un enfant gauche.</li>
+    <li>Ceux qui n'ont qu'un enfant droit.</li>
+    <li>Ceux comme <code>B</code> qui ont deux enfants.</li>
+</ul>
+<p>Lorsqu'il manque un enfant (ou 2) à un nœud, on considère 
+que l'enfant manquant est <code>None</code>. On reconnaîtra 
+donc les feuilles à ce que leurs deux enfants sont 
+<code>None</code>.</p>
+
+<iframe width="807" height="454" src="https://www.youtube.com/embed/vvey2QCs98o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<p>La représentation en machine peut être faite ainsi :</p>
+
+<iframe width="640" height="480" frameborder="1" src="https://pythontutor.com/iframe-embed.html#code=arbre%20%3D%20%5B'A',%5B'B',%5B'D',None%5D,%5B'E',None%5D%5D,%5B'C',%5B'F',%5B'H',None%5D,%5B'I',None%5D%5D,%5B'G',None%5D%5D%5D&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=1&heapPrimitives=nevernest&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe>
+
+
+<h3>3) Modélisation en Python</h3>
+<h4>a) Attributs</h4>
+<p><code>None</code> est donc un arbre (l'arbre vide). Un 
+arbre non vide possèdera donc 3 attributs :</p>
+<ul>
+    <li>Une étiquette (<code>label</code>) qui est le nom de 
+    la racine. C'est une chaîne de caractères.</li>
+    <li>L'enfant gauche (<code>G</code>) qui est un arbre 
+    binaire (éventuellement vide).</li>
+    <li>L'enfant droit (<code>D</code>) qui est un arbre 
+    binaire (éventuellement vide)</li>
+</ul>
+<p>Si <code>T</code> est un objet de type <code>Arbre</code> 
+(binaire) alors sa racine a pour nom <code>T.label</code>, 
+son enfant gauche est <code>T.G</code> et son enfant droit 
+est <code>T.D</code>. On peut créer un arbre binaire 
+<code>T</code> de racine <code>R</code> en faisant 
+<code>T = Arbre('R')</code>. Pour cela il suffit de 
+définir une classe <code>Arbre</code>.</p>
+<h4>b) Classe</h4>
+<p>La première méthode de la classe <code>Arbre</code> est 
+l'initialisation, qui crée les attributs :</p>
+<pre>class Arbre():
+    def __init__(self,nom=''):
+        self.label = nom
+        self.G = None
+        self.D = None
+</pre>
+<h4>c) Croissance de l'arbre</h4>
+<p>Avec ça, si on crée l'arbre <code>T = Arbre('A')</code>, 
+on n'obtient qu'une feuille :</p> 
+
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="29.179688"
+   height="29.179688"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><g
+     transform="matrix(1.25,0,0,-1.25,-357.45906,880.23219)"
+     id="g10"><g
+       transform="translate(311.758,716.837)"
+       id="g12"><g
+         transform="translate(0.053,-109.37)"
+         id="g196"><g
+           id="g198"><g
+             id="g200"><g
+               id="g202"><path
+                 d="m -2.7055,85.04042 c 0,6.33362 -5.13427,11.46788 -11.46789,11.46788 -6.33361,0 -11.46789,-5.13426 -11.46789,-11.46788 0,-6.33362 5.13428,-11.46788 11.46789,-11.46788 6.33362,0 11.46789,5.13426 11.46789,11.46788 z"
+                 id="path204"
+                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                 transform="translate(-18.56,80.923)"
+                 id="g206"><g
+                   id="g208"><g
+                     transform="translate(-293.251,-688.39)"
+                     id="g210"><text
+                       transform="matrix(1,0,0,-1,293.251,688.39)"
+                       id="text212"><tspan
+                         x="0"
+                         y="0"
+                         id="tspan214"
+                         style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">A</tspan></text>
+<g
+                       transform="translate(293.251,688.39)"
+                       id="g216" /></g></g><g
+                   transform="translate(18.56,-80.923)"
+                   id="g218" /></g></g></g></g></g></g></g></svg>
+
+<p>Pour construire l'arbre binaire complet, on doit remplacer 
+les enfants de <code>A</code> (actuellement vides) par 
+<code>B</code> et <code>C</code> :</p>
+<pre>T.G = Arbre('B')
+T.D = Arbre('C')
+</pre>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="206.01562"
+   height="64.492188"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><g
+     transform="matrix(1.25,0,0,-1.25,-269.02688,849.81969)"
+     id="g10"><g
+       transform="translate(311.758,716.837)"
+       id="g12"><g
+         transform="translate(0.053,-109.37)"
+         id="g196"><g
+           transform="translate(-0.027,-24.33)"
+           id="g220"><g
+             id="g222"><g
+               id="g224"><g
+                 id="g226"><path
+                   d="m -2.7055,85.04042 c 0,6.33362 -5.13427,11.46788 -11.46789,11.46788 -6.33361,0 -11.46789,-5.13426 -11.46789,-11.46788 0,-6.33362 5.13428,-11.46788 11.46789,-11.46788 6.33362,0 11.46789,5.13426 11.46789,11.46788 z"
+                   id="path228"
+                   style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                   transform="translate(-18.559,80.923)"
+                   id="g230"><g
+                     id="g232"><g
+                       transform="translate(-293.225,-664.06)"
+                       id="g234"><text
+                         transform="matrix(1,0,0,-1,293.225,664.06)"
+                         id="text236"><tspan
+                           x="0"
+                           y="0"
+                           id="tspan238"
+                           style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">A</tspan></text>
+<g
+                         transform="translate(293.225,664.06)"
+                         id="g240" /></g></g><g
+                     transform="translate(18.559,-80.923)"
+                     id="g242" /></g></g><g
+                 id="g244"><path
+                   d="m -73.72504,56.69362 c 0,6.24938 -5.06601,11.31537 -11.31538,11.31537 -6.24939,0 -11.31538,-5.06599 -11.31538,-11.31537 0,-6.24939 5.06599,-11.31539 11.31538,-11.31539 6.24937,0 11.31538,5.066 11.31538,11.31539 z"
+                   id="path246"
+                   style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                   transform="translate(-89.183,52.576)"
+                   id="g248"><g
+                     id="g250"><g
+                       transform="translate(-222.601,-635.713)"
+                       id="g252"><text
+                         transform="matrix(1,0,0,-1,222.601,635.713)"
+                         id="text254"><tspan
+                           x="0"
+                           y="0"
+                           id="tspan256"
+                           style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">B</tspan></text>
+<g
+                         transform="translate(222.601,635.713)"
+                         id="g258" /></g></g><g
+                     transform="translate(89.183,-52.576)"
+                     id="g260" /></g></g><g
+                 id="g262"><path
+                   d="m 68.06226,56.69362 c 0,6.27879 -5.08985,11.36864 -11.36864,11.36864 -6.27881,0 -11.36865,-5.08985 -11.36865,-11.36864 0,-6.27881 5.08984,-11.36865 11.36865,-11.36865 6.27879,0 11.36864,5.08984 11.36864,11.36865 z"
+                   id="path264"
+                   style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                   transform="translate(52.467,52.576)"
+                   id="g266"><g
+                     id="g268"><g
+                       transform="translate(-364.251,-635.713)"
+                       id="g270"><text
+                         transform="matrix(1,0,0,-1,364.251,635.713)"
+                         id="text272"><tspan
+                           x="0"
+                           y="0"
+                           id="tspan274"
+                           style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">C</tspan></text>
+<g
+                         transform="translate(364.251,635.713)"
+                         id="g276" /></g></g><g
+                     transform="translate(-52.467,-52.576)"
+                     id="g278" /></g></g><path
+                 d="M -25.04314,80.6923 -74.31274,60.98454"
+                 id="path280"
+                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                 d="M -3.30363,80.6923 45.91632,61.0044"
+                 id="path282"
+                 style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g></g></g></g></g></g></svg>
+
+<p>Puis continuer avec les enfants des enfants :</p>
+<pre>T.G.G = Arbre('D')
+T.G.D = Arbre('E')
+T.D.G = Arbre('F')
+T.D.D = Arbre('G')
+</pre>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="277.46094"
+   height="100.23438"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><g
+     transform="matrix(1.25,0,0,-1.25,-233.33031,784.09844)"
+     id="g10"><g
+       transform="translate(311.758,716.837)"
+       id="g12"><g
+         transform="translate(0.053,-109.37)"
+         id="g196"><g
+           transform="translate(-0.027,-24.33)"
+           id="g220"><g
+             transform="translate(-0.026,-52.577)"
+             id="g284"><g
+               id="g286"><g
+                 id="g288"><g
+                   id="g290"><path
+                     d="m -2.7055,85.04042 c 0,6.33362 -5.13427,11.46788 -11.46789,11.46788 -6.33361,0 -11.46789,-5.13426 -11.46789,-11.46788 0,-6.33362 5.13428,-11.46788 11.46789,-11.46788 6.33362,0 11.46789,5.13426 11.46789,11.46788 z"
+                     id="path292"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                     transform="translate(-18.56,80.922)"
+                     id="g294"><g
+                       id="g296"><g
+                         transform="translate(-293.198,-611.482)"
+                         id="g298"><text
+                           transform="matrix(1,0,0,-1,293.198,611.482)"
+                           id="text300"><tspan
+                             x="0"
+                             y="0"
+                             id="tspan302"
+                             style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">A</tspan></text>
+<g
+                           transform="translate(293.198,611.482)"
+                           id="g304" /></g></g><g
+                       transform="translate(18.56,-80.922)"
+                       id="g306" /></g></g><g
+                   id="g308"><path
+                     d="m -73.72504,56.69362 c 0,6.24938 -5.06601,11.31537 -11.31538,11.31537 -6.24939,0 -11.31538,-5.06599 -11.31538,-11.31537 0,-6.24939 5.06599,-11.31539 11.31538,-11.31539 6.24937,0 11.31538,5.066 11.31538,11.31539 z"
+                     id="path310"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                     transform="translate(-89.183,52.576)"
+                     id="g312"><g
+                       id="g314"><g
+                         transform="translate(-222.575,-583.136)"
+                         id="g316"><text
+                           transform="matrix(1,0,0,-1,222.575,583.136)"
+                           id="text318"><tspan
+                             x="0"
+                             y="0"
+                             id="tspan320"
+                             style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">B</tspan></text>
+<g
+                           transform="translate(222.575,583.136)"
+                           id="g322" /></g></g><g
+                       transform="translate(89.183,-52.576)"
+                       id="g324" /></g></g><g
+                   id="g326"><path
+                     d="m 68.06226,56.69362 c 0,6.27879 -5.08985,11.36864 -11.36864,11.36864 -6.27881,0 -11.36865,-5.08985 -11.36865,-11.36864 0,-6.27881 5.08984,-11.36865 11.36865,-11.36865 6.27879,0 11.36864,5.08984 11.36864,11.36865 z"
+                     id="path328"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                     transform="translate(52.467,52.576)"
+                     id="g330"><g
+                       id="g332"><g
+                         transform="translate(-364.225,-583.136)"
+                         id="g334"><text
+                           transform="matrix(1,0,0,-1,364.225,583.136)"
+                           id="text336"><tspan
+                             x="0"
+                             y="0"
+                             id="tspan338"
+                             style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">C</tspan></text>
+<g
+                           transform="translate(364.225,583.136)"
+                           id="g340" /></g></g><g
+                       transform="translate(-52.467,-52.576)"
+                       id="g342" /></g></g><g
+                   id="g344"><path
+                     d="m -101.86778,28.3468 c 0,6.3621 -5.15737,11.51946 -11.51946,11.51946 -6.36207,0 -11.51944,-5.15736 -11.51944,-11.51946 0,-6.36209 5.15737,-11.51945 11.51944,-11.51945 6.36209,0 11.51946,5.15736 11.51946,11.51945 z"
+                     id="path346"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                     transform="translate(-117.855,24.229)"
+                     id="g348"><g
+                       id="g350"><g
+                         transform="translate(-193.903,-554.789)"
+                         id="g352"><text
+                           transform="matrix(1,0,0,-1,193.903,554.789)"
+                           id="text354"><tspan
+                             x="0"
+                             y="0"
+                             id="tspan356"
+                             style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">D</tspan></text>
+<g
+                           transform="translate(193.903,554.789)"
+                           id="g358" /></g></g><g
+                       transform="translate(117.855,-24.229)"
+                       id="g360" /></g></g><g
+                   id="g362"><path
+                     d="m -45.4777,28.3468 c 0,6.19444 -5.02148,11.2159 -11.21592,11.2159 -6.19443,0 -11.2159,-5.02146 -11.2159,-11.2159 0,-6.19444 5.02147,-11.2159 11.2159,-11.2159 6.19444,0 11.21592,5.02146 11.21592,11.2159 z"
+                     id="path364"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                     transform="translate(-60.674,24.229)"
+                     id="g366"><g
+                       id="g368"><g
+                         transform="translate(-251.084,-554.789)"
+                         id="g370"><text
+                           transform="matrix(1,0,0,-1,251.084,554.789)"
+                           id="text372"><tspan
+                             x="0"
+                             y="0"
+                             id="tspan374"
+                             style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">E</tspan></text>
+<g
+                           transform="translate(251.084,554.789)"
+                           id="g376" /></g></g><g
+                       transform="translate(60.674,-24.229)"
+                       id="g378" /></g></g><g
+                   id="g380"><path
+                     d="m 39.44133,28.3468 c 0,6.12741 -4.96712,11.09453 -11.09453,11.09453 -6.12741,0 -11.09453,-4.96712 -11.09453,-11.09453 0,-6.12741 4.96712,-11.09453 11.09453,-11.09453 6.12741,0 11.09453,4.96712 11.09453,11.09453 z"
+                     id="path382"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                     transform="translate(24.528,24.229)"
+                     id="g384"><g
+                       id="g386"><g
+                         transform="translate(-336.286,-554.789)"
+                         id="g388"><text
+                           transform="matrix(1,0,0,-1,336.286,554.789)"
+                           id="text390"><tspan
+                             x="0"
+                             y="0"
+                             id="tspan392"
+                             style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">F</tspan></text>
+<g
+                           transform="translate(336.286,554.789)"
+                           id="g394" /></g></g><g
+                       transform="translate(-24.528,-24.229)"
+                       id="g396" /></g></g><g
+                   id="g398"><path
+                     d="m 96.66592,28.3468 c 0,6.42067 -5.20483,11.6255 -11.6255,11.6255 -6.42065,0 -11.6255,-5.20483 -11.6255,-11.6255 0,-6.42065 5.20485,-11.6255 11.6255,-11.6255 6.42067,0 11.6255,5.20485 11.6255,11.6255 z"
+                     id="path400"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                     transform="translate(80.448,24.229)"
+                     id="g402"><g
+                       id="g404"><g
+                         transform="translate(-392.206,-554.789)"
+                         id="g406"><text
+                           transform="matrix(1,0,0,-1,392.206,554.789)"
+                           id="text408"><tspan
+                             x="0"
+                             y="0"
+                             id="tspan410"
+                             style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">G</tspan></text>
+<g
+                           transform="translate(392.206,554.789)"
+                           id="g412" /></g></g><g
+                       transform="translate(-80.448,-24.229)"
+                       id="g414" /></g></g><path
+                   d="M -25.04314,80.6923 -74.31274,60.98454"
+                   id="path416"
+                   style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                   d="M -3.30363,80.6923 45.91632,61.0044"
+                   id="path418"
+                   style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                   d="m -93.18268,48.55154 -11.918,-11.91836"
+                   id="path420"
+                   style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                   d="M -76.898,48.55154 -64.76552,36.41853"
+                   id="path422"
+                   style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                   d="M 48.51317,48.51387 36.33289,36.3327"
+                   id="path424"
+                   style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                   d="M 64.8737,48.51387 76.67888,36.70816"
+                   id="path426"
+                   style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g></g></g></g></g></g></g></svg>
+<p>et finir avec les enfants des enfants des enfants :</p>
+<pre>T.D.G.G = Arbre('H')
+T.D.G.D = Arbre('I')
+</pre>
+<p>Considérer <code>I</code> comme un attribut d'un attribut 
+d'un attribut de <code>A</code> avec <code>T.D.G.D</code> 
+s'illustre sur l'arbre :</p>
+
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="277.46094"
+   height="135.46875"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><g
+     transform="matrix(1.25,0,0,-1.25,-233.33031,682.62219)"
+     id="g10"><g
+       transform="translate(311.758,716.837)"
+       id="g12"><g
+         transform="translate(0.053,-109.37)"
+         id="g196"><g
+           transform="translate(-0.027,-24.33)"
+           id="g220"><g
+             transform="translate(-0.026,-52.577)"
+             id="g284"><g
+               transform="translate(0,-81.181)"
+               id="g428"><g
+                 id="g430"><g
+                   id="g432"><g
+                     id="g434"><path
+                       d="m -2.7055,85.04042 c 0,6.33362 -5.13427,11.46788 -11.46789,11.46788 -6.33361,0 -11.46789,-5.13426 -11.46789,-11.46788 0,-6.33362 5.13428,-11.46788 11.46789,-11.46788 6.33362,0 11.46789,5.13426 11.46789,11.46788 z"
+                       id="path436"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                       transform="translate(-18.56,80.922)"
+                       id="g438"><g
+                         id="g440"><g
+                           transform="translate(-293.198,-530.301)"
+                           id="g442"><text
+                             transform="matrix(1,0,0,-1,293.198,530.301)"
+                             id="text444"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan446"
+                               style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">A</tspan></text>
+<g
+                             transform="translate(293.198,530.301)"
+                             id="g448" /></g></g><g
+                         transform="translate(18.56,-80.922)"
+                         id="g450" /></g></g><g
+                     id="g452"><path
+                       d="m -73.72504,56.69362 c 0,6.24938 -5.06601,11.31537 -11.31538,11.31537 -6.24939,0 -11.31538,-5.06599 -11.31538,-11.31537 0,-6.24939 5.06599,-11.31539 11.31538,-11.31539 6.24937,0 11.31538,5.066 11.31538,11.31539 z"
+                       id="path454"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                       transform="translate(-89.183,52.576)"
+                       id="g456"><g
+                         id="g458"><g
+                           transform="translate(-222.575,-501.955)"
+                           id="g460"><text
+                             transform="matrix(1,0,0,-1,222.575,501.955)"
+                             id="text462"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan464"
+                               style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">B</tspan></text>
+<g
+                             transform="translate(222.575,501.955)"
+                             id="g466" /></g></g><g
+                         transform="translate(89.183,-52.576)"
+                         id="g468" /></g></g><g
+                     id="g470"><path
+                       d="m 68.06226,56.69362 c 0,6.27879 -5.08985,11.36864 -11.36864,11.36864 -6.27881,0 -11.36865,-5.08985 -11.36865,-11.36864 0,-6.27881 5.08984,-11.36865 11.36865,-11.36865 6.27879,0 11.36864,5.08984 11.36864,11.36865 z"
+                       id="path472"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                       transform="translate(52.467,52.576)"
+                       id="g474"><g
+                         id="g476"><g
+                           transform="translate(-364.225,-501.955)"
+                           id="g478"><text
+                             transform="matrix(1,0,0,-1,364.225,501.955)"
+                             id="text480"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan482"
+                               style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">C</tspan></text>
+<g
+                             transform="translate(364.225,501.955)"
+                             id="g484" /></g></g><g
+                         transform="translate(-52.467,-52.576)"
+                         id="g486" /></g></g><g
+                     id="g488"><path
+                       d="m -101.86778,28.3468 c 0,6.3621 -5.15737,11.51946 -11.51946,11.51946 -6.36207,0 -11.51944,-5.15736 -11.51944,-11.51946 0,-6.36209 5.15737,-11.51945 11.51944,-11.51945 6.36209,0 11.51946,5.15736 11.51946,11.51945 z"
+                       id="path490"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                       transform="translate(-117.855,24.23)"
+                       id="g492"><g
+                         id="g494"><g
+                           transform="translate(-193.903,-473.609)"
+                           id="g496"><text
+                             transform="matrix(1,0,0,-1,193.903,473.609)"
+                             id="text498"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan500"
+                               style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">D</tspan></text>
+<g
+                             transform="translate(193.903,473.609)"
+                             id="g502" /></g></g><g
+                         transform="translate(117.855,-24.23)"
+                         id="g504" /></g></g><g
+                     id="g506"><path
+                       d="m -45.4777,28.3468 c 0,6.19444 -5.02148,11.2159 -11.21592,11.2159 -6.19443,0 -11.2159,-5.02146 -11.2159,-11.2159 0,-6.19444 5.02147,-11.2159 11.2159,-11.2159 6.19444,0 11.21592,5.02146 11.21592,11.2159 z"
+                       id="path508"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                       transform="translate(-60.674,24.23)"
+                       id="g510"><g
+                         id="g512"><g
+                           transform="translate(-251.084,-473.609)"
+                           id="g514"><text
+                             transform="matrix(1,0,0,-1,251.084,473.609)"
+                             id="text516"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan518"
+                               style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">E</tspan></text>
+<g
+                             transform="translate(251.084,473.609)"
+                             id="g520" /></g></g><g
+                         transform="translate(60.674,-24.23)"
+                         id="g522" /></g></g><g
+                     id="g524"><path
+                       d="m 39.44133,28.3468 c 0,6.12741 -4.96712,11.09453 -11.09453,11.09453 -6.12741,0 -11.09453,-4.96712 -11.09453,-11.09453 0,-6.12741 4.96712,-11.09453 11.09453,-11.09453 6.12741,0 11.09453,4.96712 11.09453,11.09453 z"
+                       id="path526"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                       transform="translate(24.528,24.23)"
+                       id="g528"><g
+                         id="g530"><g
+                           transform="translate(-336.286,-473.609)"
+                           id="g532"><text
+                             transform="matrix(1,0,0,-1,336.286,473.609)"
+                             id="text534"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan536"
+                               style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">F</tspan></text>
+<g
+                             transform="translate(336.286,473.609)"
+                             id="g538" /></g></g><g
+                         transform="translate(-24.528,-24.23)"
+                         id="g540" /></g></g><g
+                     id="g542"><path
+                       d="m 96.66592,28.3468 c 0,6.42067 -5.20483,11.6255 -11.6255,11.6255 -6.42065,0 -11.6255,-5.20483 -11.6255,-11.6255 0,-6.42065 5.20485,-11.6255 11.6255,-11.6255 6.42067,0 11.6255,5.20485 11.6255,11.6255 z"
+                       id="path544"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                       transform="translate(80.448,24.23)"
+                       id="g546"><g
+                         id="g548"><g
+                           transform="translate(-392.206,-473.609)"
+                           id="g550"><text
+                             transform="matrix(1,0,0,-1,392.206,473.609)"
+                             id="text552"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan554"
+                               style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">G</tspan></text>
+<g
+                             transform="translate(392.206,473.609)"
+                             id="g556" /></g></g><g
+                         transform="translate(-80.448,-24.23)"
+                         id="g558" /></g></g><g
+                     id="g560"><path
+                       d="M 11.46788,0 C 11.46788,6.3336 6.3336,11.46788 0,11.46788 -6.3336,11.46788 -11.46788,6.3336 -11.46788,0 c 0,-6.3336 5.13428,-11.46788 11.46788,-11.46788 6.3336,0 11.46788,5.13428 11.46788,11.46788 z"
+                       id="path562"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                       transform="translate(-4.387,-4.117)"
+                       id="g564"><g
+                         id="g566"><g
+                           transform="translate(-307.371,-445.262)"
+                           id="g568"><text
+                             transform="matrix(1,0,0,-1,307.371,445.262)"
+                             id="text570"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan572"
+                               style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">H</tspan></text>
+<g
+                             transform="translate(307.371,445.262)"
+                             id="g574" /></g></g><g
+                         transform="translate(4.387,4.117)"
+                         id="g576" /></g></g><g
+                     id="g578"><path
+                       d="m 66.6571,0 c 0,5.50275 -4.46073,9.96349 -9.96348,9.96349 -5.50276,0 -9.9635,-4.46074 -9.9635,-9.96349 0,-5.50275 4.46074,-9.96349 9.9635,-9.96349 5.50275,0 9.96348,4.46074 9.96348,9.96349 z"
+                       id="path580"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                       transform="translate(54.582,-4.117)"
+                       id="g582"><g
+                         id="g584"><g
+                           transform="translate(-366.34,-445.262)"
+                           id="g586"><text
+                             transform="matrix(1,0,0,-1,366.34,445.262)"
+                             id="text588"><tspan
+                               x="0"
+                               y="0"
+                               id="tspan590"
+                               style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">I</tspan></text>
+<g
+                             transform="translate(366.34,445.262)"
+                             id="g592" /></g></g><g
+                         transform="translate(-54.582,4.117)"
+                         id="g594" /></g></g><path
+                     d="M -25.04314,80.6923 -74.31274,60.98454"
+                     id="path596"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                     id="g598"><path
+                       d="M -3.30363,80.6923 45.91632,61.0044"
+                       id="path600"
+                       style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g><path
+                     d="m -93.18268,48.55154 -11.918,-11.91836"
+                     id="path602"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                     d="M -76.898,48.55154 -64.76552,36.41853"
+                     id="path604"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                     id="g606"><path
+                       d="M 48.51317,48.51387 36.33289,36.3327"
+                       id="path608"
+                       style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g><path
+                     d="M 64.8737,48.51387 76.67888,36.70816"
+                     id="path610"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                     d="M 20.36072,20.3609 8.25009,8.24991"
+                     id="path612"
+                     style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                     id="g614"><path
+                       d="M 36.33289,20.3609 49.50731,7.18614"
+                       id="path616"
+                       style="fill:none;stroke:#ff0000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g></g></g></g></g></g></g></g></g></svg>
+
+<p>Pour aller de <code>A</code> à <code>I</code> on va 
+successivement à droite, puis à gauche, puis à droite, ce 
+qui est résumé par <code>T.D.G.D</code>. En codant chaque 
+virage à gauche par un <code>0</code> et chaque virage à 
+droite par un <code>1</code>, <code>I</code> est représenté 
+par <code>101</code> en binaire. Chaque nœud autre que la 
+racine possède ainsi un code binaire.</p>
+<h4>d) Mutateurs</h4>
+<p>Il n'est pas recommandé de modifier depuis l'extérieur un 
+attribut de l'objet <code>T</code> : c'est à la classe 
+<code>Arbre</code> de le faire. Pour cela on définit des 
+méthodes pemettant de modifier les enfants gauche et 
+droit de l'arbre. Comme elles reviennent à remplacer une 
+feuille par tout un arbre, on les appelle 
+<code>greffe_gauche</code> et <code>greffe_droite</code> :</p>
+<pre>class Arbre():
+    def __init__(self,nom=''):
+        self.label = nom
+        self.G = None
+        self.D = None
+    def est_une_feuille(self):
+        return not self.G and not self.D
+    def greffe_gauche(self,greffe):
+        self.G = greffe
+    def greffe_droite(self,greffe):
+        self.D = greffe
+</pre>
+<iframe width="807" height="454" src="https://www.youtube.com/embed/oqMx1cuw6mo?list=PLWvGMqXvyJAPSMFgCiy6qVHW9bAPu93X5" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p>Avec ces méthodes, on peut construire l'arbre en commençant 
+par les feuilles (méthode de 
+<a href="https://fr.wikipedia.org/wiki/David_Albert_Huffman">David Huffman</a> 
+en 1951) :</p>
+<pre>D = Arbre('D')
+E = Arbre('E')
+G = Arbre('G')
+H = Arbre('H')
+I = Arbre('I')
+F = Arbre('F')
+</pre>
+<p>Puis on greffe les feuilles <code>H, I</code> sur 
+<code>F</code> :</p>
+<pre>F.greffe_gauche(H)
+F.greffe_droite(I)
+</pre>
+<p>Puis on crée les arbres <code>B, C</code> :</p>
+<pre>B = Arbre('B')
+C = Arbre('C')
+</pre>
+<p>on y greffe les arbres précédents :</p>
+<pre>C.greffe_gauche(F)
+C.greffe_droite(G)
+B.greffe_gauche(D)
+B.greffe_droite(E)
+</pre>
+<p>Enfin on crée l'arbre <code>A</code> puis on y greffe 
+les arbres <code>B, C</code> :</p>
+<pre>A = Arbre('A')
+A.greffe_gauche(B)
+A.greffe_droite(C)
+</pre>
+<p>Cela produit exactement le même arbre que précédemment, 
+mais sans courir le risque de modifier un attribut d'un des 
+arbres depuis l'extérieur : c'est la classe <code>Arbre</code> 
+qui gère ces modifications.</p>
+
+<h2>II/ Parcours</h2>
+<p>Une méthode qui manque à la classe <code>Arbre</code> est 
+celle qui permet d'afficher un arbre binaire. On l'invoque 
+en écrivant <code>print(T)</code> mais elle s'appelle 
+<code>__repr__</code>.</p>
+<h3>1) En profondeur</h3>
+<h4>a) Parcours préfixe</h4>
+<pre style="width:56em;">class Arbre():
+    ...
+    def __repr__(self):
+        return self.label+str(self.G).replace('None','.')+str(self.D).replace('None','.')
+</pre>
+<p>En remplaçant les <code>None</code> par des points, on 
+repère facilement les feuilles : ce sont les lettres suivies 
+par deux points. Avec l'exemple précédent, on obtient le 
+parcours dit <em>préfixe</em> (les parents avant les enfants) 
+<code>ABD..E..CFH..I..G..</code> qui correspond au parcours 
+en profondeur (ou préfixe) <code>ABDECFHIG</code>.</p>
+<h4>b) Parcours suffixe</h4>
+<p>Au lieu d'afficher le nom du nœud avant les affichages 
+des enfants, on peut décider de l'afficher après :</p>
+<pre style="width:56em;">class Arbre():
+    ...
+    def __repr__(self):
+        return str(self.G).replace('None','.')+str(self.D).replace('None','.')+self.label
+</pre>
+<p>On obtient alors l'affichage <code>..D..EB..H..IF..GCA</code> qui 
+correspond au parcours <em>suffixe</em> <code>DEBHIFGCA</code> 
+de l'arbre binaire (on remarque que les feuilles sont précédées 
+de deux points). La construction de l'arbre par la méthode 
+de Huffman correspond à ce parcours suffixe.</p>
+<h4>c) Parcours infixe</h4>
+<p>Une autre variante consiste à afficher le nom du nœud entre 
+l'affichage de son enfant gauche et celui de son enfant droit :</p>
+<pre style="width:56em;">class Arbre():
+    ...
+    def __repr__(self):
+        return str(self.G).replace('None','.')+self.label+str(self.D).replace('None','.')
+</pre>
+<p>On obtient alors l'affichage <code>.D.B.E.A.H.F.I.C.G.</code> 
+(les feuilles sont entourées de points) correspondant au 
+parcours <em>infixe</em> <code>DBEAHFICG</code>. C'est la 
+notation utilisée par Cayley au XIX<sup>e</sup> siècle mais elle 
+nécessitait des parenthèses : <code>(DBE)A((HFI)CG)</code>.</p>
+<h3>2) Parcours en largeur</h3>
+<p>Pour effectuer un parcours de l'arbre en largeur, on 
+définit la notion de <em>niveau</em> d'un nœud :</p>
+<ul>
+    <li>La racine est au niveau <code>0</code>.</li>
+    <li>Les enfants d'un nœud au niveau <code>n-1</code> 
+    sont au niveau <code>n</code>.</li>
+</ul>
+<p>Le parcours de l'arbre en largeur se fait alors niveau par 
+niveau. On récupère la liste des nœuds par niveau (pour 
+chaque niveau, on donne la liste des nœuds qui sont à ce 
+niveau. <code>L</code> est donc une liste de listes).</p>
+<pre style="width: 40em;">def niveaux(arbre):
+    L = [[]]
+    niveau = 0
+    L[niveau] = [arbre]
+    while len(L[niveau]):
+        niveau += 1
+        L.append([])
+        for node in L[niveau-1]:
+            if node.G is not None:
+                L[niveau].append(node.G)
+            if node.D is not None:
+                L[niveau].append(node.D)
+    return [[T.label for T in L[n]] for n in range(niveau)] 
+</pre>
+<p>Pour l'arbre <code>A</code>, la liste renvoyée est 
+<code>[['A'], ['B', 'C'], ['D', 'E', 'F', 'G'], ['H', 'I']]</code> 
+ce qui signifie qu'il y a </p>
+<ul>
+    <li>Un seul nœud au niveau 0 : la racine <code>A</code>.</li>
+    <li>Deux nœuds au niveau 1 : <code>B, C</code>.</li>
+    <li>Quatre nœuds au niveau 2 : <code>D, E, F, G</code>.</li>
+    <li>Deux nœuds au niveau 3 : <code>H, I</code>.</li>
+</ul>
+
+<h2>III/ Mesures</h2>
+<h3>1) Hauteur</h3>
+<p>On appelle <em>hauteur</em> d'un arbre, le plus grand 
+niveau parmi ses feuilles (un nœud de niveau maximal 
+<span title="à démontrer 
+par l'absurde">ne peut être</span> qu'une feuille).</p>
+<p>On peut donc calculer récursivement la hauteur d'un arbre :</p>
+<pre style="width:48em">def hauteur(arbre):
+    if arbre.est_une_feuille():
+        return 0
+    else:
+        return 1+max(hauteur(arbre.G),hauteur(arbre.D))
+</pre>
+<p>La hauteur de l'arbre <code>A</code> est 3, mais comme 
+chaque nœud de cet arbre est lui-même un arbre, on peut aussi 
+calculer la hauteur de chacun d'entre eux :</p>
+
+<table border=1>
+    <tr><th>nœud</th><th>hauteur</th></tr>
+<tr><td> A </td><td> 3 </td></tr>
+<tr><td> B </td><td> 1 </td></tr>
+<tr><td> C </td><td> 2 </td></tr>
+<tr><td> D </td><td> 0 </td></tr>
+<tr><td> E </td><td> 0 </td></tr>
+<tr><td> F </td><td> 1 </td></tr>
+<tr><td> G </td><td> 0 </td></tr>
+<tr><td> H </td><td> 0 </td></tr>
+<tr><td> I </td><td> 0 </td></tr></table>
+<h3>2) Taille</h3>
+<p>La <em>taille</em> d'un arbre est le nombre de nœuds qu'il 
+contient. Pour calculer la taille d'un arbre, il suffit donc 
+de le parcourir (par exemple en profondeur) en comptant les 
+nœuds.</p>
+<pre>def taille(arbre):
+    if arbre is None:
+        return 0
+    else:
+        return 1+taille(arbre.G)+taille(arbre.D)
+</pre>
+<p>Remarque : certains auteurs considèrent que les feuilles 
+ne sont pas des nœuds et appellent donc <em>taille</em> de 
+l'arbre, le nombre de nœuds (autres que les feuilles) 
+qu'il contient. Dans ce cas le calcul serait fait uniquement 
+sur les nœuds autres que les feuilles :</p>
+<pre>def taille(arbre):
+    if arbre.est_une_feuille():
+        return 0
+    else:
+        return 1+taille(arbre.G)+taille(arbre.D)
+</pre>
+<h3>3) Comparaison entre taille et hauteur</h3>
+<p>La plus grande hauteur possible pour un arbre binaire de 
+taille <code>n</code> est <code title="atteinte pour
+une liste chaînée
+(ou arbre unaire)">n-1</code>. La plus petite hauteur possible 
+est 1 de moins que le <span title="logarithme entier">nombre de chiffres 
+binaires</span> de <code>n</code>. Un arbre binaire qui atteint 
+ce minimum est dit <em>équilibré</em>.</p>
+<p>Par exemple, l'arbre historique de David Huffman est de 
+taille 25 et de hauteur 6 :</p>
+<svg width="566px" height="476px"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g class="graph" transform="scale(1 1) rotate(0) translate(4 472)">
+<title>%3</title>
+<polygon fill="white" stroke="none" points="-4,4 -4,-472 562,-472 562,4 -4,4"/>
+<!-- 0 -->
+<g id="node1" class="node"><title>0</title>
+<ellipse fill="none" stroke="black" cx="351" cy="-450" rx="27" ry="18"/>
+</g>
+<!-- 1 -->
+<g id="node2" class="node"><title>1</title>
+<ellipse fill="none" stroke="black" cx="315" cy="-378" rx="27" ry="18"/>
+</g>
+<!-- 0&#45;&#45;1 -->
+<g id="edge1" class="edge"><title>0&#45;&#45;1</title>
+<path fill="none" stroke="black" d="M342.65,-432.765C336.835,-421.456 329.11,-406.437 323.304,-395.147"/>
+</g>
+<!-- 2 -->
+<g id="node3" class="node"><title>2</title>
+<ellipse fill="none" stroke="black" cx="387" cy="-378" rx="27" ry="18"/>
+</g>
+<!-- 0&#45;&#45;2 -->
+<g id="edge2" class="edge"><title>0&#45;&#45;2</title>
+<path fill="none" stroke="black" d="M359.35,-432.765C365.165,-421.456 372.89,-406.437 378.696,-395.147"/>
+</g>
+<!-- 3 -->
+<g id="node4" class="node"><title>3</title>
+<ellipse fill="none" stroke="black" cx="207" cy="-306" rx="27" ry="18"/>
+</g>
+<!-- 1&#45;&#45;3 -->
+<g id="edge3" class="edge"><title>1&#45;&#45;3</title>
+<path fill="none" stroke="black" d="M296.188,-364.807C276.365,-351.959 245.338,-331.848 225.597,-319.053"/>
+</g>
+<!-- 4 -->
+<g id="node5" class="node"><title>4</title>
+<ellipse fill="none" stroke="black" cx="315" cy="-306" rx="27" ry="18"/>
+</g>
+<!-- 1&#45;&#45;4 -->
+<g id="edge4" class="edge"><title>1&#45;&#45;4</title>
+<path fill="none" stroke="black" d="M315,-359.697C315,-348.846 315,-334.917 315,-324.104"/>
+</g>
+<!-- 5 -->
+<g id="node6" class="node"><title>5</title>
+<polygon fill="none" stroke="black" points="414,-324 360,-324 360,-288 414,-288 414,-324"/>
+<text text-anchor="middle" x="387" y="-302.3" font-family="Times,serif" font-size="14.00">.</text>
+</g>
+<!-- 2&#45;&#45;5 -->
+<g id="edge5" class="edge"><title>2&#45;&#45;5</title>
+<path fill="none" stroke="black" d="M387,-359.697C387,-348.846 387,-334.917 387,-324.104"/>
+</g>
+<!-- 6 -->
+<g id="node7" class="node"><title>6</title>
+<ellipse fill="none" stroke="black" cx="459" cy="-306" rx="27" ry="18"/>
+</g>
+<!-- 2&#45;&#45;6 -->
+<g id="edge6" class="edge"><title>2&#45;&#45;6</title>
+<path fill="none" stroke="black" d="M401.57,-362.834C413.98,-350.77 431.731,-333.512 444.204,-321.385"/>
+</g>
+<!-- 7 -->
+<g id="node8" class="node"><title>7</title>
+<polygon fill="none" stroke="black" points="162,-252 108,-252 108,-216 162,-216 162,-252"/>
+<text text-anchor="middle" x="135" y="-230.3" font-family="Times,serif" font-size="14.00">E</text>
+</g>
+<!-- 3&#45;&#45;7 -->
+<g id="edge7" class="edge"><title>3&#45;&#45;7</title>
+<path fill="none" stroke="black" d="M192.43,-290.834C180.924,-279.649 164.827,-263.999 152.602,-252.113"/>
+</g>
+<!-- 8 -->
+<g id="node9" class="node"><title>8</title>
+<ellipse fill="none" stroke="black" cx="207" cy="-234" rx="27" ry="18"/>
+</g>
+<!-- 3&#45;&#45;8 -->
+<g id="edge8" class="edge"><title>3&#45;&#45;8</title>
+<path fill="none" stroke="black" d="M207,-287.697C207,-276.846 207,-262.917 207,-252.104"/>
+</g>
+<!-- 9 -->
+<g id="node10" class="node"><title>9</title>
+<ellipse fill="none" stroke="black" cx="315" cy="-234" rx="27" ry="18"/>
+</g>
+<!-- 4&#45;&#45;9 -->
+<g id="edge9" class="edge"><title>4&#45;&#45;9</title>
+<path fill="none" stroke="black" d="M315,-287.697C315,-276.846 315,-262.917 315,-252.104"/>
+</g>
+<!-- 10 -->
+<g id="node11" class="node"><title>10</title>
+<polygon fill="none" stroke="black" points="414,-252 360,-252 360,-216 414,-216 414,-252"/>
+<text text-anchor="middle" x="387" y="-230.3" font-family="Times,serif" font-size="14.00">T</text>
+</g>
+<!-- 4&#45;&#45;10 -->
+<g id="edge10" class="edge"><title>4&#45;&#45;10</title>
+<path fill="none" stroke="black" d="M329.57,-290.834C341.076,-279.649 357.173,-263.999 369.398,-252.113"/>
+</g>
+<!-- 11 -->
+<g id="node12" class="node"><title>11</title>
+<polygon fill="none" stroke="black" points="486,-252 432,-252 432,-216 486,-216 486,-252"/>
+<text text-anchor="middle" x="459" y="-230.3" font-family="Times,serif" font-size="14.00">A</text>
+</g>
+<!-- 6&#45;&#45;11 -->
+<g id="edge11" class="edge"><title>6&#45;&#45;11</title>
+<path fill="none" stroke="black" d="M459,-287.697C459,-276.846 459,-262.917 459,-252.104"/>
+</g>
+<!-- 12 -->
+<g id="node13" class="node"><title>12</title>
+<polygon fill="none" stroke="black" points="558,-252 504,-252 504,-216 558,-216 558,-252"/>
+<text text-anchor="middle" x="531" y="-230.3" font-family="Times,serif" font-size="14.00">O</text>
+</g>
+<!-- 6&#45;&#45;12 -->
+<g id="edge12" class="edge"><title>6&#45;&#45;12</title>
+<path fill="none" stroke="black" d="M473.57,-290.834C485.076,-279.649 501.173,-263.999 513.398,-252.113"/>
+</g>
+<!-- 13 -->
+<g id="node14" class="node"><title>13</title>
+<ellipse fill="none" stroke="black" cx="99" cy="-162" rx="27" ry="18"/>
+</g>
+<!-- 8&#45;&#45;13 -->
+<g id="edge13" class="edge"><title>8&#45;&#45;13</title>
+<path fill="none" stroke="black" d="M188.188,-220.807C168.365,-207.959 137.338,-187.848 117.597,-175.053"/>
+</g>
+<!-- 14 -->
+<g id="node15" class="node"><title>14</title>
+<ellipse fill="none" stroke="black" cx="207" cy="-162" rx="27" ry="18"/>
+</g>
+<!-- 8&#45;&#45;14 -->
+<g id="edge14" class="edge"><title>8&#45;&#45;14</title>
+<path fill="none" stroke="black" d="M207,-215.697C207,-204.846 207,-190.917 207,-180.104"/>
+</g>
+<!-- 15 -->
+<g id="node16" class="node"><title>15</title>
+<ellipse fill="none" stroke="black" cx="315" cy="-162" rx="27" ry="18"/>
+</g>
+<!-- 9&#45;&#45;15 -->
+<g id="edge15" class="edge"><title>9&#45;&#45;15</title>
+<path fill="none" stroke="black" d="M315,-215.697C315,-204.846 315,-190.917 315,-180.104"/>
+</g>
+<!-- 16 -->
+<g id="node17" class="node"><title>16</title>
+<polygon fill="none" stroke="black" points="414,-180 360,-180 360,-144 414,-144 414,-180"/>
+<text text-anchor="middle" x="387" y="-158.3" font-family="Times,serif" font-size="14.00">I</text>
+</g>
+<!-- 9&#45;&#45;16 -->
+<g id="edge16" class="edge"><title>9&#45;&#45;16</title>
+<path fill="none" stroke="black" d="M329.57,-218.834C341.076,-207.649 357.173,-191.999 369.398,-180.113"/>
+</g>
+<!-- 17 -->
+<g id="node18" class="node"><title>17</title>
+<polygon fill="none" stroke="black" points="54,-108 0,-108 0,-72 54,-72 54,-108"/>
+<text text-anchor="middle" x="27" y="-86.3" font-family="Times,serif" font-size="14.00">N</text>
+</g>
+<!-- 13&#45;&#45;17 -->
+<g id="edge17" class="edge"><title>13&#45;&#45;17</title>
+<path fill="none" stroke="black" d="M84.4297,-146.834C72.9242,-135.649 56.8272,-119.999 44.6017,-108.113"/>
+</g>
+<!-- 18 -->
+<g id="node19" class="node"><title>18</title>
+<polygon fill="none" stroke="black" points="126,-108 72,-108 72,-72 126,-72 126,-108"/>
+<text text-anchor="middle" x="99" y="-86.3" font-family="Times,serif" font-size="14.00">S</text>
+</g>
+<!-- 13&#45;&#45;18 -->
+<g id="edge18" class="edge"><title>13&#45;&#45;18</title>
+<path fill="none" stroke="black" d="M99,-143.697C99,-132.846 99,-118.917 99,-108.104"/>
+</g>
+<!-- 19 -->
+<g id="node20" class="node"><title>19</title>
+<polygon fill="none" stroke="black" points="198,-108 144,-108 144,-72 198,-72 198,-108"/>
+<text text-anchor="middle" x="171" y="-86.3" font-family="Times,serif" font-size="14.00">D</text>
+</g>
+<!-- 14&#45;&#45;19 -->
+<g id="edge19" class="edge"><title>14&#45;&#45;19</title>
+<path fill="none" stroke="black" d="M198.65,-144.765C193.001,-133.779 185.55,-119.292 179.807,-108.124"/>
+</g>
+<!-- 20 -->
+<g id="node21" class="node"><title>20</title>
+<ellipse fill="none" stroke="black" cx="243" cy="-90" rx="27" ry="18"/>
+</g>
+<!-- 14&#45;&#45;20 -->
+<g id="edge20" class="edge"><title>14&#45;&#45;20</title>
+<path fill="none" stroke="black" d="M215.35,-144.765C221.165,-133.456 228.89,-118.437 234.696,-107.147"/>
+</g>
+<!-- 21 -->
+<g id="node22" class="node"><title>21</title>
+<polygon fill="none" stroke="black" points="342,-108 288,-108 288,-72 342,-72 342,-108"/>
+<text text-anchor="middle" x="315" y="-86.3" font-family="Times,serif" font-size="14.00">H</text>
+</g>
+<!-- 15&#45;&#45;21 -->
+<g id="edge21" class="edge"><title>15&#45;&#45;21</title>
+<path fill="none" stroke="black" d="M315,-143.697C315,-132.846 315,-118.917 315,-108.104"/>
+</g>
+<!-- 22 -->
+<g id="node23" class="node"><title>22</title>
+<polygon fill="none" stroke="black" points="414,-108 360,-108 360,-72 414,-72 414,-108"/>
+<text text-anchor="middle" x="387" y="-86.3" font-family="Times,serif" font-size="14.00">R</text>
+</g>
+<!-- 15&#45;&#45;22 -->
+<g id="edge22" class="edge"><title>15&#45;&#45;22</title>
+<path fill="none" stroke="black" d="M329.57,-146.834C341.076,-135.649 357.173,-119.999 369.398,-108.113"/>
+</g>
+<!-- 23 -->
+<g id="node24" class="node"><title>23</title>
+<polygon fill="none" stroke="black" points="234,-36 180,-36 180,-0 234,-0 234,-36"/>
+<text text-anchor="middle" x="207" y="-14.3" font-family="Times,serif" font-size="14.00">L</text>
+</g>
+<!-- 20&#45;&#45;23 -->
+<g id="edge23" class="edge"><title>20&#45;&#45;23</title>
+<path fill="none" stroke="black" d="M234.65,-72.7646C229.001,-61.7791 221.55,-47.2919 215.807,-36.1239"/>
+</g>
+<!-- 24 -->
+<g id="node25" class="node"><title>24</title>
+<polygon fill="none" stroke="black" points="306,-36 252,-36 252,-0 306,-0 306,-36"/>
+<text text-anchor="middle" x="279" y="-14.3" font-family="Times,serif" font-size="14.00">U</text>
+</g>
+<!-- 20&#45;&#45;24 -->
+<g id="edge24" class="edge"><title>20&#45;&#45;24</title>
+<path fill="none" stroke="black" d="M251.35,-72.7646C256.999,-61.7791 264.45,-47.2919 270.193,-36.1239"/>
+</g>
+</g>
+</svg>
+<p>Comme 25 s'écrit <code>11001</code> avec 5 chiffres, la 
+hauteur minimale d'un arbre binaire de taille 25 est 4 et pas 
+6 : l'arbre de Huffman n'est pas équilibré. Mais ses feuilles 
+portant des lettres, il sert à décoder des mots binaires 
+écrits avec les 13 lettres. Par exemple pour arriver à la 
+lettre <code>T</code> on effectue (depuis la racine) le trajet 
+<code>GDD</code> et la lettre <code>T</code> se code 
+<code>011</code>. On peut vérifier que les 13 bits 
+<code>0111100101000</code> représentent le code de 
+Huffman du mot <code>TAIE</code> qui s'écrit sur 32 bits 
+en <code>Ascii</code> et au moins 16 bits si on veut coder 
+directement en binaire les 13 lettres (ce qui nécessite 4 bits 
+pour chacune d'entre elles).</p>
+
+<h2>IV/ Exemple</h2>
+<p>La structure d'arbre binaire permet de parcourir l'arbre 
+<code>ABCDEFGHI</code> sans utiliser les étiquettes des nœuds. On 
+peut donc mettre des étiquettes identiques sur plusieurs 
+nœuds et ainsi, donner un sens à l'arbre binaire. Par 
+exemple :</p>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="273.32031"
+   height="133.20312"
+   xml:space="preserve"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs6" /><g
+     transform="matrix(1.25,0,0,-1.25,-235.39063,545.90531)"
+     id="g10"><g
+       transform="translate(311.758,716.837)"
+       id="g12"><g
+         transform="translate(0.053,-109.37)"
+         id="g196"><g
+           transform="translate(-0.027,-24.33)"
+           id="g220"><g
+             transform="translate(-0.026,-52.577)"
+             id="g284"><g
+               transform="translate(0,-81.181)"
+               id="g428"><g
+                 transform="translate(-0.383,-108.686)"
+                 id="g618"><g
+                   id="g620"><g
+                     id="g622"><g
+                       id="g624"><path
+                         d="m -3.38947,85.04042 c 0,5.95586 -4.82806,10.78392 -10.78392,10.78392 -5.95587,0 -10.78391,-4.82806 -10.78391,-10.78392 0,-5.95586 4.82804,-10.78392 10.78391,-10.78392 5.95586,0 10.78392,4.82806 10.78392,10.78392 z"
+                         id="path626"
+                         style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                         transform="translate(-17.099,80.558)"
+                         id="g628"><g
+                           id="g630"><g
+                             transform="translate(-294.276,-421.251)"
+                             id="g632"><text
+                               transform="matrix(1,0,0,-1,294.276,421.251)"
+                               id="text634"><tspan
+                                 x="0"
+                                 y="0"
+                                 id="tspan636"
+                                 style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">*</tspan></text>
+<g
+                               transform="translate(294.276,421.251)"
+                               id="g638" /></g></g><g
+                           transform="translate(17.099,-80.558)"
+                           id="g640" /></g></g><g
+                       id="g642"><path
+                         d="m -76.36362,56.69362 c 0,4.79211 -3.88468,8.6768 -8.6768,8.6768 -4.79211,0 -8.6768,-3.88469 -8.6768,-8.6768 0,-4.79213 3.88469,-8.6768 8.6768,-8.6768 4.79212,0 8.6768,3.88467 8.6768,8.6768 z"
+                         id="path644"
+                         style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                         transform="translate(-86.99,54.12)"
+                         id="g646"><g
+                           id="g648"><g
+                             transform="translate(-224.385,-394.813)"
+                             id="g650"><text
+                               transform="matrix(1,0,0,-1,224.385,394.813)"
+                               id="text652"><tspan
+                                 x="0"
+                                 y="0"
+                                 id="tspan654"
+                                 style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">-</tspan></text>
+<g
+                               transform="translate(224.385,394.813)"
+                               id="g656" /></g></g><g
+                           transform="translate(86.99,-54.12)"
+                           id="g658" /></g></g><g
+                       id="g660"><path
+                         d="m 68.1418,56.69362 c 0,6.32272 -5.12546,11.44818 -11.44818,11.44818 -6.32274,0 -11.4482,-5.12546 -11.4482,-11.44818 0,-6.32274 5.12546,-11.4482 11.4482,-11.4482 6.32272,0 11.44818,5.12546 11.44818,11.4482 z"
+                         id="path662"
+                         style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                         transform="translate(52.141,53.705)"
+                         id="g664"><g
+                           id="g666"><g
+                             transform="translate(-363.516,-394.398)"
+                             id="g668"><text
+                               transform="matrix(1,0,0,-1,363.516,394.398)"
+                               id="text670"><tspan
+                                 x="0"
+                                 y="0"
+                                 id="tspan672"
+                                 style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">+</tspan></text>
+<g
+                               transform="translate(363.516,394.398)"
+                               id="g674" /></g></g><g
+                           transform="translate(-52.141,-53.705)"
+                           id="g676" /></g></g><g
+                       id="g678"><path
+                         d="m -103.92065,28.3468 c 0,5.22832 -4.23827,9.46659 -9.46659,9.46659 -5.2283,0 -9.46656,-4.23827 -9.46656,-9.46659 0,-5.2283 4.23826,-9.46657 9.46656,-9.46657 5.22832,0 9.46659,4.23827 9.46659,9.46657 z"
+                         id="path680"
+                         style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                         transform="translate(-116.474,25.774)"
+                         id="g682"><g
+                           id="g684"><g
+                             transform="translate(-194.901,-366.467)"
+                             id="g686"><text
+                               transform="matrix(1,0,0,-1,194.901,366.467)"
+                               id="text688"><tspan
+                                 x="0"
+                                 y="0"
+                                 id="tspan690"
+                                 style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">x</tspan></text>
+<g
+                               transform="translate(194.901,366.467)"
+                               id="g692" /></g></g><g
+                           transform="translate(116.474,-25.774)"
+                           id="g694" /></g></g><g
+                       id="g696"><path
+                         d="m -46.35457,28.3468 c 0,5.71018 -4.62887,10.33905 -10.33905,10.33905 -5.71016,0 -10.33903,-4.62887 -10.33903,-10.33905 0,-5.71016 4.62887,-10.33905 10.33903,-10.33905 5.71018,0 10.33905,4.62889 10.33905,10.33905 z"
+                         id="path698"
+                         style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                         transform="translate(-59.619,24.493)"
+                         id="g700"><g
+                           id="g702"><g
+                             transform="translate(-251.756,-365.186)"
+                             id="g704"><text
+                               transform="matrix(1,0,0,-1,251.756,365.186)"
+                               id="text706"><tspan
+                                 x="0"
+                                 y="0"
+                                 id="tspan708"
+                                 style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">5</tspan></text>
+<g
+                               transform="translate(251.756,365.186)"
+                               id="g710" /></g></g><g
+                           transform="translate(59.619,-24.493)"
+                           id="g712" /></g></g><g
+                       id="g714"><path
+                         d="m 39.13072,28.3468 c 0,5.95586 -4.82806,10.78392 -10.78392,10.78392 -5.95585,0 -10.78392,-4.82806 -10.78392,-10.78392 0,-5.95585 4.82807,-10.78392 10.78392,-10.78392 5.95586,0 10.78392,4.82807 10.78392,10.78392 z"
+                         id="path716"
+                         style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                         transform="translate(25.42,23.865)"
+                         id="g718"><g
+                           id="g720"><g
+                             transform="translate(-336.795,-364.558)"
+                             id="g722"><text
+                               transform="matrix(1,0,0,-1,336.795,364.558)"
+                               id="text724"><tspan
+                                 x="0"
+                                 y="0"
+                                 id="tspan726"
+                                 style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">*</tspan></text>
+<g
+                               transform="translate(336.795,364.558)"
+                               id="g728" /></g></g><g
+                           transform="translate(-25.42,-23.865)"
+                           id="g730" /></g></g><g
+                       id="g732"><path
+                         d="m 95.37947,28.3468 c 0,5.71018 -4.62887,10.33905 -10.33905,10.33905 -5.71016,0 -10.33905,-4.62887 -10.33905,-10.33905 0,-5.71016 4.62889,-10.33905 10.33905,-10.33905 5.71018,0 10.33905,4.62889 10.33905,10.33905 z"
+                         id="path734"
+                         style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                         transform="translate(82.113,24.493)"
+                         id="g736"><g
+                           id="g738"><g
+                             transform="translate(-393.488,-365.186)"
+                             id="g740"><text
+                               transform="matrix(1,0,0,-1,393.488,365.186)"
+                               id="text742"><tspan
+                                 x="0"
+                                 y="0"
+                                 id="tspan744"
+                                 style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">3</tspan></text>
+<g
+                               transform="translate(393.488,365.186)"
+                               id="g746" /></g></g><g
+                           transform="translate(-82.113,-24.493)"
+                           id="g748" /></g></g><g
+                       id="g750"><path
+                         d="M 10.33904,0 C 10.33904,5.71016 5.71016,10.33904 0,10.33904 -5.71016,10.33904 -10.33904,5.71016 -10.33904,0 c 0,-5.71016 4.62888,-10.33904 10.33904,-10.33904 5.71016,0 10.33904,4.62888 10.33904,10.33904 z"
+                         id="path752"
+                         style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                         transform="translate(-2.926,-3.853)"
+                         id="g754"><g
+                           id="g756"><g
+                             transform="translate(-308.449,-336.84)"
+                             id="g758"><text
+                               transform="matrix(1,0,0,-1,308.449,336.84)"
+                               id="text760"><tspan
+                                 x="0"
+                                 y="0"
+                                 id="tspan762"
+                                 style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">2</tspan></text>
+<g
+                               transform="translate(308.449,336.84)"
+                               id="g764" /></g></g><g
+                           transform="translate(2.926,3.853)"
+                           id="g766" /></g></g><g
+                       id="g768"><path
+                         d="m 66.16019,0 c 0,5.2283 -4.23827,9.46657 -9.46657,9.46657 -5.22832,0 -9.46658,-4.23827 -9.46658,-9.46657 0,-5.2283 4.23826,-9.46657 9.46658,-9.46657 5.2283,0 9.46657,4.23827 9.46657,9.46657 z"
+                         id="path770"
+                         style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><g
+                         transform="translate(53.604,-2.573)"
+                         id="g772"><g
+                           id="g774"><g
+                             transform="translate(-364.979,-338.12)"
+                             id="g776"><text
+                               transform="matrix(1,0,0,-1,364.979,338.12)"
+                               id="text778"><tspan
+                                 x="0"
+                                 y="0"
+                                 id="tspan780"
+                                 style="font-size:11.9552002px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Arial;-inkscape-font-specification:Arial">x</tspan></text>
+<g
+                               transform="translate(364.979,338.12)"
+                               id="g782" /></g></g><g
+                           transform="translate(-53.604,2.573)"
+                           id="g784" /></g></g><path
+                       d="M -24.40591,80.94722 -76.771,60.00127"
+                       id="path786"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                       d="M -3.94086,80.94722 45.84221,61.03403"
+                       id="path788"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                       d="M -91.3166,50.4173 -106.55232,35.18158"
+                       id="path790"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                       d="M -78.76382,50.4173 -64.14548,35.79851"
+                       id="path792"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                       d="M 48.45764,48.45764 36.11325,36.11308"
+                       id="path794"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                       d="M 64.92995,48.45764 77.58856,35.79851"
+                       id="path796"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                       d="M 20.58018,20.58052 7.45184,7.45169"
+                       id="path798"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /><path
+                       d="M 36.11292,20.58052 49.8587,6.83478"
+                       id="path800"
+                       style="fill:none;stroke:#000000;stroke-width:0.3985;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none" /></g></g></g></g></g></g></g></g></g></svg>
+
+<p>Les étiquettes des feuilles représentent soit des constantes 
+<code>2, 3, 5</code> soit la variable <code>x</code>.</p>
+<h3>1) Parcours infixe</h3>
+<p>Le parcours infixe de cet arbre syntaxique est 
+<code>(x-5)*(2*x+3)</code>. C'est sous cette forme que la 
+plupart des langages de programmation (notamment Python) 
+lisent les expressions.</p>
+<h3>2) Parcours préfixe</h3>
+<p>Le parcours préfixe de l'arbre syntaxique ne nécessite 
+pas de parenthèses : <code>* - x 5 + * 2 x 3</code>. La 
+ressemblance avec la langue française « <i>le produit de la 
+différence entre x et 5 par la somme du produit de 2 par x, et 
+de 3</i> » fait que certains langages de programmation 
+(<code>Lisp, Logo, Prolog...</code>) gèrent les expressions 
+préfixes plutôt qu'infixes. Voici un exemple avec 
+<code>Scheme</code> qui est une variante de Lisp :</p>
+<pre>> (define x 8)
+x
+> x
+8
+> (* (- x 5) (+ (* 2 x) 3))
+57</pre>
+<p>La session <code>Haskell</code> suivante montre que ce 
+langage gère les deux notations :</p>
+<pre>λ\ let x = 8
+λ\ x
+8
+λ\ (*) ((-) x 5) ((+) ((*) 2 x) 3)
+57
+λ\ (x-5)*(2*x+3)
+57</pre>
+<p>L'idée de représenter les expressions algébriques sous 
+forme préfixe (pour éviter les parenthèses) est dûe au 
+mathématicien polonais <a href="https://fr.wikipedia.org/wiki/Jan_%C5%81ukasiewicz">Jan Łukasiewicz</a>. 
+En son honneur, on appelle <em>notation polonaise</em> le 
+parcours préfixe d'un arbre syntaxique. Les langages qui 
+utilisent la notation polonaise sont dits <em>fonctionnels</em>.</p>
+<p>De 1953 à 1957, <a href="https://fr.wikipedia.org/wiki/John_Backus">John Backus</a> 
+a développé l'un des premiers compilateurs, dont l'une des 
+tâches consistait à </p>
+<ul>
+    <li>construire, à partir d'une expression, son arbre syntaxique,</li>
+    <li>construire un algorithme d'évaluation par parcours préfixe.</li>
+</ul>
+<p>L'importance de cette tâche a amené Backus à appeler son langage 
+<em>For</em>mula <em>tran</em>slator, abrégé en <code>Fortran</code>.
+</p>
+<p>Mais dès 1951, <a href="https://fr.wikipedia.org/wiki/Grace_Hopper">Grace Hopper</a> 
+avait mis cette construction dans ce qui est considéré comme 
+le premier <a href="https://fr.wikipedia.org/wiki/Compilateur">compilateur</a> 
+de l'histoire de l'informatique.</p>
+<h3>3) Parcours suffixe</h3>
+<p>Par référence à ce qui précède, le parcours suffixe de 
+l'arbre syntaxique <code>x 5 - 2 x * 3 + *</code> 
+est appelé <em>notation polonaise inverse</em> 
+(Arthur Burks, 1954). Les langages de programmation 
+<code>Forth</code> et <code>Postscript</code> entre autres, 
+utilisent l'évaluation suffixe des expressions.</p>
+<p>Voici un exemple en Postscript (commande <code>gs</code>)&nbsp;:</p>
+<pre>GS>/x 8 def
+GS>x 5 sub 2 x mul 3 add mul
+GS<1>pstack
+57
+</pre>
+
+</body>
+</html>

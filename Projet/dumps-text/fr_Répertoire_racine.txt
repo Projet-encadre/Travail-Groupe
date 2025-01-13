@@ -1,0 +1,302 @@
+   #[1]alternate [2]Modifier [3]Wikipédia (fr) [4]Flux Atom de Wikipédia
+
+   [5]Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * [6]Accueil
+     * [7]Portails thématiques
+     * [8]Article au hasard
+     * [9]Contact
+
+   Contribuer
+     * [10]Débuter sur Wikipédia
+     * [11]Aide
+     * [12]Communauté
+     * [13]Modifications récentes
+
+   [14]Wikipédia l'encyclopédie libre
+   [15]Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * [16]Faire un don
+     * [17]Créer un compte
+     * [18]Se connecter
+
+   [ ] Outils personnels
+     * [19]Faire un don
+     * [20]Créer un compte
+     * [21]Se connecter
+
+   Pages pour les contributeurs déconnectés [22]en savoir plus
+     * [23]Contributions
+     * [24]Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Notes et références
+
+   [ ] Basculer la table des matières
+
+Répertoire racine
+
+   [ ] 21 langues
+     * [25]a+l+e+r+b+y+tm
+     * [26]Deutsch
+     * [27]English
+     * [28]Español
+     * [29]Eesti
+     * [30]Euskara
+     * [31]f+a+r+s+
+     * [32]E+B+R+J+T+
+     * [33]Bahasa Indonesia
+     * [34]Italiano
+     * [35]¥¬
+     * [36]azasha
+     * [37]­´
+     * [38]Olyk marij
+     * [39]Nederlands
+     * [40]Norsk bokmål
+     * [41]Polski
+     * [42]Português
+     * [43]Türkçe
+     * [44]Ukrayins'ka
+     * [45]­
+
+   [46]Modifier les liens
+
+     * [47]Article
+     * [48]Discussion
+
+   [ ] français
+
+     * [49]Lire
+     * [50]Modifier
+     * [51]Modifier le code
+     * [52]Voir l'historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * [53]Lire
+     * [54]Modifier
+     * [55]Modifier le code
+     * [56]Voir l'historique
+
+   Général
+     * [57]Pages liées
+     * [58]Suivi des pages liées
+     * [59]Téléverser un fichier
+     * [60]Pages spéciales
+     * [61]Lien permanent
+     * [62]Informations sur la page
+     * [63]Citer cette page
+     * [64]Obtenir l'URL raccourcie
+     * [65]Télécharger le code QR
+
+   Imprimer/exporter
+     * [66]Créer un livre
+     * [67]Télécharger comme PDF
+     * [68]Version imprimable
+
+   Dans d'autres projets
+     * [69]Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   [70][220px-FileFolders.svg.png] root est le répertoire racine de ce
+   système de fichiers
+
+   Dans les [71]systèmes de fichiers informatiques, la racine des
+   répertoires ou dossiers (appelé aussi la racine d'un disque) est la
+   base des répertoires dans la hiérarchie. Il peut être imagé par un
+   tronc d'un arbre, c'est-à-dire le point de départ de toutes les
+   branches (de tous les répertoires/dossiers).
+
+   Pour reprendre l'analogie avec le monde réel, dans une armoire à
+   classeurs (ou trieur), les tiroirs sont représentés comme le plus haut
+   niveau des sous-répertoires du système de fichiers, et la pièce peut
+   être considérée comme étant le répertoire racine. Le répertoire racine
+   peut contenir d'autres répertoires mais il ne peut être contenu, du
+   moins dans ce système de fichiers.
+
+   Note : dans les [72]systèmes d'exploitation populaires comme
+   [73]Microsoft Windows et [74]Unix, il est possible de placer des
+   [75]fichiers dans la racine du disque.
+
+   Sous Unix, la racine des répertoires est noté /. Toutes les entrées, y
+   compris les partitions montées, sont placées de façon hiérarchique,
+   comme les branches d'un arbre, par rapport à la partition racine.
+   Cependant, sous [76]DOS et Windows, chaque partition (ou lecteur)
+   possède une racine (C:\ pour la partition principale [77]par défaut
+   sous Windows).
+
+Notes et références
+
+   [[78]modifier | [79]modifier le code]
+   Cette section est vide, insuffisamment détaillée ou incomplète.
+   [80]Votre aide est la bienvenue ! [81]Comment faire ?
+     * [82]icône décorative [83]Portail de l'informatique
+
+   Ce document provient de
+   « [84]https://fr.wikipedia.org/w/index.php?title=Répertoire_racine&oldi
+   d=175151018 ».
+   [85]Catégories:
+     * [86]Système de fichiers
+     * [87]Unix
+
+   Catégories cachées:
+     * [88]Article avec une section vide ou incomplète
+     * [89]Portail:Informatique/Articles liés
+     * [90]Portail:Technologies/Articles liés
+
+     * La dernière modification de cette page a été faite le 29 septembre
+       2020 à 21:39.
+     * [91]Droit d'auteur : les textes sont disponibles sous [92]licence
+       Creative Commons attribution, partage dans les mêmes conditions ;
+       d'autres conditions peuvent s'appliquer. Voyez les [93]conditions
+       d'utilisation pour plus de détails, ainsi que les [94]crédits
+       graphiques. En cas de réutilisation des textes de cette page, voyez
+       [95]comment citer les auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la [96]Wikimedia Foundation,
+       Inc., organisation de bienfaisance régie par le paragraphe
+       [97]501(c)(3) du code fiscal des États-Unis.
+
+     * [98]Politique de confidentialité
+     * [99]À propos de Wikipédia
+     * [100]Avertissements
+     * [101]Contact
+     * [102]Code de conduite
+     * [103]Développeurs
+     * [104]Statistiques
+     * [105]Déclaration sur les témoins (cookies)
+     * [106]Version mobile
+
+     * [107]Wikimedia Foundation
+     * [108]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://fr.m.wikipedia.org/wiki/R%C3%A9pertoire_racine
+   2. file:///w/index.php?title=R%C3%A9pertoire_racine&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_R%C3%A9pertoire_racine.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+   8. file:///wiki/Sp%C3%A9cial:Page_au_hasard
+   9. file:///wiki/Wikip%C3%A9dia:Contact
+  10. file:///wiki/Aide:D%C3%A9buter
+  11. file:///wiki/Aide:Accueil
+  12. file:///wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9
+  13. file:///wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes
+  14. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+  15. file:///wiki/Sp%C3%A9cial:Recherche
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  17. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=R%C3%A9pertoire+racine
+  18. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=R%C3%A9pertoire+racine
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  20. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=R%C3%A9pertoire+racine
+  21. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=R%C3%A9pertoire+racine
+  22. file:///wiki/Aide:Premiers_pas
+  23. file:///wiki/Sp%C3%A9cial:Mes_contributions
+  24. file:///wiki/Sp%C3%A9cial:Mes_discussions
+  25. https://ar.wikipedia.org/wiki/%D8%AF%D9%84%D9%8A%D9%84_%D8%A7%D9%84%D8%AC%D8%B0%D8%B1
+  26. https://de.wikipedia.org/wiki/Stammverzeichnis
+  27. https://en.wikipedia.org/wiki/Root_directory
+  28. https://es.wikipedia.org/wiki/Directorio_ra%C3%ADz
+  29. https://et.wikipedia.org/wiki/Juurkaust
+  30. https://eu.wikipedia.org/wiki/Erro_direktorio
+  31. https://fa.wikipedia.org/wiki/%D8%AF%D8%A7%DB%8C%D8%B1%DA%A9%D8%AA%D9%88%D8%B1%DB%8C_%D8%B1%DB%8C%D8%B4%D9%87
+  32. https://he.wikipedia.org/wiki/%D7%AA%D7%99%D7%A7%D7%99%D7%99%D7%AA_%D7%A9%D7%95%D7%A8%D7%A9
+  33. https://id.wikipedia.org/wiki/Direktori_akar
+  34. https://it.wikipedia.org/wiki/Root_(informatica)
+  35. https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%88%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AA
+  36. https://kk.wikipedia.org/wiki/%D0%A2%D2%AF%D0%BF%D0%BA%D1%96_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3
+  37. https://ko.wikipedia.org/wiki/%EB%A3%A8%ED%8A%B8_%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC
+  38. https://mhr.wikipedia.org/wiki/%D0%A2%D3%B1%D2%A5%D0%B2%D0%BE%D0%B6_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3
+  39. https://nl.wikipedia.org/wiki/Rootdirectory
+  40. https://no.wikipedia.org/wiki/Rotkatalog
+  41. https://pl.wikipedia.org/wiki/Katalog_g%C5%82%C3%B3wny
+  42. https://pt.wikipedia.org/wiki/Diret%C3%B3rio_raiz
+  43. https://tr.wikipedia.org/wiki/K%C3%B6k_dizin
+  44. https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D0%B8%D0%B9_%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3
+  45. https://zh.wikipedia.org/wiki/%E6%A0%B9%E7%9B%AE%E5%BD%95
+  46. https://www.wikidata.org/wiki/Special:EntityPage/Q972090#sitelinks-wikipedia
+  47. file:///wiki/R%C3%A9pertoire_racine
+  48. file:///wiki/Discussion:R%C3%A9pertoire_racine
+  49. file:///wiki/R%C3%A9pertoire_racine
+  50. file:///w/index.php?title=R%C3%A9pertoire_racine&veaction=edit
+  51. file:///w/index.php?title=R%C3%A9pertoire_racine&action=edit
+  52. file:///w/index.php?title=R%C3%A9pertoire_racine&action=history
+  53. file:///wiki/R%C3%A9pertoire_racine
+  54. file:///w/index.php?title=R%C3%A9pertoire_racine&veaction=edit
+  55. file:///w/index.php?title=R%C3%A9pertoire_racine&action=edit
+  56. file:///w/index.php?title=R%C3%A9pertoire_racine&action=history
+  57. file:///wiki/Sp%C3%A9cial:Pages_li%C3%A9es/R%C3%A9pertoire_racine
+  58. file:///wiki/Sp%C3%A9cial:Suivi_des_liens/R%C3%A9pertoire_racine
+  59. file:///wiki/Aide:Importer_un_fichier
+  60. file:///wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+  61. file:///w/index.php?title=R%C3%A9pertoire_racine&oldid=175151018
+  62. file:///w/index.php?title=R%C3%A9pertoire_racine&action=info
+  63. file:///w/index.php?title=Sp%C3%A9cial:Citer&page=R%C3%A9pertoire_racine&id=175151018&wpFormIdentifier=titleform
+  64. file:///w/index.php?title=Sp%C3%A9cial:UrlShortener&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FR%25C3%25A9pertoire_racine
+  65. file:///w/index.php?title=Sp%C3%A9cial:QrCode&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FR%25C3%25A9pertoire_racine
+  66. file:///w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=R%C3%A9pertoire+racine
+  67. file:///w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=R%C3%A9pertoire_racine&action=show-download-screen
+  68. file:///w/index.php?title=R%C3%A9pertoire_racine&printable=yes
+  69. https://www.wikidata.org/wiki/Special:EntityPage/Q972090
+  70. file:///wiki/Fichier:FileFolders.svg
+  71. file:///wiki/Syst%C3%A8me_de_fichiers
+  72. file:///wiki/Syst%C3%A8me_d%27exploitation
+  73. file:///wiki/Microsoft_Windows
+  74. file:///wiki/Unix
+  75. file:///wiki/Fichier_(informatique)
+  76. file:///wiki/DOS
+  77. file:///wiki/Valeur_par_d%C3%A9faut
+  78. file:///w/index.php?title=R%C3%A9pertoire_racine&veaction=edit&section=1
+  79. file:///w/index.php?title=R%C3%A9pertoire_racine&action=edit&section=1
+  80. file:///wiki/Sp%C3%A9cial:EditPage/R%C3%A9pertoire_racine
+  81. file:///wiki/Aide:Comment_modifier_une_page
+  82. file:///wiki/Portail:Informatique
+  83. file:///wiki/Portail:Informatique
+  84. https://fr.wikipedia.org/w/index.php?title=R%C3%A9pertoire_racine&oldid=175151018
+  85. file:///wiki/Cat%C3%A9gorie:Accueil
+  86. file:///wiki/Cat%C3%A9gorie:Syst%C3%A8me_de_fichiers
+  87. file:///wiki/Cat%C3%A9gorie:Unix
+  88. file:///wiki/Cat%C3%A9gorie:Article_avec_une_section_vide_ou_incompl%C3%A8te
+  89. file:///wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s
+  90. file:///wiki/Cat%C3%A9gorie:Portail:Technologies/Articles_li%C3%A9s
+  91. file:///wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia
+  92. https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+  93. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr
+  94. file:///wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques
+  95. file:///wiki/Sp%C3%A9cial:Citer/R%C3%A9pertoire_racine
+  96. https://wikimediafoundation.org/
+  97. file:///wiki/501c
+  98. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/fr
+  99. file:///wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia
+ 100. file:///wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux
+ 101. file://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contact
+ 102. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 103. https://developer.wikimedia.org/
+ 104. https://stats.wikimedia.org/#/fr.wikipedia.org
+ 105. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 106. file://fr.m.wikipedia.org/w/index.php?title=R%C3%A9pertoire_racine&mobileaction=toggle_view_mobile
+ 107. https://wikimediafoundation.org/
+ 108. https://www.mediawiki.org/
+
+   Hidden links:
+ 110. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_R%C3%A9pertoire_racine.html
+ 111. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_R%C3%A9pertoire_racine.html#Notes_et_r%C3%A9f%C3%A9rences
+ 112. file://localhost/wiki/Fichier:Fairytale_warning.png

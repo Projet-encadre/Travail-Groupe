@@ -1,0 +1,49 @@
+     __________________________________________________________________
+
+Racine n-ième d'un nombre
+
+Définition : Propriété et définition
+--
+   \(x=k^{1/n}\).
+
+   Le nombre \(k^{1/n}\) est la racine n-ième de k.
+
+Complément :
+--
+   k}\right)^n=\text{e}^{n\tfrac{1}{n}\ln k}=\text{e}^{\ln k}=k\).
+
+   La racine n-ième de k élevée à la puissance n donne bien k.
+
+Exemple : Exemple d'application concrète
+--
+     * [15]Résolution d'équations avec les logarithmes
+          + [16]Introduction
+          + Racine n-ième d'un nombre
+          + [17]Exercice : Une erreur de mathématiques en direct
+          + [18]Exercice : Déterminer un seuil
+--
+References
+
+   1. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/module_Ch09_Logarithme.html
+   2. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_G_racnieme.html.html#content
+   3. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_G_racnieme.html.html#menu
+   4. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_G_racnieme.html.html#navigation
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_G_racnieme.html.html#tools
+   6. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_ResolEqn_1.html
+   7. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ER_ErreurJT.html
+   8. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/module_Ch09_Logarithme_1.html
+   9. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/module_Ch09_Logarithme_2.html
+  10. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ER_tablesLog.html
+  11. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/G_rac.html
+  12. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_NotionLn.html
+  13. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_RelationFonctionnelle.html
+  14. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_EtudeLn.html
+  15. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_ResolEqn.html
+  16. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/AA_ResolEqn_1.html
+  17. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ER_ErreurJT.html
+  18. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ER_seuil.html
+  19. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/ER_Log10.html
+  20. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/activiteeval.html
+  21. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/module_Ch09_Logarithme.html
+  22. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/Ch09_Logarithme_web.html
+  23. https://www.scenari.org/

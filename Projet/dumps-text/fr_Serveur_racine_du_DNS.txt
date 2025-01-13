@@ -1,0 +1,1176 @@
+   #[1]alternate [2]Modifier [3]Wikipédia (fr) [4]Flux Atom de Wikipédia
+
+   [5]Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * [6]Accueil
+     * [7]Portails thématiques
+     * [8]Article au hasard
+     * [9]Contact
+
+   Contribuer
+     * [10]Débuter sur Wikipédia
+     * [11]Aide
+     * [12]Communauté
+     * [13]Modifications récentes
+
+   [14]Wikipédia l'encyclopédie libre
+   [15]Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * [16]Faire un don
+     * [17]Créer un compte
+     * [18]Se connecter
+
+   [ ] Outils personnels
+     * [19]Faire un don
+     * [20]Créer un compte
+     * [21]Se connecter
+
+   Pages pour les contributeurs déconnectés [22]en savoir plus
+     * [23]Contributions
+     * [24]Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Requêtes DNS destinées aux serveurs racine
+
+     2 Les serveurs racine du DNS
+
+     3 Limitation du nombre de serveurs
+
+     4 Sécurité des serveurs racine
+   (BUTTON) Afficher/masquer la sous-section Sécurité des serveurs racine
+     * 4.1 Attaque de 2002
+
+
+
+   4.2 Attaque de 2007
+
+
+
+   4.3 Attaques de 2015
+
+
+
+   5 Zone racine
+
+
+
+   6 Hiérarchies alternatives
+
+   (BUTTON) Afficher/masquer la sous-section Hiérarchies alternatives
+     * 6.1 Hiérarchies alternatives en pair à pair
+
+
+
+   7 Voir aussi
+
+   (BUTTON) Afficher/masquer la sous-section Voir aussi
+     * 7.1 Articles connexes
+
+
+
+   7.2 Liens externes
+
+
+
+   8 Notes et références
+
+   (BUTTON) Afficher/masquer la sous-section Notes et références
+     * 8.1 Notes
+
+
+
+   8.2 Références
+
+   [ ] Basculer la table des matières
+
+Serveur racine du DNS
+
+   [ ] 22 langues
+     * [25]a+l+e+r+b+y+tm
+     * [26]Català
+     * [27]Deutsch
+     * [28]English
+     * [29]Esperanto
+     * [30]Español
+     * [31]f+a+r+s+
+     * [32]Suomi
+     * [33]E+B+R+J+T+
+     * [34]Italiano
+     * [35]¥¬
+     * [36]­´
+     * [37]Latviesu
+     * [38]Bahasa Melayu
+     * [39]Nederlands
+     * [40]Português
+     * [41]Russkij
+     * [42]Simple English
+     * [43]Ukrayins'ka
+     * [44]Tie>'ng Vie>-.t
+     * [45]´­
+     * [46]­
+
+   [47]Modifier les liens
+
+     * [48]Article
+     * [49]Discussion
+
+   [ ] français
+
+     * [50]Lire
+     * [51]Modifier
+     * [52]Modifier le code
+     * [53]Voir l'historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * [54]Lire
+     * [55]Modifier
+     * [56]Modifier le code
+     * [57]Voir l'historique
+
+   Général
+     * [58]Pages liées
+     * [59]Suivi des pages liées
+     * [60]Téléverser un fichier
+     * [61]Pages spéciales
+     * [62]Lien permanent
+     * [63]Informations sur la page
+     * [64]Citer cette page
+     * [65]Obtenir l'URL raccourcie
+     * [66]Télécharger le code QR
+
+   Imprimer/exporter
+     * [67]Créer un livre
+     * [68]Télécharger comme PDF
+     * [69]Version imprimable
+
+   Dans d'autres projets
+     * [70]Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   Un serveur racine du DNS est un [71]serveur DNS qui répond aux requêtes
+   qui concernent les noms de [72]domaine de premier niveau (TLD) et qui
+   les redirige vers le serveur DNS de premier niveau concerné. Bien qu'il
+   puisse exister d'autres hiérarchies de système de noms de domaine (DNS)
+   avec des [73]serveurs racine alternatifs, « serveur racine du DNS » est
+   généralement utilisé pour désigner l'un des treize serveurs racine du
+   [74]Domain Name System d'Internet géré sous l'autorité de l'[75]ICANN.
+
+   Dans le système des noms de domaine, le point est un séparateur de
+   domaine. Par convention, un [76]Fully qualified domain name est terminé
+   par un point, ce qui signifie qu'il est suivi par une chaîne vide qui
+   représente le domaine racine. Par extension, on représente aussi le
+   domaine racine par un point.
+
+   Les domaines de premier niveau (par exemple [77].com, [78].org et
+   [79].fr) sont des sous-domaines du domaine racine.
+
+Requêtes DNS destinées aux serveurs racine
+
+   [[80]modifier | [81]modifier le code]
+
+   Un serveur DNS s'adresse à un serveur racine dans deux cas :
+     * au démarrage, pour obtenir la liste à jour des serveurs racine.
+     * quand il doit déterminer la liste des serveurs de noms d'un domaine
+       de premier niveau.
+
+   Les informations sont ensuite mises dans le cache du serveur DNS
+   pendant une longue durée : 6 jours pour la liste des serveurs racine,
+   2 jours pour les informations des serveurs des domaines de premier
+   niveau (TLD). Ces informations variant peu, les requêtes vers les
+   serveurs racine sont donc relativement peu nombreuses.
+
+   Les serveurs racine sont non-récursifs, c'est-à-dire qu'ils ne
+   fournissent que des réponses qui font autorité, ne transmettent aucune
+   requête à un autre serveur et ne font pas usage d'un cache. Ils ne sont
+   donc pas utilisables directement par le résolveur d'un client final.
+
+   Une étude de 2003^[82][1] indique que seuls 2 % des requêtes à
+   destination de ces serveurs étaient légitimes. Les mises en cache
+   incorrectes ou inexistantes sont à l'origine de 75 % des demandes.
+   12,5 % concernent des demandes pour des domaines de premier niveau
+   inconnus, 7 % parce qu'elles traitent des adresses IP comme des
+   [83]noms de domaines, etc. Certains ordinateurs de bureau mal
+   configurés tentent même de mettre à jour les enregistrements des
+   serveurs racine ou sollicitent de la récursion, ce qui est le résultat
+   d'une erreur de configuration. Les problèmes observés et les solutions
+   pour y remédier sont décrits dans la RFC 4697^[84][2].
+
+   En 2007, il y avait environ dix milliards de requêtes vers les serveurs
+   racine quotidiennement^[85][3].
+
+   Les serveurs racine font également autorité pour le domaine de premier
+   niveau [86].arpa. La zone in-addr.arpa, utilisée pour la résolution
+   inverse des adresses [87]IPv4, était gérée par les serveurs racine
+   jusqu'en février 2011. Elle est désormais sous la gestion technique des
+   [88]registres Internet régionaux^[89][4].
+
+Les serveurs racine du DNS
+
+   [[90]modifier | [91]modifier le code]
+
+   Contrairement à la croyance populaire, il n'y a plus de nos jours
+   physiquement et uniquement treize serveurs racine du DNS, mais plutôt
+   treize « identités de serveur »^[92][5]^,^[93][3] dont les noms sont de
+   la forme lettre.root-servers.net où lettre est une lettre comprise
+   entre A et M^[94][6]. Cependant, ces « identités » (ou [95]serveurs de
+   noms [96](en)) ayant chacune une seule adresse IP assignée, sont
+   communément référées comme étant les « serveurs racines »^[97][6].
+
+   Douze organisations^[98][3]^,^[99][6] contrôlent ces serveurs, deux
+   sont européennes (RIPE NCC et Autonomica, une division de Netnod), une
+   japonaise (WIDE), les autres étant américaines. Neuf de ces serveurs ne
+   sont pas de simples machines mais correspondent à plusieurs
+   installations réparties dans des lieux géographiques divers, il y a
+   ainsi au 19 juillet 2019 plus de 997 sites^[100][7] dans 53 pays qui
+   hébergent un serveur racine du DNS. En 2007, on comptait
+   130 sites^[101][8]^,^[102][3].
+
+   Les serveurs ont été regroupés sous le même nom de domaine pour
+   exploiter un mécanisme d'évitement de répétition des noms dans le
+   protocole DNS.
+   Lettre adresse [103]IPv4^[104][9] adresse [105]IPv6^[106][9]
+   [107]Autonomous System^[108][9] Ancien nom Société Localisation Sites
+   (global/local)^[109][9] Logiciel
+   A^[110][10] 198.41.0.4 2001:503:ba3e::2:30 AS19836^[111][10]
+   ns.internic.net [112]VeriSign trafic distribué par [113]anycast 6
+   (6/0) [114]BIND
+   B^[115][11] 199.9.14.201^[116][Notes 1] 2001:500:200::b
+   AS394353^[117][12] ns1.isi.edu [118]Université du Sud de la Californie
+   [119]Marina Del Rey, Californie, États-Unis 1
+   (1/0) [120]BIND
+   C^[121][13] 192.33.4.12^[122][14] 2001:500:2::c AS2149^[123][14]
+   c.psi.net [124]Cogent Communications trafic distribué par [125]anycast
+   6
+   (6/0) [126]BIND
+   D^[127][15] 199.7.91.13^[128][16]^,^[129][Notes 2] 2001:500:2d::d
+   AS10886^[130][16] terp.umd.edu [131]Université du Maryland [132]College
+   Park, Maryland, États-Unis 1
+   (1/0) [133]BIND
+   E^[134][17] 192.203.230.10^[135][17] 2001:500:a8::e AS21556^[136][12]
+   ns.nasa.gov [137]NASA [138]Mountain View, Californie, États-Unis 1
+   (1/0) [139]BIND
+   F^[140][18] 192.5.5.241^[141][19] 2001:500:2f::f AS3557^[142][19]
+   ns.isc.org [143]Internet Systems Consortium trafic distribué par
+   [144]anycast 49
+   (2/47) [145]BIND
+   G^[146][20] 192.112.36.4^[147][Notes 3] 2001:500:12::d0d
+   AS5927^[148][20] ns.nic.ddn.mil [149]Defense Information Systems Agency
+   trafic distribué par [150]anycast 6
+   (6/0) [151]BIND
+   H^[152][21] 198.97.190.53^[153][22]^,^[154][Notes 4] 2001:500:1::53
+   AS1508^[155][22] aos.arl.army.mil [156]United States Army Research
+   Laboratory [157](en) [158]Aberdeen, Maryland, États-Unis 1
+   (1/0) [159]NSD
+   I^[160][23] 192.36.148.17^[161][24] 2001:7fe::53 AS29216^[162][24]
+   nic.nordu.net Autonomica ([163]Netnod [164](en)) trafic distribué par
+   [165]anycast 68 [166]BIND
+   J^[167][25] 192.58.128.30^[168][25]^,^[169][Notes 5] 2001:503:c27::2:30
+   AS26415^[170][26] [171]VeriSign trafic distribué par [172]anycast 70
+   (63/7) [173]BIND
+   K^[174][27] 193.0.14.129^[175][27] 2001:7fd::1 AS25152^[176][28]
+   [177]RIPE NCC trafic distribué par [178]anycast 18
+   (5/13) [179]BIND, [180]NSD^[181][27]
+   L^[182][29] 199.7.83.42^[183][Notes 6] 2001:500:3::42 AS20144^[184][30]
+   [185]ICANN trafic distribué par [186]anycast 38
+   (37/1) [187]NSD^[188][29]
+   M^[189][31] 202.12.27.33^[190][32] 2001:dc3::35 AS7500^[191][32]
+   [192]WIDE Project [193](en) trafic distribué par [194]anycast 6
+   (5/1) [195]BIND
+
+   [196]Situation des 13 serveurs racines et leur distribution anycast en
+   2006.
+
+Limitation du nombre de serveurs
+
+   [[197]modifier | [198]modifier le code]
+
+   La RFC 1035^[199][33] prévoit que les requêtes et les réponses DNS sur
+   le [200]protocole de datagramme utilisateur (UDP) ne dépassent pas
+   512 octets. Si la réponse est plus volumineuse, le [201]protocole TCP
+   doit alors être utilisé. Ceci consomme plus de ressources et présente
+   le risque d'être bloqué par un [202]pare-feu. Ce cas de réponse
+   volumineuse est rare en pratique, mais la liste des serveurs de noms de
+   la [203]zone racine du DNS avec les adresses IP correspondantes atteint
+   cette limite ; 671 octets étant nécessaires pour une réponse complète
+   en juillet 2010.
+
+   Les serveurs A, C, F, G, I, J, K, L et M sont maintenant distribués
+   géographiquement grâce à [204]anycast. En général, le serveur le plus
+   proche du client au sens du réseau sera alors utilisé. C'est ainsi que
+   la plupart des serveurs physiques du système de noms de domaine sont à
+   présent situés hors des États-Unis.
+
+   Les serveurs racines du système de noms de domaine peuvent également
+   être déclinés localement, par exemple sur les réseaux des
+   [205]fournisseurs d'accès à internet. Ils doivent être synchronisés
+   avec le fichier de la zone racine^[206][34] du [207]département du
+   Commerce des États-Unis ainsi que le préconise l'[208]ICANN. De tels
+   serveurs ne sont pas des serveurs DNS alternatifs mais une déclinaison
+   locale des serveurs racines de A à M.
+
+   L'extension [209]EDNS0 (RFC 2671^[210][35]) permet d'utiliser une
+   taille de paquets plus élevée, sa prise en charge est recommandée pour
+   [211]IPv6 comme pour [212]DNSSEC.
+
+Sécurité des serveurs racine
+
+   [[213]modifier | [214]modifier le code]
+
+   Les serveurs racine jouent un rôle important dans le système de noms de
+   domaine (DNS). Si l'un ou quelques-uns d'entre eux ne répondent plus,
+   la charge est répartie entre les serveurs qui subsistent. Si aucun
+   d'entre eux ne pouvait répondre aux requêtes, les noms de domaines
+   deviendraient progressivement inaccessibles, au fur et à mesure que les
+   informations dans les caches parviendraient à expiration, c'est-à-dire
+   environ 2 % par heure d'indisponibilité totale^[215][36].
+
+   La possibilité d'un [216]bug qui affecterait l'ensemble des serveurs
+   est limitée par la diversité des versions logicielles employées :
+   BINDv8, BINDv9 et NSD. Le matériel sur lequel fonctionnent les serveurs
+   est divers.
+
+   Les risques d'[217]attaques par déni de service sont réduits par le
+   nombre de serveurs en anycast. L'adresse [218]unicast de la plupart des
+   serveurs n'est pas publiée pour éviter les attaques ciblées. Il n'est
+   pas rare que l'un des serveurs fasse l'objet d'une attaque par déni de
+   service, sans que cela affecte de façon perceptible la qualité du
+   fonctionnement du DNS dans son ensemble.
+
+   Certaines attaques de grande ampleur ont cependant eu lieu au
+   XXI^e siècle :
+
+Attaque de 2002
+
+   [[219]modifier | [220]modifier le code]
+
+   Le 21 octobre 2002, la racine complète du DNS a fait l'objet d'une
+   attaque de grande ampleur pendant une heure, les treize serveurs A à M
+   étant visés^[221][37]^,^[222][38]. Pendant cette attaque, sept serveurs
+   sur treize ont vu leurs performances dégradées en raison d'un flux de
+   100 000 à 200 000 requêtes par seconde vers chacun des serveurs.
+   Toutefois, l'attaque n'a pas provoqué de grandes perturbations du
+   réseau mondial, ce qui montre la robustesse du système. Selon le
+   [223]président-directeur général de Verisign, qui gère deux serveurs
+   racine, l'ensemble des requêtes aurait pu être assuré par un seul
+   serveur.
+
+   L'attaque a été réalisée selon la méthode [224]DDoS ([225]déni de
+   service). Les pirates ont pu, grâce à un parc de machines très
+   important, générer un nombre de requêtes deux à trois fois supérieur à
+   la capacité de charge des treize serveurs visés, soit quarante fois le
+   volume habituel des requêtes.
+
+   Le système [226]anycast a été mis en place après cette attaque pour
+   neutraliser les attaques de type DoS.
+
+Attaque de 2007
+
+   [[227]modifier | [228]modifier le code]
+
+   Le 6 février 2007, les serveurs F, G, L et M ont été attaqués pendant
+   24 heures à partir de 10:00 [229]UTC^[230][39]. G et L ont été affectés
+   sérieusement, tandis que F et M ont rapporté une charge inhabituelle.
+   L'impact sur M a été amoindri grâce à anycast.
+
+   La source s'avère être un réseau [231]botnet de 5 000 machines
+   essentiellement basées en [232]Corée du Sud et dirigé depuis les
+   [233]États-Unis^[234][40].
+
+Attaques de 2015
+
+   [[235]modifier | [236]modifier le code]
+
+   Le 30 novembre 2015 (de 06:50 [237]UTC jusqu'à environ 09:30 UTC) et le
+   1^er décembre 2015 (de 05:10 UTC à 06:10 UTC), les 13 serveurs racine
+   ont fait l'objet de deux attaques DDoS, causant des délais d'attente
+   sur les serveurs racine B, C, G et H^[238][41]. Environ 5 millions de
+   requêtes ont été envoyées par seconde vers les serveurs avec deux
+   domaines uniques à l'origine de l'attaque, un pour chaque attaque.
+   Selon le rapport du site root-servers.org, trois des treize serveurs
+   racine ont subi des ralentissements^[239][42], mais l'impact sur
+   l'ensemble d'internet est resté limité^[240][43].
+
+Zone racine
+
+   [[241]modifier | [242]modifier le code]
+
+   Le fichier de la zone racine est disponible publiquement^[243][44]. Il
+   est assez peu volumineux (de l'ordre de 2,1 [244]Mo) et contient 1531
+   délégations de [245]domaines de premier niveau, 7 295 serveurs de noms,
+   4 265 enregistrements A et 3 641 enregistrements AAAA en avril 2019.
+
+   Des signatures [246]DNSSEC RRSIG ont été ajoutées aux fichiers de la
+   racine en juillet 2010^[247][45]. Le [248]11 octobre 2018, la clé de
+   signature de clé (KSK) de la zone racine a été changée avec succès par
+   l'[249]ICANN^[250][46]. En avril 2019, sur l'ensemble des
+   1 531 domaines de premier niveau présents, 1 388 sont signés avec
+   DNSSEC.
+
+Hiérarchies alternatives
+
+   [[251]modifier | [252]modifier le code]
+
+   Il est possible de créer une hiérarchie DNS alternative avec un
+   ensemble de [253]serveurs racine alternatifs. Un serveur qui voudrait y
+   avoir recours doit disposer de la liste des serveurs racine de cette
+   hiérarchie DNS alternative.
+
+   Ces hiérarchies peuvent définir d'autres domaines de premier niveau.
+   Ces domaines ne seront pas accessibles par les clients qui n'utilisent
+   pas cet ensemble de serveurs. La possibilité qu'un domaine de premier
+   niveau soit défini de façon différente entre des hiérarchies
+   alternatives existe également.
+
+   Parmi ces hiérarchies alternatives, on peut citer :
+     * [254]ORSN [255](en)
+     * [256]OpenNIC
+     * Unifiedroot
+     * [257]AlterNIC [258](en) qui a cessé ses activités en 1997
+     * [259]eDNS, clos en 1998
+
+   L'[260]Internet Architecture Board (IAB) a exprimé, dans le
+   RFC 2826^[261][47], la nécessité de conserver une hiérarchie unique
+   pour préserver la cohésion du réseau Internet.
+
+Hiérarchies alternatives en pair à pair
+
+   [[262]modifier | [263]modifier le code]
+
+   Différents systèmes de réseaux en [264]pair à pair ont également été
+   créés, dans le but d'offrir une alternative viable tout en réduisant
+   les frais de l'infrastructure, parmi lesquels :
+     * [265]CoDoNS, développé à l'[266]université Cornell^[267][48]
+     * [268]GNU Name System (GNS), utilisé par le réseau [269]GNUnet avec
+       le domaine de premier niveau .gnu^[270][49]
+     * [271]Kadnode, basé sur le protocole en [272]table de hachage
+       distribuée [273]Kademlia^[274][50]
+     * [275]Namecoin, basé sur [276]Bitcoin, utilise le domaine de premier
+       niveau .bit^[277][51]
+     * OddDNS^[278][52] ; projet abandonné en 2012^[279][53]
+
+Voir aussi
+
+   [[280]modifier | [281]modifier le code]
+
+Articles connexes
+
+   [[282]modifier | [283]modifier le code]
+     * [284]Anycast
+     * [285]Empoisonnement du cache DNS
+     * [286]IPv6
+
+Liens externes
+
+   [[287]modifier | [288]modifier le code]
+     * [289]Root Server Technical Operations Association
+     * « [290]DNS Root Server System Advisory
+       Committee »^([291]Archive.org o [292]Wikiwix o [293]Archive.is o
+       [294]Google o [295]Que faire ?) (consulté le 8 avril 2013)
+     * [296]Bogus Queries received at the Root Servers
+
+Notes et références
+
+   [[297]modifier | [298]modifier le code]
+
+Notes
+
+   [[299]modifier | [300]modifier le code]
+    1. [301]^| 128.9.0.107 avant le 29 janvier 2004 (en) « [302]New IPv4
+       address for b.root-servers.net » (consulté le 28 juin 2018). Puis
+       192.228.79.201 jusqu'au 10 aout 2017 (en) « [303]B root ipv4
+       address renumbered » (consulté le 13 mars 2019)
+    2. [304]^| 128.8.10.90 avant le 3 janvier 2013 (en) « [305]D-Root is
+       Changing its IPv4 Address on 3 January 2013 » (version du 3 février
+       2014 sur [306]Internet Archive).
+    3. [307]^| Contrairement aux autres seveurs racines,« G Root » ne
+       répond pas aux [308]pings.
+    4. [309]^| 128.63.2.53 avant le 1^er décembre 2015 (en) « [310][DNSOP]
+       Advance notice - H-root address change on December 1, 2015 », 31
+       août 2015 (consulté le 28 juin 2018).
+    5. [311]^| 198.41.0.10 avant le novembre 2002.
+    6. [312]^| 198.32.64.12 avant le 1^er novembre 2007 (en)
+       « [313]Advisory -- "L Root" changing IP address on 1st November »,
+       24 octobre 2007 (consulté le 28 juin 2018).
+
+Références
+
+   [[314]modifier | [315]modifier le code]
+    1. [316]^| (en) Duane Wessels et Marina Fomenkov, « [317]Wow, That's a
+       Lot of Packets » [PDF], sur measurement-factory.com, 2003 (consulté
+       le 29 juin 2018).
+    2. [318]^| (en) [319]Request for comments n^o 4697
+    3. ^| ^[320]a [321]b [322]c et [323]d (en) Daniel Karrenberg,
+       « [324]DNS Root Name Servers Frequently Asked Questions », sur
+       [325]Internet Society, septembre 2007 (consulté le 29 juin 2018).
+    4. [326]^| (en) « [327]in-addr.arpa transition », sur [328]ICANN
+       (consulté le 29 juin 2018).
+    5. [329]^| (en) « [330]RSSAC FAQ », sur [331]ICANN (consulté le 28
+       juin 2018).
+    6. ^| ^[332]a [333]b et [334]c (en) « [335]IANA - Root Servers », sur
+       [336]IANA (consulté le 29 juin 2018).
+    7. [337]^| (en) « [338]root-servers.org »
+    8. [339]^| (en) Kim Davies, « [340]There are not 13 root servers »,
+       sur [341]IANA, 15 novembre 2007 (consulté le 29 juin 2018).
+    9. ^| ^[342]a [343]b [344]c et [345]d AS et adresse IPv4/v6 de
+       [346]root-servers.org visité le 22 août 2018.
+   10. ^| ^[347]a et [348]b (en) « [349]How Verisign Operates Internet
+       Root Servers - Verisign », sur root-servers.org (consulté le 28
+       juin 2018).
+   11. [350]^| (en) « [351]B Root », sur root-servers.org (consulté le 28
+       juin 2018).
+   12. ^| ^[352]a et [353]b (en) « [354]Root Server Technical Operations
+       Assn », sur root-servers.org (consulté le 28 juin 2018).
+   13. [355]^| (en) « [356]C-Root Homepage », sur root-servers.org
+       (consulté le 28 juin 2018).
+   14. ^| ^[357]a et [358]b (en) « [359]C Root YAML » [yml] (consulté le
+       28 juin 2018).
+   15. [360]^| (en) « [361]D-Root Home Page », sur root-servers.org
+       (consulté le 28 juin 2018).
+   16. ^| ^[362]a et [363]b (en) « [364]D Root YAML » [yml] (consulté le
+       28 juin 2018).
+   17. ^| ^[365]a et [366]b (en) « [367]E.root-servers.net », sur
+       root-servers.org (consulté le 28 juin 2018).
+   18. [368]^| (en) « [369]F Root - Internet Systems Consortium », sur
+       root-server.org (consulté le 22 août 2018).
+   19. ^| ^[370]a et [371]b (en) « [372]F Root YAML » [yml] (consulté le
+       28 juin 2018).
+   20. ^| ^[373]a et [374]b (en) « [375]DISA-G-Root », sur [376]DISA
+       (consulté le 28 juin 2018).
+   21. [377]^| (en) « [378]H.ROOT-SERVERS.NET STATISTICS », sur
+       root-servers.org (consulté le 28 juin 2018).
+   22. ^| ^[379]a et [380]b (en) « [381]H Root YAML » [yml] (consulté le
+       28 juin 2018).
+   23. [382]^| (en) « [383]i.root-servers.net - Netnod », sur
+       [384]Netnod [385](en) (consulté le 28 juin 2018).
+   24. ^| ^[386]a et [387]b (en) « [388]I Root YAML » [yml] (consulté le
+       28 juin 2018).
+   25. ^| ^[389]a et [390]b (en) « [391]History And Facts About J-Root
+       Server - Verisign », sur root-servers.org (consulté le 28 juin
+       2018).
+   26. [392]^| (en) « [393]J Root YAML » (consulté le 28 juin 2018).
+   27. ^| ^[394]a [395]b et [396]c (en) « [397]K-root - RIPE Network
+       Coordination Centre », sur [398]RIPE NCC (consulté le 28 juin
+       2018).
+   28. [399]^| (en) « [400]K Root YAML » (consulté le 28 juin 2018).
+   29. ^| ^[401]a et [402]b (en) « [403]ICANN Managed Root Server - ICANN
+       DNS Engineering », sur [404]ICANN (consulté le 28 juin 2018).
+   30. [405]^| (en) « [406]L Root YAML » (consulté le 28 juin 2018).
+   31. [407]^| (en) « [408]M-Root DNS Server », sur root-servers.org
+       (consulté le 28 juin 2018).
+   32. ^| ^[409]a et [410]b (en) « [411]M Root YAML » (consulté le 28 juin
+       2018).
+   33. [412]^| (en) [413]Request for comments n^o 1035
+   34. [414]^| [415]ftp://rs.internic.net/domain/
+   35. [416]^| (en) [417]Request for comments n^o 2671
+   36. [418]^| cf. ISOC, le [[Time to Live]] des délégations TLD étant de
+       deux jours.
+   37. [419]^| (en) « [420]Nameserver DoS Attack October 2002 », sur
+       Center for Applied Internet Data Analysis, 2002 (consulté le 28
+       juin 2018).
+   38. [421]^| (en) [422]Paul Vixie, « [423]Events of 21-Oct-2002 » [txt],
+       sur root-servers.org, 24 novembre 2002 (consulté le 28 juin 2018).
+   39. [424]^| (en) « [425]Factsheet - Root server attack on 6 February
+       2007 » [PDF], sur [426]ICANN, 1^er mars 2007 (consulté le 28 juin
+       2018).
+   40. [427]^| (en) John Kristoff, « [428]Feb 6/7 2007 DNS Attack Recap »
+       [PDF], sur dns-oarc.net, 2007 (consulté le 28 juin 2018).
+   41. [429]^| [430]« Une attaque DDoS a ciblé les racines d'internet »,
+       Émilie Dubois, linformatique.org, 10 décembre 2015 (consulté le 12
+       décembre 2015).
+   42. [431]^| (en) [432]« Events of 2015-11-30 »,
+       [433]http://root-servers.org, 4 décembre 2015 (consulté le 12
+       décembre 2015).
+   43. [434]^| [435]« Une attaque DDoS met trois serveurs racines DNS hors
+       ligne », Pieterjan Van Leemputten, [436]levif.be, 9 décembre 2015
+       (consulté le 12 décembre 2015).
+   44. [437]^| « [438]Index of /domain », sur internic.net (consulté le
+       1^er avril 2021).
+   45. [439]^| [440]ISC Praises Momentous Step Forward in Securing the
+       Domain Name System, ISC, 15 juillet 2010
+   46. [441]^| « [442]Pari réussi pour le premier roulement de la KSK »,
+       sur www.icann.org (consulté le 22 octobre 2018)
+   47. [443]^| (en) [444]Request for comments n^o 2826
+   48. [445]^| (en) « [446]Beehive: CoDoNS » (consulté le 28 juin 2018).
+   49. [447]^| (en) « [448]The GNU Name System » (consulté le 27 juin
+       2018).
+   50. [449]^| (en) « [450]GitHub - mwarning/KadNode: P2P DNS with content
+       key, crypto key and PKI support. DynDNS alternative », sur
+       [451]GitHub (consulté le 28 juin 2018).
+   51. [452]^| (en) « [453]Namecoin DNS - DotBIT Project » (version du 16
+       décembre 2013 sur [454]Internet Archive)
+   52. [455]^| Vincent Hermann, « [456]ODDNS veut en finir avec le DNS
+       classique et sa censure potentielle », sur [457]Next INpact, 6
+       avril 2012 (consulté le 27 juin 2018).
+   53. [458]^| (en) Christian Grothoff, « [459]How does GNS compare to
+       ODDNS? », sur gnunet.org, 2012 (consulté le 27 juin 2018).
+
+     * [460]icône décorative [461]Portail d'Internet
+
+   Ce document provient de
+   « [462]https://fr.wikipedia.org/w/index.php?title=Serveur_racine_du_DNS
+   &oldid=216408707 ».
+   [463]Catégories:
+     * [464]Domain Name System
+     * [465]Serveur informatique
+
+   Catégories cachées:
+     * [466]Article contenant un appel à traduction en anglais
+     * [467]Article contenant un lien mort
+     * [468]Portail:Internet/Articles liés
+     * [469]Portail:Informatique/Articles liés
+     * [470]Portail:Médias/Articles liés
+     * [471]Portail:Société/Articles liés
+
+     * La dernière modification de cette page a été faite le 30 juin 2024
+       à 22:09.
+     * [472]Droit d'auteur : les textes sont disponibles sous [473]licence
+       Creative Commons attribution, partage dans les mêmes conditions ;
+       d'autres conditions peuvent s'appliquer. Voyez les [474]conditions
+       d'utilisation pour plus de détails, ainsi que les [475]crédits
+       graphiques. En cas de réutilisation des textes de cette page, voyez
+       [476]comment citer les auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la [477]Wikimedia Foundation,
+       Inc., organisation de bienfaisance régie par le paragraphe
+       [478]501(c)(3) du code fiscal des États-Unis.
+
+     * [479]Politique de confidentialité
+     * [480]À propos de Wikipédia
+     * [481]Avertissements
+     * [482]Contact
+     * [483]Code de conduite
+     * [484]Développeurs
+     * [485]Statistiques
+     * [486]Déclaration sur les témoins (cookies)
+     * [487]Version mobile
+
+     * [488]Wikimedia Foundation
+     * [489]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://fr.m.wikipedia.org/wiki/Serveur_racine_du_DNS
+   2. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+   8. file:///wiki/Sp%C3%A9cial:Page_au_hasard
+   9. file:///wiki/Wikip%C3%A9dia:Contact
+  10. file:///wiki/Aide:D%C3%A9buter
+  11. file:///wiki/Aide:Accueil
+  12. file:///wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9
+  13. file:///wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes
+  14. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+  15. file:///wiki/Sp%C3%A9cial:Recherche
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  17. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Serveur+racine+du+DNS
+  18. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Serveur+racine+du+DNS
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  20. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Serveur+racine+du+DNS
+  21. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Serveur+racine+du+DNS
+  22. file:///wiki/Aide:Premiers_pas
+  23. file:///wiki/Sp%C3%A9cial:Mes_contributions
+  24. file:///wiki/Sp%C3%A9cial:Mes_discussions
+  25. https://ar.wikipedia.org/wiki/%D8%AE%D8%A7%D8%AF%D9%85_%D8%A3%D8%B3%D9%85%D8%A7%D8%A1_%D8%A7%D9%84%D8%AC%D8%B0%D8%B1
+  26. https://ca.wikipedia.org/wiki/Servidor_arrel_de_noms
+  27. https://de.wikipedia.org/wiki/Root-Nameserver
+  28. https://en.wikipedia.org/wiki/Root_name_server
+  29. https://eo.wikipedia.org/wiki/Radikaj_nomserviloj
+  30. https://es.wikipedia.org/wiki/Servidor_ra%C3%ADz
+  31. https://fa.wikipedia.org/wiki/%D8%B3%D8%B1%D9%88%D8%B1_%D9%86%D8%A7%D9%85_%D8%B1%DB%8C%D8%B4%D9%87
+  32. https://fi.wikipedia.org/wiki/Juurinimipalvelin
+  33. https://he.wikipedia.org/wiki/%D7%A9%D7%A8%D7%AA_%D7%A9%D7%95%D7%A8%D7%A9
+  34. https://it.wikipedia.org/wiki/Root_nameserver
+  35. https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%88%E3%82%B5%E3%83%BC%E3%83%90
+  36. https://ko.wikipedia.org/wiki/%EB%A3%A8%ED%8A%B8_%EB%84%A4%EC%9E%84_%EC%84%9C%EB%B2%84
+  37. https://lv.wikipedia.org/wiki/Saknes_v%C4%81rdu_serveris
+  38. https://ms.wikipedia.org/wiki/Pelayan_nama_akar
+  39. https://nl.wikipedia.org/wiki/DNS-rootserver
+  40. https://pt.wikipedia.org/wiki/Servidor-raiz
+  41. https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%BD%D0%B5%D0%B2%D1%8B%D0%B5_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D1%8B_DNS
+  42. https://simple.wikipedia.org/wiki/Root_server
+  43. https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D0%B5%D0%B2%D1%96_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B8_DNS
+  44. https://vi.wikipedia.org/wiki/Root_name_server
+  45. https://wuu.wikipedia.org/wiki/%E6%A0%B9%E5%9F%9F%E5%90%8D%E6%9C%8D%E5%8A%A1%E5%99%A8
+  46. https://zh.wikipedia.org/wiki/%E6%A0%B9%E7%B6%B2%E5%9F%9F%E5%90%8D%E7%A8%B1%E4%BC%BA%E6%9C%8D%E5%99%A8
+  47. https://www.wikidata.org/wiki/Special:EntityPage/Q32867#sitelinks-wikipedia
+  48. file:///wiki/Serveur_racine_du_DNS
+  49. file:///wiki/Discussion:Serveur_racine_du_DNS
+  50. file:///wiki/Serveur_racine_du_DNS
+  51. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit
+  52. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit
+  53. file:///w/index.php?title=Serveur_racine_du_DNS&action=history
+  54. file:///wiki/Serveur_racine_du_DNS
+  55. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit
+  56. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit
+  57. file:///w/index.php?title=Serveur_racine_du_DNS&action=history
+  58. file:///wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Serveur_racine_du_DNS
+  59. file:///wiki/Sp%C3%A9cial:Suivi_des_liens/Serveur_racine_du_DNS
+  60. file:///wiki/Aide:Importer_un_fichier
+  61. file:///wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+  62. file:///w/index.php?title=Serveur_racine_du_DNS&oldid=216408707
+  63. file:///w/index.php?title=Serveur_racine_du_DNS&action=info
+  64. file:///w/index.php?title=Sp%C3%A9cial:Citer&page=Serveur_racine_du_DNS&id=216408707&wpFormIdentifier=titleform
+  65. file:///w/index.php?title=Sp%C3%A9cial:UrlShortener&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FServeur_racine_du_DNS
+  66. file:///w/index.php?title=Sp%C3%A9cial:QrCode&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FServeur_racine_du_DNS
+  67. file:///w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Serveur+racine+du+DNS
+  68. file:///w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Serveur_racine_du_DNS&action=show-download-screen
+  69. file:///w/index.php?title=Serveur_racine_du_DNS&printable=yes
+  70. https://www.wikidata.org/wiki/Special:EntityPage/Q32867
+  71. file:///wiki/Domain_Name_System
+  72. file:///wiki/Domaine_de_premier_niveau
+  73. file:///wiki/Serveur_racine_alternatif_du_DNS
+  74. file:///wiki/Domain_Name_System
+  75. file:///wiki/Internet_Corporation_for_Assigned_Names_and_Numbers
+  76. file:///wiki/Fully_qualified_domain_name
+  77. file:///wiki/.com
+  78. file:///wiki/.org
+  79. file:///wiki/.fr
+  80. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=1
+  81. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=1
+  82. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-1
+  83. file:///wiki/Nom_de_domaine
+  84. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-RFC-4697-2
+  85. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-ISOC-3
+  86. file:///wiki/.arpa
+  87. file:///wiki/IPv4
+  88. file:///wiki/Registre_Internet_r%C3%A9gional
+  89. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-4
+  90. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=2
+  91. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=2
+  92. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-5
+  93. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-ISOC-3
+  94. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-root-6
+  95. file:///w/index.php?title=Serveur_de_nom&action=edit&redlink=1
+  96. https://en.wikipedia.org/wiki/Name_server
+  97. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-root-6
+  98. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-ISOC-3
+  99. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-root-6
+ 100. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-7
+ 101. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-8
+ 102. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-ISOC-3
+ 103. file:///wiki/IPv4
+ 104. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-adresse-9
+ 105. file:///wiki/IPv6
+ 106. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-adresse-9
+ 107. file:///wiki/Autonomous_System
+ 108. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-adresse-9
+ 109. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-adresse-9
+ 110. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-A-10
+ 111. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-A-10
+ 112. file:///wiki/VeriSign
+ 113. file:///wiki/Anycast
+ 114. file:///wiki/BIND
+ 115. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-B-11
+ 116. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-12
+ 117. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-route-servers-13
+ 118. file:///wiki/Universit%C3%A9_du_Sud_de_la_Californie
+ 119. file:///wiki/Marina_Del_Rey
+ 120. file:///wiki/BIND
+ 121. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-C-14
+ 122. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-c-yml-15
+ 123. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-c-yml-15
+ 124. file:///wiki/Cogent_Communications
+ 125. file:///wiki/Anycast
+ 126. file:///wiki/BIND
+ 127. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-D-16
+ 128. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-d-yml-17
+ 129. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-18
+ 130. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-d-yml-17
+ 131. file:///wiki/Universit%C3%A9_du_Maryland
+ 132. file:///wiki/College_Park_(Maryland)
+ 133. file:///wiki/BIND
+ 134. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-E-19
+ 135. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-E-19
+ 136. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-route-servers-13
+ 137. file:///wiki/NASA
+ 138. file:///wiki/Mountain_View_(Californie)
+ 139. file:///wiki/BIND
+ 140. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-F-20
+ 141. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-f-yml-21
+ 142. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-f-yml-21
+ 143. file:///wiki/Internet_Systems_Consortium
+ 144. file:///wiki/Anycast
+ 145. file:///wiki/BIND
+ 146. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-G-22
+ 147. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-23
+ 148. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-G-22
+ 149. file:///wiki/Defense_Information_Systems_Agency
+ 150. file:///wiki/Anycast
+ 151. file:///wiki/BIND
+ 152. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-H-24
+ 153. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-h-yml-25
+ 154. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-26
+ 155. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-h-yml-25
+ 156. file:///w/index.php?title=United_States_Army_Research_Laboratory&action=edit&redlink=1
+ 157. https://en.wikipedia.org/wiki/United_States_Army_Research_Laboratory
+ 158. file:///wiki/Aberdeen_(Maryland)
+ 159. file:///wiki/NSD
+ 160. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-27
+ 161. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-i-yml-28
+ 162. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-i-yml-28
+ 163. file:///w/index.php?title=Netnod&action=edit&redlink=1
+ 164. https://en.wikipedia.org/wiki/Netnod
+ 165. file:///wiki/Anycast
+ 166. file:///wiki/BIND
+ 167. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-J-29
+ 168. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-J-29
+ 169. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-30
+ 170. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-j-yml-31
+ 171. file:///wiki/VeriSign
+ 172. file:///wiki/Anycast
+ 173. file:///wiki/BIND
+ 174. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-K-32
+ 175. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-K-32
+ 176. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-k-yml-33
+ 177. file:///wiki/RIPE_NCC
+ 178. file:///wiki/Anycast
+ 179. file:///wiki/BIND
+ 180. file:///wiki/NSD
+ 181. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-K-32
+ 182. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-L-34
+ 183. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-35
+ 184. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-l-yml-36
+ 185. file:///wiki/Internet_Corporation_for_Assigned_Names_and_Numbers
+ 186. file:///wiki/Anycast
+ 187. file:///wiki/NSD
+ 188. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-L-34
+ 189. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-M-37
+ 190. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-m-yml-38
+ 191. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-m-yml-38
+ 192. file:///w/index.php?title=WIDE_Project&action=edit&redlink=1
+ 193. https://en.wikipedia.org/wiki/WIDE_Project
+ 194. file:///wiki/Anycast
+ 195. file:///wiki/BIND
+ 196. file:///wiki/Fichier:Root-current.svg
+ 197. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=3
+ 198. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=3
+ 199. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-RFC-1035-39
+ 200. file:///wiki/User_Datagram_Protocol
+ 201. file:///wiki/Transmission_Control_Protocol
+ 202. file:///wiki/Pare-feu_(informatique)
+ 203. file:///wiki/Zone_racine_du_DNS
+ 204. file:///wiki/Anycast
+ 205. file:///wiki/Fournisseur_d%27acc%C3%A8s_%C3%A0_Internet
+ 206. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-40
+ 207. file:///wiki/D%C3%A9partement_du_Commerce_des_%C3%89tats-Unis
+ 208. file:///wiki/Internet_Corporation_for_Assigned_Names_and_Numbers
+ 209. file:///wiki/EDNS
+ 210. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-RFC-2671-41
+ 211. file:///wiki/IPv6
+ 212. file:///wiki/Domain_Name_System_Security_Extensions
+ 213. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=4
+ 214. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=4
+ 215. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-42
+ 216. file:///wiki/Bug_(informatique)
+ 217. file:///wiki/Attaque_par_d%C3%A9ni_de_service
+ 218. file:///wiki/Unicast
+ 219. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=5
+ 220. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=5
+ 221. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-43
+ 222. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-44
+ 223. file:///wiki/Pr%C3%A9sident-directeur_g%C3%A9n%C3%A9ral
+ 224. file:///wiki/DDoS
+ 225. file:///wiki/D%C3%A9ni_de_service
+ 226. file:///wiki/Anycast
+ 227. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=6
+ 228. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=6
+ 229. file:///wiki/Temps_universel
+ 230. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-45
+ 231. file:///wiki/Botnet
+ 232. file:///wiki/Cor%C3%A9e_du_Sud
+ 233. file:///wiki/%C3%89tats-Unis
+ 234. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-46
+ 235. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=7
+ 236. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=7
+ 237. file:///wiki/Temps_universel_coordonn%C3%A9
+ 238. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-47
+ 239. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-48
+ 240. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-49
+ 241. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=8
+ 242. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=8
+ 243. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-50
+ 244. file:///wiki/Octet
+ 245. file:///wiki/Domaine_de_premier_niveau
+ 246. file:///wiki/Domain_Name_System_Security_Extensions
+ 247. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-51
+ 248. file:///wiki/11_octobre
+ 249. file:///wiki/ICANN
+ 250. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-52
+ 251. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=9
+ 252. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=9
+ 253. file:///wiki/Serveur_racine_alternatif_du_DNS
+ 254. file:///w/index.php?title=ORSN&action=edit&redlink=1
+ 255. https://en.wikipedia.org/wiki/ORSN
+ 256. file:///wiki/OpenNIC
+ 257. file:///w/index.php?title=AlterNIC&action=edit&redlink=1
+ 258. https://en.wikipedia.org/wiki/AlterNIC
+ 259. file:///wiki/EDNS
+ 260. file:///wiki/Internet_Architecture_Board
+ 261. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-RFC-2826-53
+ 262. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=10
+ 263. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=10
+ 264. file:///wiki/Pair_%C3%A0_pair
+ 265. file:///w/index.php?title=CoDoNS&action=edit&redlink=1
+ 266. file:///wiki/Universit%C3%A9_Cornell
+ 267. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-54
+ 268. file:///wiki/GNU_Name_System
+ 269. file:///wiki/GNUnet
+ 270. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-55
+ 271. file:///w/index.php?title=Kadnode&action=edit&redlink=1
+ 272. file:///wiki/Table_de_hachage_distribu%C3%A9e
+ 273. file:///wiki/Kademlia
+ 274. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-56
+ 275. file:///wiki/Namecoin
+ 276. file:///wiki/Bitcoin
+ 277. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-57
+ 278. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-58
+ 279. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_note-59
+ 280. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=11
+ 281. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=11
+ 282. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=12
+ 283. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=12
+ 284. file:///wiki/Anycast
+ 285. file:///wiki/Empoisonnement_du_cache_DNS
+ 286. file:///wiki/IPv6
+ 287. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=13
+ 288. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=13
+ 289. http://www.root-servers.org/
+ 290. http://www.rssac.org/
+ 291. https://web.archive.org/web/*/http://www.rssac.org/
+ 292. https://archive.wikiwix.com/cache/?url=http://www.rssac.org/
+ 293. https://archive.is/http://www.rssac.org/
+ 294. https://webcache.googleusercontent.com/search?hl=fr&q=cache:http://www.rssac.org/
+ 295. file:///wiki/Projet:Correction_des_liens_externes#J'ai_trouv%C3%A9_un_lien_mort,_que_faire_?
+ 296. http://www.bind9.net/dnshealth/
+ 297. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=14
+ 298. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=14
+ 299. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=15
+ 300. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=15
+ 301. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-12
+ 302. http://www.root-servers.org/news/new-ip-b.html
+ 303. http://www.root-servers.org/news/b-root-ipv4-address-renumbered.txt
+ 304. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-18
+ 305. https://web.archive.org/web/20140203003544/http://d.root-servers.org/renumber.html
+ 306. file:///wiki/Internet_Archive
+ 307. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-23
+ 308. file:///wiki/Ping_(logiciel)
+ 309. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-26
+ 310. https://www.ietf.org/mail-archive/web/dnsop/current/msg15330.html
+ 311. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-30
+ 312. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-35
+ 313. https://www.icann.org/news/blog/advisory-l-root-changing-ip-address-on-1st-november
+ 314. file:///w/index.php?title=Serveur_racine_du_DNS&veaction=edit&section=16
+ 315. file:///w/index.php?title=Serveur_racine_du_DNS&action=edit&section=16
+ 316. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-1
+ 317. http://dns.measurement-factory.com/writings/wessels-pam2003-paper.pdf
+ 318. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-RFC-4697_2-0
+ 319. https://tools.ietf.org/html/rfc4697
+ 320. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-ISOC_3-0
+ 321. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-ISOC_3-1
+ 322. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-ISOC_3-2
+ 323. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-ISOC_3-3
+ 324. https://www.isoc.org/briefings/020/
+ 325. file:///wiki/Internet_Society
+ 326. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-4
+ 327. http://in-addr-transition.icann.org/
+ 328. file:///wiki/Internet_Corporation_for_Assigned_Names_and_Numbers
+ 329. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-5
+ 330. https://www.icann.org/groups/rssac/faq
+ 331. file:///wiki/Internet_Corporation_for_Assigned_Names_and_Numbers
+ 332. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-root_6-0
+ 333. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-root_6-1
+ 334. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-root_6-2
+ 335. https://www.iana.org/domains/root/servers
+ 336. file:///wiki/Internet_Assigned_Numbers_Authority
+ 337. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-7
+ 338. https://root-servers.org/
+ 339. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-8
+ 340. https://www.icann.org/news/blog/there-are-not-13-root-servers
+ 341. file:///wiki/Internet_Assigned_Numbers_Authority
+ 342. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-adresse_9-0
+ 343. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-adresse_9-1
+ 344. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-adresse_9-2
+ 345. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-adresse_9-3
+ 346. http://root-servers.org/
+ 347. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-A_10-0
+ 348. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-A_10-1
+ 349. http://a.root-servers.org/
+ 350. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-B_11-0
+ 351. https://b.root-servers.org/
+ 352. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-route-servers_13-0
+ 353. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-route-servers_13-1
+ 354. http://www.root-servers.org/
+ 355. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-C_14-0
+ 356. http://c.root-servers.org/
+ 357. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-c-yml_15-0
+ 358. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-c-yml_15-1
+ 359. http://www.root-servers.org/download/c-root.yml
+ 360. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-D_16-0
+ 361. http://d.root-servers.org/
+ 362. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-d-yml_17-0
+ 363. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-d-yml_17-1
+ 364. http://www.root-servers.org/download/d-root.yml
+ 365. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-E_19-0
+ 366. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-E_19-1
+ 367. https://e.root-servers.org/
+ 368. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-F_20-0
+ 369. https://f.root-servers.org/
+ 370. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-f-yml_21-0
+ 371. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-f-yml_21-1
+ 372. http://www.root-servers.org/download/f-root.yml
+ 373. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-G_22-0
+ 374. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-G_22-1
+ 375. https://disa.mil/g-root
+ 376. file:///wiki/Defense_Information_Systems_Agency
+ 377. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-H_24-0
+ 378. http://h.root-servers.org/
+ 379. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-h-yml_25-0
+ 380. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-h-yml_25-1
+ 381. http://www.root-servers.org/download/h-root.yml
+ 382. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-27
+ 383. https://www.netnod.se/i-root/i.root-servers.net
+ 384. file:///w/index.php?title=Netnod&action=edit&redlink=1
+ 385. https://en.wikipedia.org/wiki/Netnod
+ 386. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-i-yml_28-0
+ 387. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-i-yml_28-1
+ 388. http://www.root-servers.org/download/i-root.yml
+ 389. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-J_29-0
+ 390. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-J_29-1
+ 391. http://j.root-servers.org/
+ 392. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-j-yml_31-0
+ 393. http://www.root-servers.org/download/j-root.yml
+ 394. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-K_32-0
+ 395. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-K_32-1
+ 396. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-K_32-2
+ 397. https://www.ripe.net/analyse/dns/k-root/
+ 398. file:///wiki/RIPE_NCC
+ 399. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-k-yml_33-0
+ 400. http://www.root-servers.org/download/k-root.yml
+ 401. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-L_34-0
+ 402. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-L_34-1
+ 403. https://www.dns.icann.org/imrs/
+ 404. file:///wiki/Internet_Corporation_for_Assigned_Names_and_Numbers
+ 405. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-l-yml_36-0
+ 406. http://www.root-servers.org/download/l-root.yml
+ 407. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-M_37-0
+ 408. http://m.root-servers.org/
+ 409. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-m-yml_38-0
+ 410. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-m-yml_38-1
+ 411. http://www.root-servers.org/download/m-root.yml
+ 412. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-RFC-1035_39-0
+ 413. https://tools.ietf.org/html/rfc1035
+ 414. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-40
+ 415. ftp://rs.internic.net/domain/
+ 416. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-RFC-2671_41-0
+ 417. https://tools.ietf.org/html/rfc2671
+ 418. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-42
+ 419. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-43
+ 420. http://www.caida.org/projects/dns/dns-root-gtld/oct02dos.xml
+ 421. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-44
+ 422. file:///wiki/Paul_Vixie
+ 423. http://c.root-servers.org/october21.txt
+ 424. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-45
+ 425. https://www.icann.org/en/system/files/files/factsheet-dns-attack-08mar07-en.pdf
+ 426. file:///wiki/Internet_Corporation_for_Assigned_Names_and_Numbers
+ 427. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-46
+ 428. https://www.dns-oarc.net/files/dnsops-2007/Kristoff-Feb07-attacks.pdf
+ 429. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-47
+ 430. http://www.linformatique.org/attaque-ddos-a-cible-racines-dinternet.html
+ 431. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-48
+ 432. http://root-servers.org/news/events-of-20151130.txt
+ 433. http://root-servers.org/
+ 434. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-49
+ 435. http://datanews.levif.be/ict/actualite/une-attaque-ddos-met-trois-serveurs-racines-dns-hors-ligne/article-normal-439381.html
+ 436. file:///wiki/Levif
+ 437. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-50
+ 438. http://www.internic.net/domain/
+ 439. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-51
+ 440. http://www.isc.org/press-release/isc-praises-momentous-step-forward-securing-domain-name-system
+ 441. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-52
+ 442. https://www.icann.org/news/announcement-2018-10-19-fr
+ 443. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-RFC-2826_53-0
+ 444. https://tools.ietf.org/html/rfc2826
+ 445. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-54
+ 446. http://www.cs.cornell.edu/people/egs/beehive/codons.php
+ 447. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-55
+ 448. https://gnunet.org/book/export/html/1677
+ 449. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-56
+ 450. https://github.com/mwarning/kadnode
+ 451. file:///wiki/GitHub
+ 452. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-57
+ 453. https://web.archive.org/web/20131216015400/http://dot-bit.org/Main_Page
+ 454. file:///wiki/Internet_Archive
+ 455. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-58
+ 456. http://www.pcinpact.com/news/70085-oddns-filtrage-dns-p2p.htm
+ 457. file:///wiki/Next_INpact
+ 458. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#cite_ref-59
+ 459. https://gnunet.org/comment/841#comment-841
+ 460. file:///wiki/Portail:Internet
+ 461. file:///wiki/Portail:Internet
+ 462. https://fr.wikipedia.org/w/index.php?title=Serveur_racine_du_DNS&oldid=216408707
+ 463. file:///wiki/Cat%C3%A9gorie:Accueil
+ 464. file:///wiki/Cat%C3%A9gorie:Domain_Name_System
+ 465. file:///wiki/Cat%C3%A9gorie:Serveur_informatique
+ 466. file:///wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais
+ 467. file:///wiki/Cat%C3%A9gorie:Article_contenant_un_lien_mort
+ 468. file:///wiki/Cat%C3%A9gorie:Portail:Internet/Articles_li%C3%A9s
+ 469. file:///wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s
+ 470. file:///wiki/Cat%C3%A9gorie:Portail:M%C3%A9dias/Articles_li%C3%A9s
+ 471. file:///wiki/Cat%C3%A9gorie:Portail:Soci%C3%A9t%C3%A9/Articles_li%C3%A9s
+ 472. file:///wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia
+ 473. https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+ 474. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr
+ 475. file:///wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques
+ 476. file:///wiki/Sp%C3%A9cial:Citer/Serveur_racine_du_DNS
+ 477. https://wikimediafoundation.org/
+ 478. file:///wiki/501c
+ 479. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/fr
+ 480. file:///wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia
+ 481. file:///wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux
+ 482. file://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contact
+ 483. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 484. https://developer.wikimedia.org/
+ 485. https://stats.wikimedia.org/#/fr.wikipedia.org
+ 486. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 487. file://fr.m.wikipedia.org/w/index.php?title=Serveur_racine_du_DNS&mobileaction=toggle_view_mobile
+ 488. https://wikimediafoundation.org/
+ 489. https://www.mediawiki.org/
+
+   Hidden links:
+ 491. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html
+ 492. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Requ%C3%AAtes_DNS_destin%C3%A9es_aux_serveurs_racine
+ 493. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Les_serveurs_racine_du_DNS
+ 494. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Limitation_du_nombre_de_serveurs
+ 495. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#S%C3%A9curit%C3%A9_des_serveurs_racine
+ 496. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Attaque_de_2002
+ 497. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Attaque_de_2007
+ 498. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Attaques_de_2015
+ 499. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Zone_racine
+ 500. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Hi%C3%A9rarchies_alternatives
+ 501. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Hi%C3%A9rarchies_alternatives_en_pair_%C3%A0_pair
+ 502. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Voir_aussi
+ 503. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Articles_connexes
+ 504. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Liens_externes
+ 505. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Notes_et_r%C3%A9f%C3%A9rences
+ 506. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#Notes
+ 507. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Serveur_racine_du_DNS.html#R%C3%A9f%C3%A9rences

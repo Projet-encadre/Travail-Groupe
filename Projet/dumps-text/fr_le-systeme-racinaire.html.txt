@@ -1,0 +1,397 @@
+   #[1]Valider UNIFA - Outil pédagogique
+
+
+     * [2]Contact
+     * [3]Plan du site
+     * [4]Lexique
+     * [5]Recherche
+     * [6]Parcours Jeux
+
+   [7]
+
+   Unifa
+
+     * [8]Accueil
+     * [9]Nutritiondes plantes
+          + [10]Les sources des éléments nutritifs (air, eau, sol)
+          + [11]Les mécanismes d'absorption des éléments nutritifs
+               o [12]Le système racinaire
+               o [13]Le système aérien
+          + [14]Le rôle des éléments nutritifs
+               o [15]Azote
+               o [16]Phosphore
+               o [17]Potassium
+               o [18]Autres éléments
+               o [19]Oligo-éléments
+          + [20]Les besoins des cultures
+          + [21]Le diagnostic de nutrition
+               o [22]L'analyse du végétal
+               o [23]Les indices de nutrition
+               o [24]Les symptômes de carence
+          + [25]En savoir plus...
+     * [26]Le sol
+          + [27]Ses constituants
+          + Les états de la fertilité
+               o [28]La fertilité physique
+               o [29]La fertilité chimique
+               o [30]La fertilité biologique
+          + [31]Le diagnostic de fertilité
+          + [32]Le suivi de la fertilité
+          + [33]En savoir plus...
+     * [34]Cyclesbio-géo chimiques
+          + [35]Le cycle du carbone (C)
+          + [36]Le cycle de l'azote (N)
+          + [37]Le cycle du soufre (S)
+          + [38]Le cycle du phosphore (P)
+          + [39]Le cycle des cations (K, Ca, Mg)
+     * [40]Améliorerla fertilité
+          + [41]Le travail du sol et le semis
+          + [42]Drainage & irrigation
+          + [43]Le statut Acido Basique
+          + [44]Le statut organique du sol
+          + [45]Cultures intermédiaires
+          + [46]Légumineuses
+     * [47]CulturesFiches pratiques
+          + [48]Betterave
+          + [49]Blé
+          + [50]Colza
+          + [51]Maïs
+          + [52]Orge
+          + [53]Pomme de terre
+          + [54]Vigne
+          + [55]En savoir plus...
+     * [56]Raisonnerla fertilisation
+          + [57]Valeur neutralisante et besoin en bases
+          + [58]Phosphore, potassium et magnésium
+          + [59]Azote et soufre
+               o [60]La méthode COMIFER
+               o [61]Les outils de raisonnement
+               o [62]Choix de la forme d'engrais
+               o [63]Outils de pilotage et ajustement
+          + [64]Oligo-éléments
+          + [65]Plans prévisionnels de fertilisation
+          + [66]En savoir plus...
+     * [67]Bonnes pratiquesd'usage
+          + [68]Les fertilisants solides
+               o [69]Stockage
+               o [70]Manutention
+               o [71]Transport
+               o [72]Épandage
+          + [73]Les fertilisants liquides
+               o [74]Stockage
+               o [75]Manutention
+               o [76]Transport
+               o [77]Épandage
+          + [78]Recyclage des emballages vides
+          + [79]En savoir plus ...
+     * [80]Production& ressources
+          + [81]La production des fertilisants et ressources disponibles
+          + [82]Amendements minéraux basiques
+          + [83]Engrais azotés
+          + [84]Engrais phosphatés
+          + [85]Engrais potassiques
+          + [86]Engrais magnésiens
+          + [87]Engrais minéraux composés
+          + [88]Fertilisants organiques
+          + [89]Fertilisants organo-minéraux
+          + [90]Fertilisants spéciaux
+          + [91]En savoir plus...
+     * [92]Enjeuxde la fertilisation
+          + [93]Sécurité alimentaire
+               o [94]Nourrir les hommes
+               o [95]Qualité nutritionnelle des aliments
+          + [96]Fertilité des sols
+               o [97]Matière organique
+               o [98]Protection du sol
+          + [99]Protection de l'eau et de l'air
+               o [100]Prévention de l'eutrophisation
+               o [101]Amélioration de la qualité de l'air
+          + [102]Durabilité des ressources
+               o [103]Consommation d'énergie
+               o [104]Ressources minérales et recyclage
+          + [105]Changement climatique
+               o [106]Atténuation des émissions de gaz à effet de serre
+               o [107]Stockage du carbone dans les sols
+          + [108]En savoir plus...
+
+   [109]Accueil[110]Nutrition[111]Les mécanismes d'absorption des éléments
+   nutritifsLe système racinaire
+
+Le système racinaire
+
+   title line1
+
+La racine est le plus souvent un axe souterrain qui se ramifie et qui a les
+rôles suivants :
+
+     * absorber l'eau et les ions minéraux indispensables à la plante ;
+     * fixer et ancrer solidement la plante au sol ;
+     * constituer chez certaines espèces des réserves d'eau, d'éléments
+       minéraux, de sucres ou d'amidon.
+
+   title line1
+
+   Puisque la plante est immobile, elle utilise les processus de
+   croissance et de ramification de ses axes pour accéder aux ressources
+   dont elle a besoin : les tiges et les feuilles croissent vers la
+   lumière, les racines explorent le sol à la recherche d'eau et
+   d'éléments nutritifs.
+
+   La croissance du système racinaire se poursuit durant toute la vie de
+   la plante. A l'extrémité de chaque racine un méristème apical protégé
+   d'une coiffe assure la multiplication cellulaire. Au dessus, la zone
+   d'élongation cellulaire permet à la racine de pousser et de
+   s'introduire dans le sol. Puis vient la zone où se forment les poils
+   absorbants à partir des cellules épidermiques. Ces extensions
+   tubulaires des cellules augmentent la surface de contact avec le sol et
+   contribuent à l'absorption active de l'eau et des ions minéraux.
+
+   L'absorption des éléments nutritifs par le système racinaire est
+   sélective. Elle met en jeu plus de 400 protéines localisées sur les
+   parois des cellules de l'épiderme, de l'endoderme et des vaisseaux qui
+   règlent les transports de l'eau et des ions depuis le sol vers le
+   xylème. Les vaisseaux qui constituent le xylème sont constitués de
+   cellules allongées, perforées à chaque extrémité qui assurent le
+   transport ascendant de la sève brute constituée de l'eau et des ions
+   minéraux.
+
+   Les racines consomment de l'énergie pour effectuer tous ces transports.
+   Cette énergie est fournie par la respiration qui a besoin de l'oxygène
+   présent dans le sol et de composés carbonés produits par la
+   [112]photosynthèsephotosynthèseDéfinition: La photosynthèse végétale
+   consiste à réduire le dioxyde de carbone de l'atmosphère par l'eau
+   absorbée par les racines à l'aide de l'énergie solaire captée par les
+   feuilles, en présence de sels minéraux, avec libération d'oxygène, afin
+   de produire des glucides....
+   dans les parties aériennes de la plante. Le transfert de ces composés
+   est assuré par un autre système vasculaire appelé phloème constitué de
+   cellules allongées et criblées à leur extrémité.
+
+   L'extension du système racinaire d'un blé dans un hectare est
+   considérable : plus d'un mètre en profondeur et plus de 300 000 km
+   d'extension de racines et radicelles. Un système racinaire dense et
+   profond permet à la culture de mieux exploiter les réserves en eau et
+   en éléments nutritifs du sol et de mieux résister au stress lié aux
+   périodes de sécheresse prolongée. La structure du sol, son humidité et
+   son aération conditionnent une croissance continue du système
+   racinaire. (voir chapitre 2 Le sol).
+
+   Enfin les racines peuvent s'associer à des micro-organismes pour former
+   des symbioses et modifient aussi autour d'elles l'activité biologique
+   du sol à leur profit dans la rhizosphère.
+
+
+Coupe longitudinale de la racine
+
+   On peut définir quatre parties dans une racine, avec de haut en bas
+   successivement :
+     * la zone subéreuse, partie la plus âgée, où s'initie la ramification
+       en racines secondaires ou [113]radicelles ;
+     * la zone pilifère où les cellules épidermiques produisent des poils
+       absorbants très actifs dans [114]l'absorption de l'eau et des ions
+       minéraux ;
+     * la zone d'élongation où se produit l'allongement des cellules qui
+       permet à la racine de pousser;
+     * Le méristème apical protégé par la coiffe, où se produit la
+       multiplication cellulaire ;
+     * la coiffe qui protège l'extrémité de la racine. Elle produit un
+       mucigel qui agit comme un lubrifiant permettant la pénétration de
+       la racine dans le sol.
+
+Racine
+
+   Schéma racine
+
+   filet02
+
+
+Coupe transversale de la racine montrant les vaisseaux conducteurs
+
+     * l'écorce, différente de l'écorce des tiges, cette partie est
+       constituée de l'épiderme de la racine qui porte les poils
+       absorbants et d'une assise subéreuse lorsque la racine vieillit,
+       ainsi que du parenchyme cortical, qui assure le transport des
+       éléments absorbés jusqu'à l'endoderme.
+     * le cylindre central où se trouvent les tissus de transport de la
+       sève et qui est composé de l'endoderme, une couche de cellules à
+       partir de laquelle vont se former les ramifications des racines
+       secondaires et de deux types de tissus conducteurs, le xylème qui
+       conduit la sève brute vers les feuilles et le phloème qui
+       redistribue la sève élaborée dans toute la plante.
+
+Racine en coupe
+
+   Racine en coupe
+
+   filet02
+
+
+
+
+   Pour en savoir plus
+
+[115]Comment améliorer l'efficacité du système racinaire ?
+
+[116]La rhizosphère favorise la nutrition des plantes
+
+[117]Les symbioses basées sur l'échange nutritionnel
+
+   filet03
+
+
+   [share.png]
+   [118]Twitter
+
+   ____________________ (Reset)
+
+Comment améliorer l'efficacité du système racinaire ?
+
+   [119]En savoir plus...
+
+La rhizosphère favorise la nutrition des plantes
+
+   [120]En savoir plus...
+
+Les symbioses basées sur l'échange nutritionnel
+
+   [121]En savoir plus...
+
+Parcours Jeux
+
+   Venez tester vos connaissances !
+   1 quiz de 10 questions
+   par rubrique :
+
+   [122]JE JOUE !
+
+   Copyright UNIFA^©  ¦  [123]Conception BRETT'com
+
+References
+
+   Visible links:
+   1. https://fertilisation-edu.fr/component/search/?Itemid=118&format=opensearch
+   2. https://fertilisation-edu.fr/contact.html
+   3. https://fertilisation-edu.fr/plan-du-site.html
+   4. https://fertilisation-edu.fr/lexique.html
+   5. https://fertilisation-edu.fr/recherche.html
+   6. https://fertilisation-edu.fr/parcours-jeux.html
+   7. https://fertilisation-edu.fr/
+   8. https://fertilisation-edu.fr/
+   9. https://fertilisation-edu.fr/nutrition-des-plantes.html
+  10. https://fertilisation-edu.fr/nutrition-des-plantes/les-sources-des-elements-nutritifs-air-eau-sol.html
+  11. https://fertilisation-edu.fr/nutrition-des-plantes/les-mecanismes-d-absorption-des-elements-nutritifs.html
+  12. https://fertilisation-edu.fr/nutrition-des-plantes/les-mecanismes-d-absorption-des-elements-nutritifs/le-systeme-racinaire.html
+  13. https://fertilisation-edu.fr/nutrition-des-plantes/les-mecanismes-d-absorption-des-elements-nutritifs/le-systeme-aerien.html
+  14. https://fertilisation-edu.fr/nutrition-des-plantes/le-role-des-elements-nutritifs.html
+  15. https://fertilisation-edu.fr/nutrition-des-plantes/le-role-des-elements-nutritifs/azote.html
+  16. https://fertilisation-edu.fr/nutrition-des-plantes/le-role-des-elements-nutritifs/phosphore.html
+  17. https://fertilisation-edu.fr/nutrition-des-plantes/le-role-des-elements-nutritifs/potassium.html
+  18. https://fertilisation-edu.fr/nutrition-des-plantes/le-role-des-elements-nutritifs/autres-elements.html
+  19. https://fertilisation-edu.fr/nutrition-des-plantes/le-role-des-elements-nutritifs/oligo-elements.html
+  20. https://fertilisation-edu.fr/nutrition-des-plantes/les-besoins-des-cultures.html
+  21. https://fertilisation-edu.fr/nutrition-des-plantes/le-diagnostic-de-nutrition.html
+  22. https://fertilisation-edu.fr/nutrition-des-plantes/le-diagnostic-de-nutrition/analyse-du-vegetal.html
+  23. https://fertilisation-edu.fr/nutrition-des-plantes/le-diagnostic-de-nutrition/les-indices-de-nutrition.html
+  24. https://fertilisation-edu.fr/nutrition-des-plantes/le-diagnostic-de-nutrition/les-symptomes-de-carence.html
+  25. https://fertilisation-edu.fr/nutrition-des-plantes/en-savoir-plus.html
+  26. https://fertilisation-edu.fr/le-sol.html
+  27. https://fertilisation-edu.fr/le-sol/ses-constituants.html
+  28. https://fertilisation-edu.fr/le-sol/les-etats-de-la-fertilite/la-fertilite-physique.html
+  29. https://fertilisation-edu.fr/le-sol/les-etats-de-la-fertilite/la-fertilite-chimique.html
+  30. https://fertilisation-edu.fr/le-sol/les-etats-de-la-fertilite/la-fertilite-biologique.html
+  31. https://fertilisation-edu.fr/le-sol/le-diagnostic-de-fertilite.html
+  32. https://fertilisation-edu.fr/le-sol/le-suivi-de-la-fertilite.html
+  33. https://fertilisation-edu.fr/le-sol/en-savoir-plus.html
+  34. https://fertilisation-edu.fr/cycles-bio-geo-chimiques.html
+  35. https://fertilisation-edu.fr/cycles-bio-geo-chimiques/le-cycle-du-carbone-c.html
+  36. https://fertilisation-edu.fr/cycles-bio-geo-chimiques/le-cycle-de-l-azote-n.html
+  37. https://fertilisation-edu.fr/cycles-bio-geo-chimiques/le-cycle-du-soufre-s.html
+  38. https://fertilisation-edu.fr/cycles-bio-geo-chimiques/le-cycle-du-phosphore-p.html
+  39. https://fertilisation-edu.fr/cycles-bio-geo-chimiques/le-cycle-des-cations-k-ca-mg.html
+  40. https://fertilisation-edu.fr/ameliorer-la-fertilite2.html
+  41. https://fertilisation-edu.fr/ameliorer-la-fertilite2/le-travail-du-sol-et-le-semis.html
+  42. https://fertilisation-edu.fr/ameliorer-la-fertilite2/drainage-irrigation.html
+  43. https://fertilisation-edu.fr/ameliorer-la-fertilite2/le-statut-acido-basique.html
+  44. https://fertilisation-edu.fr/ameliorer-la-fertilite2/le-statut-organique-du-sol.html
+  45. https://fertilisation-edu.fr/ameliorer-la-fertilite2/cultures-intermediaires-compagnes-intercalaires.html
+  46. https://fertilisation-edu.fr/ameliorer-la-fertilite2/legumineuses.html
+  47. https://fertilisation-edu.fr/cultures-fiches-pratiques.html
+  48. https://fertilisation-edu.fr/cultures-fiches-pratiques/betterave.html
+  49. https://fertilisation-edu.fr/cultures-fiches-pratiques/ble.html
+  50. https://fertilisation-edu.fr/cultures-fiches-pratiques/colza.html
+  51. https://fertilisation-edu.fr/cultures-fiches-pratiques/mais.html
+  52. https://fertilisation-edu.fr/cultures-fiches-pratiques/orge.html
+  53. https://fertilisation-edu.fr/cultures-fiches-pratiques/pomme-de-terre.html
+  54. https://fertilisation-edu.fr/cultures-fiches-pratiques/vigne.html
+  55. https://fertilisation-edu.fr/cultures-fiches-pratiques/en-savoir-plus.html
+  56. https://fertilisation-edu.fr/le-raisonnement-de-la-fertilisation.html
+  57. https://fertilisation-edu.fr/le-raisonnement-de-la-fertilisation/valeur-neutralisante-et-besoin-en-bases.html
+  58. https://fertilisation-edu.fr/le-raisonnement-de-la-fertilisation/phosphore-potassium-et-magnesium.html
+  59. https://fertilisation-edu.fr/le-raisonnement-de-la-fertilisation/azote-et-soufre.html
+  60. https://fertilisation-edu.fr/le-raisonnement-de-la-fertilisation/azote-et-soufre/la-methode-comifer.html
+  61. https://fertilisation-edu.fr/le-raisonnement-de-la-fertilisation/azote-et-soufre/les-outils-de-raisonnement.html
+  62. https://fertilisation-edu.fr/le-raisonnement-de-la-fertilisation/azote-et-soufre/choix-de-la-forme-d-engrais.html
+  63. https://fertilisation-edu.fr/le-raisonnement-de-la-fertilisation/azote-et-soufre/outils-de-pilotage-et-ajustement.html
+  64. https://fertilisation-edu.fr/le-raisonnement-de-la-fertilisation/oligo-elements.html
+  65. https://fertilisation-edu.fr/le-raisonnement-de-la-fertilisation/plans-previsionnels-de-fertilisation.html
+  66. https://fertilisation-edu.fr/le-raisonnement-de-la-fertilisation/en-savoir-plus.html
+  67. https://fertilisation-edu.fr/bonnes-pratiques-d-usage.html
+  68. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/les-fertilisants-solides.html
+  69. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/les-fertilisants-solides/stockage.html
+  70. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/les-fertilisants-solides/manutention.html
+  71. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/les-fertilisants-solides/transport.html
+  72. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/les-fertilisants-solides/epandage.html
+  73. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/les-fertilisants-liquides.html
+  74. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/les-fertilisants-liquides/stockage.html
+  75. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/les-fertilisants-liquides/manutention.html
+  76. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/les-fertilisants-liquides/transport.html
+  77. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/les-fertilisants-liquides/epandage.html
+  78. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/recyclage-des-emballages-vides.html
+  79. https://fertilisation-edu.fr/bonnes-pratiques-d-usage/en-savoir-plus.html
+  80. https://fertilisation-edu.fr/production-ressources.html
+  81. https://fertilisation-edu.fr/production-ressources/la-production-des-fertilisants-et-ressources-disponibles.html
+  82. https://fertilisation-edu.fr/production-ressources/amendements-mineraux-basiques.html
+  83. https://fertilisation-edu.fr/production-ressources/engrais-azotes.html
+  84. https://fertilisation-edu.fr/production-ressources/engrais-phosphates.html
+  85. https://fertilisation-edu.fr/production-ressources/engrais-potassiques.html
+  86. https://fertilisation-edu.fr/production-ressources/engrais-magnesiens.html
+  87. https://fertilisation-edu.fr/production-ressources/engrais-mineraux-composes.html
+  88. https://fertilisation-edu.fr/production-ressources/fertilisants-organiques.html
+  89. https://fertilisation-edu.fr/production-ressources/fertilisants-organo-mineraux.html
+  90. https://fertilisation-edu.fr/production-ressources/fertilisants-speciaux.html
+  91. https://fertilisation-edu.fr/production-ressources/en-savoir-plus.html
+  92. https://fertilisation-edu.fr/enjeux-de-la-fertilisation.html
+  93. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/securite-alimentaire.html
+  94. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/securite-alimentaire.html#nourrir
+  95. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/securite-alimentaire.html#qualite
+  96. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/fertilite-des-sols.html
+  97. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/fertilite-des-sols.html#matiere
+  98. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/fertilite-des-sols.html#protection
+  99. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/protection-de-l-eau-et-de-l-air.html
+ 100. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/protection-de-l-eau-et-de-l-air.html#eutrophi
+ 101. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/protection-de-l-eau-et-de-l-air.html#air
+ 102. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/durabilite-des-ressources.html
+ 103. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/durabilite-des-ressources.html#energie
+ 104. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/durabilite-des-ressources.html#ressources
+ 105. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/changement-climatique.html
+ 106. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/changement-climatique.html#attenuation
+ 107. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/changement-climatique.html#stockage
+ 108. https://fertilisation-edu.fr/enjeux-de-la-fertilisation/en-savoir-plus.html
+ 109. https://fertilisation-edu.fr/
+ 110. https://fertilisation-edu.fr/nutrition-des-plantes.html
+ 111. https://fertilisation-edu.fr/nutrition-des-plantes/les-mecanismes-d-absorption-des-elements-nutritifs.html
+ 112. https://fertilisation-edu.fr/component/gnosis/word/37.html
+ 113. http://www.futura-sciences.com/magazines/nature/infos/dico/d/botanique-radicelle-6173/
+ 114. http://www.futura-sciences.com/magazines/sante/infos/dico/d/medecine-absorption-2910/
+ 115. https://fertilisation-edu.fr/nutrition-des-plantes/les-mecanismes-d-absorption-des-elements-nutritifs/le-systeme-racinaire/comment-ameliorer-l-efficacite-du-systeme-racinaire.html
+ 116. https://fertilisation-edu.fr/nutrition-des-plantes/les-mecanismes-d-absorption-des-elements-nutritifs/le-systeme-racinaire/la-rhizosphere-favorise-la-nutrition-des-plantes.html
+ 117. https://fertilisation-edu.fr/nutrition-des-plantes/les-mecanismes-d-absorption-des-elements-nutritifs/le-systeme-racinaire/les-symbioses-basees-sur-l-echange-nutritionnel.html
+ 118. http://twitter.com/share
+ 119. https://fertilisation-edu.fr/nutrition-des-plantes/les-mecanismes-d-absorption-des-elements-nutritifs/le-systeme-racinaire/comment-ameliorer-l-efficacite-du-systeme-racinaire.html
+ 120. https://fertilisation-edu.fr/nutrition-des-plantes/les-mecanismes-d-absorption-des-elements-nutritifs/le-systeme-racinaire/la-rhizosphere-favorise-la-nutrition-des-plantes.html
+ 121. https://fertilisation-edu.fr/nutrition-des-plantes/les-mecanismes-d-absorption-des-elements-nutritifs/le-systeme-racinaire/les-symbioses-basees-sur-l-echange-nutritionnel.html
+ 122. https://fertilisation-edu.fr/parcours-jeux.html
+ 123. http://www.brettcom.com/
+
+   Hidden links:
+ 125. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_le-systeme-racinaire.html.html#page

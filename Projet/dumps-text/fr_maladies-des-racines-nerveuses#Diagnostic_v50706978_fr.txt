@@ -1,0 +1,426 @@
+   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
+   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
+   [16]alternate [17]alternate [18]alternate [19]alternate [20]alternate
+
+   [21]honeypot link
+
+   [22]skip to main content
+   ( ) Professionnels de la santé (*) Grand public
+   ____________________
+   (BUTTON) Rechercher Rechercher
+   (BUTTON)
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7] [image?url=&amp;w=16&amp;q=75]
+
+   [23]MSD MSD Le Manuel MSDVersion pour le grand public
+
+   (BUTTON)
+
+   [24]SUJETS MÉDICAUX[25] VIVRE EN BONNE
+   SANTÉ[26]SYMPTÔMES[27]URGENCES[28]RESSOURCES[29]COMMENTAIRE[30]À PROPOS
+   DE
+
+   [31]home [32]SUJETS MÉDICAUX[33] VIVRE EN BONNE SANTÉ
+   Search icon
+
+    1. [34]Familles/
+    2. [35]Troubles du cerveau, de la moelle épinière et des nerfs/
+    3. [36]Maladies des nerfs périphériques et maladies apparentées/
+    4. [37]Maladies des racines nerveuses/
+
+     * (BUTTON)
+
+Maladies des racines nerveuses
+
+(Radiculopathies)
+
+   Par[38]Michael Rubin, MDCM, New York Presbyterian Hospital-Cornell
+   Medical Center
+   Vérifié/Révisé mars 2024
+   AFFICHER LA VERSION PROFESSIONNELLE
+
+   Les maladies des racines nerveuses résultent d'une pression soudaine ou
+   à long terme sur la racine nerveuse rachidienne.
+     * [39]Causes|
+     * [40]Symptômes|
+     * [41]Diagnostic|
+     * [42]Traitement|
+
+     * Les maladies des racines nerveuses sont généralement dues à une
+       hernie discale ou à une arthrose de la colonne vertébrale.
+     * Ces maladies peuvent provoquer des douleurs, des sensations
+       anormales et/ou une faiblesse musculaire dans la région du corps
+       dépendant de ces racines nerveuses.
+     * Les médecins diagnostiquent les maladies des racines nerveuses en
+       se basant sur les résultats des examens d'imagerie, des tests
+       électrodiagnostiques et des tests pour identifier la cause.
+     * Les médecins traitent la cause si possible et administrent des
+       médicaments pour soulager la douleur, y compris des analgésiques en
+       vente libre (tels que des anti-inflammatoires non stéroïdiens ou du
+       paracétamol) et des corticoïdes.
+
+   (Voir aussi [43]Présentation des troubles du système nerveux
+   périphérique.)
+
+   Les racines nerveuses sont les petites ramifications d'un [44]nerf
+   spinal. Les nerfs spinaux sortent de la moelle épinière le long de la
+   colonne vertébrale. Chaque nerf spinal contient deux racines
+   nerveuses : une motrice et une sensorielle. (Les racines nerveuses
+   motrices contiennent des fibres nerveuses qui transportent les ordres
+   du cerveau et de la moelle épinière aux muscles. Les racines nerveuses
+   sensorielles contiennent des fibres nerveuses qui transportent les
+   informations sensorielles relatives au toucher, à la position, à la
+   douleur et à la température de l'organisme vers la moelle épinière.)
+   Après avoir quitté la moelle épinière, les deux racines nerveuses se
+   rejoignent pour former un seul nerf rachidien. Chaque nerf spinal passe
+   ensuite entre deux vertèbres dans la colonne vertébrale pour se
+   connecter à une région spécifique du corps. La surface de la peau est
+   divisée selon ces zones spécifiques, appelées dermatomes. Un dermatome
+   est une zone de la peau dont les nerfs sensitifs proviennent tous d'une
+   seule racine nerveuse rachidienne.
+
+   La colonne vertébrale
+
+   Le rachis (colonne vertébrale) est constitué d'un empilement d'os
+   appelés vertèbres. Les vertèbres protègent la moelle épinière (une
+   longue et fragile structure située à l'intérieur du canal rachidien),
+   qui se trouve au centre de la colonne vertébrale. Entre les vertèbres
+   sont présents des disques de cartilage qui amortissent les chocs sur le
+   rachis et apportent de la souplesse.
+
+   Nerfs spinaux : 31 paires de nerfs spinaux partent de la moelle
+   épinière et passent par les espaces intervertébraux. Chaque nerf se
+   divise en deux branches courtes (racines), motrice et sensorielle, qui
+   se rejoignent pour former un nerf spinal.
+
+   Les racines motrices conduisent les signaux produits par le cerveau et
+   la moelle épinière vers d'autres parties de l'organisme, en particulier
+   vers les muscles squelettiques.
+
+   Les racines sensitives transmettent au cerveau les informations
+   provenant d'autres parties de l'organisme.
+
+   Queue de cheval : la moelle épinière se termine en bas au niveau du
+   troisième quart du canal vertébral, mais un faisceau de nerfs continue
+   au-delà de la moelle. Ce faisceau est appelé queue de cheval car il est
+   semblable à la queue d'un cheval. La queue de cheval transporte les
+   influx nerveux vers et depuis les jambes, la partie inférieure de
+   l'intestin et la vessie.
+   Structure du rachis Structure du rachis
+
+   Dermatomes
+
+   La surface de la peau est divisée en zones spécifiques, appelées
+   dermatomes. Un dermatome est une zone de la peau dont les nerfs
+   sensitifs proviennent tous d'une seule racine nerveuse rachidienne. Les
+   nerfs sensitifs transmettent des informations relatives au toucher, à
+   la douleur, à la température et aux vibrations de la peau vers la
+   moelle épinière.
+
+   Les racines rachidiennes vont par paires, une racine de chaque paire
+   pour chaque côté du corps. Il y a 31 paires :
+     * Pour les 7 vertèbres cervicales, il y a 8 paires de racines
+       nerveuses sensitives.
+     * Chacune des 12 vertèbres thoraciques, 5 lombaires et 5 sacrées,
+       possède une paire de racines nerveuses rachidiennes.
+     * De plus, au bout de la moelle épinière, deux racines nerveuses
+       sacrées innervent une petite surface de peau autour du coccyx.
+
+   Il y a des dermatomes pour chacune de ces racines nerveuses.
+
+   Les informations sensitives d'un dermatome spécifique sont véhiculées
+   par les fibres sensitives de la racine nerveuse d'une vertèbre
+   spécifique. Par exemple, les informations sensitives d'une bande de
+   peau le long de l'arrière de la cuisse sont véhiculées par les fibres
+   nerveuses sensitives vers la racine nerveuse de la 2e vertèbre sacrée
+   (S2).
+   Dermatomes Dermatomes
+
+Causes des maladies des racines nerveuses
+
+   La cause la plus fréquente des maladies des racines nerveuses est :
+     * Une [45]hernie discale
+
+   Une hernie discale peut provoquer une maladie des racines nerveuses en
+   exerçant une pression sur la racine nerveuse adjacente.
+
+   La [46]polyarthrite rhumatoïde (PR) ou l'[47]arthrose peuvent provoquer
+   des modifications de la colonne vertébrale qui compriment les racines
+   nerveuses, notamment au niveau de la nuque et du bas du dos. Dans
+   l'arthrose, un os de la colonne vertébrale peut se développer de façon
+   exagérée et rétrécir l'ouverture entre les vertèbres que la racine
+   nerveuse traverse.
+
+   Plus rarement, une tumeur ou une autre masse (comme un abcès) appuie
+   sur une racine nerveuse.
+
+   Le [48]diabète sucré peut provoquer un trouble des racines nerveuses en
+   endommageant les vaisseaux sanguins qui irriguent la racine nerveuse.
+
+   Des infections, telles que la [49]tuberculose (TB), la [50]maladie de
+   Lyme, la [51]syphilis et le [52]zona, affectent parfois les racines
+   nerveuses.
+
+Symptômes des maladies des racines nerveuses
+
+   Les symptômes des maladies des racines nerveuses dépendent de la racine
+   nerveuse affectée. Des douleurs, des sensations anormales et/ou une
+   faiblesse musculaire surviennent dans la région du corps dépendant de
+   cette racine nerveuse. La douleur peut être ressentie comme un choc
+   électrique qui irradie la zone affectée. Les muscles peuvent
+   s'atrophier et/ou se contracter. Les muscles affectés peuvent être
+   paralysés.
+
+   La douleur peut être aggravée par le mouvement, y compris les
+   mouvements du dos, la toux et les éternuements.
+
+   Si les racines inférieures de la moelle épinière (la queue de cheval)
+   sont touchées, les personnes peuvent présenter une faiblesse dans les
+   jambes, des problèmes urinaires (comme une incontinence ou une
+   rétention d'urine), perdre le contrôle de leurs intestins et perdre la
+   sensation au niveau des fesses, de la région génitale, de la vessie et
+   du rectum. Les hommes peuvent avoir des difficultés à avoir une
+   érection. Ce trouble, appelé [53]syndrome de la queue de cheval, est
+   une urgence médicale. Le problème, tel qu'une hernie discale, un abcès,
+   une tumeur ou un caillot sanguin, qui comprime la queue de cheval doit
+   être corrigé pour éviter une lésion nerveuse irréversible.
+
+Diagnostic des maladies des racines nerveuses
+
+     * Examens d'imagerie
+     * Parfois, tests électrodiagnostiques
+
+   Les médecins interrogent sur les symptômes et réalisent un examen
+   clinique. Les résultats apportent des indices sur le diagnostic et
+   aident les médecins à déterminer où se trouve le problème.
+
+   Une imagerie par résonance magnétique (IRM) ou une tomodensitométrie
+   (TDM) sont réalisées pour confirmer le diagnostic. L'IRM montre la
+   moelle épinière, ainsi que les anomalies éventuelles au niveau des
+   tissus mous autour de la moelle (abcès, hématomes [accumulations de
+   sang], tumeurs et hernies discales) et des os (tumeurs, fractures,
+   arthrose et [54]spondylose cervicale).
+
+   Si l'IRM ne peut pas être réalisée et si les résultats de la TDM ne
+   sont pas clairs, une [55]myélographie est réalisée. Pour la
+   myélographie, un produit de contraste radio-opaque (qui se voit à la
+   radiographie) est injecté dans l'espace qui entoure la moelle épinière,
+   puis des radiographies sont réalisées. Une myélographie avec TDM peut
+   également être réalisée. La myélographie avec TDM peut fournir des
+   images détaillées de la moelle épinière et des os adjacents.
+
+   Des tests électrodiagnostiques ([56]électromyographie et études de
+   conduction nerveuse) sont réalisés pour identifier quelles racines
+   nerveuses sont atteintes et pour confirmer que les symptômes sont dus à
+   une compression du nerf spinal plutôt qu'à des problèmes de la moelle
+   épinière ou d'un [57]plexus nerveux (réseau de fibres nerveuses, où les
+   fibres issues des différents nerfs spinaux sont triées et recombinées
+   pour desservir une région particulière du corps). Cependant, ces tests
+   ne peuvent pas toujours identifier la cause.
+
+   Si les examens d'imagerie n'identifient pas la cause, une [58]ponction
+   lombaire est réalisée et les médecins analysent le liquide qui entoure
+   le cerveau et la moelle épinière (liquide céphalorachidien) à la
+   recherche d'éventuelles infections. Les médecins mesurent également la
+   glycémie à jeun à la recherche de [59]diabète et peuvent réaliser
+   d'autres examens selon la cause suspectée.
+
+Traitement des maladies des racines nerveuses
+
+     * Traitement de la cause
+     * Prise en charge de la douleur
+     * Chirurgie (généralement en dernier recours)
+
+   Les causes des maladies des racines nerveuses sont traitées lorsque
+   cela est possible.
+
+   En cas de douleur immédiate et soudaine, des [60]analgésiques non
+   opioïdes, comme le paracétamol et les anti-inflammatoires non
+   stéroïdiens (AINS), sont utilisés. Si les symptômes ne sont pas
+   soulagés, des corticoïdes peuvent être administrés par voie orale ou en
+   injection dans l'espace entre la colonne vertébrale et la couche
+   externe de tissu recouvrant la moelle épinière (injection péridurale).
+   Cependant, avec les corticoïdes, le soulagement de la douleur tend à
+   être modéré et temporaire.
+
+   En cas de [61]douleur de longue durée (chronique), le traitement peut
+   être difficile. Le paracétamol et les AINS sont souvent seulement
+   partiellement efficaces, et la prise d'AINS pendant une longue période
+   comporte des risques importants. Les [62]analgésiques opioïdes
+   comportent un risque de dépendance. Certains [63]antidépresseurs et
+   [64]anticonvulsivants, qui ne sont habituellement pas considérés comme
+   des analgésiques, peuvent réduire les [65]douleurs dues à des lésions
+   nerveuses. La kinésithérapie peut également permettre de soulager la
+   douleur. Si tous ces traitements sont inefficaces, certaines personnes
+   peuvent souhaiter essayer les médecines alternatives (comme
+   l'[66]électrostimulation nerveuse transcutanée [TENS], la
+   [67]chiropraxie, l'[68]acupuncture ou les [69]plantes médicinales).
+
+   Si la douleur est constante ou si la pression sur les nerfs spinaux
+   entraîne une faiblesse musculaire ou une perte de sensation, une
+   intervention chirurgicale pour soulager la pression peut être
+   nécessaire. Si la compression de la queue de cheval ou de la moelle
+   épinière provoque une incontinence urinaire ou fécale, une intervention
+   chirurgicale est généralement nécessaire et réalisée rapidement pour
+   éviter des lésions irréversibles.
+   quizzes_lightbulb_red quizzes_lightbulb_red
+   TESTEZ VOS CONNAISSANCES[70]Take a Quiz!
+   [71][USEMAP:yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   [72][USEMAP:image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fmmanual-ssq
+   1ci05%2Fmedia%2Fmanual%2Fmarketing%2Fmobileqr%2Ffr_msd_mobile_con_326.g
+   if&amp;w=750&amp;q=75]
+   [73][USEMAP:yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   [74][USEMAP:image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fmmanual-ssq
+   1ci05%2Fmedia%2Fmanual%2Fmarketing%2Fmobileqr%2Ffr_msd_mobile_con_326.g
+   if&amp;w=750&amp;q=75]
+   [75][USEMAP:yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   [76][USEMAP:image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fmmanual-ssq
+   1ci05%2Fmedia%2Fmanual%2Fmarketing%2Fmobileqr%2Ffr_msd_mobile_qr_con_32
+   6.gif&amp;w=750&amp;q=75]
+
+   [msd_logo_transparent.d622c3c6.png]
+
+   Copyright © 2025 Merck & Co., Inc., Rahway, NJ, États-Unis et ses
+   sociétés affiliées. Tous droits réservés.
+     * [77]À PROPOS DE
+     * [78]Clause de non-responsabilité
+     * [79]Cookie Preferences
+
+   Copyright© 2025Merck & Co., Inc., Rahway, NJ, États-Unis et ses
+   sociétés affiliées. Tous droits réservés.
+
+   IFRAME: [80]https://www.googletagmanager.com/ns.html?id=GTM-5MKXR9
+
+   MSD MSD
+     * [81]À PROPOS DE
+     * [82]Clause de non-responsabilité
+     * [83]Autorisations
+     * [84]Protection des Renseignements Personnels
+     * [85]Cookie Preferences
+     * [86]CONTRIBUTEURS
+     * [87]Conditions d'utilisation
+     * [88]Attribution de licences
+     * [89]Contactez-nous
+     * [90]CONNAISSANCE MÉDICALE MONDIALE
+     * [91]APPLICATIONS MOBILES
+
+   MSD MSD
+
+   Copyright© 2025Merck & Co., Inc., Rahway, NJ, États-Unis et ses
+   sociétés affiliées. Tous droits réservés.
+
+References
+
+   Visible links:
+   1. https://www.msdmanuals.com/home/brain-spinal-cord-and-nerve-disorders/peripheral-nerve-and-related-disorders/nerve-root-disorders
+   2. https://www.msdmanuals.com/home/brain-spinal-cord-and-nerve-disorders/peripheral-nerve-and-related-disorders/nerve-root-disorders
+   3. https://www.msdmanuals.com/sw/home/brain-spinal-cord-and-nerve-disorders/peripheral-nerve-and-related-disorders/nerve-root-disorders
+   4. https://www.msdmanuals.com/hi/home/brain-spinal-cord-and-nerve-disorders/peripheral-nerve-and-related-disorders/nerve-root-disorders
+   5. https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/peripheral-nerve-and-related-disorders/nerve-root-disorders
+   6. https://www.merckmanuals.com/home/brain-spinal-cord-and-nerve-disorders/peripheral-nerve-and-related-disorders/nerve-root-disorders
+   7. https://www.merckmanuals.com/home/brain-spinal-cord-and-nerve-disorders/peripheral-nerve-and-related-disorders/nerve-root-disorders
+   8. https://www.msdmanuals.com/fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/maladies-des-nerfs-p%C3%A9riph%C3%A9riques-et-maladies-apparent%C3%A9es/maladies-des-racines-nerveuses
+   9. https://www.msdmanuals.com/de/heim/st%C3%B6rungen-der-hirn-r%C3%BCckenmarks-und-nervenfunktion/erkrankungen-der-peripheren-nerven-und-verwandte-erkrankungen/erkrankungen-der-nervenwurzeln
+  10. https://www.msdmanuals.com/it/casa/disturbi-di-cervello-midollo-spinale-e-nervi/sistema-nervoso-periferico-e-disturbi-correlati/malattie-delle-radici-nervose
+  11. https://www.msdmanuals.com/ko/home/%EB-%EC%B2%EC-%EC%A0%EA%B2%BD-%EC%A5%EC%A0/%EB%A7%EC%B4-%EC%A0%EA%B2%BD-%EB%B0-%EA%B4%EB%A0%A8-%EC%A7%ED/%EC%A0%EA%B2%BD%EA%B7%BC-%EC%A5%EC%A0
+  12. https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-cerebrais-da-medula-espinal-e-dos-nervos/nervo-perif%C3%A9rico-e-dist%C3%BArbios-relacionados/doen%C3%A7as-das-ra%C3%ADzes-nervosas
+  13. https://www.msdmanuals.com/ru/home/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8-%D1%D0%BF%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BC%D0%BE%D0%B7%D0%B3%D0%B0-%D0%B8-%D0%BD%D0%B5%D1%D0%B2%D0%BD%D0%BE%D0%B9-%D1%D0%B8%D1%D1%D0%B5%D0%BC%D1/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1-%D0%BF%D0%B5%D1%D0%B8%D1%D0%B5%D1%D0%B8%D1%D0%B5%D1%D0%BA%D0%B8%D1-%D0%BD%D0%B5%D1%D0%B2%D0%BE%D0%B2-%D0%B8-%D1%D0%B2%D1%D0%B7%D0%B0%D0%BD%D0%BD%D1%D0%B5-%D1%D0%B0%D1%D1%D1%D1%D0%BE%D0%B9%D1%D1%D0%B2%D0%B0/%D0%BF%D0%BE%D1%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1-%D0%BD%D0%B5%D1%D0%B2%D0%BD%D1%D1-%D0%BA%D0%BE%D1%D0%B5%D1%D0%BA%D0%BE%D0%B2
+  14. https://www.msdmanuals.com/es/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-del-nervio-perif%C3%A9rico-y-trastornos-relacionados/trastornos-de-la-ra%C3%ADz-nerviosa
+  15. https://www.msdmanuals.com/ar/home/%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%D8%AF%D9%D8%A7%D8%BA-%D9%D8%A7%D9%D8%AD%D8%A8%D9-%D8%A7%D9%D8%B4%D9%D9%D9-%D9%D8%A7%D9%D8%A3%D8%B9%D8%B5%D8%A7%D8%A8/%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA%D9-%D8%A7%D9%D8%A3%D8%B9%D8%B5%D8%A7%D8%A8-%D8%A7%D9%D9%D8%AD%D9%D8%B7%D9%D9%D9%D8%A9-%D9%D8%A7%D9%D8%AD%D8%A7%D9%D8%A7%D8%AA-%D8%A7%D9%D9%D8%B1%D8%AA%D8%A8%D8%B7%D8%A9-%D8%A8%D9%D8%A7/%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D8%AC%D8%B0%D9%D8%B1-%D8%A7%D9%D8%A3%D8%B9%D8%B5%D8%A7%D8%A8
+  16. https://www.merckmanuals.com/en-ca/home/brain-spinal-cord-and-nerve-disorders/peripheral-nerve-and-related-disorders/nerve-root-disorders
+  17. https://www.merckmanuals.com/fr-ca/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/maladies-des-nerfs-p%C3%A9riph%C3%A9riques-et-maladies-apparent%C3%A9es/maladies-des-racines-nerveuses
+  18. https://www.msdmanuals.com/ja-jp/home/09-%E8%B3-%E8%E9%AB-%E6%AB%E6%A2%A2%E7%A5%E7%B5%E3%AE%E7%E6%B0/%E6%AB%E6%A2%A2%E7%A5%E7%B5%E7%BE%E6%A3%E3%A8%E9%A2%E9%A3%E7%BE%E6%A3/%E7%A5%E7%B5%E6%A0%B9%E7%BE%E6%A3
+  19. https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-del-nervio-perif%C3%A9rico-y-trastornos-relacionados/trastornos-de-la-ra%C3%ADz-nerviosa
+  20. https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/trastornos-del-nervio-perif%C3%A9rico-y-trastornos-relacionados/trastornos-de-la-ra%C3%ADz-nerviosa
+  21. file:///n3wbr@nds
+  22. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#mainContainer
+  23. file:///fr/accueil
+  24. file:///fr/accueil/health-topics
+  25. file:///fr/accueil/healthy-living
+  26. file:///fr/accueil/symptoms
+  27. file:///fr/accueil/urgences-et-blessures
+  28. file:///fr/accueil/ressource
+  29. file:///fr/accueil/pages-with-widgets/news-list
+  30. file:///fr/accueil/resourcespages/about-the-manuals
+  31. file:///fr/accueil
+  32. file:///fr/accueil/health-topics
+  33. file:///fr/accueil/healthy-living
+  34. file:///fr/accueil
+  35. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs
+  36. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/maladies-des-nerfs-p%C3%A9riph%C3%A9riques-et-maladies-apparent%C3%A9es
+  37. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/maladies-des-nerfs-p%C3%A9riph%C3%A9riques-et-maladies-apparent%C3%A9es/maladies-des-racines-nerveuses
+  38. file:///fr/home/authors/rubin-michael
+  39. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#Causes_v50706953_fr
+  40. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#Sympt%C3%B4mes_v50706972_fr
+  41. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#Diagnostic_v50706978_fr
+  42. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#Traitement_v50706994_fr
+  43. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/maladies-des-nerfs-p%C3%A9riph%C3%A9riques-et-maladies-apparent%C3%A9es/pr%C3%A9sentation-du-syst%C3%A8me-nerveux-p%C3%A9riph%C3%A9rique
+  44. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/biologie-du-syst%C3%A8me-nerveux/nerfs#v733575_fr
+  45. file:///fr/accueil/troubles-osseux-articulaires-et-musculaires/douleurs-lombaires-et-cervicales/hernie-discale
+  46. file:///fr/accueil/troubles-osseux-articulaires-et-musculaires/maladies-articulaires/polyarthrite-rhumato%C3%AFde-pr
+  47. file:///fr/accueil/troubles-osseux-articulaires-et-musculaires/maladies-articulaires/arthrose
+  48. file:///fr/accueil/troubles-hormonaux-et-m%C3%A9taboliques/diab%C3%A8te-sucr%C3%A9-ds-et-troubles-du-m%C3%A9tabolisme-de-la-glyc%C3%A9mie/diab%C3%A8te-sucr%C3%A9-ds
+  49. file:///fr/accueil/infections/tuberculose-et-infections-apparent%C3%A9es/tuberculose-tb
+  50. file:///fr/accueil/infections/infections-bact%C3%A9riennes-spiroch%C3%A8tes/maladie-de-lyme
+  51. file:///fr/accueil/infections/infections-sexuellement-transmissibles-ist/syphilis
+  52. file:///fr/accueil/infections/infections-%C3%A0-herp%C3%A8svirus/zona
+  53. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/troubles-de-la-moelle-%C3%A9pini%C3%A8re/syndrome-de-la-queue-de-cheval
+  54. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/troubles-de-la-moelle-%C3%A9pini%C3%A8re/spondylose-cervicale
+  55. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/diagnostic-des-maladies-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/tests-%C3%A0-la-recherche-de-troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-du-syst%C3%A8me-nerveux#v734232_fr
+  56. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/diagnostic-des-maladies-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/tests-%C3%A0-la-recherche-de-troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-du-syst%C3%A8me-nerveux#v41278450_fr
+  57. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/maladies-des-nerfs-p%C3%A9riph%C3%A9riques-et-maladies-apparent%C3%A9es/troubles-du-plexus
+  58. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/diagnostic-des-maladies-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/tests-%C3%A0-la-recherche-de-troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-du-syst%C3%A8me-nerveux#v734178_fr
+  59. file:///fr/accueil/troubles-hormonaux-et-m%C3%A9taboliques/diab%C3%A8te-sucr%C3%A9-ds-et-troubles-du-m%C3%A9tabolisme-de-la-glyc%C3%A9mie/diab%C3%A8te-sucr%C3%A9-ds
+  60. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/douleur/prise-en-charge-de-la-douleur#v734689_fr
+  61. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/douleur/douleur-chronique
+  62. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/douleur/prise-en-charge-de-la-douleur#v734499_fr
+  63. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/douleur/prise-en-charge-de-la-douleur#v734850_fr
+  64. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/douleur/prise-en-charge-de-la-douleur#v734855_fr
+  65. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/douleur/douleur-neuropathique
+  66. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/douleur/prise-en-charge-de-la-douleur#v734871_fr
+  67. file:///fr/accueil/sujets-particuliers/m%C3%A9decine-int%C3%A9gr%C3%A9e-et-m%C3%A9decines-alternatives-et-compl%C3%A9mentaires/chiropraxie
+  68. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/douleur/prise-en-charge-de-la-douleur#v734879_fr
+  69. file:///fr/accueil/sujets-particuliers/compl%C3%A9ments-alimentaires-et-vitamines/pr%C3%A9sentation-des-compl%C3%A9ments-alimentaires
+  70. file:///fr/accueil/pages-with-widgets/questionnaires
+  71. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#mobile258BF70F2F694C07AAEA9776CB47ED9D
+  72. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#mobile258BF70F2F694C07AAEA9776CB47ED9D
+  73. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#tablet258BF70F2F694C07AAEA9776CB47ED9D
+  74. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#tablet258BF70F2F694C07AAEA9776CB47ED9D
+  75. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#desktop258BF70F2F694C07AAEA9776CB47ED9D
+  76. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#desktop258BF70F2F694C07AAEA9776CB47ED9D
+  77. file:///fr/accueil/resourcespages/about-the-manuals
+  78. file:///fr/accueil/resourcespages/disclaimer
+  79. javascript:void(0)
+  80. https://www.googletagmanager.com/ns.html?id=GTM-5MKXR9
+  81. file:///fr/accueil/resourcespages/about-the-manuals
+  82. file:///fr/accueil/resourcespages/disclaimer
+  83. file:///fr/accueil/content/permissions
+  84. https://www.msdprivacy.com/
+  85. javascript:void(0)
+  86. file:///fr/accueil/authors
+  87. file:///fr/accueil/content/termsofuse
+  88. file:///fr/accueil/content/partnerships
+  89. file:///fr/accueil/content/contact-us
+  90. file:///fr/accueil/resourcespages/global-medical-knowledge
+  91. file:///fr/accueil/resourcespages/mobileapps
+
+   Hidden links:
+  93. file://localhost/fr/accueil
+  94. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html
+  95. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html
+  96. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html
+
+[USEMAP]
+file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#desktop258BF70F2F694C07AAEA9776CB47ED9D
+   1. https://apps.apple.com/app/le-manuel-msd-grand-public/id1242291244
+   2. https://play.google.com/store/apps/details?id=com.msd.consumerFrench&referrer=utm_source%3DMMWeb%26utm_medium%3Dbanner%26utm_content%3DTopic1Vertical%26utm_campaign%3DWebAppAds
+
+[USEMAP]
+file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#tablet258BF70F2F694C07AAEA9776CB47ED9D
+   1. https://apps.apple.com/app/le-manuel-msd-grand-public/id1242291244
+   2. https://play.google.com/store/apps/details?id=com.msd.consumerFrench&referrer=utm_source%3DMMWeb%26utm_medium%3Dbanner%26utm_content%3DTopic1Vertical%26utm_campaign%3DWebAppAds
+
+[USEMAP]
+file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_maladies-des-racines-nerveuses%23Diagnostic_v50706978_fr.html#mobile258BF70F2F694C07AAEA9776CB47ED9D
+   1. https://apps.apple.com/app/le-manuel-msd-grand-public/id1242291244
+   2. https://play.google.com/store/apps/details?id=com.msd.consumerFrench&referrer=utm_source%3DMMWeb%26utm_medium%3Dbanner%26utm_content%3DTopic1Vertical%26utm_campaign%3DWebAppAds

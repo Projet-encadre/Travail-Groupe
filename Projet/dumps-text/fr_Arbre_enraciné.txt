@@ -1,0 +1,1223 @@
+   #[1]alternate [2]Modifier [3]Wikipédia (fr) [4]Flux Atom de Wikipédia
+
+   [5]Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * [6]Accueil
+     * [7]Portails thématiques
+     * [8]Article au hasard
+     * [9]Contact
+
+   Contribuer
+     * [10]Débuter sur Wikipédia
+     * [11]Aide
+     * [12]Communauté
+     * [13]Modifications récentes
+
+   [14]Wikipédia l'encyclopédie libre
+   [15]Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * [16]Faire un don
+     * [17]Créer un compte
+     * [18]Se connecter
+
+   [ ] Outils personnels
+     * [19]Faire un don
+     * [20]Créer un compte
+     * [21]Se connecter
+
+   Pages pour les contributeurs déconnectés [22]en savoir plus
+     * [23]Contributions
+     * [24]Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Vocabulaire
+
+     2 Construction
+
+     3 Parcours
+   (BUTTON) Afficher/masquer la sous-section Parcours
+     * 3.1 Parcours en largeur
+
+     3.2 Parcours en profondeur
+
+
+
+   4 Voir aussi
+
+   (BUTTON) Afficher/masquer la sous-section Voir aussi
+     * 4.1 Articles connexes
+
+     * 4.1.1 Notions apparentées
+
+
+
+   4.1.2 Structures de données dérivées
+
+
+
+   5 Notes et références
+
+   (BUTTON) Afficher/masquer la sous-section Notes et références
+     * 5.1 Notes
+
+
+
+   5.2 Références
+
+   [ ] Basculer la table des matières
+
+Arbre enraciné
+
+   [ ] 44 langues
+     * [25]a+l+e+r+b+y+tm
+     * [26]B"lgarski
+     * [27]Català
+     * [28]Cestina
+     * [29]CHvashla
+     * [30]Dansk
+     * [31]Deutsch
+     * [32]English
+     * [33]Esperanto
+     * [34]Español
+     * [35]Eesti
+     * [36]f+a+r+s+
+     * [37]Suomi
+     * [38]Magyar
+     * [39]Bahasa Indonesia
+     * [40]Ido
+     * [41]Íslenska
+     * [42]Italiano
+     * [43]¥¬
+     * [44]­´
+     * [45]Lietuviu
+     * [46]Latviesu
+     * [47]Minangkabau
+     * [48]Makedonski
+     * [49]®²¯¾³
+     * [50]Mongol
+     * [51]Nederlands
+     * [52]Norsk bokmål
+     * [53]Polski
+     * [54]Português
+     * [55]Russkij
+     * [56]Srpskohrvatski / srpskohrvatski
+     * [57]Simple English
+     * [58]Slovenscina
+     * [59]Srpski / srpski
+     * [60]Svenska
+     * [61]¤®¿´
+     * [62]¢
+     * [63]Tagalog
+     * [64]Türkçe
+     * [65]Ukrayins'ka
+     * [66]Tie>'ng Vie>-.t
+     * [67]­
+     * [68]µ
+
+   [69]Modifier les liens
+
+     * [70]Article
+     * [71]Discussion
+
+   [ ] français
+
+     * [72]Lire
+     * [73]Modifier
+     * [74]Modifier le code
+     * [75]Voir l'historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * [76]Lire
+     * [77]Modifier
+     * [78]Modifier le code
+     * [79]Voir l'historique
+
+   Général
+     * [80]Pages liées
+     * [81]Suivi des pages liées
+     * [82]Téléverser un fichier
+     * [83]Pages spéciales
+     * [84]Lien permanent
+     * [85]Informations sur la page
+     * [86]Citer cette page
+     * [87]Obtenir l'URL raccourcie
+     * [88]Télécharger le code QR
+
+   Imprimer/exporter
+     * [89]Créer un livre
+     * [90]Télécharger comme PDF
+     * [91]Version imprimable
+
+   Dans d'autres projets
+     * [92]Wikimedia Commons
+     * [93]Wikilivres
+     * [94]Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   [95]Page d'aide sur l'homonymie
+
+   Pour les articles homonymes, voir [96]Arbre (homonymie).
+   [97]Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour en
+   savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
+   ici pour en savoir plus.
+
+   Cet article [98]ne cite pas suffisamment ses sources (décembre 2020).
+
+   Si vous disposez d'ouvrages ou d'articles de référence ou si vous
+   connaissez des sites web de qualité traitant du thème abordé ici, merci
+   de compléter l'article en donnant les références utiles à sa
+   [99]vérifiabilité et en les liant à la section « [100]Notes et
+   références ».
+
+   En pratique : [101]Quelles sources sont attendues ? [102]Comment
+   ajouter mes sources ?
+   [103][220px-Binary_tree.svg.png] Un [104]arbre binaire de hauteur 3
+
+   En [105]théorie des graphes, un arbre enraciné ou une [106]arborescence
+   est un [107]graphe acyclique orienté possédant une unique racine, et
+   tel que tous les noeuds sauf la racine ont un unique parent.
+
+   En [108]informatique, c'est également une [109]structure de données
+   récursive utilisée pour représenter ce type de graphes.
+
+Vocabulaire
+
+   [[110]modifier | [111]modifier le code]
+
+   Dans un arbre, on distingue deux catégories d'éléments :
+     * les feuilles (ou noeuds externes), éléments ne possédant pas de
+       fils dans l'arbre ;
+     * les noeuds internes, éléments possédant des fils (sous-branches).
+
+   La racine de l'arbre est l'unique noeud ne possédant pas de parent. Les
+   noeuds (les pères avec leurs fils) sont reliés entre eux par une arête.
+   Selon le contexte, un noeud peut désigner un noeud interne ou externe
+   (feuille) de l'arbre.
+
+   La profondeur d'un noeud est la distance, i.e. le nombre d'arêtes, de
+   la racine au noeud^[112][note 1]. La hauteur d'un arbre est la plus
+   grande profondeur d'une feuille de l'arbre. La taille d'un arbre est
+   son nombre de noeuds (en comptant les feuilles ou non), la longueur de
+   cheminement est la somme des profondeurs de chacune des feuilles.
+
+   Les arbres peuvent être étiquetés. Dans ce cas, chaque noeud possède
+   une étiquette, qui est en quelque sorte le « contenu » du noeud.
+   L'étiquette peut être très simple : un nombre entier, par exemple. Elle
+   peut également être aussi complexe que l'on veut : un objet, une
+   instance d'une structure de données, un pointeur, etc. Il est presque
+   toujours obligatoire de pouvoir comparer les étiquettes selon une
+   relation d'[113]ordre total, afin d'implanter les algorithmes sur les
+   arbres.
+
+   Les fichiers et dossiers dans un [114]système de fichiers sont
+   généralement organisés sous forme arborescente. Voir par exemple la
+   [115]FHS.
+
+   Les arbres sont en fait rarement utilisés en tant que tels, mais de
+   nombreux types d'arbres avec une structure plus restrictive existent et
+   sont couramment utilisés en [116]algorithmique, notamment pour gérer
+   des [117]bases de données, ou pour l'indexation de fichiers. Ils
+   permettent alors des recherches rapides et efficaces. Nous vous en
+   donnons ici les principaux exemples :
+     * Les [118]arbres binaires dont chaque noeud a au plus deux fils :
+       ils sont en fait utilisés sous forme d'[119]arbres binaires de
+       recherche, de [120]tas, d'[121]AVL, ou encore d'[122]arbres
+       rouge-noir. Les deux derniers exemples sont des cas particuliers
+       d'[123]arbres équilibrés, c'est-à-dire d'arbres dont les
+       sous-branches ont presque la même hauteur.
+     * Les arbres n-aires qui sont une généralisation des arbres
+       binaires : chaque noeud a au plus n fils. Les [124]arbres 2-3-4 et
+       les [125]arbres B en sont des exemples d'utilisation et sont eux
+       aussi des [126]arbres équilibrés.
+
+Construction
+
+   [[127]modifier | [128]modifier le code]
+
+   Pour construire un arbre à partir de cases ne contenant que des
+   informations, on peut procéder de l'une des trois façons suivantes :
+    1. Créer une structure de données composée de :
+         1. l'étiquette (la valeur contenue dans le noeud),
+         2. un lien vers chaque noeud fils,
+         3. un arbre particulier, l'arbre vide, qui permet de caractériser
+            les feuilles. Une feuille a pour fils des arbres vides
+            uniquement.
+    2. Créer une structure de données composée de :
+         1. l'étiquette (la valeur contenue dans le noeud),
+         2. un lien vers le « premier » noeud fils (noeud fils gauche le
+            cas échéant),
+         3. un autre lien vers le noeud frère (le « premier » noeud frère
+            sur la droite le cas échéant).
+    3. Créer une structure de données composée de :
+         1. l'étiquette (la valeur contenue dans le noeud),
+         2. un lien vers le noeud père.
+
+   On note qu'il existe d'autres types de représentation propres à des cas
+   particuliers d'arbres. Par exemple, le [129]tas est représenté par un
+   tableau d'étiquettes.
+
+Parcours
+
+   [[130]modifier | [131]modifier le code]
+   [132][220px-Boretti_Arbre_niveau.png] Arbre d'exemple pour les parcours
+   d'arbre
+
+   Les [133]parcours d'arbre sont des processus de visites des sommets
+   d'un arbre, par exemple pour trouver une valeur.
+
+Parcours en largeur
+
+   [[134]modifier | [135]modifier le code]
+   Cet algorithme est un cas particulier du parcours en largeur sur les
+   graphes, détaillé dans l'article [136]Algorithme de parcours en
+   largeur.
+
+   Le parcours en largeur correspond à un parcours par niveau de noeuds de
+   l'arbre. Un niveau est un ensemble de noeuds internes ou^[137][note 2]
+   de feuilles situés à la même profondeur -- on parle aussi de noeud ou
+   de feuille de même hauteur dans l'arbre considéré. L'ordre de parcours
+   d'un niveau donné est habituellement conféré, de manière récursive, par
+   l'ordre de parcours des noeuds parents -- noeuds du niveau
+   immédiatement supérieur.
+
+   Ainsi, si l'arbre précédent est utilisé, le parcours sera A, B, C, D,
+   E, F puis G.
+
+Parcours en profondeur
+
+   [[138]modifier | [139]modifier le code]
+   Cet algorithme est un cas particulier du parcours en profondeur sur les
+   graphes, détaillé dans l'article [140]Algorithme de parcours en
+   profondeur.
+
+   Le parcours en profondeur est un parcours [141]récursif sur un arbre.
+   Dans le cas général, deux ordres sont possibles :
+     * Parcours en profondeur préfixe : dans ce mode de parcours, le noeud
+       courant est traité avant ses descendants. Ainsi, si l'arbre
+       précédent est utilisé, le parcours sera A, B, D, E, C, F puis G.
+     * Parcours en profondeur suffixe : dans ce mode de parcours, le noeud
+       courant est traité après ses descendants. Ainsi, si l'arbre
+       précédent est utilisé, le parcours sera D, E, B, F, G, C puis A. Ce
+       mode de parcours correspond à une [142]notation polonaise inversée.
+
+   Pour les arbres binaires, on peut également faire un [143]parcours
+   infixe, c'est-à-dire traiter le noeud courant entre les noeuds gauche
+   et droit. Ainsi, si l'arbre précédent est utilisé, le parcours sera D,
+   B, E, A, F, C puis G.
+
+Voir aussi
+
+   [[144]modifier | [145]modifier le code]
+
+Articles connexes
+
+   [[146]modifier | [147]modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * [148]Arbre enraciné, sur Wikimedia Commons
+     * [149]arbre enraciné, sur le Wiktionnaire
+
+Notions apparentées
+
+   [[150]modifier | [151]modifier le code]
+     * [152]Arbre (graphe)
+     * [153]Arbre (mathématiques)
+     * [154]Arbre de Galton-Watson
+     * [155]Arbre de Merkle (informatique)
+     * [156]Pile spaghetti
+
+Structures de données dérivées
+
+   [[157]modifier | [158]modifier le code]
+     * Les [159]arbres binaires, en particulier les [160]arbres binaires
+       de recherche et les [161]tas ;
+     * Les [162]arbres équilibrés, parmi lesquels on trouve les
+       [163]arbres AVL et les [164]arbres bicolores (qui sont aussi des
+       arbres binaires de recherche), ainsi que les [165]arbres B ;
+     * Les [166]arbres syntaxiques (en [167]linguistique et en
+       [168]compilation) ;
+     * Les [169]tries et les [170]arbres de suffixes (utilisés en
+       algorithmique du texte) ;
+     * Les [171]arbres de complétion utilisés pour réaliser un
+       [172]complètement ;
+     * Les [173]octrees et [174]quadtrees.
+
+Notes et références
+
+   [[175]modifier | [176]modifier le code]
+
+Notes
+
+   [[177]modifier | [178]modifier le code]
+    1. [179]^| Les arêtes d'un arbre peuvent être pondérés. Cette
+       pondération peut servir à l'évaluation d'une mesure entre deux
+       noeuds quelconques de l'arbre. On parle de longueur du (plus court)
+       chemin entre deux noeuds d'un arbre, la longueur étant distincte de
+       la différence des hauteurs respectives.
+    2. [180]^| Le « ou » est large : un niveau peut recouvrir à la fois
+       des noeuds et des feuilles ; en effet, toutes les feuilles d'un
+       arbre ne sont pas nécessairement situées à la même « distance » du
+       noeud racine.
+
+Références
+
+   [[181]modifier | [182]modifier le code]
+   [183]v · [184]m
+   Arbre enraciné
+   [185]Arbre binaire
+     * [186]Arbre binaire de recherche
+     * [187]Arbre de fouille
+     * [188]Arbre cartésien
+     * [189]MVP Tree [190](en)
+     * [191]Top tree [192](en)
+     * [193]T-tree [194](en)
+
+   [195]Arbre équilibré
+     * [196]AA tree [197](en)
+     * [198]Arbre AVL
+     * [199]LLRB tree [200](en)
+     * [201]Arbre bicolore
+     * [202]Arbre bouc-émissaire
+     * [203]Arbre splay
+     * [204]Treap
+
+   [205]Arbre B
+     * [206]B*-tree [207](en)
+     * [208]Bx-tree [209](en)
+     * [210]UB-tree [211](en)
+     * [212]2-3 tree [213](en)
+     * [214]Arbre 2-3-4
+     * [215](a,b)-tree [216](en)
+     * [217]Dancing tree
+     * [218]Htree [219](en)
+
+   [220]Trie
+     * [221]Arbre des suffixes
+     * [222]Arbre radix
+     * [223]Arbre ternaire de recherche
+     * [224]X-fast trie [225](en)
+     * [226]Y-fast trie [227](en)
+
+   [228]Partition binaire de l'espace trees
+     * [229]Quadtree
+     * [230]Octree
+     * [231]Arbre kd ([232]relaxé)
+     * [233]Implicit k-d tree [234](en)
+     * [235]Vp-tree
+
+   Arbres non binaires
+     * [236]Arbre exponentiel
+     * [237]Fusion tree [238](en)
+     * [239]arbre d'intervalles
+     * [240]arbre PQ
+     * [241]arbre de portée (range tree)
+     * [242]arbre SPQR
+     * [243]arbre de Van Emde Boas
+
+   Arbre de [244]base de données spatiales
+     * [245]R-arbre
+     * [246]R+ tree [247](en)
+     * [248]R* tree [249](en)
+     * [250]X-tree [251](en)
+     * [252]M-tree [253](en)
+     * [254]arbre de segments
+     * [255]Hilbert R-tree [256](en)
+     * [257]Priority R-tree [258](en)
+
+   Autres arbres
+     * [259]Arbre de Merkle
+     * [260]Arbre couvrant de poids minimal
+     * [261]Arbre syntaxique
+     * [262]Arbre de la syntaxe abstraite
+     * [263]Finger tree [264](en)
+     * [265]Order statistic tree [266](en)
+     * [267]Arbre métrique
+     * [268]Cover tree [269](en)
+     * [270]BK-tree [271](en)
+     * [272]Doubly chained tree
+     * [273]iDistance [274](en)
+     * [275]Link-cut tree [276](en)
+     * [277]Fenwick tree [278](en)
+     * [279]Tas
+          + [280]Binaire
+          + [281]Binomial
+          + [282]Fibonacci
+     * [283]Arbre cousu
+
+   [284]v · [285]m
+   Éléments de [286]programmation informatique
+   [287]Bibliothèque logicielle
+     * [288]Bibliothèque standard
+     * [289]Espace de noms
+     * [290]Framework
+     * [291]Gabarit
+     * [292]Interface
+     * [293]Interface de programmation (API)
+
+   Vocabulaire
+     * [294]Algorithme
+     * [295]Expression
+     * [296]Indentation
+     * [297]Instruction
+     * [298]Ligne de code
+     * [299]Opérateur
+     * [300]Pseudo-code
+     * [301]Ramasse-miettes
+
+   [302]Fonctions
+     * [303]Convention de nommage
+     * [304]Dispatch multiple
+     * [305]Factorisation
+     * [306]Fonction imbriquée
+     * [307]Fonction de rappel
+     * [308]Fonction d'ordre supérieur
+     * [309]Fonction récursive
+     * [310]Généricité
+     * [311]Opérande
+     * [312]Paramètre
+     * [313]Polymorphisme
+     * [314]Procédure
+     * [315]Signature de type
+     * [316]Surcharge
+
+   [317]Objet
+     * [318]Classe
+     * [319]Constructeur
+     * [320]Destructeur
+     * [321]Encapsulation
+     * [322]Héritage
+     * [323]Héritage multiple
+     * [324]Instance
+     * [325]Méthode
+
+   [326]Événementiel [327]Inversion de contrôle
+   [328]Code source
+   [329]Structures de données
+     * Arbre
+     * [330]Attribut
+     * [331]Caractère
+     * [332]Enregistrement
+     * [333]Ensemble
+     * [334]File
+     * [335]Liste
+     * [336]Liste chaînée
+     * [337]Pile
+     * [338]Propriété
+     * [339]Sémaphore
+     * [340]Tableau
+     * [341]Tas
+     * [342]Type abstrait
+     * [343]Vecteur
+
+   [344]Déclarations
+     * [345]Affectation
+     * [346]Pointeur
+     * [347]Portée
+     * [348]Référence
+     * [349]Tableau associatif
+     * [350]Type énuméré
+     * [351]Type récursif
+     * [352]Typage statique
+     * [353]Variable
+     * [354]Variable globale
+     * [355]Variable locale
+
+   [356]Structures de contrôle
+     * [357]Case
+     * [358]Do
+     * [359]Else
+     * [360]Eval
+     * [361]If
+     * [362]For
+     * [363]Goto
+     * [364]Loop
+     * [365]Switch
+     * [366]While
+
+   [367]Fonctions usuelles
+     * [368]Concaténation
+     * [369]Incrémentation
+     * [370]malloc
+     * [371]printf
+
+   [372]Outil de développement
+     * [373]Environnement de développement
+     * [374]Générateur de documentation
+     * [375]Gestion de versions
+     * [376]Modèle
+     * [377]Patch
+     * [378]Spécification
+
+   Folklore
+     * [379]Hello world
+     * [380]Principe KISS
+     * [381]Langage de programmation exotique
+
+   Catégories :
+     * [382]Programmation informatique
+     * [383]Développement logiciel
+
+   [384]v · [385]m
+   [386]Informatique théorique
+   Codage
+     * [387]Codage de l'information
+     * [388]Compression de données
+     * [389]Chiffrement
+     * [390]Cryptanalyse
+     * [391]Cryptographie
+     * [392]Théorie de l'information
+
+   Modèles de calcul
+     * [393]Calculabilité
+     * [394]Décidabilité et indécidabilité
+     * [395]Ensemble récursif
+     * [396]Problème de l'arrêt
+     * [397]Ensemble récursivement énumérable
+     * [398]Machine de Turing
+     * [399]Thèse de Church
+     * [400]Automate cellulaire
+     * [401]Réseau de neurones artificiels
+     * [402]Réduction polynomiale
+     * [403]Problème NP-complet
+     * [404]Principe de Church-Turing-Deutsch
+
+   [405]Algorithmique
+     * [406]Algorithmique
+     * [407]Algorithme glouton
+     * [408]Algorithme probabiliste
+     * [409]Algorithme génétique
+     * [410]Complexité algorithmique
+     * [411]Analyse d'algorithme
+     * [412]Diviser pour régner
+     * [413]Heuristique
+     * [414]Programmation dynamique
+     * [415]Géométrie algorithmique
+     * [416]Algorithmes de tri
+     * [417]Algorithmique du texte
+     * [418]Exploration de données
+     * [419]Science des données
+     * [420]Apprentissage profond
+     * [421]Test de primalité
+     * [422]Structure de données
+     * Arbre enraciné
+     * [423]Concurrence
+     * [424]Parallélisme
+
+   Syntaxe
+     * [425]Réécriture
+     * [426]Compilation
+     * [427]Expression régulière
+     * [428]Grammaire formelle
+     * [429]Langage rationnel
+     * [430]Ensemble rationnel
+     * [431]Théorie des langages
+     * [432]Théorie des automates
+     * [433]Automate fini
+     * [434]Automate sur les mots infinis
+     * [435]Automate d'arbres
+     * [436]Automate à pile
+     * [437]Hiérarchie de Chomsky
+     * [438]Linguistique informatique
+
+   Sémantique
+     * [439]Interprétation abstraite
+     * [440]Méthodes formelles
+     * [441]Vérification de modèles
+     * [442]Sémantique des langages de programmation
+     * [443]Sémantique dénotationnelle
+     * [444]Sémantique axiomatique
+     * [445]Sémantique opérationnelle
+
+   [446]Logique mathématique
+     * [447]Assistant de preuve
+     * [448]Calcul des prédicats
+     * [449]Correspondance de Curry-Howard
+     * [450]Fonction récursive
+     * [451]Lambda-calcul
+     * [452]Théorèmes d'incomplétude de Gödel
+     * [453]Théorie des types
+
+   [454]Mathématiques discrètes
+     * [455]Combinatoire
+     * [456]Algorithme du simplexe
+     * [457]Optimisation combinatoire
+     * [458]Théorie des graphes
+     * [459]Algorithmes de la théorie des graphes
+     * [460]Recherche opérationnelle
+     * [461]Théorie de la décision
+     * [462]Analyse numérique
+
+     * [463]icône décorative [464]Portail de la programmation informatique
+     * [465]icône décorative [466]Portail de l'informatique théorique
+
+   Ce document provient de
+   « [467]https://fr.wikipedia.org/w/index.php?title=Arbre_enraciné&oldid=
+   207048759 ».
+   [468]Catégorie:
+     * [469]Arbre (structure de données)
+
+   Catégories cachées:
+     * [470]Article manquant de références depuis décembre 2020
+     * [471]Article manquant de références/Liste complète
+     * [472]Catégorie Commons avec lien local identique sur Wikidata
+     * [473]Article contenant un appel à traduction en anglais
+     * [474]Portail:Programmation informatique/Articles liés
+     * [475]Portail:Informatique/Articles liés
+     * [476]Portail:Informatique théorique/Articles liés
+     * [477]Projet:Mathématiques/Articles
+
+     * La dernière modification de cette page a été faite le 18 août 2023
+       à 22:32.
+     * [478]Droit d'auteur : les textes sont disponibles sous [479]licence
+       Creative Commons attribution, partage dans les mêmes conditions ;
+       d'autres conditions peuvent s'appliquer. Voyez les [480]conditions
+       d'utilisation pour plus de détails, ainsi que les [481]crédits
+       graphiques. En cas de réutilisation des textes de cette page, voyez
+       [482]comment citer les auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la [483]Wikimedia Foundation,
+       Inc., organisation de bienfaisance régie par le paragraphe
+       [484]501(c)(3) du code fiscal des États-Unis.
+
+     * [485]Politique de confidentialité
+     * [486]À propos de Wikipédia
+     * [487]Avertissements
+     * [488]Contact
+     * [489]Code de conduite
+     * [490]Développeurs
+     * [491]Statistiques
+     * [492]Déclaration sur les témoins (cookies)
+     * [493]Version mobile
+
+     * [494]Wikimedia Foundation
+     * [495]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://fr.m.wikipedia.org/wiki/Arbre_enracin%C3%A9
+   2. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+   8. file:///wiki/Sp%C3%A9cial:Page_au_hasard
+   9. file:///wiki/Wikip%C3%A9dia:Contact
+  10. file:///wiki/Aide:D%C3%A9buter
+  11. file:///wiki/Aide:Accueil
+  12. file:///wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9
+  13. file:///wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes
+  14. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+  15. file:///wiki/Sp%C3%A9cial:Recherche
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  17. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Arbre+enracin%C3%A9
+  18. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Arbre+enracin%C3%A9
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  20. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Arbre+enracin%C3%A9
+  21. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Arbre+enracin%C3%A9
+  22. file:///wiki/Aide:Premiers_pas
+  23. file:///wiki/Sp%C3%A9cial:Mes_contributions
+  24. file:///wiki/Sp%C3%A9cial:Mes_discussions
+  25. https://ar.wikipedia.org/wiki/%D8%B4%D8%AC%D8%B1%D8%A9_(%D9%87%D9%8A%D8%A7%D9%83%D9%84_%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA)
+  26. https://bg.wikipedia.org/wiki/%D0%94%D1%8A%D1%80%D0%B2%D0%BE_(%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BE%D1%82_%D0%B4%D0%B0%D0%BD%D0%BD%D0%B8)
+  27. https://ca.wikipedia.org/wiki/Arbre_(estructura_de_dades)
+  28. https://cs.wikipedia.org/wiki/Strom_(datov%C3%A1_struktura)
+  29. https://cv.wikipedia.org/wiki/%D0%99%D1%8B%D0%B2%C4%83%C3%A7_(%D0%BF%D0%B0%D0%BD%C4%83%D0%BB%C4%83%D1%85%D1%81%D0%B5%D0%BD_%D1%82%D1%8B%D1%82%C4%83%D0%BC%C4%95)
+  30. https://da.wikipedia.org/wiki/Tr%C3%A6_(datastruktur)
+  31. https://de.wikipedia.org/wiki/Baum_(Datenstruktur)
+  32. https://en.wikipedia.org/wiki/Tree_(abstract_data_type)
+  33. https://eo.wikipedia.org/wiki/Arbo_(datumstrukturo)
+  34. https://es.wikipedia.org/wiki/%C3%81rbol_(inform%C3%A1tica)
+  35. https://et.wikipedia.org/wiki/Puu_(andmestruktuur)
+  36. https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D8%AE%D8%AA_(%D8%B3%D8%A7%D8%AE%D8%AA%D8%A7%D8%B1_%D8%AF%D8%A7%D8%AF%D9%87)
+  37. https://fi.wikipedia.org/wiki/Puu_(tietorakenne)
+  38. https://hu.wikipedia.org/wiki/Fa_(adatszerkezet)
+  39. https://id.wikipedia.org/wiki/Pohon_(struktur_data)
+  40. https://io.wikipedia.org/wiki/Arboro_(informatiko)
+  41. https://is.wikipedia.org/wiki/Tr%C3%A9_(t%C3%B6lvunarfr%C3%A6%C3%B0i)
+  42. https://it.wikipedia.org/wiki/Albero_(informatica)
+  43. https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%A7%8B%E9%80%A0_(%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0)
+  44. https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A6%AC_%EA%B5%AC%EC%A1%B0
+  45. https://lt.wikipedia.org/wiki/Medis_(duomen%C5%B3_strukt%C5%ABra)
+  46. https://lv.wikipedia.org/wiki/Koks_(datu_strukt%C5%ABra)
+  47. https://min.wikipedia.org/wiki/Pohon
+  48. https://mk.wikipedia.org/wiki/%D0%94%D1%80%D0%B2%D0%BE_(%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D1%87%D0%BD%D0%B0_%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0)
+  49. https://ml.wikipedia.org/wiki/%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B5%80_(%E0%B4%A1%E0%B4%BE%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B4%BE_%E0%B4%B8%E0%B5%8D%E0%B4%9F%E0%B5%8D%E0%B4%B0%E0%B4%95%E0%B5%8D%E0%B4%9A%E0%B5%BC)
+  50. https://mn.wikipedia.org/wiki/%D0%9C%D0%BE%D0%B4_(%D3%A9%D0%B3%D3%A9%D0%B3%D0%B4%D0%BB%D0%B8%D0%B9%D0%BD_%D0%B1%D2%AF%D1%82%D1%8D%D1%86)
+  51. https://nl.wikipedia.org/wiki/Boom_(datastructuur)
+  52. https://no.wikipedia.org/wiki/Tre_(datastruktur)
+  53. https://pl.wikipedia.org/wiki/Drzewo_(informatyka)
+  54. https://pt.wikipedia.org/wiki/%C3%81rvore_(estrutura_de_dados)
+  55. https://ru.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_(%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+  56. https://sh.wikipedia.org/wiki/Stablo_(struktura_podataka)
+  57. https://simple.wikipedia.org/wiki/Tree_(data_structure)
+  58. https://sl.wikipedia.org/wiki/Drevo_(podatkovna_struktura)
+  59. https://sr.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D0%B1%D0%BB%D0%BE_(%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%B0%D0%BA%D0%B0)
+  60. https://sv.wikipedia.org/wiki/Tr%C3%A4d_(datastruktur)
+  61. https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AE%B0%E0%AE%AE%E0%AF%8D_(%E0%AE%A4%E0%AE%B0%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81)
+  62. https://th.wikipedia.org/wiki/%E0%B8%95%E0%B9%89%E0%B8%99%E0%B9%84%E0%B8%A1%E0%B9%89_(%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B8%AA%E0%B8%A3%E0%B9%89%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5)
+  63. https://tl.wikipedia.org/wiki/Puno_(estruktura_ng_datos)
+  64. https://tr.wikipedia.org/wiki/A%C4%9Fa%C3%A7_(veri_yap%C4%B1s%C4%B1)
+  65. https://uk.wikipedia.org/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE_(%D1%81%D1%82%D1%80%D1%83%D0%BA%D1%82%D1%83%D1%80%D0%B0_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85)
+  66. https://vi.wikipedia.org/wiki/C%C3%A2y_(c%E1%BA%A5u_tr%C3%BAc_d%E1%BB%AF_li%E1%BB%87u)
+  67. https://zh.wikipedia.org/wiki/%E6%A0%91_(%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84)
+  68. https://zh-yue.wikipedia.org/wiki/%E6%A8%B9_(%E6%8A%BD%E8%B1%A1%E8%B3%87%E6%96%99%E9%A1%9E%E5%9E%8B)
+  69. https://www.wikidata.org/wiki/Special:EntityPage/Q223655#sitelinks-wikipedia
+  70. file:///wiki/Arbre_enracin%C3%A9
+  71. file:///wiki/Discussion:Arbre_enracin%C3%A9
+  72. file:///wiki/Arbre_enracin%C3%A9
+  73. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit
+  74. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit
+  75. file:///w/index.php?title=Arbre_enracin%C3%A9&action=history
+  76. file:///wiki/Arbre_enracin%C3%A9
+  77. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit
+  78. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit
+  79. file:///w/index.php?title=Arbre_enracin%C3%A9&action=history
+  80. file:///wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Arbre_enracin%C3%A9
+  81. file:///wiki/Sp%C3%A9cial:Suivi_des_liens/Arbre_enracin%C3%A9
+  82. file:///wiki/Aide:Importer_un_fichier
+  83. file:///wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+  84. file:///w/index.php?title=Arbre_enracin%C3%A9&oldid=207048759
+  85. file:///w/index.php?title=Arbre_enracin%C3%A9&action=info
+  86. file:///w/index.php?title=Sp%C3%A9cial:Citer&page=Arbre_enracin%C3%A9&id=207048759&wpFormIdentifier=titleform
+  87. file:///w/index.php?title=Sp%C3%A9cial:UrlShortener&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FArbre_enracin%25C3%25A9
+  88. file:///w/index.php?title=Sp%C3%A9cial:QrCode&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FArbre_enracin%25C3%25A9
+  89. file:///w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Arbre+enracin%C3%A9
+  90. file:///w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Arbre_enracin%C3%A9&action=show-download-screen
+  91. file:///w/index.php?title=Arbre_enracin%C3%A9&printable=yes
+  92. https://commons.wikimedia.org/wiki/Category:Tree_structures
+  93. https://fr.wikibooks.org/wiki/Programmation_algorithmique/Arbres
+  94. https://www.wikidata.org/wiki/Special:EntityPage/Q223655
+  95. file:///wiki/Aide:Homonymie
+  96. file:///wiki/Arbre_(homonymie)
+  97. file:///wiki/Mod%C3%A8le:%C3%80_sourcer
+  98. file:///wiki/Wikip%C3%A9dia:Citez_vos_sources
+  99. file:///wiki/Wikip%C3%A9dia:V%C3%A9rifiabilit%C3%A9
+ 100. file:///wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence
+ 101. file:///wiki/Wikip%C3%A9dia:Citez_vos_sources#Qualit%C3%A9_des_sources
+ 102. file:///wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence_(%C3%89diteur_visuel)
+ 103. file:///wiki/Fichier:Binary_tree.svg
+ 104. file:///wiki/Arbre_binaire
+ 105. file:///wiki/Th%C3%A9orie_des_graphes
+ 106. file:///wiki/Arborescence
+ 107. file:///wiki/Graphe_orient%C3%A9_acyclique
+ 108. file:///wiki/Informatique
+ 109. file:///wiki/Structure_de_donn%C3%A9es
+ 110. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=1
+ 111. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=1
+ 112. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#cite_note-1
+ 113. file:///wiki/Ordre_total
+ 114. file:///wiki/Syst%C3%A8me_de_fichiers
+ 115. file:///wiki/Filesystem_Hierarchy_Standard
+ 116. file:///wiki/Algorithmique
+ 117. file:///wiki/Base_de_donn%C3%A9es
+ 118. file:///wiki/Arbre_binaire
+ 119. file:///wiki/Arbre_binaire_de_recherche
+ 120. file:///wiki/Tas_(informatique)
+ 121. file:///wiki/Arbre_AVL
+ 122. file:///wiki/Arbre_bicolore
+ 123. file:///wiki/Arbre_%C3%A9quilibr%C3%A9
+ 124. file:///wiki/Arbre_2-3-4
+ 125. file:///wiki/Arbre_B
+ 126. file:///wiki/Arbre_%C3%A9quilibr%C3%A9
+ 127. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=2
+ 128. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=2
+ 129. file:///wiki/Tas_(informatique)
+ 130. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=3
+ 131. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=3
+ 132. file:///wiki/Fichier:Boretti_Arbre_niveau.png
+ 133. file:///wiki/Parcours_d%27arbre
+ 134. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=4
+ 135. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=4
+ 136. file:///wiki/Algorithme_de_parcours_en_largeur
+ 137. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#cite_note-2
+ 138. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=5
+ 139. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=5
+ 140. file:///wiki/Algorithme_de_parcours_en_profondeur
+ 141. file:///wiki/Algorithme_r%C3%A9cursif
+ 142. file:///wiki/Notation_polonaise_inverse
+ 143. file:///wiki/Arbre_binaire#Parcours_infixe
+ 144. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=6
+ 145. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=6
+ 146. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=7
+ 147. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=7
+ 148. https://commons.wikimedia.org/wiki/Category:Tree_structures?uselang=fr
+ 149. https://fr.wiktionary.org/wiki/arbre_enracin%C3%A9
+ 150. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=8
+ 151. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=8
+ 152. file:///wiki/Arbre_(graphe)
+ 153. file:///wiki/Arbre_(math%C3%A9matiques)
+ 154. file:///wiki/Arbre_de_Galton-Watson
+ 155. file:///wiki/Arbre_de_Merkle
+ 156. file:///wiki/Pile_spaghetti
+ 157. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=9
+ 158. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=9
+ 159. file:///wiki/Arbre_binaire
+ 160. file:///wiki/Arbre_binaire_de_recherche
+ 161. file:///wiki/Tas_(informatique)
+ 162. file:///wiki/Arbre_%C3%A9quilibr%C3%A9
+ 163. file:///wiki/Arbre_AVL
+ 164. file:///wiki/Arbre_bicolore
+ 165. file:///wiki/Arbre_B
+ 166. file:///wiki/Arbre_syntaxique
+ 167. file:///wiki/Linguistique
+ 168. file:///wiki/Compilateur
+ 169. file:///wiki/Trie_(informatique)
+ 170. file:///wiki/Arbre_des_suffixes
+ 171. file:///wiki/Arbre_de_compl%C3%A9tion
+ 172. file:///wiki/Compl%C3%A8tement
+ 173. file:///wiki/Octree
+ 174. file:///wiki/Quadtree
+ 175. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=10
+ 176. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=10
+ 177. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=11
+ 178. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=11
+ 179. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#cite_ref-1
+ 180. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#cite_ref-2
+ 181. file:///w/index.php?title=Arbre_enracin%C3%A9&veaction=edit&section=12
+ 182. file:///w/index.php?title=Arbre_enracin%C3%A9&action=edit&section=12
+ 183. file:///wiki/Mod%C3%A8le:Palette_Arbres_informatiques
+ 184. https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Arbres_informatiques&action=edit
+ 185. file:///wiki/Arbre_binaire
+ 186. file:///wiki/Arbre_binaire_de_recherche
+ 187. file:///wiki/Arbre_de_fouille
+ 188. file:///wiki/Arbre_cart%C3%A9sien
+ 189. file:///w/index.php?title=MVP_Tree&action=edit&redlink=1
+ 190. https://en.wikipedia.org/wiki/MVP_Tree
+ 191. file:///w/index.php?title=Top_tree&action=edit&redlink=1
+ 192. https://en.wikipedia.org/wiki/Top_tree
+ 193. file:///w/index.php?title=T-tree&action=edit&redlink=1
+ 194. https://en.wikipedia.org/wiki/T-tree
+ 195. file:///wiki/Arbre_%C3%A9quilibr%C3%A9
+ 196. file:///w/index.php?title=AA_tree&action=edit&redlink=1
+ 197. https://en.wikipedia.org/wiki/AA_tree
+ 198. file:///wiki/Arbre_AVL
+ 199. file:///w/index.php?title=LLRB_tree&action=edit&redlink=1
+ 200. https://en.wikipedia.org/wiki/LLRB_tree
+ 201. file:///wiki/Arbre_bicolore
+ 202. file:///wiki/Arbre_bouc-%C3%A9missaire
+ 203. file:///wiki/Arbre_splay
+ 204. file:///wiki/Treap
+ 205. file:///wiki/Arbre_B
+ 206. file:///w/index.php?title=B*-tree&action=edit&redlink=1
+ 207. https://en.wikipedia.org/wiki/B*-tree
+ 208. file:///w/index.php?title=Bx-tree&action=edit&redlink=1
+ 209. https://en.wikipedia.org/wiki/Bx-tree
+ 210. file:///w/index.php?title=UB-tree&action=edit&redlink=1
+ 211. https://en.wikipedia.org/wiki/UB-tree
+ 212. file:///w/index.php?title=2-3_tree&action=edit&redlink=1
+ 213. https://en.wikipedia.org/wiki/2-3_tree
+ 214. file:///wiki/Arbre_2-3-4
+ 215. file:///w/index.php?title=(a,b)-tree&action=edit&redlink=1
+ 216. https://en.wikipedia.org/wiki/(a,b)-tree
+ 217. file:///wiki/Dancing_tree
+ 218. file:///w/index.php?title=Htree&action=edit&redlink=1
+ 219. https://en.wikipedia.org/wiki/Htree
+ 220. file:///wiki/Trie_(informatique)
+ 221. file:///wiki/Arbre_des_suffixes
+ 222. file:///wiki/Arbre_radix
+ 223. file:///wiki/Arbre_ternaire_de_recherche
+ 224. file:///w/index.php?title=X-fast_trie&action=edit&redlink=1
+ 225. https://en.wikipedia.org/wiki/X-fast_trie
+ 226. file:///w/index.php?title=Y-fast_trie&action=edit&redlink=1
+ 227. https://en.wikipedia.org/wiki/Y-fast_trie
+ 228. file:///wiki/Partition_binaire_de_l%27espace
+ 229. file:///wiki/Quadtree
+ 230. file:///wiki/Octree
+ 231. file:///wiki/Arbre_kd
+ 232. file:///wiki/Arbre_kd_relax%C3%A9
+ 233. file:///w/index.php?title=Implicit_k-d_tree&action=edit&redlink=1
+ 234. https://en.wikipedia.org/wiki/Implicit_k-d_tree
+ 235. file:///wiki/Vantage_point_tree
+ 236. file:///wiki/Arbre_exponentiel
+ 237. file:///w/index.php?title=Fusion_tree&action=edit&redlink=1
+ 238. https://en.wikipedia.org/wiki/Fusion_tree
+ 239. file:///wiki/Arbre_d%27intervalles
+ 240. file:///wiki/Arbre_PQ
+ 241. file:///wiki/Arbre_de_port%C3%A9e
+ 242. file:///wiki/Arbre_SPQR
+ 243. file:///wiki/Arbre_de_Van_Emde_Boas
+ 244. file:///wiki/Base_de_donn%C3%A9es_spatiales
+ 245. file:///wiki/R-arbre
+ 246. file:///w/index.php?title=R%2B_tree&action=edit&redlink=1
+ 247. https://en.wikipedia.org/wiki/R%2B_tree
+ 248. file:///w/index.php?title=R*_tree&action=edit&redlink=1
+ 249. https://en.wikipedia.org/wiki/R*_tree
+ 250. file:///w/index.php?title=X-tree&action=edit&redlink=1
+ 251. https://en.wikipedia.org/wiki/X-tree
+ 252. file:///w/index.php?title=M-tree&action=edit&redlink=1
+ 253. https://en.wikipedia.org/wiki/M-tree
+ 254. file:///wiki/Arbre_de_segments
+ 255. file:///w/index.php?title=Hilbert_R-tree&action=edit&redlink=1
+ 256. https://en.wikipedia.org/wiki/Hilbert_R-tree
+ 257. file:///w/index.php?title=Priority_R-tree&action=edit&redlink=1
+ 258. https://en.wikipedia.org/wiki/Priority_R-tree
+ 259. file:///wiki/Arbre_de_Merkle
+ 260. file:///wiki/Arbre_couvrant_de_poids_minimal
+ 261. file:///wiki/Arbre_syntaxique
+ 262. file:///wiki/Arbre_de_la_syntaxe_abstraite
+ 263. file:///w/index.php?title=Finger_tree&action=edit&redlink=1
+ 264. https://en.wikipedia.org/wiki/Finger_tree
+ 265. file:///w/index.php?title=Order_statistic_tree&action=edit&redlink=1
+ 266. https://en.wikipedia.org/wiki/Order_statistic_tree
+ 267. file:///wiki/Arbre_m%C3%A9trique
+ 268. file:///w/index.php?title=Cover_tree&action=edit&redlink=1
+ 269. https://en.wikipedia.org/wiki/Cover_tree
+ 270. file:///w/index.php?title=BK-tree&action=edit&redlink=1
+ 271. https://en.wikipedia.org/wiki/BK-tree
+ 272. file:///wiki/Doubly_chained_tree
+ 273. file:///w/index.php?title=IDistance&action=edit&redlink=1
+ 274. https://en.wikipedia.org/wiki/iDistance
+ 275. file:///w/index.php?title=Link-cut_tree&action=edit&redlink=1
+ 276. https://en.wikipedia.org/wiki/Link-cut_tree
+ 277. file:///w/index.php?title=Fenwick_tree&action=edit&redlink=1
+ 278. https://en.wikipedia.org/wiki/Fenwick_tree
+ 279. file:///wiki/Tas_(informatique)
+ 280. file:///wiki/Tas_binaire
+ 281. file:///wiki/Tas_binomial
+ 282. file:///wiki/Tas_de_Fibonacci
+ 283. file:///wiki/Arbre_cousu
+ 284. file:///wiki/Mod%C3%A8le:Palette_Programmation_informatique
+ 285. https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Programmation_informatique&action=edit
+ 286. file:///wiki/Programmation_informatique
+ 287. file:///wiki/Biblioth%C3%A8que_logicielle
+ 288. file:///wiki/Biblioth%C3%A8que_standard
+ 289. file:///wiki/Espace_de_noms_(programmation)
+ 290. file:///wiki/Framework
+ 291. file:///wiki/Gabarit_(mise_en_page)
+ 292. file:///wiki/Interface_(informatique)
+ 293. file:///wiki/Interface_de_programmation
+ 294. file:///wiki/Algorithmique
+ 295. file:///wiki/Expression_(informatique)
+ 296. file:///wiki/Style_d%27indentation
+ 297. file:///wiki/Instruction_informatique
+ 298. file:///wiki/Ligne_de_code
+ 299. file:///wiki/Op%C3%A9rateur_(informatique)
+ 300. file:///wiki/Pseudo-code
+ 301. file:///wiki/Ramasse-miettes_(informatique)
+ 302. file:///wiki/Routine_(informatique)
+ 303. file:///wiki/Convention_de_nommage
+ 304. file:///wiki/Dispatch_multiple
+ 305. file:///wiki/R%C3%A9usinage_de_code
+ 306. file:///wiki/Fonction_imbriqu%C3%A9e
+ 307. file:///wiki/Fonction_de_rappel
+ 308. file:///wiki/Fonction_d%27ordre_sup%C3%A9rieur
+ 309. file:///wiki/Fonction_r%C3%A9cursive
+ 310. file:///wiki/G%C3%A9n%C3%A9ricit%C3%A9
+ 311. file:///wiki/Op%C3%A9rande
+ 312. file:///wiki/Param%C3%A8tre_(programmation_informatique)
+ 313. file:///wiki/Polymorphisme_(informatique)
+ 314. file:///wiki/Routine_(informatique)
+ 315. file:///wiki/Signature_de_type
+ 316. file:///wiki/Surcharge_de_fonction
+ 317. file:///wiki/Programmation_orient%C3%A9e_objet
+ 318. file:///wiki/Classe_(informatique)
+ 319. file:///wiki/Constructeur_(programmation)
+ 320. file:///wiki/Destructeur
+ 321. file:///wiki/Encapsulation_(programmation)
+ 322. file:///wiki/H%C3%A9ritage_(informatique)
+ 323. file:///wiki/H%C3%A9ritage_multiple
+ 324. file:///wiki/Instance_(programmation)
+ 325. file:///wiki/M%C3%A9thode_(informatique)
+ 326. file:///wiki/Programmation_%C3%A9v%C3%A9nementielle
+ 327. file:///wiki/Inversion_de_contr%C3%B4le
+ 328. file:///wiki/Code_source
+ 329. file:///wiki/Structure_de_donn%C3%A9es
+ 330. file:///wiki/Attribut_(informatique)
+ 331. file:///wiki/Caract%C3%A8re_(informatique)
+ 332. file:///wiki/Enregistrement_(structure_de_donn%C3%A9es)
+ 333. file:///wiki/Ensemble_(informatique)
+ 334. file:///wiki/File_(structure_de_donn%C3%A9es)
+ 335. file:///wiki/Liste_(informatique)
+ 336. file:///wiki/Liste_cha%C3%AEn%C3%A9e
+ 337. file:///wiki/Pile_(informatique)
+ 338. file:///wiki/Propri%C3%A9t%C3%A9_(informatique)
+ 339. file:///wiki/S%C3%A9maphore_(informatique)
+ 340. file:///wiki/Tableau_(structure_de_donn%C3%A9es)
+ 341. file:///wiki/Tas_(informatique)
+ 342. file:///wiki/Type_abstrait
+ 343. file:///wiki/Vecteur_(structure_de_donn%C3%A9es)
+ 344. file:///wiki/D%C3%A9claration_(informatique)
+ 345. file:///wiki/Affectation_(informatique)
+ 346. file:///wiki/Pointeur_(programmation)
+ 347. file:///wiki/Port%C3%A9e_(informatique)
+ 348. file:///wiki/R%C3%A9f%C3%A9rence_(programmation)
+ 349. file:///wiki/Tableau_associatif
+ 350. file:///wiki/Type_%C3%A9num%C3%A9r%C3%A9
+ 351. file:///wiki/Type_r%C3%A9cursif
+ 352. file:///wiki/Typage_statique
+ 353. file:///wiki/Variable_(informatique)
+ 354. file:///wiki/Variable_globale
+ 355. file:///wiki/Variable_locale
+ 356. file:///wiki/Structure_de_contr%C3%B4le
+ 357. file:///wiki/Case_(instruction)
+ 358. file:///wiki/Structure_de_contr%C3%B4le#Boucle_jusqu'%C3%A0_ce_que
+ 359. file:///wiki/Structure_de_contr%C3%B4le#Test_si_sinon
+ 360. file:///wiki/Eval
+ 361. file:///wiki/Structure_de_contr%C3%B4le#Test_si
+ 362. file:///wiki/Boucle_for
+ 363. file:///wiki/Goto_(informatique)
+ 364. file:///wiki/Structure_de_contr%C3%B4le#Boucles
+ 365. file:///wiki/Switch_(instruction)
+ 366. file:///wiki/Boucle_while
+ 367. file:///wiki/Routine_(informatique)
+ 368. file:///wiki/Concat%C3%A9nation
+ 369. file:///wiki/Incr%C3%A9mentation
+ 370. file:///wiki/Malloc
+ 371. file:///wiki/Printf
+ 372. file:///wiki/Cat%C3%A9gorie:Outil_de_d%C3%A9veloppement_logiciel
+ 373. file:///wiki/Environnement_de_d%C3%A9veloppement
+ 374. file:///wiki/G%C3%A9n%C3%A9rateur_de_documentation
+ 375. file:///wiki/Gestion_de_versions
+ 376. file:///wiki/Mod%C3%A8le_(informatique)
+ 377. file:///wiki/Patch_(informatique)
+ 378. file:///wiki/Sp%C3%A9cification_(norme_technique)
+ 379. file:///wiki/Hello_world
+ 380. file:///wiki/Principe_KISS
+ 381. file:///wiki/Langage_de_programmation_exotique
+ 382. file:///wiki/Cat%C3%A9gorie:Programmation_informatique
+ 383. file:///wiki/Cat%C3%A9gorie:D%C3%A9veloppement_logiciel
+ 384. file:///wiki/Mod%C3%A8le:Palette_Informatique_th%C3%A9orique
+ 385. https://fr.wikipedia.org/w/index.php?title=Mod%C3%A8le:Palette_Informatique_th%C3%A9orique&action=edit
+ 386. file:///wiki/Informatique_th%C3%A9orique
+ 387. file:///wiki/Codage_de_l%27information
+ 388. file:///wiki/Compression_de_donn%C3%A9es
+ 389. file:///wiki/Chiffrement
+ 390. file:///wiki/Cryptanalyse
+ 391. file:///wiki/Cryptographie
+ 392. file:///wiki/Th%C3%A9orie_de_l%27information
+ 393. file:///wiki/Th%C3%A9orie_de_la_calculabilit%C3%A9
+ 394. file:///wiki/D%C3%A9cidabilit%C3%A9
+ 395. file:///wiki/Ensemble_r%C3%A9cursif
+ 396. file:///wiki/Probl%C3%A8me_de_l%27arr%C3%AAt
+ 397. file:///wiki/R%C3%A9cursivement_%C3%A9num%C3%A9rable
+ 398. file:///wiki/Machine_de_Turing
+ 399. file:///wiki/Th%C3%A8se_de_Church
+ 400. file:///wiki/Automate_cellulaire
+ 401. file:///wiki/R%C3%A9seau_de_neurones_artificiels
+ 402. file:///wiki/R%C3%A9duction_polynomiale
+ 403. file:///wiki/Cat%C3%A9gorie:Probl%C3%A8me_NP-complet
+ 404. file:///wiki/Principe_de_Church-Turing-Deutsch
+ 405. file:///wiki/Algorithmique
+ 406. file:///wiki/Algorithmique
+ 407. file:///wiki/Algorithme_glouton
+ 408. file:///wiki/Algorithme_probabiliste
+ 409. file:///wiki/Algorithme_g%C3%A9n%C3%A9tique
+ 410. file:///wiki/Th%C3%A9orie_de_la_complexit%C3%A9_(informatique_th%C3%A9orique)
+ 411. file:///wiki/Analyse_de_la_complexit%C3%A9_des_algorithmes
+ 412. file:///wiki/Diviser_pour_r%C3%A9gner_(informatique)
+ 413. file:///wiki/Heuristique_(math%C3%A9matiques)
+ 414. file:///wiki/Programmation_dynamique
+ 415. file:///wiki/G%C3%A9om%C3%A9trie_algorithmique
+ 416. file:///wiki/Algorithme_de_tri
+ 417. file:///wiki/Algorithmique_du_texte
+ 418. file:///wiki/Exploration_de_donn%C3%A9es
+ 419. file:///wiki/Science_des_donn%C3%A9es
+ 420. file:///wiki/Apprentissage_profond
+ 421. file:///wiki/Test_de_primalit%C3%A9
+ 422. file:///wiki/Structure_de_donn%C3%A9es
+ 423. file:///wiki/Programmation_concurrente
+ 424. file:///wiki/Parall%C3%A9lisme_(informatique)
+ 425. file:///wiki/R%C3%A9%C3%A9criture_(informatique)
+ 426. file:///wiki/Compilateur
+ 427. file:///wiki/Expression_r%C3%A9guli%C3%A8re
+ 428. file:///wiki/Grammaire_formelle
+ 429. file:///wiki/Langage_rationnel
+ 430. file:///wiki/Ensemble_rationnel
+ 431. file:///wiki/Langage_formel
+ 432. file:///wiki/Th%C3%A9orie_des_automates
+ 433. file:///wiki/Automate_fini
+ 434. file:///wiki/Automate_sur_les_mots_infinis
+ 435. file:///wiki/Automate_d%27arbres
+ 436. file:///wiki/Automate_%C3%A0_pile
+ 437. file:///wiki/Hi%C3%A9rarchie_de_Chomsky
+ 438. file:///wiki/Linguistique_informatique
+ 439. file:///wiki/Interpr%C3%A9tation_abstraite
+ 440. file:///wiki/M%C3%A9thode_formelle_(informatique)
+ 441. file:///wiki/V%C3%A9rification_de_mod%C3%A8les
+ 442. file:///wiki/S%C3%A9mantique_des_langages_de_programmation
+ 443. file:///wiki/S%C3%A9mantique_d%C3%A9notationnelle
+ 444. file:///wiki/S%C3%A9mantique_axiomatique
+ 445. file:///wiki/S%C3%A9mantique_op%C3%A9rationnelle
+ 446. file:///wiki/Logique_math%C3%A9matique
+ 447. file:///wiki/Assistant_de_preuve
+ 448. file:///wiki/Calcul_des_pr%C3%A9dicats
+ 449. file:///wiki/Correspondance_de_Curry-Howard
+ 450. file:///wiki/Fonction_r%C3%A9cursive
+ 451. file:///wiki/Lambda-calcul
+ 452. file:///wiki/Th%C3%A9or%C3%A8mes_d%27incompl%C3%A9tude_de_G%C3%B6del
+ 453. file:///wiki/Th%C3%A9orie_des_types
+ 454. file:///wiki/Math%C3%A9matiques_discr%C3%A8tes
+ 455. file:///wiki/Combinatoire
+ 456. file:///wiki/Algorithme_du_simplexe
+ 457. file:///wiki/Optimisation_combinatoire
+ 458. file:///wiki/Th%C3%A9orie_des_graphes
+ 459. file:///wiki/Liste_des_algorithmes_de_la_th%C3%A9orie_des_graphes
+ 460. file:///wiki/Recherche_op%C3%A9rationnelle
+ 461. file:///wiki/Th%C3%A9orie_de_la_d%C3%A9cision
+ 462. file:///wiki/Analyse_num%C3%A9rique
+ 463. file:///wiki/Portail:Programmation_informatique
+ 464. file:///wiki/Portail:Programmation_informatique
+ 465. file:///wiki/Portail:Informatique_th%C3%A9orique
+ 466. file:///wiki/Portail:Informatique_th%C3%A9orique
+ 467. https://fr.wikipedia.org/w/index.php?title=Arbre_enracin%C3%A9&oldid=207048759
+ 468. file:///wiki/Cat%C3%A9gorie:Accueil
+ 469. file:///wiki/Cat%C3%A9gorie:Arbre_(structure_de_donn%C3%A9es)
+ 470. file:///wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences_depuis_d%C3%A9cembre_2020
+ 471. file:///wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences/Liste_compl%C3%A8te
+ 472. file:///wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_identique_sur_Wikidata
+ 473. file:///wiki/Cat%C3%A9gorie:Article_contenant_un_appel_%C3%A0_traduction_en_anglais
+ 474. file:///wiki/Cat%C3%A9gorie:Portail:Programmation_informatique/Articles_li%C3%A9s
+ 475. file:///wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s
+ 476. file:///wiki/Cat%C3%A9gorie:Portail:Informatique_th%C3%A9orique/Articles_li%C3%A9s
+ 477. file:///wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles
+ 478. file:///wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia
+ 479. https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+ 480. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr
+ 481. file:///wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques
+ 482. file:///wiki/Sp%C3%A9cial:Citer/Arbre_enracin%C3%A9
+ 483. https://wikimediafoundation.org/
+ 484. file:///wiki/501c
+ 485. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/fr
+ 486. file:///wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia
+ 487. file:///wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux
+ 488. file://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contact
+ 489. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 490. https://developer.wikimedia.org/
+ 491. https://stats.wikimedia.org/#/fr.wikipedia.org
+ 492. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 493. file://fr.m.wikipedia.org/w/index.php?title=Arbre_enracin%C3%A9&mobileaction=toggle_view_mobile
+ 494. https://wikimediafoundation.org/
+ 495. https://www.mediawiki.org/
+
+   Hidden links:
+ 497. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html
+ 498. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Vocabulaire
+ 499. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Construction
+ 500. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Parcours
+ 501. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Parcours_en_largeur
+ 502. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Parcours_en_profondeur
+ 503. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Voir_aussi
+ 504. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Articles_connexes
+ 505. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Notions_apparent%C3%A9es
+ 506. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Structures_de_donn%C3%A9es_d%C3%A9riv%C3%A9es
+ 507. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Notes_et_r%C3%A9f%C3%A9rences
+ 508. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#Notes
+ 509. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Arbre_enracin%C3%A9.html#R%C3%A9f%C3%A9rences
+ 510. file://localhost/wiki/Fichier:2017-fr.wp-orange-source.svg

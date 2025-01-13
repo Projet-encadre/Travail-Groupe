@@ -1,0 +1,399 @@
+   #[1]alternate [2]Modifier [3]Wikipédia (fr) [4]Flux Atom de Wikipédia
+
+   [5]Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * [6]Accueil
+     * [7]Portails thématiques
+     * [8]Article au hasard
+     * [9]Contact
+
+   Contribuer
+     * [10]Débuter sur Wikipédia
+     * [11]Aide
+     * [12]Communauté
+     * [13]Modifications récentes
+
+   [14]Wikipédia l'encyclopédie libre
+   [15]Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * [16]Faire un don
+     * [17]Créer un compte
+     * [18]Se connecter
+
+   [ ] Outils personnels
+     * [19]Faire un don
+     * [20]Créer un compte
+     * [21]Se connecter
+
+   Pages pour les contributeurs déconnectés [22]en savoir plus
+     * [23]Contributions
+     * [24]Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Utilité
+
+     2 Précautions
+
+     3 Sécurité des serveurs
+
+     4 Références
+
+   [ ] Basculer la table des matières
+
+Utilisateur root
+
+   [ ] 32 langues
+     * [25]a+l+e+r+b+y+tm
+     * [26]Boarisch
+     * [27]B"lgarski
+     * [28]¬¾²¾
+     * [29]Català
+     * [30]Cestina
+     * [31]Dansk
+     * [32]Deutsch
+     * [33]English
+     * [34]Esperanto
+     * [35]Español
+     * [36]Euskara
+     * [37]f+a+r+s+
+     * [38]Suomi
+     * [39]Hrvatski
+     * [40]Íslenska
+     * [41]Italiano
+     * [42]¥¬
+     * [43]­´
+     * [44]Nederlands
+     * [45]Norsk bokmål
+     * [46]Polski
+     * [47]Português
+     * [48]Russkij
+     * [49]Slovencina
+     * [50]Slovenscina
+     * [51]Svenska
+     * [52]Türkçe
+     * [53]Ukrayins'ka
+     * [54]Tie>'ng Vie>-.t
+     * [55]­
+     *
+
+   [56]Modifier les liens
+
+     * [57]Article
+     * [58]Discussion
+
+   [ ] français
+
+     * [59]Lire
+     * [60]Modifier
+     * [61]Modifier le code
+     * [62]Voir l'historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * [63]Lire
+     * [64]Modifier
+     * [65]Modifier le code
+     * [66]Voir l'historique
+
+   Général
+     * [67]Pages liées
+     * [68]Suivi des pages liées
+     * [69]Téléverser un fichier
+     * [70]Pages spéciales
+     * [71]Lien permanent
+     * [72]Informations sur la page
+     * [73]Citer cette page
+     * [74]Obtenir l'URL raccourcie
+     * [75]Télécharger le code QR
+
+   Imprimer/exporter
+     * [76]Créer un livre
+     * [77]Télécharger comme PDF
+     * [78]Version imprimable
+
+   Dans d'autres projets
+     * [79]Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+
+   Un root (litt. racine) est, sur les [80]systèmes d'exploitation de type
+   [81]Unix, un utilisateur qui possède toutes les [82]permissions sur le
+   système (on dit aussi « super-utilisateur »), aussi bien en mode mono
+   qu'en mode [83]multi-utilisateur. Un tel utilisateur a accès à des
+   fonctions supérieures^[84][1]^[85][réf. non conforme].
+
+   Son [86]user identifier (user id ou uid) est 0, qui est traité de façon
+   particulière par le [87]noyau dans les [88]appels système.
+
+Utilité
+
+   [[89]modifier | [90]modifier le code]
+
+   L'utilisateur root, ou substitute-user. Généralement, est le compte de
+   l'[91]administrateur système. L'utilisateur root a la possibilité de
+   faire tout ce qu'un utilisateur normal ne pourrait pas faire, comme
+   changer l'appartenance de tous les fichiers. La séparation entre les
+   droits de l'administrateur et les droits d'un utilisateur normal permet
+   d'avoir un [92]système d'exploitation plus résistant aux [93]virus,
+   ainsi qu'aux autres [94]programmes malveillants. De plus cela donne
+   davantage de tranquillité à l'administrateur, car les utilisateurs ne
+   peuvent quasiment rien casser dans le système, que ce soit par mégarde
+   ou dans l'optique de s'octroyer plus de droits.
+
+Précautions
+
+   [[95]modifier | [96]modifier le code]
+
+   De manière générale, l'utilisation du compte root comme [97]compte
+   utilisateur classique comporte des risques et nécessite une grande
+   vigilance, car de simples erreurs de [98]typographie peuvent causer des
+   dégâts irréversibles. Les différents systèmes d'exploitation
+   recommandent de n'effectuer une action en tant qu'utilisateur root que
+   lorsque cela est nécessaire. Pour cela l'action est de passer par
+   l'intermédiaire d'un compte d'utilisateur normal et de passer par la
+   commande [99]su. Pour une utilisation directe, il existe aussi la
+   commande [100]sudo suivie de la [101]ligne de commande à effectuer.
+
+   Sur certains systèmes tels que [102]Mac OS X, le mot de passe de root
+   n'est ni demandé, ni communiqué à l'utilisateur lors de l'installation,
+   ce qui oblige celui-ci à utiliser sudo pour administrer son système, à
+   moins que l'utilisateur change lui-même le mot de passe root en
+   utilisant [103]su à travers sudo (exemple : root@wikipedia#:sudo su) et
+   en utilisant [104]passwd pour changer le mot de passe une fois root.
+
+   Le lancement d'applications courantes (navigateur, [105]traitement de
+   texte, bavardage clavier, etc.) est fortement déconseillé en mode
+   super-utilisateur, tout comme celui de l'interface graphique : cela
+   crée différentes possibilités de compromission du système par divers
+   services malveillants ([106]virus informatique, [107]cheval de
+   Troie...).
+
+Sécurité des serveurs
+
+   [[108]modifier | [109]modifier le code]
+
+   Le mot de passe root constitue donc une véritable clé pour le système,
+   mais aussi une cible pour le piratage de la machine. Les attaques
+   visant à découvrir le mot de passe root sont fréquentes.
+
+   Si l'on utilise un [110]système d'exploitation de type [111]Unix en
+   tant que serveur, il est fortement conseillé d'élaborer un mot de passe
+   aussi impénétrable que possible : composé d'une suite de 10 à
+   20 caractères (chiffres, lettres et caractères spéciaux).
+
+Références
+
+   [[112]modifier | [113]modifier le code]
+    1. [114]^| [115][1].
+
+     * [116]icône décorative [117]Portail de la sécurité informatique
+
+   Ce document provient de
+   « [118]https://fr.wikipedia.org/w/index.php?title=Utilisateur_root&oldi
+   d=218544840 ».
+   [119]Catégories:
+     * [120]Unix
+     * [121]Sécurité du système d'exploitation
+     * [122]Administration système
+
+   Catégories cachées:
+     * [123]Article avec une référence non conforme
+     * [124]Portail:Sécurité informatique/Articles liés
+     * [125]Portail:Informatique/Articles liés
+     * [126]Portail:Sécurité de l'information/Articles liés
+
+     * La dernière modification de cette page a été faite le 11 septembre
+       2024 à 14:31.
+     * [127]Droit d'auteur : les textes sont disponibles sous [128]licence
+       Creative Commons attribution, partage dans les mêmes conditions ;
+       d'autres conditions peuvent s'appliquer. Voyez les [129]conditions
+       d'utilisation pour plus de détails, ainsi que les [130]crédits
+       graphiques. En cas de réutilisation des textes de cette page, voyez
+       [131]comment citer les auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la [132]Wikimedia Foundation,
+       Inc., organisation de bienfaisance régie par le paragraphe
+       [133]501(c)(3) du code fiscal des États-Unis.
+
+     * [134]Politique de confidentialité
+     * [135]À propos de Wikipédia
+     * [136]Avertissements
+     * [137]Contact
+     * [138]Code de conduite
+     * [139]Développeurs
+     * [140]Statistiques
+     * [141]Déclaration sur les témoins (cookies)
+     * [142]Version mobile
+
+     * [143]Wikimedia Foundation
+     * [144]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://fr.m.wikipedia.org/wiki/Utilisateur_root
+   2. file:///w/index.php?title=Utilisateur_root&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+   8. file:///wiki/Sp%C3%A9cial:Page_au_hasard
+   9. file:///wiki/Wikip%C3%A9dia:Contact
+  10. file:///wiki/Aide:D%C3%A9buter
+  11. file:///wiki/Aide:Accueil
+  12. file:///wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9
+  13. file:///wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes
+  14. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+  15. file:///wiki/Sp%C3%A9cial:Recherche
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  17. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Utilisateur+root
+  18. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Utilisateur+root
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  20. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Utilisateur+root
+  21. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Utilisateur+root
+  22. file:///wiki/Aide:Premiers_pas
+  23. file:///wiki/Sp%C3%A9cial:Mes_contributions
+  24. file:///wiki/Sp%C3%A9cial:Mes_discussions
+  25. https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D8%AE%D8%AF%D9%85_%D8%AE%D8%A7%D8%B1%D9%82
+  26. https://bar.wikipedia.org/wiki/Root-Konto
+  27. https://bg.wikipedia.org/wiki/Root
+  28. https://bn.wikipedia.org/wiki/%E0%A6%B8%E0%A7%81%E0%A6%AA%E0%A6%BE%E0%A6%B0%E0%A6%87%E0%A6%89%E0%A6%9C%E0%A6%BE%E0%A6%B0
+  29. https://ca.wikipedia.org/wiki/Superusuari
+  30. https://cs.wikipedia.org/wiki/Spr%C3%A1vce_po%C4%8D%C3%ADta%C4%8De
+  31. https://da.wikipedia.org/wiki/Superbruger_(software)
+  32. https://de.wikipedia.org/wiki/Root-Konto
+  33. https://en.wikipedia.org/wiki/Superuser
+  34. https://eo.wikipedia.org/wiki/%C4%88efuzanto
+  35. https://es.wikipedia.org/wiki/Root
+  36. https://eu.wikipedia.org/wiki/Root
+  37. https://fa.wikipedia.org/wiki/%D8%A7%D8%A8%D8%B1%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1
+  38. https://fi.wikipedia.org/wiki/Root_(tietotekniikka)
+  39. https://hr.wikipedia.org/wiki/Korijenski_korisnik
+  40. https://is.wikipedia.org/wiki/Ofurpaur
+  41. https://it.wikipedia.org/wiki/Root_(utente)
+  42. https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC
+  43. https://ko.wikipedia.org/wiki/%EC%8A%88%ED%8D%BC%EC%9C%A0%EC%A0%80
+  44. https://nl.wikipedia.org/wiki/Rootgebruiker
+  45. https://no.wikipedia.org/wiki/Superbruker
+  46. https://pl.wikipedia.org/wiki/Root
+  47. https://pt.wikipedia.org/wiki/Superusu%C3%A1rio
+  48. https://ru.wikipedia.org/wiki/Root
+  49. https://sk.wikipedia.org/wiki/Spr%C3%A1vca_po%C4%8D%C3%ADta%C4%8Da
+  50. https://sl.wikipedia.org/wiki/Superuporabnik
+  51. https://sv.wikipedia.org/wiki/Root
+  52. https://tr.wikipedia.org/wiki/S%C3%BCper_kullan%C4%B1c%C4%B1
+  53. https://uk.wikipedia.org/wiki/%D0%A1%D1%83%D0%BF%D0%B5%D1%80%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D1%83%D0%B2%D0%B0%D1%87
+  54. https://vi.wikipedia.org/wiki/Si%C3%AAu_ng%C6%B0%E1%BB%9Di_d%C3%B9ng
+  55. https://zh.wikipedia.org/wiki/%E8%B6%85%E7%BA%A7%E7%94%A8%E6%88%B7
+  56. https://www.wikidata.org/wiki/Special:EntityPage/Q255063#sitelinks-wikipedia
+  57. file:///wiki/Utilisateur_root
+  58. file:///wiki/Discussion:Utilisateur_root
+  59. file:///wiki/Utilisateur_root
+  60. file:///w/index.php?title=Utilisateur_root&veaction=edit
+  61. file:///w/index.php?title=Utilisateur_root&action=edit
+  62. file:///w/index.php?title=Utilisateur_root&action=history
+  63. file:///wiki/Utilisateur_root
+  64. file:///w/index.php?title=Utilisateur_root&veaction=edit
+  65. file:///w/index.php?title=Utilisateur_root&action=edit
+  66. file:///w/index.php?title=Utilisateur_root&action=history
+  67. file:///wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Utilisateur_root
+  68. file:///wiki/Sp%C3%A9cial:Suivi_des_liens/Utilisateur_root
+  69. file:///wiki/Aide:Importer_un_fichier
+  70. file:///wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+  71. file:///w/index.php?title=Utilisateur_root&oldid=218544840
+  72. file:///w/index.php?title=Utilisateur_root&action=info
+  73. file:///w/index.php?title=Sp%C3%A9cial:Citer&page=Utilisateur_root&id=218544840&wpFormIdentifier=titleform
+  74. file:///w/index.php?title=Sp%C3%A9cial:UrlShortener&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FUtilisateur_root
+  75. file:///w/index.php?title=Sp%C3%A9cial:QrCode&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FUtilisateur_root
+  76. file:///w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Utilisateur+root
+  77. file:///w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Utilisateur_root&action=show-download-screen
+  78. file:///w/index.php?title=Utilisateur_root&printable=yes
+  79. https://www.wikidata.org/wiki/Special:EntityPage/Q255063
+  80. file:///wiki/Syst%C3%A8me_d%27exploitation
+  81. file:///wiki/Unix
+  82. file:///wiki/Permissions_Unix
+  83. file:///wiki/Multi-utilisateur
+  84. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#cite_note-1
+  85. file:///wiki/Aide:R%C3%A9f%C3%A9rence_non_conforme
+  86. file:///wiki/User_identifier
+  87. file:///wiki/Noyau_(informatique)
+  88. file:///wiki/Appel_syst%C3%A8me
+  89. file:///w/index.php?title=Utilisateur_root&veaction=edit&section=1
+  90. file:///w/index.php?title=Utilisateur_root&action=edit&section=1
+  91. file:///wiki/Administrateur_syst%C3%A8me
+  92. file:///wiki/Syst%C3%A8me_d%27exploitation
+  93. file:///wiki/Virus_informatique
+  94. file:///wiki/Programme_informatique
+  95. file:///w/index.php?title=Utilisateur_root&veaction=edit&section=2
+  96. file:///w/index.php?title=Utilisateur_root&action=edit&section=2
+  97. file:///wiki/Compte_d%27utilisateur
+  98. file:///wiki/Typographie
+  99. file:///wiki/Su_(Unix)
+ 100. file:///wiki/Sudo
+ 101. file:///wiki/Interface_en_ligne_de_commande
+ 102. file:///wiki/Mac_OS_X
+ 103. file:///wiki/Su_(Unix)
+ 104. file:///wiki/Passwd
+ 105. file:///wiki/Traitement_de_texte
+ 106. file:///wiki/Virus_informatique
+ 107. file:///wiki/Cheval_de_Troie_(informatique)
+ 108. file:///w/index.php?title=Utilisateur_root&veaction=edit&section=3
+ 109. file:///w/index.php?title=Utilisateur_root&action=edit&section=3
+ 110. file:///wiki/Syst%C3%A8me_d%27exploitation
+ 111. file:///wiki/Unix
+ 112. file:///w/index.php?title=Utilisateur_root&veaction=edit&section=4
+ 113. file:///w/index.php?title=Utilisateur_root&action=edit&section=4
+ 114. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#cite_ref-1
+ 115. http://forums.cnetfrance.fr/topic/1170024-root-android--rooter-c-est-quoi-au-juste/
+ 116. file:///wiki/Portail:S%C3%A9curit%C3%A9_informatique
+ 117. file:///wiki/Portail:S%C3%A9curit%C3%A9_informatique
+ 118. https://fr.wikipedia.org/w/index.php?title=Utilisateur_root&oldid=218544840
+ 119. file:///wiki/Cat%C3%A9gorie:Accueil
+ 120. file:///wiki/Cat%C3%A9gorie:Unix
+ 121. file:///wiki/Cat%C3%A9gorie:S%C3%A9curit%C3%A9_du_syst%C3%A8me_d%27exploitation
+ 122. file:///wiki/Cat%C3%A9gorie:Administration_syst%C3%A8me
+ 123. file:///wiki/Cat%C3%A9gorie:Article_avec_une_r%C3%A9f%C3%A9rence_non_conforme
+ 124. file:///wiki/Cat%C3%A9gorie:Portail:S%C3%A9curit%C3%A9_informatique/Articles_li%C3%A9s
+ 125. file:///wiki/Cat%C3%A9gorie:Portail:Informatique/Articles_li%C3%A9s
+ 126. file:///wiki/Cat%C3%A9gorie:Portail:S%C3%A9curit%C3%A9_de_l%27information/Articles_li%C3%A9s
+ 127. file:///wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia
+ 128. https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+ 129. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr
+ 130. file:///wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques
+ 131. file:///wiki/Sp%C3%A9cial:Citer/Utilisateur_root
+ 132. https://wikimediafoundation.org/
+ 133. file:///wiki/501c
+ 134. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/fr
+ 135. file:///wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia
+ 136. file:///wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux
+ 137. file://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contact
+ 138. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 139. https://developer.wikimedia.org/
+ 140. https://stats.wikimedia.org/#/fr.wikipedia.org
+ 141. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 142. file://fr.m.wikipedia.org/w/index.php?title=Utilisateur_root&mobileaction=toggle_view_mobile
+ 143. https://wikimediafoundation.org/
+ 144. https://www.mediawiki.org/
+
+   Hidden links:
+ 146. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html
+ 147. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#Utilit%C3%A9
+ 148. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#Pr%C3%A9cautions
+ 149. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#S%C3%A9curit%C3%A9_des_serveurs
+ 150. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Utilisateur_root.html#R%C3%A9f%C3%A9rences
+ 151. https://zh-classical.wikipedia.org/wiki/%E6%A0%B9%E6%88%B6

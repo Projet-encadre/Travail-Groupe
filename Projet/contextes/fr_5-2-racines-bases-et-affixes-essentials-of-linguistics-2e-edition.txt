@@ -1,0 +1,79 @@
+   10. [58]Chapitre 5 : Morphologie
+         1. [59]5.1 Qu'est-ce que la morphologie?
+         2. [60]5.2 Racines, bases et affixes
+         3. [61]5.3 Morphologie au-delà des affixes
+         4. [62]5.4 Allomorphie
+--
+   Chapitre 5 : Morphologie
+
+5.2 Racines, bases et affixes
+
+Affixes vs racines
+
+   Dans cette section, nous examinons les formes que peuvent prendre les
+--
+   reliant l'affixe -ship à la base librarian.
+
+   Il existe un nom particulier pour les bases simples : la racine. Une
+   racine est la plus petite base possible qui ne peut être divisée, ce
+   que nous pourrions considérer comme le noyau d'un mot. Les racines
+   anglaises que nous avons vues jusqu'à présent dans ce chapitre
+   comprennent cat, library et nation.
+--
+   renvoient tous deux au latin (en passant par le français) et qu'en
+   latin, les mots concernés étaient morphologiquement complexes : library
+   remonte à la racine latine libr- (qui signifie « livre ») et nation
+   renvoie à la racine latine nat- (qui signifie « naître »). Cependant,
+   lorsqu'un enfant rencontre pour la première fois un mot tel que library
+   ou nation, le mot n'est pas annoté de ces informations historiques!
+   Dans l'esprit de la plupart des locuteurs anglophones contemporains, il
+   est probable que library et nation soient traités comme des racines
+   simples. Au chapitre 13, vous apprendrez comment ce type d'hypothèse
+   peut être testé expérimentalement.
+--
+   24 millions de locuteurs, dont la plupart vivent aux Philippines),
+   l'infixe -um- apparaît immédiatement après la première consonne de la
+   racine à laquelle il est relié, pour exprimer l'aspect perfectif d'un
+   verbe (utilisé pour indiquer une action terminée, généralement traduite
+   au passé simple en anglais (simple past) :
+--
+
+   L'anglais n'est pas une langue tonale, mais elle comporte quelques
+   paires de mots qui impliquent clairement la même racine, mais où
+   l'accent s'est déplacé. Il s'agit de paires nom-verbe où le nom est
+   accentué sur la première syllabe, mais où le verbe est accentué sur la
+--
+
+   Par définition, les affixes doivent être liés à une base; c'est
+   pourquoi seules les racines peuvent être libres. En effet, la plupart
+   des racines en anglais sont libres, mais quelques racines ne peuvent
+   pas être utilisées seules. Par exemple, la racine -whelmed, qui
+   apparaît dans overwhelm et underwhelmed, ne peut pas être utilisée
+   seule comme dans *whelmed.
+
+   Cependant, dans de nombreuses autres langues, toutes les racines (ou la
+   plupart d'entre elles) sont liées, car elles doivent toujours être
+   utilisées avec un ou des éléments de la morphologie flexionnelle. C'est
+   le cas des verbes en français et dans les autres langues romanes, par
+   exemple. C'était aussi le cas pour le latin; c'est pourquoi les racines
+   nat- et libr- étaient indiquées avec des traits au-dessus.
+
+--
+   1. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/feed/
+   2. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/wp-json/pressbooks/v2/chapters/810
+   3. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fecampusontario.pressbooks.pub%2Fessentialsoflinguistics2fr%2Fchapter%2F5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition%2F
+   4. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fecampusontario.pressbooks.pub%2Fessentialsoflinguistics2fr%2Fchapter%2F5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition%2F&format=xml
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition.html#content
+   6. https://ecampusontario.pressbooks.pub/
+   7. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition.html#navigation
+   8. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr
+   9. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/front-matter/declaration-sur-laccessibilite-essentials-of-linguistics-2e-edition/
+  10. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/wp-login.php?redirect_to=https%3A%2F%2Fecampusontario.pressbooks.pub%2Fessentialsoflinguistics2fr%2Fchapter%2F5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition%2F
+  11. https://pressbooks.com/adapt-open-textbooks?utm_source=book&utm_medium=banner&utm_campaign=bbc
+  12. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/front-matter/declaration-sur-laccessibilite-essentials-of-linguistics-2e-edition/
+--
+  58. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-5-morphology/
+  59. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-1-quest-ce-que-la-morphologie-essentials-of-linguistics-2e-edition/
+  60. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition/
+  61. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-3-morphologie-au-dela-des-affixes-essentials-of-linguistics-2e-edition/
+  62. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-4-allomorphie-essentials-of-linguistics-2e-edition/

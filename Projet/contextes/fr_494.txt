@@ -1,0 +1,493 @@
+   #[1]Le traitement des racines lexicales en grammaire générative
+   [2]Asinag, Numéros [3]Asinag, Documents
+
+--
+[6]Asinag Asinag
+
+   [7]Accueil[8]Numéros[9]13[10]Dossier : La racine dans les lang...Le
+   traitement des racines lexical...
+
+   Recherche___________ (BUTTON) Chercher
+   [11]Sommaire - [12]Document précédent - [13]Document suivant
+   [14]13 | 2018
+   La racine dans les langues chamito-sémitiques : nature et fonction
+   Dossier : La racine dans les langues chamito-sémitiques : nature et
+   fonction
+
+Le traitement des racines lexicales en grammaire générative
+
+   Karim Achab
+--
+   [24]2. De la sémantique générative à la décomposition lexicale
+   [25]3. La sémantique lexicale
+   [26]4. Les approches morphosyntaxiques de la racine lexicale
+   [27]5. Les approches morphophonologiques
+   [28]6. Réalité psycholinguistique de la racine
+   [29]7. Conclusion
+   [30]Haut de page
+--
+       vers les différentes disciplines [34](...)
+     * 2 Les études et les arguments contestant la réalité morphologique
+       ou syntaxique de la racine sont lar [35](...)
+
+   1Cet article résume le traitement et la place réservés à la racine en
+   grammaire et en sémantique génératives[36]1. D'emblée, il convient de
+   signaler que la question qui reste suspendue en linguistique de façon
+   générale concernant la racine lexicale est comment s'assurer que
+   celle-ci représente une réalité linguistique, c'est-à-dire en tant
+   qu'unité lexicale, morphologique, syntaxique, sémantique ou même
+   phonologique. Autrement dit, est-ce que les locuteurs natifs de la
+   langue considérée finissent par constituer une sorte de lexique mental
+   dans lequel sont mémorisées ou listées les racines lexicales qu'ils
+   peuvent ensuite récupérer et utiliser en tant qu'unités morphologiques
+   lors de la dérivation des mots ou des phrases à quelque niveau ou
+--
+   travaux existants et il sera si difficile de rendre justice à tous les
+   linguistes ayant abordé la question. Dans le présent article, nous
+   prenons pour acquis cette réalité linguistique de la racine lexicale et
+   nous renvoyons le lecteur aux travaux référencés concernant le point de
+   vue contraire[37]2. Autant les approches sont variées, autant la
+   conception de la racine diffère aussi. Ainsi, par exemple, comme nous
+   allons le voir dans la section 2, la conception de la racine par les
+   sémanticiens générativistes est purement abstraite et ne correspond pas
+   à la définition standard de la racine lexicale. Cette perception
+   abstraite de la racine, qui s'inscrit dans le cadre de la décomposition
+   des prédicats, sera reprise par les tenants de la sémantique lexicale,
+   du moins ceux ayant adopté le point de vue lexicaliste. Les approches
+--
+   les sections 3 et 4. La section 5 sera consacrée aux approches
+   morphophonologiques et nous finirons cet article en résumant les
+   approches psycholinguistiques de la racine lexicale.
+
+[38]2. De la sémantique générative à la décomposition lexicale
+--
+
+   2La première approche transformationnelle à avoir inclus l'idée de
+   racine sémantique de façon implicite pour expliquer le processus
+   dérivationnel des mots et des prédicats est la sémantique
+   générative[40]3, à travers l'idée de décomposition lexicale en
+--
+   sémantique interne des verbes est réductible à un nombre fini de
+   prédicats indiquant la cause (CAUSE), l'action (ACT) le changement
+   d'état (BECOME) ou l'état (BE) d'une part, et la racine lexicale
+   véhiculant la sémantique du verbe d'autre part. Ainsi, McCawley (1968a)
+   et McCawley (1968b) propose qu'un verbe anglais comme kill, exemplifié
+--
+   Image 100002010000029C000001A46C5683662C90E8C7.png
+
+   3Dans la représentation (1b), la racine sémantique sous-jacente
+   traduirait l'idée de négation de vivre et non pas une racine lexicale
+   avec ses traits morphophonologiques. Par conséquent, il convient de
+   distinguer cette conception de la racine, en tant que matrice de traits
+   sémantiques, de la conception standard de la racine lexicale en tant
+   qu'entité morphologique (voir §4). Ultérieurement, les traits
+   sémantiques du prédicat [ALIVE] vont s'adjoindre au prédicat négatif
+--
+   sous-jacentes semblables. Le verbe `casser' par exemple, aura la
+   structure sous-jacente [[X ACT] CAUSE [Y BECOME < ROOT >]]. Selon ces
+   approches, seul le contenu sémantique de la racine distingue alors ces
+   verbes, et ces éléments constituant la sémantique interne des verbes
+   font partie du savoir lexical intuitif des locuteurs[46]6. Dans
+--
+   correspondent, au niveau lexico-conceptuel, structuré en fonction des
+   contraintes linguistiques (lexico-syntaxiques). C'est à ce niveau
+   lexico-conceptuel que se situe la projection des racines sémantiques
+   des approches lexicalistes. Pour les approches syntaxiques
+   (non-lexicalistes) en revanche, il n'est point question de racines
+   sémantiques (abstraites) mais plutôt de racines lexicales qui sont
+   projetées directement dans le composant syntaxique. Avant d'aborder les
+   approches syntaxiques de la racine dans la prochaine section, disons
+   quelques mots sur un autre type d'approche, communément appelée
+   Grammaire syntagmatique (Phrase Structure Grammar), laquelle prône la
+--
+   l'infixation, ainsi que les affixes potentiellement candidats. Dans son
+   modèle la Syntaxe du mot (Word-syntax), Selkirk (1982) incorpore la
+   racine lexicale en tant qu'entité de base dans le lexique mental. Ce
+   lexique contient à la fois les règles de dérivation ainsi que
+   Dictionnaire étendu (Extended Dictionary) contenant des morphèmes
+   libres et des morphèmes liés. Contrairement aux mots, les racines sont
+   considérées comme des morphèmes liés qui doivent se combiner avec des
+   affixes pour acquérir le statut de catégorie lexicale (nom, verbe,
+   adjectif). Les affixes sont, entre autres, spécifiés pour le trait
+   catégoriel qu'ils portent (N,  V ou A), qui leur confère le statut de
+   tête, ainsi que pour le type de complément (racine ou lexème) qu'ils
+   sélectionnent. Les traits portés par l'affixe percolent ou se propagent
+   vers le noeud dominant comme illustré à l'aide de la structure
+--
+   convient aux langues concaténatives mais pas aux langues
+   non-concaténatives comme tamazight car elle n'explique pas la fusion
+   des racines avec les voyelles thématiques. Ce point sera surtout pris
+   en charge par les approches (morpho)phonologiques que nous allons
+   aborder plus loin (Section 5). Tournons-nous à présent vers les
+   approches syntaxiques.
+
+[47]4. Les approches morphosyntaxiques de la racine lexicale
+
+     * 7 Respectivement, Chomsky (1995) et Chomsky (2001).
+
+   7Le modèle morphosyntaxique à avoir intégré la notion de la racine est
+   celui communément appelé Morphologie distribuée, formulé dans sa
+   version initiale, par Halle & Marantz (1993). Le nom renvoie à l'idée
+--
+   les extrants sont envoyés aux composants phonologique (PF) et logique
+   (LF) pour y être prononcés et interprétés. Dans la première version de
+   ce modèle théorique (Marantz, 1995), la racine lexicale dans son
+   acception traditionnelle est scindée en trois sous-entités. Ses
+   caractéristiques morphosyntaxiques font partie des éléments inclus dans
+--
+   interprétation sémantique font partie des catégories 2 et 3,
+   respectivement, au niveau PF et LF. . Pour Marantz, cependant, le
+   contenu sémantique de la racine est seulement spécifié au niveau LF,
+   appelé aussi `savoir encyclopédique'. Pour Marantz, l'individuation
+   (spécification phonologique et sémantique) de la racine lexicale n'est
+   déterminée que par le composant sémantique (LF) et c'est donc ce
+   dernier qui conditionne la récupération et l'insertion du contenu
+   phonologique correspondant. D'autres linguistes, cependant, à l'instar
+   de Harley (2014), ont adopté un point de vue alternatif selon lequel le
+   contenu lexical de la racine est spécifié dès le premier niveau, celui
+   des traits syntaxiques Ainsi, pour Harley (2014), par exemple, les
+   racines lexicales sont aussi spécifiées pour les traits syntaxiques, ce
+   qui permet une compétition entre elles lors de l'insertion du
+   vocabulaire (étape 2). Au final, c'est la racine lexicale la plus
+   compatible sur le plan morphosyntactique qui sera sélectionnée et
+   insérée.
+--
+   8S'intéressant à la structure argumentale et la position des arguments
+   au sein de celle-ci, Hale et Keyser (2002, chapitre 1) proposent que ce
+   sont les propriétés idiosyncratiques de la racine qui déterminent les
+   positions des arguments en syntaxe. Ainsi, selon ces auteurs, les
+   propriétés idiosyncratiques des racines verbales break et cough sont
+   responsables de la transitivité du verbe break dans (3b) et de la
+   non-transitivité du verbe cough dans (4b) ci-dessous.
+--
+   b. *I coughed the engine.
+
+   9Plus spécifiquement, la racine associée au verbe break est transitive
+   et requiert la position spécifieur tel qu'illustré tandis que celle
+   associée au verbe cough est intransitive et, par conséquent, ne
+   requiert pas de position spécifieur. Par ailleurs, ces propriétés de la
+   racine faisant qu'un verbe est transitif ou intransitif n'expliquent
+   pas toutes les alternances constatées au niveau des verbes plus ou
+   moins proches sur le plan sémantique. Ainsi, bien que les verbes
+--
+
+   10H&K expliquent cette différence par le contenu du composant
+   sémantique des racines de ces deux verbes. La sémantique de la racine
+   du verbe splash comprend le facteur « manière » lié à l'argument
+   interne mud et non pas à l'argument externe the kids. Autrement dit, ce
+--
+   l'argument interne et le facteur « manière » est préservée dans les
+   deux exemples dans (5). Inversement, le facteur sémantique « manière »
+   contenu dans la racine du verbe smear est lié à l'argument externe et
+   non pas l'argument interne. Autrement dit, avec le verbe smear c'est la
+   manière d'agir de l'argument externe qui est spécifiée et non pas la
+--
+
+   11D'autres linguistes[49]8 encore sont plus concernés par la façon dont
+   la racine lexicale acquiert tous ses traits sémantiques. C'est ainsi
+   qu'Arad (2005), par exemple, se demande à quel moment des mots issus
+   d'une même racine lexicale sont-ils davantage spécifiés pour rendre le
+   sens qu'ils ont. Ceci l'amène à conclure que la racine est
+   sous-spécifée dans le lexique et, en tant que telle, elle véhicule
+   seulement la sémantique qui est commune à toutes ces formes. Examinons
+--
+   non-concaténatives, notamment l'arabe, et propose des niveaux de
+   représentation distincts pour les différents éléments morphologiques
+   comprenant la racine consonantique, la mélodie vocalique (voyelles
+   thématiques) et le gabarit prosodique CV tel qu'illustré ci-dessous à
+   l'aide du verbe kataba `écrire'.
+--
+       travaillant sur les parlers amazighs. Voi [51](...)
+
+   13Aussi bien la racine SQRT ktb que la mélodie vocalique a sont
+   considérés comme des morphèmes à part entière. Basée sur cette
+   représentation, McCarthy propose 8 différents gabarits prosodiques pour
+--
+
+   14Dans ses différents travaux[53]10, Lahrouchi s'est intéressé à la
+   structure interne de la racine et a tenté de découvrir les règles
+   régissant sa dérivation à partir d'un segment-tête ou une matrice de
+   traits particuliers. Ainsi, il propose que la structure des racines
+   trilitères est d'abord binaire, construite autour de deux segments sur
+   la base de la relation tête-complément. L'auteur y défend l'idée selon
+--
+   troisième segment, qui peut être une sonante ou une obstruante,
+   apparaît en tant que satellite à gauche ou à droite. Cette
+   configuration est illustrée ci-dessous à l'aide des racines SQRT GZM,
+   SQRT FRD et SQRT MGR, où l'élément tête est entouré ((11) dans
+   Lahrouchi (2015 : 41)).
+--
+   apparaissant immédiatement à gauche du segment le plus sonore. Ce
+   dernier cas, qui représente seulement 9 % du corpus de l'auteur, est
+   illustré ci-dessous à la l'aide des racines SQRT RMI et SQRT MLU ((12)
+   dans Lahrouchi 2015 : 41))
+
+--
+   attendue OS, 6 ont la structure inverse SO et les 7 verbes restants ne
+   contiennent que des sonantes ou des obstruantes ; tandis que les
+   quelques racines monolitères attestées sont de type O, ce qui appuie
+   l'hypothèse émise par l'auteur selon laquelle l'obstruante constitue le
+   noyau de la racine. Lahrouchi explique ensuite la gémination des verbes
+   à racine trilitère à l'inaccompli par le statut tête et fait la
+   généralisation suivante ((16) de Lahrouchi) :
+
+--
+
+   Pour dériver l'inaccompli, il suffit de géminer la consonne qui est en
+   position de tête de la racine.
+
+   17Pour l'auteur, les racines n'obéissant pas à la structure binaire
+   tête-complément comme celles de type OOO ou bien SOO comme bdg `être
+   mouillé' et rkz `danser' ne peuvent pas géminer, contrairement aux
+--
+   produite pour des raisons idiosyncratiques, selon ces auteurs.
+
+[54]6. Réalité psycholinguistique de la racine
+
+   18Afin de vérifier la réalité de la racine en tant qu'entité
+   linguistique présente dans le lexique mental, un certain nombre de
+   linguistes ont adopté une perspective psycholinguistique, basée sur
+--
+   patients aphasiques, ces études soutiennent que les erreurs sont
+   localisées à un seul niveau autosegmental, qui peut être soit celui de
+   la racine ou de la mélodie vocalique, ce qui est considéré comme une
+   preuve que ces deux entités constituent deux réalités linguistiques
+   distinctes chez les locuteurs. Dans les cas des jeux de mots et
+   langages secrets, les études soutiennent que les sujets contrôlent et
+   manipulent les racines, ce qui est pris pour preuve du statut de
+   celles-ci comme réalité linguistique à part entière. Dans cette
+   section, nous résumons un échantillon de ces études, essentiellement
+--
+   de métathèse dans la production verbale en arabe d'un patient bilingue
+   (arabe-français) atteint d'aphasie. Leur étude démontre que l'ordre
+   linéaire des racines lexicales est typiquement affecté par la
+   distorsion lors de la production du discours en arabe, tandis que ce
+   type d'erreurs est quasi-inexistant lors de la production verbale en
+--
+   les compétences morphologiques de ce même patient sont atteintes de la
+   même façon aussi bien en français qu'en arabe. De plus, seuls les
+   segments consonantaux faisant partie de la racine sont affectés mais
+   pas les voyelles. Ainsi, les erreurs constatées concernent surtout
+   l'ordre des segments de la racine et non pas les segments eux-mêmes ou
+   les traits phonologiques qui les composent. Pour les auteurs, ces
+   erreurs confirment l'existence du niveau autosegmental sur lequel est
+   représentée la racine, et que l'accès à ce niveau et à la racine
+   lexicale est disponible chez le patient. Par ailleurs, les auteurs
+   rappellent une autre étude plus ancienne (Barkai, 1980) portant sur un
+   patient hébrophone atteint d'une forme d'aphasie grammaticale et dont
+   les erreurs affectent plutôt les voyelles thématiques et non pas les
+   racines, ce qui est exactement l'inverse du patient précédent. Comme
+   dans le cas précédent, les erreurs affectent un seul niveau de
+   représentation autosegmentale, à savoir celui de la mélodie vocalique,
+   tandis que l'accès à la racine lexicale et sa représentation au niveau
+   segmental restent intactes.
+     * 11 Voir entre autres Lahrouchi (ce volume) ; Bagemihl (1991) ;
+--
+   transformés[56]11. Un échantillon de mots d'un langage secret en arabe
+   bédouin du Hidjaz (Al-Mozainy 1981) montre que la stratégie utilisée
+   consiste à changer l'ordre des consonnes composant la racine alors que
+   les affixes et les gabarits restent intacts. Idrissi (2000) soutient
+   que la stratégie impliquée est semblable à celle utilisée dans un
+--
+   base de ce constat, Idrissi (op. cit.) conclut que les règles
+   responsables de la métathèse interviennent au niveau autosegmental de
+   la racine, ce qui appuie l'idée de la racine en tant qu'entité
+   morphologique autonome.
+
+--
+   beaucoup plus complexes que ceux dans les corpus considérés par Idrissi
+   (voir plus haut), en ce sens qu'elle n'implique pas seulement
+   l'inversement des segments de la racine mais également des processus
+   d'affixation, de gémination et de réduplication. De même, alors que la
+   mélodie vocalique n'est pas affectée dans les cas étudiés par Idrissi,
+   elle l'est dans les données considérées par Lahrouchi. Nous renvoyons
+   le lecteur aux détails de l'analyse à Lahrouchi dans ce volume, nous
+   nous contentons de mentionner ici le rôle de la racine dans la
+   transformation de ces mots. L'auteur souligne le fait que toutes les
+   transformations en dehors de la racine sont construites aussi bien en
+   taqjmit qu'en tagnawt. Ce qui unit ces deux langages et le parler
+   tachelhit dont ils sont issus c'est bien la racine. Autrement dit, ceci
+   est un signe que les locutrices de ces deux langages secrets
+   réussissent à récupérer la racine d'abord avant de lui faire subir
+   toutes les transformations internes (gémination, réduplication) et
+   externes comme l'affixation.
+--
+   conclusions atteintes sont semblables à celles mentionnées plus haut
+   concernant les jeux de langue. Les erreurs constatées portent sur les
+   segments de la racine tandis que la mélodie vocalique, les gabarits et
+   les affixes sont restés intacts. De plus, les auteurs ont pu constater
+   que la syllabe est affectée en allemand et en anglais mais pas en
+   arabe. Le niveau de représentation de la syllabe étant ultérieur à
+   celui de la racine, les erreurs en anglais et en allemand d'une part et
+   en arabe d'autre part, ne se situent pas au même niveau de
+   représentation.
+--
+[57]7. Conclusion
+
+   23La notion de racine lexicale est plus opaque dans certaines langues
+   comme celles dites afroasiatiques ou chamito-sémitique que dans les
+   langues indoeuropéennes où elle ne constitue pas vraiment une réalité
+   morphologique. Nonobstant cette différence, le traitement proposé dans
+   la plupart des approches syntaxiques et morphosyntaxiques présentées
+   ici est valable pour les deux types de racines. Il en est autrement des
+   approches phonologique ou morphophonologique qui s'intéressent plus à
+   la racine lexicale telle qu'elle se manifeste dans les langues où elle
+   constitue une réalité morphologique. Les approches s'inspirant de la
+   sémantique lexicale présentent encore une perception davantage
+--
+   items lexicaux à partir de notions plus basiques. Son inclusion dans
+   cet article n'est dictée que par le fait que ces approches furent les
+   premières à intégrer l'idée de racine en linguistique générative. Le
+   but de cet article est de résumer ces différents traitements sans pour
+   autant prétendre à l'exhaustivité.
+--
+
+   Lahrouchi, M. (2015), La phonologie aux interfaces de la structure des
+   racines et des gabarits en amazighe, Habilitation à diriger les
+   recherches, Université Paris 8.
+
+--
+
+   [61]2 Les études et les arguments contestant la réalité morphologique
+   ou syntaxique de la racine sont largement résumés et discutés dans des
+   travaux ayant accordé une place à la racine. Voir, entre autres Idrissi
+   (2000) ; Lahrouchi (2001, 2010, 2015 et ce volume) et Ben Si Said
+   (2014), ainsi que les références qui y sont citées.
+--
+Référence papier
+
+   Karim Achab, « Le traitement des racines lexicales en grammaire
+   générative », Asinag, 13 | 2018, 37-52.
+
+Référence électronique
+
+   Karim Achab, « Le traitement des racines lexicales en grammaire
+   générative », Asinag [En ligne], 13 | 2018, mis en ligne le 01 avril
+   2022, consulté le 11 janvier 2025. URL :
+--
+       Transmission culturelle et mutations sociales
+     * [87]13 | 2018
+       La racine dans les langues chamito-sémitiques : nature et fonction
+     * [88]12 | 2017
+       Varia
+--
+   Visible links:
+   1. http://journals.openedition.org/asinag/pdf/494
+   2. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/backend?format=rssnumeros
+   3. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/backend?format=rssdocuments
+   4. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#nav
+   5. http://journals.openedition.org/asinag/?page=map
+   6. http://journals.openedition.org/asinag
+   7. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/index.html
+   8. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/263
+   9. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/483
+  10. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/491
+  11. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/483
+  12. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/492
+  13. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/505
+  14. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/483
+  15. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#abstract
+  16. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#toc
+  17. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#text
+  18. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bibliography
+  19. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#notes
+  20. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#quotation
+  21. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#authors
+  22. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#article-494
+  23. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocto1n1
+  24. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocto1n2
+  25. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocto1n3
+  26. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocto1n4
+  27. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocto1n5
+  28. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocto1n6
+  29. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocto1n7
+  30. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#article-494
+  31. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/pdf/494
+  32. mailto:?subject=Le%20traitement%20des%20racines%20lexicales%20en%20grammaire%20g%C3%A9n%C3%A9rative&body=Le%20traitement%20des%20racines%20lexicales%20en%20grammaire%20g%C3%A9n%C3%A9rative%20%0AAsinag%20%0Ahttp%3A%2F%2Fjournals.openedition.org%2Fasinag%2F494%20%0A%0A1.%20Introduction%20Cet%20article%20r%C3%A9sume%20le%20traitement%20et%20la%20place%20r%C3%A9serv%C3%A9s%20%C3%A0%20la%20racine%20en%20grammaire%20et%20en%20s%C3%A9mantique%20g%C3%A9n%C3%A9ratives.%20D%E2%80%99embl%C3%A9e%2C%20il%20convient%20de%20signaler%20que%20la%20question%20qui%20reste%20suspendue%20en%20linguistique%20de%20fa%C3%A7on%20g%C3%A9n%C3%A9rale%20concernant%20la%20racine%20lexicale%20est%20comment%20s%E2%80%99assurer%20que%20celle-ci%20repr%C3%A9sente%20une%20r%C3%A9alit%C3%A9%20linguistique%2C%20c%E2%80%99est-%C3%A0-dire%20en%20tant%20qu%E2%80%99unit%C3%A9%20lexicale%2C%20morphologique%2C%20syntaxique%2C%20s%C3%A9mantique%20ou%20m%C3%AAme%20phonologique.%20Autrement%20dit%2C%20est-ce%20que%20les%20locuteurs%20natifs%20de%20la%20langue%20consid...%20%0A%0AKarim%20Achab%2C%20%C2%AB%20Le%20traitement%20des%20racines%20lexicales%20en%20grammaire%20g%C3%A9n%C3%A9rative%20%C2%BB%2C%20%20Asinag%20%5BEn%20ligne%5D%2C%2013%20%7C%202018%2C%20mis%20en%20ligne%20le%2001%20avril%202022%2C%20consult%C3%A9%20le%2011%20janvier%202025.%20URL%20%3A%20http%3A%2F%2Fjournals.openedition.org%2Fasinag%2F494%20%0A%0A
+  33. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocfrom1n1
+  34. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn1
+  35. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn2
+  36. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn1
+  37. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn2
+  38. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocfrom1n2
+  39. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn3
+  40. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn3
+  41. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocfrom1n3
+  42. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn4
+  43. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn5
+  44. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn4
+  45. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn5
+  46. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn6
+  47. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocfrom1n4
+  48. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn7
+  49. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn8
+  50. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocfrom1n5
+  51. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn9
+  52. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn9
+  53. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn10
+  54. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocfrom1n6
+  55. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn11
+  56. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#ftn11
+  57. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#tocfrom1n7
+  58. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#article-494
+  59. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#article-494
+  60. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bodyftn1
+  61. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bodyftn2
+  62. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bodyftn3
+  63. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bodyftn4
+  64. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bodyftn5
+  65. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bodyftn6
+  66. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bodyftn7
+  67. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bodyftn8
+  68. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bodyftn9
+  69. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bodyftn10
+  70. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#bodyftn11
+  71. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#article-494
+  72. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#article-494
+  73. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/495
+  74. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#article-494
+  75. https://creativecommons.org/licenses/by-nc-nd/4.0/
+  76. https://creativecommons.org/licenses/by-nc-nd/4.0/
+  77. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html#article-494
+  78. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/483
+  79. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/492
+  80. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/505
+  81. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/236
+  82. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/241
+  83. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/1905
+  84. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/1498
+  85. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/384
+  86. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/291
+  87. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/483
+  88. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/465
+  89. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/685
+  90. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/888
+  91. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/263
+  92. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/267
+  93. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/269
+  94. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/280
+  95. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/286
+  96. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/287
+  97. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/270
+  98. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/271
+  99. http://journals.openedition.org/asinag?page=informations
+ 100. http://journals.openedition.org/asinag/backend
+--
+ 104. https://www.openedition.org/32358
+ 105. http://journals.openedition.org/asinag/?page=map
+ 106. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/270
+ 107. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/271
+ 108. http://journals.openedition.org/asinag/?page=backend
+ 109. https://www.openedition.org/19362
+--
+ 113. http://www.lodel.org/
+ 114. http://journals.openedition.org/asinag/lodel/
+ 115. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html
+ 116. file:///asinag/494?lang=en
+ 117. file:///asinag/494?lang=ar
+ 118. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_494.html
+ 119. https://www.facebook.com/sharer.php?u=https%3A%2F%2Fjournals.openedition.org%2F%2Fasinag%2F494&title=Le+traitement+des+racines+lexicales+en+grammaire+g%C3%A9n%C3%A9rative
+ 120. http://twitter.com/share?text=Le+traitement+des+racines+lexicales+en+grammaire+g%C3%A9n%C3%A9rative&url=https%3A%2F%2Fjournals.openedition.org%2F%2Fasinag%2F494&via=OpenEditionActu
+ 121. https://plus.google.com/share?url=https%3A%2F%2Fjournals.openedition.org%2F%2Fasinag%2F494&title=Le+traitement+des+racines+lexicales+en+grammaire+g%C3%A9n%C3%A9rative
+ 122. file:///
+ 123. https://journals.openedition.org/

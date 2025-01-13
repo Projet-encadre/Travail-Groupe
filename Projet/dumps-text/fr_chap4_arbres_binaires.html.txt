@@ -1,0 +1,404 @@
+                                Arbres binaires
+
+I/ Construction
+
+  1) Définition
+
+   Un arbre est binaire si chaque noeud a, au maximum, 2 enfants.
+
+   Voici un exemple d'arbre binaire strict (chaque noeud ayant 0 ou 2
+   enfants) :
+   image/svg+xmlA B C D E F G H I
+
+  2) Exemple
+
+   Le codage de l'arbre binaire ci-dessus est
+{   'A': ['B','C'],
+    'B': ['D','E'],
+    'C': ['F','G'],
+    'D': [],
+    'E': [],
+    'F': ['H','I'],
+    'G': [],
+    'H': [],
+    'I': [] }
+
+   Mais pour un arbre binaire, comme chaque parent n'a au maximum que 2
+   enfants, on distingue l'enfant gauche de l'enfant droit. Alors il y a 4
+   sortes de noeuds :
+     * Ceux comme D qui n'ont aucun enfant : ce sont les feuilles de
+       l'arbre.
+     * Ceux qui n'ont qu'un enfant gauche.
+     * Ceux qui n'ont qu'un enfant droit.
+     * Ceux comme B qui ont deux enfants.
+
+   Lorsqu'il manque un enfant (ou 2) à un noeud, on considère que l'enfant
+   manquant est None. On reconnaîtra donc les feuilles à ce que leurs deux
+   enfants sont None.
+
+   IFRAME: [1]https://www.youtube.com/embed/vvey2QCs98o
+
+   La représentation en machine peut être faite ainsi :
+
+   IFRAME:
+   [2]https://pythontutor.com/iframe-embed.html#code=arbre%20%3D%20%5B'A',
+   %5B'B',%5B'D',None%5D,%5B'E',None%5D%5D,%5B'C',%5B'F',%5B'H',None%5D,%5
+   B'I',None%5D%5D,%5B'G',None%5D%5D%5D&codeDivHeight=400&codeDivWidth=350
+   &cumulative=false&curInstr=1&heapPrimitives=nevernest&origin=opt-fronte
+   nd.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false
+
+  3) Modélisation en Python
+
+    a) Attributs
+
+   None est donc un arbre (l'arbre vide). Un arbre non vide possèdera donc
+   3 attributs :
+     * Une étiquette (label) qui est le nom de la racine. C'est une chaîne
+       de caractères.
+     * L'enfant gauche (G) qui est un arbre binaire (éventuellement vide).
+     * L'enfant droit (D) qui est un arbre binaire (éventuellement vide)
+
+   Si T est un objet de type Arbre (binaire) alors sa racine a pour nom
+   T.label, son enfant gauche est T.G et son enfant droit est T.D. On peut
+   créer un arbre binaire T de racine R en faisant T = Arbre('R'). Pour
+   cela il suffit de définir une classe Arbre.
+
+    b) Classe
+
+   La première méthode de la classe Arbre est l'initialisation, qui crée
+   les attributs :
+class Arbre():
+    def __init__(self,nom=''):
+        self.label = nom
+        self.G = None
+        self.D = None
+
+    c) Croissance de l'arbre
+
+   Avec ça, si on crée l'arbre T = Arbre('A'), on n'obtient qu'une feuille
+   :
+   image/svg+xmlA
+
+   Pour construire l'arbre binaire complet, on doit remplacer les enfants
+   de A (actuellement vides) par B et C :
+T.G = Arbre('B')
+T.D = Arbre('C')
+
+   image/svg+xmlA B C
+
+   Puis continuer avec les enfants des enfants :
+T.G.G = Arbre('D')
+T.G.D = Arbre('E')
+T.D.G = Arbre('F')
+T.D.D = Arbre('G')
+
+   image/svg+xmlA B C D E F G
+
+   et finir avec les enfants des enfants des enfants :
+T.D.G.G = Arbre('H')
+T.D.G.D = Arbre('I')
+
+   Considérer I comme un attribut d'un attribut d'un attribut de A avec
+   T.D.G.D s'illustre sur l'arbre :
+   image/svg+xmlA B C D E F G H I
+
+   Pour aller de A à I on va successivement à droite, puis à gauche, puis
+   à droite, ce qui est résumé par T.D.G.D. En codant chaque virage à
+   gauche par un 0 et chaque virage à droite par un 1, I est représenté
+   par 101 en binaire. Chaque noeud autre que la racine possède ainsi un
+   code binaire.
+
+    d) Mutateurs
+
+   Il n'est pas recommandé de modifier depuis l'extérieur un attribut de
+   l'objet T : c'est à la classe Arbre de le faire. Pour cela on définit
+   des méthodes pemettant de modifier les enfants gauche et droit de
+   l'arbre. Comme elles reviennent à remplacer une feuille par tout un
+   arbre, on les appelle greffe_gauche et greffe_droite :
+class Arbre():
+    def __init__(self,nom=''):
+        self.label = nom
+        self.G = None
+        self.D = None
+    def est_une_feuille(self):
+        return not self.G and not self.D
+    def greffe_gauche(self,greffe):
+        self.G = greffe
+    def greffe_droite(self,greffe):
+        self.D = greffe
+
+   IFRAME:
+   [3]https://www.youtube.com/embed/oqMx1cuw6mo?list=PLWvGMqXvyJAPSMFgCiy6
+   qVHW9bAPu93X5
+
+   Avec ces méthodes, on peut construire l'arbre en commençant par les
+   feuilles (méthode de [4]David Huffman en 1951) :
+D = Arbre('D')
+E = Arbre('E')
+G = Arbre('G')
+H = Arbre('H')
+I = Arbre('I')
+F = Arbre('F')
+
+   Puis on greffe les feuilles H, I sur F :
+F.greffe_gauche(H)
+F.greffe_droite(I)
+
+   Puis on crée les arbres B, C :
+B = Arbre('B')
+C = Arbre('C')
+
+   on y greffe les arbres précédents :
+C.greffe_gauche(F)
+C.greffe_droite(G)
+B.greffe_gauche(D)
+B.greffe_droite(E)
+
+   Enfin on crée l'arbre A puis on y greffe les arbres B, C :
+A = Arbre('A')
+A.greffe_gauche(B)
+A.greffe_droite(C)
+
+   Cela produit exactement le même arbre que précédemment, mais sans
+   courir le risque de modifier un attribut d'un des arbres depuis
+   l'extérieur : c'est la classe Arbre qui gère ces modifications.
+
+II/ Parcours
+
+   Une méthode qui manque à la classe Arbre est celle qui permet
+   d'afficher un arbre binaire. On l'invoque en écrivant print(T) mais
+   elle s'appelle __repr__.
+
+  1) En profondeur
+
+    a) Parcours préfixe
+
+class Arbre():
+    ...
+    def __repr__(self):
+        return self.label+str(self.G).replace('None','.')+str(self.D).replace('N
+one','.')
+
+   En remplaçant les None par des points, on repère facilement les
+   feuilles : ce sont les lettres suivies par deux points. Avec l'exemple
+   précédent, on obtient le parcours dit préfixe (les parents avant les
+   enfants) ABD..E..CFH..I..G.. qui correspond au parcours en profondeur
+   (ou préfixe) ABDECFHIG.
+
+    b) Parcours suffixe
+
+   Au lieu d'afficher le nom du noeud avant les affichages des enfants, on
+   peut décider de l'afficher après :
+class Arbre():
+    ...
+    def __repr__(self):
+        return str(self.G).replace('None','.')+str(self.D).replace('None','.')+s
+elf.label
+
+   On obtient alors l'affichage ..D..EB..H..IF..GCA qui correspond au
+   parcours suffixe DEBHIFGCA de l'arbre binaire (on remarque que les
+   feuilles sont précédées de deux points). La construction de l'arbre par
+   la méthode de Huffman correspond à ce parcours suffixe.
+
+    c) Parcours infixe
+
+   Une autre variante consiste à afficher le nom du noeud entre
+   l'affichage de son enfant gauche et celui de son enfant droit :
+class Arbre():
+    ...
+    def __repr__(self):
+        return str(self.G).replace('None','.')+self.label+str(self.D).replace('N
+one','.')
+
+   On obtient alors l'affichage .D.B.E.A.H.F.I.C.G. (les feuilles sont
+   entourées de points) correspondant au parcours infixe DBEAHFICG. C'est
+   la notation utilisée par Cayley au XIX^e siècle mais elle nécessitait
+   des parenthèses : (DBE)A((HFI)CG).
+
+  2) Parcours en largeur
+
+   Pour effectuer un parcours de l'arbre en largeur, on définit la notion
+   de niveau d'un noeud :
+     * La racine est au niveau 0.
+     * Les enfants d'un noeud au niveau n-1 sont au niveau n.
+
+   Le parcours de l'arbre en largeur se fait alors niveau par niveau. On
+   récupère la liste des noeuds par niveau (pour chaque niveau, on donne
+   la liste des noeuds qui sont à ce niveau. L est donc une liste de
+   listes).
+def niveaux(arbre):
+    L = [[]]
+    niveau = 0
+    L[niveau] = [arbre]
+    while len(L[niveau]):
+        niveau += 1
+        L.append([])
+        for node in L[niveau-1]:
+            if node.G is not None:
+                L[niveau].append(node.G)
+            if node.D is not None:
+                L[niveau].append(node.D)
+    return [[T.label for T in L[n]] for n in range(niveau)]
+
+   Pour l'arbre A, la liste renvoyée est [['A'], ['B', 'C'], ['D', 'E',
+   'F', 'G'], ['H', 'I']] ce qui signifie qu'il y a
+     * Un seul noeud au niveau 0 : la racine A.
+     * Deux noeuds au niveau 1 : B, C.
+     * Quatre noeuds au niveau 2 : D, E, F, G.
+     * Deux noeuds au niveau 3 : H, I.
+
+III/ Mesures
+
+  1) Hauteur
+
+   On appelle hauteur d'un arbre, le plus grand niveau parmi ses feuilles
+   (un noeud de niveau maximal ne peut être qu'une feuille).
+
+   On peut donc calculer récursivement la hauteur d'un arbre :
+def hauteur(arbre):
+    if arbre.est_une_feuille():
+        return 0
+    else:
+        return 1+max(hauteur(arbre.G),hauteur(arbre.D))
+
+   La hauteur de l'arbre A est 3, mais comme chaque noeud de cet arbre est
+   lui-même un arbre, on peut aussi calculer la hauteur de chacun d'entre
+   eux :
+
+   noeud hauteur
+   A     3
+   B     1
+   C     2
+   D     0
+   E     0
+   F     1
+   G     0
+   H     0
+   I     0
+
+  2) Taille
+
+   La taille d'un arbre est le nombre de noeuds qu'il contient. Pour
+   calculer la taille d'un arbre, il suffit donc de le parcourir (par
+   exemple en profondeur) en comptant les noeuds.
+def taille(arbre):
+    if arbre is None:
+        return 0
+    else:
+        return 1+taille(arbre.G)+taille(arbre.D)
+
+   Remarque : certains auteurs considèrent que les feuilles ne sont pas
+   des noeuds et appellent donc taille de l'arbre, le nombre de noeuds
+   (autres que les feuilles) qu'il contient. Dans ce cas le calcul serait
+   fait uniquement sur les noeuds autres que les feuilles :
+def taille(arbre):
+    if arbre.est_une_feuille():
+        return 0
+    else:
+        return 1+taille(arbre.G)+taille(arbre.D)
+
+  3) Comparaison entre taille et hauteur
+
+   La plus grande hauteur possible pour un arbre binaire de taille n est
+   n-1. La plus petite hauteur possible est 1 de moins que le nombre de
+   chiffres binaires de n. Un arbre binaire qui atteint ce minimum est dit
+   équilibré.
+
+   Par exemple, l'arbre historique de David Huffman est de taille 25 et de
+   hauteur 6 :
+   . E T A O I N S D H R L U
+
+   Comme 25 s'écrit 11001 avec 5 chiffres, la hauteur minimale d'un arbre
+   binaire de taille 25 est 4 et pas 6 : l'arbre de Huffman n'est pas
+   équilibré. Mais ses feuilles portant des lettres, il sert à décoder des
+   mots binaires écrits avec les 13 lettres. Par exemple pour arriver à la
+   lettre T on effectue (depuis la racine) le trajet GDD et la lettre T se
+   code 011. On peut vérifier que les 13 bits 0111100101000 représentent
+   le code de Huffman du mot TAIE qui s'écrit sur 32 bits en Ascii et au
+   moins 16 bits si on veut coder directement en binaire les 13 lettres
+   (ce qui nécessite 4 bits pour chacune d'entre elles).
+
+IV/ Exemple
+
+   La structure d'arbre binaire permet de parcourir l'arbre ABCDEFGHI sans
+   utiliser les étiquettes des noeuds. On peut donc mettre des étiquettes
+   identiques sur plusieurs noeuds et ainsi, donner un sens à l'arbre
+   binaire. Par exemple :
+   image/svg+xml* - + x 5 * 3 2 x
+
+   Les étiquettes des feuilles représentent soit des constantes 2, 3, 5
+   soit la variable x.
+
+  1) Parcours infixe
+
+   Le parcours infixe de cet arbre syntaxique est (x-5)*(2*x+3). C'est
+   sous cette forme que la plupart des langages de programmation
+   (notamment Python) lisent les expressions.
+
+  2) Parcours préfixe
+
+   Le parcours préfixe de l'arbre syntaxique ne nécessite pas de
+   parenthèses : * - x 5 + * 2 x 3. La ressemblance avec la langue
+   française « le produit de la différence entre x et 5 par la somme du
+   produit de 2 par x, et de 3 » fait que certains langages de
+   programmation (Lisp, Logo, Prolog...) gèrent les expressions préfixes
+   plutôt qu'infixes. Voici un exemple avec Scheme qui est une variante de
+   Lisp :
+> (define x 8)
+x
+> x
+8
+> (* (- x 5) (+ (* 2 x) 3))
+57
+
+   La session Haskell suivante montre que ce langage gère les deux
+   notations :
+l\ let x = 8
+l\ x
+8
+l\ (*) ((-) x 5) ((+) ((*) 2 x) 3)
+57
+l\ (x-5)*(2*x+3)
+57
+
+   L'idée de représenter les expressions algébriques sous forme préfixe
+   (pour éviter les parenthèses) est dûe au mathématicien polonais [5]Jan
+   L/ukasiewicz. En son honneur, on appelle notation polonaise le parcours
+   préfixe d'un arbre syntaxique. Les langages qui utilisent la notation
+   polonaise sont dits fonctionnels.
+
+   De 1953 à 1957, [6]John Backus a développé l'un des premiers
+   compilateurs, dont l'une des tâches consistait à
+     * construire, à partir d'une expression, son arbre syntaxique,
+     * construire un algorithme d'évaluation par parcours préfixe.
+
+   L'importance de cette tâche a amené Backus à appeler son langage
+   Formula translator, abrégé en Fortran.
+
+   Mais dès 1951, [7]Grace Hopper avait mis cette construction dans ce qui
+   est considéré comme le premier [8]compilateur de l'histoire de
+   l'informatique.
+
+  3) Parcours suffixe
+
+   Par référence à ce qui précède, le parcours suffixe de l'arbre
+   syntaxique x 5 - 2 x * 3 + * est appelé notation polonaise inverse
+   (Arthur Burks, 1954). Les langages de programmation Forth et Postscript
+   entre autres, utilisent l'évaluation suffixe des expressions.
+
+   Voici un exemple en Postscript (commande gs) :
+GS>/x 8 def
+GS>x 5 sub 2 x mul 3 add mul
+GS<1>pstack
+57
+
+References
+
+   1. https://www.youtube.com/embed/vvey2QCs98o
+   2. https://pythontutor.com/iframe-embed.html#code=arbre%20%3D%20%5B'A',%5B'B',%5B'D',None%5D,%5B'E',None%5D%5D,%5B'C',%5B'F',%5B'H',None%5D,%5B'I',None%5D%5D,%5B'G',None%5D%5D%5D&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=1&heapPrimitives=nevernest&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false
+   3. https://www.youtube.com/embed/oqMx1cuw6mo?list=PLWvGMqXvyJAPSMFgCiy6qVHW9bAPu93X5
+   4. https://fr.wikipedia.org/wiki/David_Albert_Huffman
+   5. https://fr.wikipedia.org/wiki/Jan_%C5%81ukasiewicz
+   6. https://fr.wikipedia.org/wiki/John_Backus
+   7. https://fr.wikipedia.org/wiki/Grace_Hopper
+   8. https://fr.wikipedia.org/wiki/Compilateur

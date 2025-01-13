@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="dico.css" type="text/css" media="screen" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <head>
+  <title>Dictionnaire médical de l'Académie de Médecine</title>
+  <meta http-equiv="content-type" content="text/html;charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <meta name="author" content="Vitorio Delage" />
+  <link rel="stylesheet" type="text/css" href="dico.css" media="screen" title="Default" />
+  <script type="text/javascript" src="multicolumn.js"></script>
+  <script type="text/javascript">
+
+	function del_confirm(link) {
+		if (confirm("Voulez vous supprimer cette entrée ?")) {
+			var href = link.href;
+			window.open(href,'_blank');
+			location.reload(true)
+		}
+		else {
+			return false;
+		}
+	}
+function myFunction(){
+  if(window.innerWidth !== undefined && window.innerHeight !== undefined) { 
+    var w = window.innerWidth;
+    var h = window.innerHeight;
+  } else {  
+    var w = document.documentElement.clientWidth;
+    var h = document.documentElement.clientHeight;
+  }
+  var txt = "Page size: width=" + w + ", height=" + h;
+  document.getElementById("demo").innerHTML = txt;
+}
+	
+function columnize(){
+	multiColumnSettings=new MultiColumnSettings;
+	multiColumnSettings.classNameScreen='screenContainer';
+	multiColumnSettings.classNamePrint='printContainer';
+	multiColumnSettings.minHeight=500;
+	multiColumnSettings.extraHeight=60;
+	/*multiColumnSettings.readOnText="Continue >>";*/
+	multiColumnSettings.numberOfColumns=null;
+
+	new MultiColumn(document.getElementById('container'),multiColumnSettings);
+}
+if (window.matchMedia("(min-width: 480px)").matches) {
+	window.onload = columnize
+}
+  </script>
+ </head>
+ <body>
+       <div><h1>Dictionnaire médical de l'<a href="http://www.academie-medecine.fr" >Académie de Médecine</a> – ancienne version 2020</h1>
+ 	<form method="get" action="">
+ 		<p>
+ 			<input type="text" name="q" class="lst" id="q" size="55" maxlength="2048" value="mésentère" />
+ 			<input type="submit" value="rechercher" />
+ 		</p>
+ 	</form>
+ 	</div>
+ 	<div id="container">
+ 	<div>
+   <h2>1 résultat&nbsp;</h2>
+<p class="terme"><b>mésentère</b> n.m.</p>
+<p><i>mesenterium </i>(TA)</p>
+<p>mesentery</p>
+<p>Long repli péritonéal qui relie le jéjuno-iléon à la paroi abdominale postérieure.<br /><i>Son insertion pariétale (racine du mésentère) est courte (15 à 18centimètres). Son bord libre, intestinal, a la même longueur que l’intestin grêle (6.50m). Entre ses deux bords, le mésentère dessine des plis d’autant plus hauts qu’on se rapproche d’avantage des anses grêles. Le mésentère a deux faces, antérieure ou droite et postérieure ou gauche. Chacune de ces faces est tapissée par un feuillet péritonéal. Entre les deux feuillets péritonéaux cheminent les éléments qui gagnent l’intestin grêle ou en viennent : artère mésentérique supérieure et ses branches, veine mésentérique supérieure et ses branches, les vaisseaux et nœuds lymphatiques qui drainent les chylifères, et le plexus nerveux mésentérique supérieur. Ces éléments cheminent dans la graisse, d’épaisseur variable selon l’embonpoint du sujet.</i></p>
+	</div>
+</div>
+		<form method="get" action="index.php">
+			<p class="center">
+				<script type="text/javascript">
+<!--
+var thing0 = "href=\"mai";
+var thing1 = "diction";
+var thing3 = "medecine.fr";
+var thing2 = "academie-";
+var thing4 = "naire";
+var thing5 = "lto:"
+document.write('<a '+ thing0 + thing5 + thing1 + thing4 + String.fromCharCode(65-1) + thing2 + thing3 + '">' + 'contact'  + '</a>');
+-->
+</script>
+							</p>
+			
+ 		</form>
+		<span id="demo"></span>
+	</body>
+</html>
+

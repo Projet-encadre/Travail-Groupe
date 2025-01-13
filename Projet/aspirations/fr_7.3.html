@@ -1,0 +1,172 @@
+<!DOCTYPE html><html lang="fr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="UTF-8">
+
+<meta name="dcterms.rights" content="© Copyright IBM Corporation 2024">
+
+
+
+<meta name="description" content="Le système de fichiers racine est au sommet de l'arborescence hiérarchique des fichiers. Il contient les fichiers et répertoires critiques pour l'opération système, y compris le répertoire des périphériques et programmes pour l'amorçage du système. Le système de fichiers racine contient également des points de montage dans lesquels des systèmes de fichiers peuvent être montés pour se connecter à la hiérarchie du système de fichiers racine.">
+<meta name="keywords" content="systèmes de fichiers, arborescence de fichiers, système de fichiers / (racine), système de fichiers / (racine), système de fichiers racine (/), système de fichiers racine (/)">
+<meta name="geo.country" content="ZZ">
+<script>
+    digitalData = {
+      page: {
+        pageInfo: {
+  language: "en-us",
+
+  version: "v18",
+  ibm: {
+  country: "ZZ",
+  type: "CT701"
+  
+         }
+       }
+     }
+   };
+  </script><!-- Licensed Materials - Property of IBM -->
+<!-- US Government Users Restricted Rights -->
+<!-- Use, duplication or disclosure restricted by -->
+<!-- GSA ADP Schedule Contract with IBM Corp. -->
+
+<link rel="Start" href="fs_tree_org.html">
+<title>Système de fichiers racine</title>
+<link rel="canonical" href="https://www.ibm.com/docs/fr/aix/7.3?topic=tree-root-file-system"><meta name="viewport" content="width=device-width,initial-scale=1"></head>
+<body id="fs_root"><main role="main"><article role="article" aria-labelledby="fs_root__title__1">
+<h1 class="topictitle1" id="fs_root__title__1">Système de fichiers racine</h1><div style="padding: .5em" class="edit-source-topic"><span class="edit-source-topic" style="font-size: 12px; vertical-align: middle"><a target="_blank" title="/fs_root.dita" href="https://oxygen.cnvdal.apps.cirrus.ibm.com/oxygenxml-web-author/app/oxygen.html?url=gitgh%3A%2F%2Fhttps%253A%252F%252Fgithub.ibm.com%252Faix-docs%252F7.3%2Fmain%2Fdevicemanagement%2Ffs_root.dita">Editer en ligne</a></span></div>
+
+
+
+<div class="body conbody"><p class="shortdesc">Le système de fichiers racine est au sommet de l'arborescence hiérarchique des fichiers. Il contient les fichiers et répertoires critiques pour l'opération système, y compris le répertoire des périphériques et programmes pour l'amorçage du système. Le système de fichiers racine contient également des points de montage dans lesquels des systèmes de fichiers peuvent être montés pour se connecter à la hiérarchie du système de fichiers racine.</p>
+
+<p>Le diagramme suivant présente plusieurs sous-répertoires du système de fichiers racine.</p>
+
+<div class="p"> <figure class="fignone"><figcaption>Figure 1 : Système de fichiers racine. <span class="desc figdesc">Ce diagramme illustre le système de fichiers racine et ses sous-répertoires. Le sous-répertoire <span class="ph filepath">/bin</span> pointe vers le répertoire <span class="ph filepath">/usr/bin</span>. Le sous-répertoire <span class="ph filepath">/lib</span> pointe vers le répertoire <span class="ph filepath">/usr/lib</span>. Le sous-répertoire <span class="ph filepath">/u</span> pointe vers le répertoire <span class="ph filepath">/home</span> .</span></figcaption>
+<div class="image"><img src="basea34.jpg" alt=""></div>
+</figure>
+</div>
+
+<p>La liste suivante fournit des informations sur le contenu de certains sous-répertoires du système de fichiers<span class="ph filepath"> /</span> (root).</p>
+
+
+<div class="tablenoborder"><table summary=""><colgroup><col style="width:15%"><col style="width:85%"></colgroup><thead style="text-align:left;"> <tr> <th id="fs_root__entry__1" class="nrule">Article</th>
+ <th id="fs_root__entry__2" class="nrule">Descriptif</th>
+ </tr>
+ </thead>
+<tbody>
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/etc</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Contient les fichiers de configuration qui varient pour chaque machine. Exemples :<ul>
+<li><span class="ph filepath">/etc/hosts</span></li>
+
+<li><span class="ph filepath">/etc/passwd</span></li>
+
+</ul>
+ <p>Le répertoire <span class="ph filepath">/etc</span> contient les fichiers généralement utilisés pour l'administration du système. La plupart des commandes qui se trouvaient auparavant dans le répertoire <span class="ph filepath">/etc</span> se trouvent désormais dans le répertoire <span class="ph filepath">/usr/sbin</span>. Toutefois, pour des raisons de compatibilité, le répertoire <span class="ph filepath">/usr/sbin</span> contient des liens symboliques vers les emplacements de certains fichiers exécutables. Exemples :</p>
+ <ul>
+<li><span class="ph filepath">/etc/chown</span> est un lien symbolique vers <span class="ph filepath">/usr/bin/chown</span>.</li>
+
+<li><span class="ph filepath">/etc/exportvg</span> est un lien symbolique vers <span class="ph filepath">/usr/sbin/exportvg</span>.</li>
+
+</ul>
+</td>
+
+</tr>
+
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/bin</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Lien symbolique vers le répertoire <span class="ph filepath">/usr/bin</span>. Dans les systèmes de fichiers <span class="ph">UNIX</span> antérieurs, le répertoire " <span class="ph filepath">/bin</span> contenait des commandes utilisateur qui se trouvent désormais dans le répertoire " <span class="ph filepath">/usr/bin</span>.</td>
+
+</tr>
+
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/sbin</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Contient les fichiers nécessaires à l'amorçage de la machine et au montage du système de fichiers <span class="ph filepath">/usr</span>. La plupart des commandes utilisées lors de l'amorçage proviennent du système de fichiers RAM de l'image d'amorçage ; par conséquent, très peu de commandes se trouvent dans le répertoire <span class="ph filepath">/sbin</span>.</td>
+
+</tr>
+
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/dev</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Contient des nœuds d'unité pour les fichiers spéciaux pour les périphériques locaux. Le répertoire <span class="ph filepath">/dev</span> contient des fichiers spéciaux pour les unités de bande, les imprimantes, les partitions de disque et les terminaux.</td>
+
+</tr>
+
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/tmp</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Sert de point de montage pour un système de fichiers contenant des fichiers temporaires générés par le système. Le système de fichiers <span class="ph filepath">/tmp</span> est un répertoire vide.</td>
+
+</tr>
+
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/var</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Il sert de point de montage pour les fichiers qui varient sur chaque machine. Le système de fichiers <span class="ph filepath">/var</span> est configuré en tant que système de fichiers, car les fichiers qu'il contient ont tendance à augmenter. Pour plus d'informations, voir <a href="fs_var.html#fs_var" title="Le système de fichiers /var a tendance à croître car il contient des sous-répertoires et des fichiers de données utilisés par des applications occupées telles que la comptabilité, le courrier et le spouleur d'impression.">Système de fichiers/var</a> .</td>
+
+</tr>
+
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/u</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Lien symbolique vers le répertoire <span class="ph filepath">/home</span>.</td>
+
+</tr>
+
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/usr</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Contient des fichiers qui ne changent pas et peuvent être partagés par des machines telles que les exécutables et la documentation ASCII.<p>Les machines autonomes montent la racine d'un système de fichiers local distinct sur le répertoire <span class="ph filepath">/usr</span>. Les machines sans disque et celles avec des ressources de disque limitées montent un répertoire à partir d'un serveur distant sur le système de fichiers <span class="ph filepath">/usr</span>. Pour plus d'informations sur l'arborescence de fichiers montée sur le répertoire <span class="ph filepath">/usr</span> , voir <a href="fs_usr.html#fs_usr" title="Le système de fichiers /usr contient des fichiers exécutables qui peuvent être partagés entre les machines.">Système de fichiers/usr</a> .</p>
+</td>
+
+</tr>
+
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/home</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Sert de point de montage pour un système de fichiers contenant les répertoires home de l'utilisateur. Le système de fichiers <span class="ph filepath">/home</span> contient des fichiers et des répertoires par utilisateur.<p>Dans une machine autonome, le répertoire <span class="ph filepath">/home</span> se trouve dans un système de fichiers distinct dont la racine est montée sur le système de fichiers racine du répertoire <span class="ph filepath">/home</span>. Dans un réseau, un serveur peut contenir des fichiers utilisateur accessibles à partir de plusieurs machines. Dans ce cas, la copie serveur du répertoire <span class="ph filepath">/home</span> est montée à distance sur un système de fichiers <span class="ph filepath">/home</span> local.</p>
+</td>
+
+</tr>
+
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/export</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Contient les répertoires et les fichiers sur un serveur qui sont destinés aux clients à distance.<p>Voir <a href="exp_dir.html#exp_dir" title="Le répertoire /export contient les fichiers serveur exportés vers les clients, tels que les machines sans disque, sans données ou à disque.">/export directory</a> pour plus d'informations sur l'arborescence de fichiers qui se trouve sous le répertoire <span class="ph filepath">/export</span> .</p>
+</td>
+
+</tr>
+
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/lib</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Lien symbolique vers le répertoire <span class="ph filepath">/usr/lib</span>. Pour plus d'informations, voir <a href="fs_usr.html#fs_usr" title="Le système de fichiers /usr contient des fichiers exécutables qui peuvent être partagés entre les machines.">Système de fichiers/usr</a> .</td>
+
+</tr>
+
+<tr>
+<td headers="fs_root__entry__1 " class="nrule"><span class="ph filepath">/tftpboot</span></td>
+
+<td headers="fs_root__entry__2 " class="nrule">Contient des images d'amorçage et des informations d'amorçage pour les clients sans disque.</td>
+
+</tr>
+
+</tbody>
+</table>
+</div>
+
+</div>
+
+<aside role="complementary" aria-labelledby="fs_root__title__1"><nav role="navigation">
+<div class="familylinks">
+<div class="parentlink"><strong>Rubrique parent:</strong> <a href="fs_tree_org.html" title="L'arborescence des fichiers organise des fichiers dans des répertoires contenant des informations similaires. Cette organisation facilite l'installation à distance de répertoires et de fichiers.">Organisation et contenu de l'arborescence de fichiers</a></div>
+</div>
+</nav></aside></article></main>
+<script type="text/javascript"  src="/7wBEgk/6/F/_1hkCZsZFg/YmuJNL6kpkpVYu/CgwcAg/Zn/BNaQMrPiE"></script><link rel="stylesheet" type="text/css"  href="/7wBEgk/6/F/_1hkCZsZFg/XmuJ/KGl3AQ/eR/96YVRxNT1Y">
+                                        <script  src="/7wBEgk/6/F/_1hkCZsZFg/XmuJ/KGl3AQ/Lm/ITb3UwfTYq" async defer></script>
+                                        <div id="sec-overlay" style="display:none;">
+                                        <div id="sec-container">
+                                        </div>
+                                      </div></body></html><!-- v2.2.7 : caits-prod-app-idhub_idhub-prod_20241029T065036-2_en_fr -->

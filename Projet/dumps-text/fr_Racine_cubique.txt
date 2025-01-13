@@ -1,0 +1,9 @@
+   REFRESH(390 sec):
+   [1]file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/
+   Projet/aspirations/fr_Racine_cubique.html
+
+   Enable JavaScript and cookies to continue
+
+References
+
+   1. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_cubique.html

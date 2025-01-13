@@ -1,0 +1,950 @@
+   #[1]alternate [2]Modifier [3]Wikipédia (fr) [4]Flux Atom de Wikipédia
+
+   [5]Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * [6]Accueil
+     * [7]Portails thématiques
+     * [8]Article au hasard
+     * [9]Contact
+
+   Contribuer
+     * [10]Débuter sur Wikipédia
+     * [11]Aide
+     * [12]Communauté
+     * [13]Modifications récentes
+
+   [14]Wikipédia l'encyclopédie libre
+   [15]Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * [16]Faire un don
+     * [17]Créer un compte
+     * [18]Se connecter
+
+   [ ] Outils personnels
+     * [19]Faire un don
+     * [20]Créer un compte
+     * [21]Se connecter
+
+   Pages pour les contributeurs déconnectés [22]en savoir plus
+     * [23]Contributions
+     * [24]Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Interprétation diachronique
+
+     2 Interprétations synchroniques
+   (BUTTON) Afficher/masquer la sous-section Interprétations synchroniques
+     * 2.1 Le radical en tant que base élémentaire
+
+     * 2.1.1 Le sens du radical
+
+     2.1.2 La forme du radical
+
+     2.1.3 Radical libre et radical lié
+
+
+
+   3 Références
+
+
+
+   4 Sources bibliographiques
+
+
+
+   5 Voir aussi
+
+   [ ] Basculer la table des matières
+
+Racine et radical (linguistique)
+
+   [ ] 56 langues
+     * [25]a+l+e+r+b+y+tm
+     * [26]t+r+©g+h+
+     * [27]Bikol Central
+     * [28]Belaruskaya
+     * [29]Belaruskaya (tarashkeviica)
+     * [30]B"lgarski
+     * [31]¬¾²¾
+     * [32]Brezhoneg
+     * [33]Català
+     * [34]Cestina
+     * [35]CHvashla
+     * [36]Deutsch
+     * [37]English
+     * [38]Esperanto
+     * [39]Español
+     * [40]f+a+r+s+
+     * [41]Gàidhlig
+     * [42]E+B+R+J+T+
+     * [43]Magyar
+     * [44]¡µ¥¥¶
+     * [45]Bahasa Indonesia
+     * [46]Ido
+     * [47]Íslenska
+     * [48]Italiano
+     * [49]¥¬
+     * [50]La .lojban.
+     * [51]¥ £
+     * [52]azasha
+     * [53]­´
+     * [54]Kyrgyzcha
+     * [55]Latina
+     * [56]Lietuviu
+     * [57]Latviesu
+     * [58]Malagasy
+     * [59]¤© £
+     * [60]Bahasa Melayu
+     * [61]Plattdüütsch
+     * [62]Nederlands
+     * [63]Polski
+     * [64]Português
+     * [65]Româna
+     * [66]Russkij
+     * [67]Simple English
+     * [68]Slovencina
+     * [69]Slovenscina
+     * [70]Shqip
+     * [71]Svenska
+     * [72]Kiswahili
+     * [73]¤®¿´
+     * [74]Türkçe
+     * [75]Ukrayins'ka
+     * [76]O;Szbekcha / v%zbekcha
+     * [77]Vèneto
+     * [78]Walon
+     * [79]­
+     * [80]µ
+
+   [81]Modifier les liens
+
+     * [82]Article
+     * [83]Discussion
+
+   [ ] français
+
+     * [84]Lire
+     * [85]Modifier
+     * [86]Modifier le code
+     * [87]Voir l'historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * [88]Lire
+     * [89]Modifier
+     * [90]Modifier le code
+     * [91]Voir l'historique
+
+   Général
+     * [92]Pages liées
+     * [93]Suivi des pages liées
+     * [94]Téléverser un fichier
+     * [95]Pages spéciales
+     * [96]Lien permanent
+     * [97]Informations sur la page
+     * [98]Citer cette page
+     * [99]Obtenir l'URL raccourcie
+     * [100]Télécharger le code QR
+
+   Imprimer/exporter
+     * [101]Créer un livre
+     * [102]Télécharger comme PDF
+     * [103]Version imprimable
+
+   Dans d'autres projets
+     * [104]Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   [105]Page d'aide sur l'homonymie
+
+   Pour les articles homonymes, voir [106]Radical et [107]Racine.
+
+   En [108]linguistique, les termes « racine » et « radical » sont
+   associés. Certains linguistes y voient même des
+   [109]synonymes^[110][1], d'autant plus qu'en [111]anglais on utilise le
+   terme root comme équivalent des deux^[112][2], Crystal 2008 mentionnant
+   que le terme radical est parfois utilisé au lieu de root^[113][3]. En
+   effet, les deux termes ont en commun de se référer à un élément de base
+   du [114]mot, dépourvu de tout [115]affixe, dans les [116]langues
+   flexionnelles et les [117]langues agglutinantes. Cependant, au
+   [118]XXI^e siècle, les deux termes sont distingués dans la
+   [119]terminologie linguistique française^[120][4] selon certaines
+   caractéristiques de l'élément de mot en question. De plus, chacun des
+   deux termes continue d'avoir plusieurs interprétations.
+
+Interprétation diachronique
+
+   [[121]modifier | [122]modifier le code]
+
+   Pour certains linguistes^[123][5], le terme « racine » se réfère à
+   l'histoire des mots, à leur [124]étymologie. La notion de racine a une
+   grande importance dans les études [125]diachroniques visant à
+   reconstituer le [126]proto-indo-européen. Dans ces études, la racine
+   est l'élément de base, le plus ancien de l'histoire d'un mot,
+   reconstitué par la comparaison de ses correspondants dans les
+   [127]langues indo-européennes, en tenant compte de [128]lois
+   phonétiques spécifiques^[129][6]. On est arrivé, par exemple, à la
+   conclusion que le mot [130]sanscrit parayati « mener à travers », celui
+   du [131]grec ancien peirein « passer à travers », le mot [132]latin
+   portare « porter », l'[133]arménien hordan « avancer », le [134]slave
+   ancien pariti « voler », l'[135]ancien anglais faran « aller, voyager »
+   et beaucoup d'autres mots ont tous pour base la racine
+   proto-indo-européenne *per-, dont le sens est « mener quelque part,
+   passer à travers »^[136][7].
+
+   La distinction entre racine et radical apparaît déjà dans l'étude des
+   racines indo-européennes. Une telle racine est un [137]symbole
+   hypothétique qui exprime une certaine notion, constitué de deux
+   [138]consonnes, par exemple. La racine est débarrassée de tous les
+   éléments de [139]flexion ou de [140]formation des mots (affixes, etc.),
+   étant irréductible sous cette forme. Une racine de deux consonnes
+   apparaît dans les mots complétée par une [141]voyelle qui diffère dans
+   des variantes de la racine appelées « radicaux ». Ceux-ci servent de
+   base à la flexion. Par exemple, la racine g e/o n exprimant la notion
+   d'engendrer et de naissance, se réalise par les radicaux gen, gon, gn,
+   etc., le premier apparaissant dans le verbe français
+   engendrer^[142][8]. Bussmann 1998, en utilisant le terme (en) root,
+   mentionne que les mots cités dans le paragraphe précédent ont à la base
+   les éléments *per- ou *par-^[143][9], qui seraient donc des radicaux
+   dans la terminologie française.
+
+Interprétations synchroniques
+
+   [[144]modifier | [145]modifier le code]
+
+   Le terme « racine » est aussi utilisé dans la linguistique concernant
+   les [146]langues sémitiques actuelles. C'est en général un ensemble de
+   trois consonnes, et la flexion, appelée « interne » dans ce cas, ainsi
+   que, en partie, la formation de mots, consiste en le changement des
+   voyelles qui se trouvent entre ces consonnes. En [147]arabe, par
+   exemple, la racine k-t-b représente la notion « écriture » et sert à
+   former des mots tels kataba « a écrit », katib « scribe, écrivain »,
+   kitab « document écrit, livre », kutub « livres »^[148][8].
+
+   La distinction entre racine et radical existe dans une interprétation
+   [149]synchronique également, le terme « radical » dénommant une des
+   formes prises par une racine. Celle-ci serait l'élément irréductible,
+   commun à tous les membres d'une même [150]famille de mots appartenant à
+   une [151]langue ou à une [152]famille de langues. Elle est obtenue
+   après élimination de tous les affixes, et elle porte le sens essentiel,
+   commun à tous les mots constitués avec elle, étant la forme abstraite
+   servant de base de représentation à tous les radicaux qui en sont les
+   manifestations. Il y aurait, par exemple, une racine /ven/ avec deux
+   radicaux, ven- et vien-, qui se réaliseraient à la suite de l'ajout de
+   divers affixes, le premier dans venir, venons, etc., le second dans
+   vienne, viennent, etc. Des mots de langues différentes pourraient aussi
+   avoir une racine commune qui se réaliserait par des radicaux différents
+   dans ces langues, comme la racine /chant/, avec le radical chant-, dans
+   le [153]verbe chanter hérité du latin et ses formes, et le radical
+   cant- dans cantatrice, par exemple, mot [154]italien [155]emprunté par
+   le français. Une racine peut aussi avoir un seul radical, les deux se
+   confondant alors^[156][8].
+
+   Le terme « radical » a d'autres interprétations synchroniques encore,
+   non rapportées à la notion de racine.
+
+   Dans l'une d'elles, le radical serait une base à laquelle on peut
+   ajouter des affixes [157]grammaticaux. Le radical serait donc un mot
+   indépendant ou un segment de mot sans aucun affixe ou seulement avec un
+   ou plusieurs affixes [158]lexicaux^[159][10]^,^[160][11].
+
+Le radical en tant que base élémentaire
+
+   [[161]modifier | [162]modifier le code]
+
+   Le plus souvent, dans les études synchroniques, le radical est la forme
+   de base d'un mot qui n'est pas analysable sans la perte totale de son
+   identité, autrement dit, ce qui reste d'un mot après que tous ses
+   affixes, aussi bien grammaticaux que lexicaux, ont été
+   enlevés^[163][3]. Du point de vue [164]morphologique, c'est un
+   [165]morphème, tout comme les autres éléments du mot, les
+   affixes^[166][12]. Le radical est commun à toutes les formes
+   grammaticales d'un mot et à tous les mots qui constituent une famille
+   de mots^[167][13].
+
+   Ainsi, le radical est la base élémentaire de la flexion (dans les
+   langues flexionnelles) et de l'ajout d'affixes (dans les langues
+   agglutinantes), qu'il s'agisse de l'expression des rapports
+   grammaticaux ou de la formation de mots.
+
+   En [168]anglais, par exemple, langue flexionnelle, play- est un radical
+   et en même temps le verbe play à l'[169]infinitif (« jouer ») et à cinq
+   formes [170]personnelles du [171]présent simple, ainsi que le [172]nom
+   signifiant jeu. On en forme, par ajout du morphème [173]suffixe
+   [174]dérivationnel -er, le nom player « joueur », puis, par ajout du
+   morphème [175]désinence -s, la forme de [176]pluriel players
+   « joueurs ».
+
+   Toujours en partant de radicaux, on réalise la flexion interne, qui
+   joue un rôle très important dans les [177]langues sémitiques comme
+   l'arabe par exemple (voir plus haut), mais ces procédés existent dans
+   d'autres langues aussi, comme dans une certaine mesure en anglais (man
+   « homme » - men « hommes » ; write « écrire » et cinq formes
+   personnelles au présent simple - wrote toutes les formes du [178]passé
+   simple^[179][14]) et, dans une moindre mesure, en [180]français : peut
+   - put, sait - sut, prend - prit, met - mit^[181][15].
+
+   Dans une langue agglutinante, comme le [182]hongrois, au radical ház-,
+   morphème unique dans le mot ház « maison », par ajout des suffixes
+   dérivationnels -as, -ság, et grammaticaux -a, -i, -m et -ról, on
+   obtient le mot házasságaimról « au sujet de mes mariages »^[183][16].
+
+   Par [184]composition aussi, on peut obtenir des mots nouveaux à partir
+   de deux radicaux, par exemple (fr) chou-fleur^[185][17], (en) blackbird
+   « merle » (littéralement « oiseau noir »)^[186][3].
+
+Le sens du radical
+
+   [[187]modifier | [188]modifier le code]
+
+   Certains radicaux ont un sens notionnel, lexical. Ce sens est
+   directement intelligible dans le cas du radical du nom, du verbe et de
+   l'[189]adjectif et indirectement intelligible dans celui du radical du
+   [190]pronom. Ont un sens non lexical mais grammatical les radicaux des
+   [191]conjonctions, des [192]prépositions, des [193]postpositions,
+   radicaux qui sont en même temps des mots invariables. D'autres
+   radicaux, généralement des mots invariables aussi, ont un sens
+   [194]pragmatique ou [195]modal. Tels sont les [196]interjections et les
+   mots pris en compte en tant qu'[197]adverbes dans certaines grammaires,
+   comme celles du [198]français ou du [199]roumain, dont certains sont
+   considérés comme des mots de [200]natures à part, appelés
+   [201]modalisateurs et/ou [202]particules, dans d'autres grammaires,
+   comme celles du hongrois^[203][18].
+
+La forme du radical
+
+   [[204]modifier | [205]modifier le code]
+
+   Dans certaines grammaires, on considère qu'il y a des radicaux à forme
+   unique et d'autres à deux ou plusieurs variantes. Dans le cas des
+   derniers, l'une des formes est typique, abstraite, appelée invariante.
+   Celle-ci représente le morphème radical et on considère qu'il a autant
+   de réalisations qu'il y a des formes, appelées variantes ou
+   [206]allomorphes^[207][19]^,^[208][20]. Cette distinction est analogue
+   avec celle entre [209]phonème et [210]allophone en [211]phonologie, et
+   elle correspond à celle entre racine et radical présente dans Dubois
+   2002 (voir plus haut).
+
+   Entre les variantes d'un radical il y a ce qu'on appelle des
+   [212]alternances phonétiques ([213]vocaliques et [214]consonantiques).
+   Certaines variantes sont appelées combinatoires, c'est-à-dire causées
+   par l'ajout d'affixes, étant de nature [215]morphophonologique. Il y a
+   plusieurs sortes de telles alternances, en fonction aussi de la langue
+   donnée :
+     * entre variantes d'une voyelle (par exemple [216]brève ~ longue) :
+       (fr) dites [dit] ~ disent [di:z]^[217][15], (hu) víz [v:z] « eaux »
+       ~ vizek ['vizEk] « eaux »^[218][21] ;
+     * entre voyelles différentes : (fr) répéter ~ il/elle
+       répète^[219][15], (ro) fata « fille » ~ fete « filles »^[220][22] ;
+     * entre une voyelle et une [221]diphtongue : (ro) negru « noir » ~
+       neagra « noire »^[222][22] ;
+     * entre une voyelle et une consonne : (sr) beo « blanc » ~ bela
+       « blanche »^[223][23] ;
+     * entre une voyelle et son absence : (sr) borac « combattant » ~
+       borcu « au combattant » ([224]cas [225]datif)^[226][24], (hu) bokor
+       « buisson » ~ bokrok « buissons »^[227][20] ;
+     * entre deux consonnes : (fr) neuf ~ neuve^[228][15], (ro) pot « je
+       peux » ~ poti « tu peux »^[229][22] (sr) Srbija « Serbie » ~ srpski
+       « serbe » (adjectif)^[230][25] ;
+     * entre deux groupes de consonnes : (ro) musca ['musk@] « mouche » ~
+       muste ['muSte] « mouches »^[231][22] ;
+     * entre une consonne et son absence : (fr) ils/elles battent ~
+       il/elle bat^[232][15] ;
+     * alternance vocalique et consonantique concomitantes : (ro) carte
+       ['karte] « livre » ~ carti ['k@rt¡s;] « livres »^[233][22] ;
+
+   La flexion interne aussi peut être considérée comme un système
+   d'alternances vocaliques.
+
+Radical libre et radical lié
+
+   [[234]modifier | [235]modifier le code]
+
+   Certains radicaux sont des morphèmes libres et donc peuvent constituer
+   des mots par eux-mêmes et remplir ainsi leur rôle dans la
+   [236]phrase^[237][26]. D'autres radicaux, n'ayant pas cette
+   caractéristique, sont des morphèmes liés, tout comme les affixes. Entre
+   le caractère totalement libre et totalement lié des radicaux, il y des
+   nuances :
+     * Un radical nécessairement libre ne peut pas recevoir d'affixes. Tel
+       est le radical des adverbes, des conjonctions et des prépositions
+       en français, par exemple.
+     * Un radical potentiellement libre peut recevoir des affixes, mais
+       peut aussi remplir une fonction [238]syntaxique sans en avoir
+       aucun. Tels sont, en hongrois, par exemple, les adverbes qui
+       peuvent avoir des [239]degrés de comparaison : fent « en haut » -
+       fentebb « plus haut ».
+     * On considère comme relativement libre le radical de la plupart des
+       verbes, des noms et des adjectifs. Un tel radical peut fonctionner
+       seulement avec au moins un affixe, mais celui-ci peut être {}
+       (zéro). Un tel affixe exprime un [240]trait grammatical ou
+       plusieurs par son absence justement. En hongrois, par exemple, la
+       forme fut est en même temps un radical verbal et la forme de la
+       troisième personne du [241]singulier de l'[242]indicatif
+       [243]présent du verbe en question, signifiant « il/elle court »,
+       forme verbale marquée par la désinence {}, ce qui est d'ordinaire
+       le cas pour les radicaux verbaux en hongrois.
+     * Un radical lié ne peut pas constituer un mot à lui tout seul. C'est
+       souvent une variante d'une série de variantes, dont l'une est la
+       principale, relativement libre. Par exemple, le radical verbal (hu)
+       tesz- est relativement libre et peut être la forme tesz « il/elle
+       met » de la troisième personne du singulier de l'indicatif présent,
+       mais il a des variantes liées dans des formes comme tettem « j'ai
+       mis » et tégy « tu mettes, mets ! ». Il y a aussi des radicaux à
+       variantes qui sont toutes liées. En hongrois, c'est le cas des
+       verbes qui ont une désinence effective à la troisième personne du
+       singulier de l'indicatif présent : eszik « il/elle mange ». Son
+       radical, esz- doit être lié, ainsi que ses variantes dans ettem
+       « j'ai mangé » et evett « il/elle a mangé ».
+
+   Il y a aussi des radicaux liés qui n'ont qu'une seule forme. Tel est le
+   cas, en hongrois, des radicaux verbaux appelés « fictifs », auxquels on
+   doit ajouter au moins un suffixe non désinentiel pour qu'ils soient des
+   mots. Par exemple, le verbe forgat « il/elle fait tourner » est formé
+   du radical fictif et lié for-, avec le suffixe -gat et la désinence {}.
+
+   Un exemple anglais de radical lié à forme unique est -ceive, qui ne
+   peut constituer des mots qu'avec des [244]préfixes : receive
+   « recevoir », conceive « concevoir », deceive « tromper »^[245][3].
+
+Références
+
+   [[246]modifier | [247]modifier le code]
+    1. [248]^| Par exemple Constantinescu-Dobridor 1998 (article
+       [249]radical).
+    2. [250]^| Eifring et Theil 2005, chap. 2, p. 30.
+    3. ^| ^[251]a [252]b [253]c et [254]d Crystal 2008, p. 419.
+    4. [255]^| Par exemple dans Grevisse et Goosse 2007 (p. 150).
+    5. [256]^| Par exemple Grevisse et Goosse 2007 (p. 150) ou
+       Bidu-Vranceanu 1997 (p. 398).
+    6. [257]^| Bussmann 1998, p. 1013.
+    7. [258]^| Etymonline, article [259]*per- (2). Le signe * indique une
+       forme non-attestée mais reconstituée.
+    8. ^| ^[260]a [261]b et [262]c Dubois 2002, p. 395.
+    9. [263]^| Bussmann 1998, p. 1013. À noter que les racines et les
+       radicaux sont transcrits différemment par Etymonline et Bussmann
+       1998, d'un côté, et par Dubois 2002, de l'autre.
+   10. [264]^| Bidu-Vranceanu 1997, p. 398.
+   11. [265]^| Constantinescu-Dobridor, article [266]radical 2.
+   12. [267]^| Laczkó 2000, p. 39.
+   13. [268]^| Constantinescu-Dobridor 1998, article [269]radical 1.
+   14. [270]^| Eifring et Theil 2005, p. 31.
+   15. ^| ^[271]a [272]b [273]c [274]d et [275]e Fyodorov 2008, p. 26.
+   16. [276]^| A. Jászó 2007, p. 26.
+   17. [277]^| Dubois 2002, p. 106.
+   18. [278]^| Laczkó 2000, p. 40-41.
+   19. [279]^| Bidu-Vranceanu 1997, p. 39.
+   20. ^| ^[280]a et [281]b Laczkó 2000, p. 42.
+   21. [282]^| Siptár 2006, p. 15.
+   22. ^| ^[283]a [284]b [285]c [286]d et [287]e Constantinescu-Dobridor
+       1980, p. 28-29.
+   23. [288]^| Klajn 2005, p. 37.
+   24. [289]^| Klajn 2005, p. 38.
+   25. [290]^| Klajn 2005, p. 29.
+   26. [291]^| Section d'après Laczkó 2000, p. 46-47, sauf les
+       informations des sources indiquées à part.
+
+Sources bibliographiques
+
+   [[292]modifier | [293]modifier le code]
+     * (hu) A. Jászó, Anna, « Általános ismeretek a nyelvro"l és a
+       nyelvtudományról » [« Connaissances générales sur la langue et la
+       linguistique »], A. Jászó, Anna (dir.), [294]A magyar nyelv könyve
+       [« Le livre de la langue hongroise »], 8^e édition, Budapest,
+       Trezor, 2007 ([295]ISBN [296]978-963-8144-19-5), p. 11-72 (consulté
+       le 25 février 2019)
+
+     * (ro) Bidu-Vranceanu, Angela et al., [297]Dictionar general de
+       stiinte. Stiinte ale limbii [« Dictionnaire général des sciences.
+       Sciences de la langue »], Bucarest, Editura stiintifica, 1997
+       ([298]ISBN [299]973-440229-3) (consulté le 25 février 2019)
+
+     * (en) Bussmann, Hadumod (dir.), [300]Dictionary of Language and
+       Linguistics [« Dictionnaire de la langue et de la linguistique »],
+       Londres - New York, Routledge, 1998 ([301]ISBN [302]0-203-98005-0)
+       (consulté le 25 février 2019)
+
+     * (ro) Constantinescu-Dobridor, Gheorghe, Mic dictionar de
+       terminologie lingvistica [« Petit dictionnaire de terminologie
+       linguistique »], Bucarest, Albatros, 1980
+
+     * (ro) Constantinescu-Dobridor, Gheorghe, Dictionar de termeni
+       lingvistici [« Dictionnaire de termes linguistiques »], Bucarest,
+       Teora, 1998 ; en ligne : [303]Dexonline (DTL) (consulté le 25
+       février 2019)
+
+     * (en) Crystal, David, [304]A Dictionary of Linguistics and Phonetics
+       [« Dictionnaire de linguistique et de phonétique »], 4^e édition,
+       Blackwell Publishing, 2008 ([305]ISBN [306]978-1-4051-5296-9)
+       (consulté le 15 avril 2023)
+
+     * [307]Dubois, Jean et al., [308]Dictionnaire de linguistique, Paris,
+       Larousse-Bordas/VUEF, 2002 (consulté le 15 avril 2023)
+
+     * (fr) Fiodorov, V. A., [309]Teoreticheskaya fonetika francuzskogo
+       yazyka. Uchebno-metodicheskoe posobie dlya vuzov [« Phonétique
+       théorique du français. Moyen d'enseignement pour les
+       universités »], Centre de publication et imprimerie de l'Université
+       d'État de Voronej, 2008 (consulté le 15 avril 2023)
+
+     * [310]Grevisse, Maurice et Goosse, André, [311]Le Bon Usage.
+       Grammaire française, Bruxelles, [312]De Boeck Université, 2007,
+       14^e édition, ([313]ISBN [314]978-2-8011-1404-9) (consulté le 15
+       avril 2023)
+
+     * (en) Harper, Douglas, [315]Online Etymology Dictionary
+       [« Dictionnaire étymologique en ligne »] (Etymonline) (consulté le
+       25 février 2019)
+
+     * (sr) Klajn, Ivan, [316]Gramatika srpskog jezika [« Grammaire de la
+       langue serbe »], Belgrade, Zavod za udzbenike i nastavna sredstva,
+       2005 ([317]ISBN [318]86-17-13188-8) (consulté le 15 avril 2023)
+
+     * (hu) Laczkó, Krisztina, « Alaktan » [« Morphologie »], Keszler,
+       Borbála (dir.), [319]Magyar grammatika [« Grammaire hongroise »],
+       Budapest, Nemzeti Tankönyvkiadó, 2000
+       ([320]ISBN [321]978-963-19-5880-5), p. 35-64 (consulté le 25
+       février 2019)
+
+     * (hu) Siptár, Péter, « 2. fejezet - Hangtan » [« 2^e chapitre -
+       Phonétique et phonologie »], Kiefer, Ferenc (dir.), [322]Magyar
+       nyelv [« La langue hongroise »], Budapest, Akadémiai Kiadó, 2006
+       ([323]ISBN [324]963-05-8324-0), p. 14-33 (consulté le 15 avril
+       2023)
+
+Voir aussi
+
+   [[325]modifier | [326]modifier le code]
+     * [327]Lexème (linguistique)
+     * [328]Morphème
+     * [329]Mot
+     * [330]Racinisation
+
+     * [331]icône décorative [332]Portail de la linguistique
+
+   Ce document provient de
+   « [333]https://fr.wikipedia.org/w/index.php?title=Racine_et_radical_(li
+   nguistique)&oldid=217026068 ».
+   [334]Catégories:
+     * [335]Morphologie linguistique
+     * [336]Étymon
+     * [337]Lexicologie
+
+   Catégories cachées:
+     * [338]Portail:Linguistique/Articles liés
+     * [339]Portail:Langues/Articles liés
+     * [340]Portail:Sciences humaines et sociales/Articles liés
+
+     * La dernière modification de cette page a été faite le 23 juillet
+       2024 à 05:21.
+     * [341]Droit d'auteur : les textes sont disponibles sous [342]licence
+       Creative Commons attribution, partage dans les mêmes conditions ;
+       d'autres conditions peuvent s'appliquer. Voyez les [343]conditions
+       d'utilisation pour plus de détails, ainsi que les [344]crédits
+       graphiques. En cas de réutilisation des textes de cette page, voyez
+       [345]comment citer les auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la [346]Wikimedia Foundation,
+       Inc., organisation de bienfaisance régie par le paragraphe
+       [347]501(c)(3) du code fiscal des États-Unis.
+
+     * [348]Politique de confidentialité
+     * [349]À propos de Wikipédia
+     * [350]Avertissements
+     * [351]Contact
+     * [352]Code de conduite
+     * [353]Développeurs
+     * [354]Statistiques
+     * [355]Déclaration sur les témoins (cookies)
+     * [356]Version mobile
+
+     * [357]Wikimedia Foundation
+     * [358]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://fr.m.wikipedia.org/wiki/Racine_et_radical_(linguistique)
+   2. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+   8. file:///wiki/Sp%C3%A9cial:Page_au_hasard
+   9. file:///wiki/Wikip%C3%A9dia:Contact
+  10. file:///wiki/Aide:D%C3%A9buter
+  11. file:///wiki/Aide:Accueil
+  12. file:///wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9
+  13. file:///wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes
+  14. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+  15. file:///wiki/Sp%C3%A9cial:Recherche
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  17. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+et+radical+%28linguistique%29
+  18. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+et+radical+%28linguistique%29
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  20. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+et+radical+%28linguistique%29
+  21. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+et+radical+%28linguistique%29
+  22. file:///wiki/Aide:Premiers_pas
+  23. file:///wiki/Sp%C3%A9cial:Mes_contributions
+  24. file:///wiki/Sp%C3%A9cial:Mes_discussions
+  25. https://ar.wikipedia.org/wiki/%D8%AC%D8%B0%D8%B1_(%D9%84%D8%B3%D8%A7%D9%86%D9%8A%D8%A7%D8%AA)
+  26. https://azb.wikipedia.org/wiki/%DA%A9%D8%A4%DA%A9
+  27. https://bcl.wikipedia.org/wiki/Katagang_gamot
+  28. https://be.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%BD%D1%8C_(%D0%BB%D1%96%D0%BD%D0%B3%D0%B2%D1%96%D1%81%D1%82%D1%8B%D0%BA%D0%B0)
+  29. https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B0%D0%BD%D1%8C_(%D0%BC%D0%BE%D0%B2%D0%B0%D0%B7%D0%BD%D0%B0%D1%9E%D1%81%D1%82%D0%B2%D0%B0)
+  30. https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD_(%D0%BC%D0%BE%D1%80%D1%84%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F)
+  31. https://bn.wikipedia.org/wiki/%E0%A6%A7%E0%A6%BE%E0%A6%A4%E0%A7%81_(%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%AC%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%95%E0%A6%B0%E0%A6%A3)
+  32. https://br.wikipedia.org/wiki/Gwrizienn_(yezhoniezh)
+  33. https://ca.wikipedia.org/wiki/Lexema
+  34. https://cs.wikipedia.org/wiki/Ko%C5%99en_(mluvnice)
+  35. https://cv.wikipedia.org/wiki/%D0%A2%D1%8B%D0%BC%D0%B0%D1%80_(%D0%BB%D0%B8%D0%BD%D0%B3%D0%B2%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B0)
+  36. https://de.wikipedia.org/wiki/Wurzel_(Linguistik)
+  37. https://en.wikipedia.org/wiki/Root_(linguistics)
+  38. https://eo.wikipedia.org/wiki/Radiko_(lingvo)
+  39. https://es.wikipedia.org/wiki/Lexema
+  40. https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D8%B4%D9%87_(%D8%B2%D8%A8%D8%A7%D9%86%E2%80%8C%D8%B4%D9%86%D8%A7%D8%B3%DB%8C)
+  41. https://gd.wikipedia.org/wiki/Bunasach
+  42. https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%A8%D7%A9_(%D7%9C%D7%A9%D7%95%D7%9F)
+  43. https://hu.wikipedia.org/wiki/Sz%C3%B3t%C5%91
+  44. https://hy.wikipedia.org/wiki/%D4%B1%D6%80%D5%B4%D5%A1%D5%BF_(%D5%A2%D5%A1%D5%BC%D5%A1%D5%A3%D5%AB%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6)
+  45. https://id.wikipedia.org/wiki/Akar_kata
+  46. https://io.wikipedia.org/wiki/Radiko_(linguistiko)
+  47. https://is.wikipedia.org/wiki/R%C3%B3t_(m%C3%A1lv%C3%ADsindi)
+  48. https://it.wikipedia.org/wiki/Radice_(linguistica)
+  49. https://ja.wikipedia.org/wiki/%E8%AA%9E%E6%A0%B9
+  50. https://jbo.wikipedia.org/wiki/gismu
+  51. https://ka.wikipedia.org/wiki/%E1%83%A4%E1%83%A3%E1%83%AB%E1%83%94_(%E1%83%94%E1%83%9C%E1%83%90%E1%83%97%E1%83%9B%E1%83%94%E1%83%AA%E1%83%9C%E1%83%98%E1%83%94%E1%83%A0%E1%83%94%E1%83%91%E1%83%90)
+  52. https://kk.wikipedia.org/wiki/%D0%A1%D3%A9%D0%B7_%D1%82%D2%AF%D0%B1%D1%96%D1%80%D1%96
+  53. https://ko.wikipedia.org/wiki/%EC%96%B4%EA%B7%BC
+  54. https://ky.wikipedia.org/wiki/%D0%A3%D2%A3%D0%B3%D1%83
+  55. https://la.wikipedia.org/wiki/Radix_(linguistica)
+  56. https://lt.wikipedia.org/wiki/%C5%A0aknis_(kalbotyra)
+  57. https://lv.wikipedia.org/wiki/Sakne_(valodniec%C4%ABba)
+  58. https://mg.wikipedia.org/wiki/Fototeny
+  59. https://mni.wikipedia.org/wiki/%EA%AF%8B%EA%AF%A5%EA%AF%82%EA%AF%A8_(%EA%AF%8B%EA%AF%A5%EA%AF%8D%EA%AF%A9)
+  60. https://ms.wikipedia.org/wiki/Akar_kata
+  61. https://nds.wikipedia.org/wiki/W%C3%B6rtel_(Linguistik)
+  62. https://nl.wikipedia.org/wiki/Radix_(taalkunde)
+  63. https://pl.wikipedia.org/wiki/Rdze%C5%84_(j%C4%99zykoznawstwo)
+  64. https://pt.wikipedia.org/wiki/Radical_(lingu%C3%ADstica)
+  65. https://ro.wikipedia.org/wiki/R%C4%83d%C4%83cin%C4%83_%C8%99i_radical_(lingvistic%C4%83)
+  66. https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D0%B5%D0%BD%D1%8C_(%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)
+  67. https://simple.wikipedia.org/wiki/Root_(linguistics)
+  68. https://sk.wikipedia.org/wiki/Kore%C5%88_slova
+  69. https://sl.wikipedia.org/wiki/Koren_besede
+  70. https://sq.wikipedia.org/wiki/Rr%C3%ABnja_e_fjal%C3%ABs
+  71. https://sv.wikipedia.org/wiki/Basmorfem
+  72. https://sw.wikipedia.org/wiki/Mzizi
+  73. https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%9A%E0%AF%8D_%E0%AE%9A%E0%AF%8A%E0%AE%B2%E0%AF%8D
+  74. https://tr.wikipedia.org/wiki/K%C3%B6k_(dilbilim)
+  75. https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D1%80%D1%96%D0%BD%D1%8C_(%D0%BC%D0%BE%D0%B2%D0%BE%D0%B7%D0%BD%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D0%BE)
+  76. https://uz.wikipedia.org/wiki/O%CA%BBzak
+  77. https://vec.wikipedia.org/wiki/Raixa_(Gram%C3%A0dega)
+  78. https://wa.wikipedia.org/wiki/Bodje_(linwince)
+  79. https://zh.wikipedia.org/wiki/%E8%AF%8D%E6%A0%B9
+  80. https://zh-yue.wikipedia.org/wiki/%E8%A9%9E%E6%A0%B9
+  81. https://www.wikidata.org/wiki/Special:EntityPage/Q111029#sitelinks-wikipedia
+  82. file:///wiki/Racine_et_radical_(linguistique)
+  83. file:///wiki/Discussion:Racine_et_radical_(linguistique)
+  84. file:///wiki/Racine_et_radical_(linguistique)
+  85. file:///w/index.php?title=Racine_et_radical_(linguistique)&veaction=edit
+  86. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit
+  87. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=history
+  88. file:///wiki/Racine_et_radical_(linguistique)
+  89. file:///w/index.php?title=Racine_et_radical_(linguistique)&veaction=edit
+  90. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit
+  91. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=history
+  92. file:///wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Racine_et_radical_(linguistique)
+  93. file:///wiki/Sp%C3%A9cial:Suivi_des_liens/Racine_et_radical_(linguistique)
+  94. file:///wiki/Aide:Importer_un_fichier
+  95. file:///wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+  96. file:///w/index.php?title=Racine_et_radical_(linguistique)&oldid=217026068
+  97. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=info
+  98. file:///w/index.php?title=Sp%C3%A9cial:Citer&page=Racine_et_radical_%28linguistique%29&id=217026068&wpFormIdentifier=titleform
+  99. file:///w/index.php?title=Sp%C3%A9cial:UrlShortener&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_et_radical_%28linguistique%29
+ 100. file:///w/index.php?title=Sp%C3%A9cial:QrCode&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_et_radical_%28linguistique%29
+ 101. file:///w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Racine+et+radical+%28linguistique%29
+ 102. file:///w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Racine_et_radical_%28linguistique%29&action=show-download-screen
+ 103. file:///w/index.php?title=Racine_et_radical_(linguistique)&printable=yes
+ 104. https://www.wikidata.org/wiki/Special:EntityPage/Q111029
+ 105. file:///wiki/Aide:Homonymie
+ 106. file:///wiki/Radical
+ 107. file:///wiki/Racine
+ 108. file:///wiki/Linguistique
+ 109. file:///wiki/Synonymie
+ 110. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-1
+ 111. file:///wiki/Anglais
+ 112. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-2
+ 113. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-crystal_419-3
+ 114. file:///wiki/Mot
+ 115. file:///wiki/Affixe
+ 116. file:///wiki/Langue_flexionnelle
+ 117. file:///wiki/Langue_agglutinante
+ 118. file:///wiki/XXIe_si%C3%A8cle
+ 119. file:///wiki/Terminologie
+ 120. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-4
+ 121. file:///w/index.php?title=Racine_et_radical_(linguistique)&veaction=edit&section=1
+ 122. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit&section=1
+ 123. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-5
+ 124. file:///wiki/%C3%89tymologie
+ 125. file:///wiki/Synchronie_et_diachronie
+ 126. file:///wiki/Proto-indo-europ%C3%A9en
+ 127. file:///wiki/Langues_indo-europ%C3%A9ennes
+ 128. file:///wiki/Loi_phon%C3%A9tique
+ 129. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-bussmann_1013-6
+ 130. file:///wiki/Sanscrit
+ 131. file:///wiki/Grec_ancien
+ 132. file:///wiki/Latin
+ 133. file:///wiki/Arm%C3%A9nien
+ 134. file:///wiki/Langues_slaves
+ 135. file:///wiki/Ancien_anglais
+ 136. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-7
+ 137. file:///wiki/Symbole
+ 138. file:///wiki/Consonne
+ 139. file:///wiki/Flexion_(linguistique)
+ 140. file:///wiki/Formation_des_mots
+ 141. file:///wiki/Voyelle
+ 142. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-dubois-8
+ 143. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-9
+ 144. file:///w/index.php?title=Racine_et_radical_(linguistique)&veaction=edit&section=2
+ 145. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit&section=2
+ 146. file:///wiki/Langues_s%C3%A9mitiques
+ 147. file:///wiki/Arabe
+ 148. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-dubois-8
+ 149. file:///wiki/Synchronie_et_diachronie
+ 150. file:///wiki/Famille_de_mots
+ 151. file:///wiki/Langue
+ 152. file:///wiki/Famille_de_langues
+ 153. file:///wiki/Verbe
+ 154. file:///wiki/Italien
+ 155. file:///wiki/Emprunt_(linguistique)
+ 156. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-dubois-8
+ 157. file:///wiki/Grammaire
+ 158. file:///wiki/Lexique
+ 159. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-10
+ 160. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-11
+ 161. file:///w/index.php?title=Racine_et_radical_(linguistique)&veaction=edit&section=3
+ 162. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit&section=3
+ 163. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-crystal_419-3
+ 164. file:///wiki/Morphologie_(linguistique)
+ 165. file:///wiki/Morph%C3%A8me
+ 166. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-12
+ 167. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-13
+ 168. file:///wiki/Anglais
+ 169. file:///wiki/Infinitif
+ 170. file:///wiki/Personne_(grammaire)
+ 171. file:///wiki/Conjugaison_anglaise#Simple_present
+ 172. file:///wiki/Nom_(grammaire)
+ 173. file:///wiki/Affixe
+ 174. file:///wiki/D%C3%A9rivation_lexicale
+ 175. file:///wiki/D%C3%A9sinence
+ 176. file:///wiki/Nombre_(grammaire)
+ 177. file:///wiki/Langues_s%C3%A9mitiques
+ 178. file:///wiki/Conjugaison_anglaise#Simple_past
+ 179. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-14
+ 180. file:///wiki/Fran%C3%A7ais
+ 181. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-Fyodorov-15
+ 182. file:///wiki/Hongrois
+ 183. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-16
+ 184. file:///wiki/Mot_compos%C3%A9
+ 185. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-17
+ 186. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-crystal_419-3
+ 187. file:///w/index.php?title=Racine_et_radical_(linguistique)&veaction=edit&section=4
+ 188. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit&section=4
+ 189. file:///wiki/Adjectif
+ 190. file:///wiki/Pronom
+ 191. file:///wiki/Conjonction_(grammaire)
+ 192. file:///wiki/Pr%C3%A9position
+ 193. file:///wiki/Postposition
+ 194. file:///wiki/Pragmatique_(linguistique)
+ 195. file:///wiki/Modalit%C3%A9_(linguistique)
+ 196. file:///wiki/Interjection
+ 197. file:///wiki/Adverbe
+ 198. file:///wiki/Fran%C3%A7ais
+ 199. file:///wiki/Roumain
+ 200. file:///wiki/Nature_(grammaire)
+ 201. file:///wiki/Modalisateur
+ 202. file:///wiki/Particule_(grammaire)
+ 203. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-18
+ 204. file:///w/index.php?title=Racine_et_radical_(linguistique)&veaction=edit&section=5
+ 205. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit&section=5
+ 206. file:///wiki/Allomorphe
+ 207. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-19
+ 208. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-laczko_42-20
+ 209. file:///wiki/Phon%C3%A8me
+ 210. file:///wiki/Allophone_(sociolinguistique)
+ 211. file:///wiki/Phonologie
+ 212. file:///wiki/Alternance_phon%C3%A9tique
+ 213. file:///wiki/Alternance_vocalique
+ 214. file:///wiki/Alternance_consonantique
+ 215. file:///wiki/Morphophonologie
+ 216. file:///wiki/Quantit%C3%A9_vocalique
+ 217. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-Fyodorov-15
+ 218. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-siptar_15-21
+ 219. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-Fyodorov-15
+ 220. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-dobridor_28-22
+ 221. file:///wiki/Diphtongue
+ 222. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-dobridor_28-22
+ 223. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-23
+ 224. file:///wiki/Cas_grammatical
+ 225. file:///wiki/Datif
+ 226. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-24
+ 227. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-laczko_42-20
+ 228. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-Fyodorov-15
+ 229. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-dobridor_28-22
+ 230. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-25
+ 231. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-dobridor_28-22
+ 232. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-Fyodorov-15
+ 233. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-dobridor_28-22
+ 234. file:///w/index.php?title=Racine_et_radical_(linguistique)&veaction=edit&section=6
+ 235. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit&section=6
+ 236. file:///wiki/Phrase
+ 237. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-26
+ 238. file:///wiki/Syntaxe
+ 239. file:///wiki/Degr%C3%A9_de_comparaison
+ 240. file:///wiki/Trait_(linguistique)#Trait_grammatical
+ 241. file:///wiki/Nombre_(grammaire)
+ 242. file:///wiki/Indicatif_(grammaire)
+ 243. file:///wiki/Temps_(grammaire)
+ 244. file:///wiki/Affixe
+ 245. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_note-crystal_419-3
+ 246. file:///w/index.php?title=Racine_et_radical_(linguistique)&veaction=edit&section=7
+ 247. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit&section=7
+ 248. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-1
+ 249. https://dexonline.ro/definitie-dtl/radic%C3%A1l
+ 250. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-2
+ 251. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-crystal_419_3-0
+ 252. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-crystal_419_3-1
+ 253. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-crystal_419_3-2
+ 254. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-crystal_419_3-3
+ 255. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-4
+ 256. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-5
+ 257. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-bussmann_1013_6-0
+ 258. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-7
+ 259. https://www.etymonline.com/word/*per-
+ 260. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-dubois_8-0
+ 261. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-dubois_8-1
+ 262. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-dubois_8-2
+ 263. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-9
+ 264. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-10
+ 265. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-11
+ 266. https://dexonline.ro/definitie-dtl/radic%C3%A1l
+ 267. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-12
+ 268. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-13
+ 269. https://dexonline.ro/definitie-dtl/radic%C3%A1l
+ 270. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-14
+ 271. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-Fyodorov_15-0
+ 272. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-Fyodorov_15-1
+ 273. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-Fyodorov_15-2
+ 274. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-Fyodorov_15-3
+ 275. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-Fyodorov_15-4
+ 276. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-16
+ 277. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-17
+ 278. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-18
+ 279. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-19
+ 280. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-laczko_42_20-0
+ 281. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-laczko_42_20-1
+ 282. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-siptar_15_21-0
+ 283. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-dobridor_28_22-0
+ 284. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-dobridor_28_22-1
+ 285. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-dobridor_28_22-2
+ 286. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-dobridor_28_22-3
+ 287. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-dobridor_28_22-4
+ 288. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-23
+ 289. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-24
+ 290. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-25
+ 291. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#cite_ref-26
+ 292. file:///w/index.php?title=Racine_et_radical_(linguistique)&veaction=edit&section=8
+ 293. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit&section=8
+ 294. https://fr.scribd.com/doc/125463345/A-magyar-nyelv-konyve#scribd
+ 295. file:///wiki/International_Standard_Book_Number
+ 296. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-963-8144-19-5
+ 297. https://www.academia.edu/10986209/87525919-DSL-Dictionar-de-Stiinte-Ale-Limbii
+ 298. file:///wiki/International_Standard_Book_Number
+ 299. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/973-440229-3
+ 300. http://www.e-reading.club/bookreader.php/142124/Routledge_Dictionary_of_Language_and_Linguistics.pdf
+ 301. file:///wiki/International_Standard_Book_Number
+ 302. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/0-203-98005-0
+ 303. https://dexonline.ro/
+ 304. https://web.archive.org/web/20181110120458/https://anekawarnapendidikan.files.wordpress.com/2014/04/a-dictionary-of-linguistics-and-phonetics-by-david-christal.pdf
+ 305. file:///wiki/International_Standard_Book_Number
+ 306. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-1-4051-5296-9
+ 307. file:///wiki/Jean_Dubois_(linguiste)
+ 308. https://ia600503.us.archive.org/8/items/DictionnaireDeLinguistiqueDubois/Dictionnaire-de-Linguistique-Dubois.pdf
+ 309. https://docplayer.fr/11017002-Teoreticheskaya-fonetika-francuzskogo-yazyka.html
+ 310. file:///wiki/Maurice_Grevisse
+ 311. https://ia600905.us.archive.org/33/items/MauriceGrevisseAndrGoosseLeBonUsageGrammaireFranaise14thEd./Maurice_Grevisse%2C_Andr%C3%A9_Goosse_Le_Bon_Usage__Grammaire_Fran%C3%A7aise__14th_Ed..pdf
+ 312. file:///wiki/De_Boeck_Sup%C3%A9rieur
+ 313. file:///wiki/International_Standard_Book_Number
+ 314. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-2-8011-1404-9
+ 315. http://etymonline.com/
+ 316. https://web.archive.org/web/20160423015859/http://jelenagolubovic.weebly.com/uploads/2/5/3/7/25373008/ivan_klajn_-_gramatika_srpskog_jezika.pdf
+ 317. file:///wiki/International_Standard_Book_Number
+ 318. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/86-17-13188-8
+ 319. https://fr.scribd.com/document/324627255/Magyar-Grammatika-TK-2
+ 320. file:///wiki/International_Standard_Book_Number
+ 321. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-963-19-5880-5
+ 322. https://www.magyarhaz.ch/images/2020D%C3%B3ra/magyar%20nyelv/2011_0001_536_MagyarNyelv.pdf
+ 323. file:///wiki/International_Standard_Book_Number
+ 324. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/963-05-8324-0
+ 325. file:///w/index.php?title=Racine_et_radical_(linguistique)&veaction=edit&section=9
+ 326. file:///w/index.php?title=Racine_et_radical_(linguistique)&action=edit&section=9
+ 327. file:///wiki/Lex%C3%A8me_(linguistique)
+ 328. file:///wiki/Morph%C3%A8me
+ 329. file:///wiki/Mot
+ 330. file:///wiki/Racinisation
+ 331. file:///wiki/Portail:Linguistique
+ 332. file:///wiki/Portail:Linguistique
+ 333. https://fr.wikipedia.org/w/index.php?title=Racine_et_radical_(linguistique)&oldid=217026068
+ 334. file:///wiki/Cat%C3%A9gorie:Accueil
+ 335. file:///wiki/Cat%C3%A9gorie:Morphologie_linguistique
+ 336. file:///wiki/Cat%C3%A9gorie:%C3%89tymon
+ 337. file:///wiki/Cat%C3%A9gorie:Lexicologie
+ 338. file:///wiki/Cat%C3%A9gorie:Portail:Linguistique/Articles_li%C3%A9s
+ 339. file:///wiki/Cat%C3%A9gorie:Portail:Langues/Articles_li%C3%A9s
+ 340. file:///wiki/Cat%C3%A9gorie:Portail:Sciences_humaines_et_sociales/Articles_li%C3%A9s
+ 341. file:///wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia
+ 342. https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+ 343. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr
+ 344. file:///wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques
+ 345. file:///wiki/Sp%C3%A9cial:Citer/Racine_et_radical_(linguistique)
+ 346. https://wikimediafoundation.org/
+ 347. file:///wiki/501c
+ 348. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/fr
+ 349. file:///wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia
+ 350. file:///wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux
+ 351. file://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contact
+ 352. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 353. https://developer.wikimedia.org/
+ 354. https://stats.wikimedia.org/#/fr.wikipedia.org
+ 355. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 356. file://fr.m.wikipedia.org/w/index.php?title=Racine_et_radical_(linguistique)&mobileaction=toggle_view_mobile
+ 357. https://wikimediafoundation.org/
+ 358. https://www.mediawiki.org/
+
+   Hidden links:
+ 360. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html
+ 361. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#Interpr%C3%A9tation_diachronique
+ 362. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#Interpr%C3%A9tations_synchroniques
+ 363. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#Le_radical_en_tant_que_base_%C3%A9l%C3%A9mentaire
+ 364. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#Le_sens_du_radical
+ 365. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#La_forme_du_radical
+ 366. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#Radical_libre_et_radical_li%C3%A9
+ 367. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#R%C3%A9f%C3%A9rences
+ 368. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#Sources_bibliographiques
+ 369. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_et_radical_%28linguistique%29.html#Voir_aussi

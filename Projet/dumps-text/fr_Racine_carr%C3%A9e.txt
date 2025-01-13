@@ -1,0 +1,1753 @@
+   #[1]alternate [2]Modifier [3]Wikipédia (fr) [4]Flux Atom de Wikipédia
+
+   [5]Aller au contenu
+
+   [ ] Menu principal
+   Menu principal
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Navigation
+     * [6]Accueil
+     * [7]Portails thématiques
+     * [8]Article au hasard
+     * [9]Contact
+
+   Contribuer
+     * [10]Débuter sur Wikipédia
+     * [11]Aide
+     * [12]Communauté
+     * [13]Modifications récentes
+
+   [14]Wikipédia l'encyclopédie libre
+   [15]Rechercher
+   ____________________
+   (BUTTON) Rechercher
+
+   [ ] Apparence
+
+     * [16]Faire un don
+     * [17]Créer un compte
+     * [18]Se connecter
+
+   [ ] Outils personnels
+     * [19]Faire un don
+     * [20]Créer un compte
+     * [21]Se connecter
+
+   Pages pour les contributeurs déconnectés [22]en savoir plus
+     * [23]Contributions
+     * [24]Discussion
+
+Sommaire
+
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Histoire
+
+     2 Construction géométrique de la racine carrée
+
+     3 Fonction réelle
+
+     4 Extraction de racines carrées
+
+
+
+   5 Racines carrées particulières
+
+   (BUTTON) Afficher/masquer la sous-section Racines carrées particulières
+     * 5.1 Nombre d'or
+
+
+
+   5.2 Nombres entiers supérieurs à 1 sous forme de racines carrées
+
+
+
+   5.3 Pi
+
+
+
+   6 Notion algébrique générale
+
+   (BUTTON) Afficher/masquer la sous-section Notion algébrique générale
+     * 6.1 Définition algébrique d'une racine carrée
+
+
+
+   6.2 Racines carrées de nombres complexes
+
+
+
+   6.3 Racines carrées de matrices et d'opérateurs
+
+
+
+   7 Notes et références
+
+
+
+   8 Voir aussi
+
+   (BUTTON) Afficher/masquer la sous-section Voir aussi
+     * 8.1 Articles connexes
+
+
+
+   8.2 Lien externe
+
+
+
+   8.3 Bibliographie
+
+   [ ] Basculer la table des matières
+
+Racine carrée
+
+   [ ] 97 langues
+     * [25]Afrikaans
+     * [26]a+l+e+r+b+y+tm
+     * [27]Asturianu
+     * [28]Az@rbaycanca
+     * [29]Bash¡ortsa
+     * [30]Bikol Central
+     * [31]Belaruskaya
+     * [32]Belaruskaya (tarashkeviica)
+     * [33]B"lgarski
+     * [34]¬¾²¾
+     * [35]Brezhoneg
+     * [36]Bosanski
+     * [37]Català
+     * [38]©w+r+d+
+     * [39]Cestina
+     * [40]CHvashla
+     * [41]Cymraeg
+     * [42]Dansk
+     * [43]Deutsch
+     * [44]Ellynika'
+     * [45]English
+     * [46]Esperanto
+     * [47]Español
+     * [48]Eesti
+     * [49]Euskara
+     * [50]f+a+r+s+
+     * [51]Suomi
+     * [52]Føroyskt
+     * [53]Furlan
+     *
+     * [54]Kriyòl gwiyannen
+     * [55]Galego
+     * [56]°¾¤
+     * [57]E+B+R+J+T+
+     * [58]¹¿¨¦
+     * [59]Hrvatski
+     * [60]Magyar
+     * [61]¡µ¥¥¶
+     * [62]Bahasa Indonesia
+     * [63]Ido
+     * [64]Íslenska
+     * [65]Italiano
+     * [66]¥¬
+     * [67]Patois
+     * [68]¥ £
+     * [69]azasha
+     * [70]¨¨¡
+     * [71]­´
+     * [72]Kyrgyzcha
+     * [73]Latina
+     * [74]Lingua Franca Nova
+     * [75]Lombard
+     * [76]¥²§
+     * [77]Lietuviu
+     * [78]Latviesu
+     * [79]Makedonski
+     * [80]®²¯¾³
+     * [81]®°¾ 
+     * [82]Bahasa Melayu
+     * [83]Malti
+     * [84]¼º¬¬¬
+     * [85]¨ª¾²
+     * [86]¨ª¾² ­¾·¾
+     * [87]Nederlands
+     * [88]Norsk nynorsk
+     * [89]Norsk bokmål
+     * [90]Occitan
+     * [91]Oromoo
+     * [92]ª°¾¬
+     * [93]Polski
+     * [94]Português
+     * [95]Româna
+     * [96]Russkij
+     * [97]Sicilianu
+     * [98]Srpskohrvatski / srpskohrvatski
+     * [99]Simple English
+     * [100]Slovenscina
+     * [101]Shqip
+     * [102]Srpski / srpski
+     * [103]Sunda
+     * [104]Svenska
+     * [105]Kiswahili
+     * [106]¤®¿´
+     * [107]¤²
+     * [108]Tagalog
+     * [109]Türkçe
+     * [110]Ukrayins'ka
+     * [111]a+r+d+w+
+     * [112]O;Szbekcha / v%zbekcha
+     * [113]Tie>'ng Vie>-.t
+     * [114]Winaray
+     * [115]´­
+     * [116]J+J+iD+J+Sh
+     * [117]Yorùbá
+     * [118]­
+     * [119]© / Bân-lâm-gú
+     * [120]µ
+
+   [121]Modifier les liens
+
+     * [122]Article
+     * [123]Discussion
+
+   [ ] français
+
+     * [124]Lire
+     * [125]Modifier
+     * [126]Modifier le code
+     * [127]Voir l'historique
+
+   [ ] Outils
+   Outils
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Actions
+     * [128]Lire
+     * [129]Modifier
+     * [130]Modifier le code
+     * [131]Voir l'historique
+
+   Général
+     * [132]Pages liées
+     * [133]Suivi des pages liées
+     * [134]Téléverser un fichier
+     * [135]Pages spéciales
+     * [136]Lien permanent
+     * [137]Informations sur la page
+     * [138]Citer cette page
+     * [139]Obtenir l'URL raccourcie
+     * [140]Télécharger le code QR
+
+   Imprimer/exporter
+     * [141]Créer un livre
+     * [142]Télécharger comme PDF
+     * [143]Version imprimable
+
+   Dans d'autres projets
+     * [144]Wikimedia Commons
+     * [145]Wikiversité
+     * [146]Élément Wikidata
+
+   Apparence
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+   Un article de Wikipédia, l'encyclopédie libre.
+   [147]Page d'aide sur l'homonymie
+
+   Pour l'album de Stromae, voir [148]Racine carrée (album).
+   [149]Si ce bandeau n'est plus pertinent, retirez-le. Cliquez ici pour
+   en savoir plus. Si ce bandeau n'est plus pertinent, retirez-le. Cliquez
+   ici pour en savoir plus.
+
+   Cet article [150]ne cite pas suffisamment ses sources (mars 2008).
+
+   Si vous disposez d'ouvrages ou d'articles de référence ou si vous
+   connaissez des sites web de qualité traitant du thème abordé ici, merci
+   de compléter l'article en donnant les références utiles à sa
+   [151]vérifiabilité et en les liant à la section « [152]Notes et
+   références ».
+
+   En pratique : [153]Quelles sources sont attendues ? [154]Comment
+   ajouter mes sources ?
+   Fonction racine carrée
+   [155][langfr-260px-Squareroot-0-9-metapost.svg.png]
+   [156]Courbe représentative de la fonction racine carrée.
+   Notation
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {\sqrt {x}}}</annotation>
+   </semantics> :MATH]
+   {\displaystyle {\sqrt {x}}}
+   [157]Réciproque
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle
+   x^{2}}</annotation> </semantics> :MATH]
+   {\displaystyle x^{2}}
+   [158]Dérivée
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mn>1</mn> <mrow> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>x</mi> </msqrt> </mrow> </mrow> </mfrac> </mrow> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle {1
+   \over 2{\sqrt {x}}}}</annotation> </semantics> :MATH]
+   {\displaystyle {1 \over 2{\sqrt {x}}}}
+   [159]Primitives
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <mfrac> <mn>2</mn> <mn>3</mn> </mfrac> </mrow> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mfrac> <mn>3</mn> <mn>2</mn> </mfrac> </mrow>
+   </msup> <mo>+</mo> <mi>C</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle {2 \over 3}x^{3 \over
+   2}+C}</annotation> </semantics> :MATH]
+   {\displaystyle {2 \over 3}x^{3 \over 2}+C}
+
+   CAPTION: Principales caractéristiques
+
+   [160]Ensemble de définition
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow> <mo>[</mo> <mrow>
+   <mn>0</mn> <mo>,</mo> <mo>+</mo> <mi mathvariant="normal">infty</mi>
+   </mrow> <mo>[</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \left[0,+\infty
+   \right[}</annotation> </semantics> :MATH]
+   {\displaystyle \left[0,+\infty \right[}
+   [161]Ensemble image
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow> <mo>[</mo> <mrow>
+   <mn>0</mn> <mo>,</mo> <mo>+</mo> <mi mathvariant="normal">infty</mi>
+   </mrow> <mo>[</mo> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle \left[0,+\infty
+   \right[}</annotation> </semantics> :MATH]
+   {\displaystyle \left[0,+\infty \right[}
+
+   CAPTION: Valeurs particulières
+
+    [162]Valeur en zéro
+   0
+   [163]Limite en +infty
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mo>+</mo> <mi
+   mathvariant="normal">infty</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle +\infty }</annotation>
+   </semantics> :MATH]
+   {\displaystyle +\infty }
+        [164]Minima
+   0
+
+   CAPTION: Particularités
+
+      [165]Zéros
+   0
+   [166]Points fixes
+   0 et 1
+
+   [167]modifier - [168]modifier le code - [169]modifier Wikidata[170]
+   Documentation du modèle
+   Racine carrée
+   [171]Image du caractère
+
+   CAPTION: [172]Unicode
+
+   Code U+221A
+   Nom Racine carrée (ou radical)^[173][1]
+   Bloc [174]Symboles mathématiques
+   (U+2200 à U+22FF)
+
+   [175]modifier
+
+   En [176]mathématiques élémentaires, la racine carrée d'un nombre réel
+   positif x est l'unique réel positif qui, lorsqu'il est multiplié par
+   lui-même, donne x, c'est-à-dire le nombre positif dont le [177]carré
+   vaut x. On le note SQRT x ou x^1/2. Dans cette expression, x est appelé
+   le radicande et le signe
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mspace width="1em" /> </msqrt> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\sqrt {\quad
+   }}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {\quad }}} est appelé le radical^[178][2]. La
+   [179]fonction qui, à tout réel positif, associe sa racine carrée
+   s'appelle la fonction racine carrée.
+
+   En [180]algèbre et [181]analyse, dans un [182]anneau ou un [183]corps
+   A, on appelle racine carrée de a tout élément de A dont le carré vaut
+   a. Par exemple, dans le [184]corps des complexes , on dira de i (ou de
+   - i) qu'il est une racine carrée de - 1. Selon la nature de l'anneau et
+   la valeur de a, on peut trouver 0, 1, 2 ou plus de 2 racines carrées de
+   a.
+
+   La recherche de la racine carrée d'un nombre, ou extraction de la
+   racine carrée, donne lieu à de nombreux algorithmes. La nature de la
+   racine carrée d'un [185]entier naturel qui n'est pas le carré d'un
+   entier est à l'origine de la première prise de conscience de
+   l'existence de [186]nombres irrationnels. La recherche de racines
+   carrées pour des [187]nombres négatifs a conduit à l'invention des
+   [188]nombres complexes.
+
+Histoire
+
+   [[189]modifier | [190]modifier le code]
+   Cette section est vide, insuffisamment détaillée ou incomplète.
+   [191]Votre aide est la bienvenue ! [192]Comment faire ?
+   Article détaillé : [193]Histoire de la racine carrée.
+   [194][220px-Ybc7289-bw.jpg] Photographie de la tablette [195]YBC 7289
+   avec des annotations traduisant les nombres écrits dans le système
+   babylonien (crédits : Bill Casselman).
+
+   La plus ancienne racine carrée connue apparaît vers 1700 av. J.-C. sur
+   la tablette [196]YBC 7289. Il s'agit de la représentation d'un
+   [197]carré avec, sur un côté, le nombre 30 et, le long de la diagonale,
+   une [198]valeur approchée de SQRT 2.
+
+Construction géométrique de la racine carrée
+
+   [[199]modifier | [200]modifier le code]
+   [201][220px-Construction_racine_carree.png] AO = 1, OB = a, OH = SQRT
+   a.
+   Article détaillé : [202]Théorème de la moyenne géométrique.
+
+   La construction géométrique suivante se réalise à la [203]règle et au
+   [204]compas et permet, étant donné un [205]segment OB de longueur a et
+   un segment de longueur 1, de construire un segment de longueur SQRT a :
+     * construire le [206]segment [AB] de longueur 1 + a et contenant le
+       point O avec AO = 1 ;
+     * construire le cercle c de [207]diamètre [AB] ;
+     * construire la droite d perpendiculaire à (OB) et passant par O ;
+     * nommer H le point d'intersection du cercle c et de la droite d.
+
+   Le segment [OH] est de longueur SQRT a.
+
+   La preuve consiste à [208]remarquer que les triangles OAH et OHB sont
+   [209]semblables, d'où l'on déduit que OH^2 = AO × OB = a, et donc OH =
+   SQRT a.
+
+   Cette construction montre que la racine carrée d'un [210]nombre
+   constructible (par exemple un nombre rationnel positif) est encore un
+   nombre constructible.
+
+Fonction réelle
+
+   [[211]modifier | [212]modifier le code]
+   Article détaillé : [213]Fonction racine n-ième.
+   [214][440px-Mplwp_sqrt.svg.png] [215]Représentation graphique de la
+   fonction racine carrée.
+
+   L'application
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo
+   stretchy="false">|-></mo> <msup> <mi>x</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle x\mapsto
+   x^{2}}</annotation> </semantics> :MATH]
+   {\displaystyle x\mapsto x^{2}} est une [216]bijection de [+] sur [+]
+   dont la réciproque est notée
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>x</mi> <mo
+   stretchy="false">|-></mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+   <mi>x</mi> </msqrt> </mrow> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle x\mapsto {\sqrt
+   {x}}}</annotation> </semantics> :MATH]
+   {\displaystyle x\mapsto {\sqrt {x}}} . Cette fonction s'appelle la
+   fonction racine carrée. Géométriquement, on peut affirmer que la racine
+   carrée de l'aire d'un [217]carré du [218]plan euclidien est la longueur
+   de l'un de ses côtés.
+
+   La fonction racine carrée vérifie les propriétés élémentaires suivantes
+   valables pour tous nombres réels positifs x et y :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+          <mo>=</mo> <msup> <mi>x</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mn>1</mn> <mn>2</mn> </mfrac> </mrow> </msup> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\sqrt {x}}=x^{\frac {1}{2}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {x}}=x^{\frac {1}{2}}}
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> <mo>×</mo>
+          <mi>y</mi> </msqrt> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi> </msqrt> </mrow>
+          <mo>×</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>y</mi>
+          </msqrt> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt {x\times
+          y}}={\sqrt {x}}\times {\sqrt {y}}}</annotation> </semantics>
+          :MATH]
+          {\displaystyle {\sqrt {x\times y}}={\sqrt {x}}\times {\sqrt
+          {y}}}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mfrac> <mi>x</mi> <mi>y</mi>
+          </mfrac> </msqrt> </mrow> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <msqrt> <mi>x</mi> </msqrt>
+          <msqrt> <mi>y</mi> </msqrt> </mfrac> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+          {\frac {x}{y}}}={\frac {\sqrt {x}}{\sqrt {y}}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\sqrt {\frac {x}{y}}}={\frac {\sqrt {x}}{\sqrt
+          {y}}}} (sous la condition y > 0)
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </msqrt>
+          </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt
+          {x^{2}}}=|x|}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {x^{2}}}=|x|} .
+
+     * Elle est strictement [219]croissante, comme réciproque d'une
+       bijection croissante sur [+].
+     * Elle est [220]1/2-höldérienne^[221][3] donc [222]uniformément
+       continue.
+     * Elle est [223]dérivable en tout réel strictement positif x, mais
+       elle n'est pas dérivable en x = 0. En ce point, la courbe
+       représentative admet une demi-[224]tangente verticale. Sa
+       [225]fonction dérivée est donnée par :
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mrow
+                class="MJX-TeXAtom-ORD"> <mfrac> <mrow
+                class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">d</mi>
+                </mrow> <mrow> <mrow class="MJX-TeXAtom-ORD"> <mi
+                mathvariant="normal">d</mi> </mrow> <mi>x</mi> </mrow>
+                </mfrac> </mrow> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+                <mi>x</mi> </msqrt> </mrow> <mo>=</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mrow>
+                <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+                <mi>x</mi> </msqrt> </mrow> </mrow> </mfrac> </mrow>
+                </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle {\frac
+                {\mathrm {d} }{\mathrm {d} x}}{\sqrt {x}}={1 \over 2{\sqrt
+                {x}}}}</annotation> </semantics> :MATH]
+                {\displaystyle {\frac {\mathrm {d} }{\mathrm {d} x}}{\sqrt
+                {x}}={1 \over 2{\sqrt {x}}}} ^[226][4].
+
+     * Elle est de [227]classe C^infty sur [+]* :
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <mi
+       mathvariant="normal">FA</mi> <mi>n</mi> <mo>(-</mo> <mrow
+       class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">N</mi>
+       </mrow> <mspace width="1em" /> <mrow class="MJX-TeXAtom-ORD">
+       <mfrac> <msup> <mrow class="MJX-TeXAtom-ORD"> <mi
+       mathvariant="normal">d</mi> </mrow> <mrow class="MJX-TeXAtom-ORD">
+       <mi>n</mi> </mrow> </msup> <mrow> <mrow class="MJX-TeXAtom-ORD">
+       <mi mathvariant="normal">d</mi> </mrow> <msup> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> </mrow>
+       </mfrac> </mrow> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>x</mi>
+       </msqrt> </mrow> <mo>=</mo> <msup> <mrow class="MJX-TeXAtom-ORD">
+       <mo stretchy="false">(</mo> <mo>-</mo> <mn>1</mn> <mo
+       stretchy="false">)</mo> </mrow> <mrow class="MJX-TeXAtom-ORD">
+       <mi>n</mi> <mo>+</mo> <mn>1</mn> </mrow> </msup> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mo stretchy="false">(</mo>
+       <mn>2</mn> <mi>n</mi> <mo stretchy="false">)</mo> <mo>!</mo>
+       </mrow> <mrow> <mi>n</mi> <mo>!</mo> <msup> <mn>2</mn> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>2</mn> <mi>n</mi> </mrow> </msup> <mo
+       stretchy="false">(</mo> <mn>2</mn> <mi>n</mi> <mo>-</mo> <mn>1</mn>
+       <mo stretchy="false">)</mo> </mrow> </mfrac> </mrow> <mrow
+       class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <msup> <mi>x</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>-</mo> <mn>1</mn> <mrow
+       class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <mn>2</mn> </mrow>
+       </msup> </mfrac> </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle \forall n\in \mathbb
+       {N} \quad {\frac {\mathrm {d} ^{n}}{\mathrm {d} x^{n}}}{\sqrt
+       {x}}={(-1)}^{n+1}{(2n)! \over n!2^{2n}(2n-1)}{\frac
+       {1}{x^{n-1/2}}}.}</annotation> </semantics> :MATH]
+       {\displaystyle \forall n\in \mathbb {N} \quad {\frac {\mathrm {d}
+       ^{n}}{\mathrm {d} x^{n}}}{\sqrt {x}}={(-1)}^{n+1}{(2n)! \over
+       n!2^{2n}(2n-1)}{\frac {1}{x^{n-1/2}}}.}
+     * Son développement en [228]série de Taylor au point 1 est donc, pour
+       tout réel h tel que |h| <= 1 :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+     displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+    <msqrt> <mn>1</mn> <mo>-</mo> <mi>h</mi> </msqrt> </mrow> <mo>=</mo>
+           <mn>1</mn> <mo>-</mo> <munderover> <mo>\sum</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>=</mo> <mn>1</mn> </mrow> <mrow
+    class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">infty</mi> </mrow>
+       </munderover> <msub> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+             <mi>n</mi> </mrow> </msub> <msup> <mi>h</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msup> <mrow
+        class="MJX-TeXAtom-ORD"> <mtext> avec </mtext> </mrow> <msub>
+    <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub>
+        <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mo
+              stretchy="false">(</mo> <mn>2</mn> <mi>n</mi> <mo
+            stretchy="false">)</mo> <mo>!</mo> </mrow> <mrow> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo>!</mo> <msup> <mo
+      stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+      </mrow> </msup> <msup> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD">
+      <mn>2</mn> <mi>n</mi> </mrow> </msup> <mo stretchy="false">(</mo>
+   <mn>2</mn> <mi>n</mi> <mo>-</mo> <mn>1</mn> <mo stretchy="false">)</mo>
+     </mrow> </mfrac> </mrow> <mo>></mo> <mn>0</mn> <mo>,</mo> </mstyle>
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+     {1-h}}=1-\sum _{n=1}^{\infty }a_{n}h^{n}{\text{ avec }}a_{n}={(2n)!
+      \over (n!)^{2}2^{2n}(2n-1)}>0,}</annotation> </semantics> :MATH]
+    {\displaystyle {\sqrt {1-h}}=1-\sum _{n=1}^{\infty }a_{n}h^{n}{\text{
+             avec }}a_{n}={(2n)! \over (n!)^{2}2^{2n}(2n-1)}>0,}
+       avec [229]convergence normale sur [-1, 1] (voir le [230]§
+       « Développement en série entière » de l'article « Racine d'un
+       nombre »). Les coefficients s'expriment comme quotients de
+       [231]nombres de Catalan par des [232]puissances de 2 :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+        displaystyle="true" scriptlevel="0"> <msub> <mi>a</mi> <mrow
+    class="MJX-TeXAtom-ORD"> <mi>n</mi> </mrow> </msub> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <msub> <mi>C</mi> <mrow
+      class="MJX-TeXAtom-ORD"> <mi>n</mi> <mo>-</mo> <mn>1</mn> </mrow>
+     </msub> <msup> <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+      <mi>n</mi> <mo>-</mo> <mn>1</mn> </mrow> </msup> </mfrac> </mrow>
+                  <mo>.</mo> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle a_{n}={\frac
+           {C_{n-1}}{2^{2n-1}}}.}</annotation> </semantics> :MATH]
+             {\displaystyle a_{n}={\frac {C_{n-1}}{2^{2n-1}}}.}
+       Les premières valeurs sont
+       [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+       displaystyle="true" scriptlevel="0"> <msub> <mi>a</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>1</mn> </mrow> </msub> <mo>=</mo>
+       <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>2</mn>
+       </mfrac> </mrow> <mo>,</mo> <msub> <mi>a</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msub> <mo>=</mo>
+       <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>8</mn>
+       </mfrac> </mrow> <mo>,</mo> <msub> <mi>a</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>3</mn> </mrow> </msub> <mo>=</mo>
+       <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>1</mn> <mn>16</mn>
+       </mfrac> </mrow> <mo>,</mo> <msub> <mi>a</mi> <mrow
+       class="MJX-TeXAtom-ORD"> <mn>4</mn> </mrow> </msub> <mo>=</mo>
+       <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mn>5</mn> <mn>128</mn>
+       </mfrac> </mrow> <mo>.</mo> </mstyle> </mrow> <annotation
+       encoding="application/x-tex">{\displaystyle a_{1}={\frac
+       {1}{2}},a_{2}={\frac {1}{8}},a_{3}={\frac {1}{16}},a_{4}={\frac
+       {5}{128}}.}</annotation> </semantics> :MATH]
+       {\displaystyle a_{1}={\frac {1}{2}},a_{2}={\frac
+       {1}{8}},a_{3}={\frac {1}{16}},a_{4}={\frac {5}{128}}.}
+
+Extraction de racines carrées
+
+   [[233]modifier | [234]modifier le code]
+   Article détaillé : [235]Extraction de racine carrée.
+
+   Le calcul de la racine carré d'un nombre positif n'est pas toujours
+   évident, notamment pour de grands nombres. Ainsi, plusieurs algorithmes
+   ont été développés au cours de l'histoire afin d'obtenir ce nombre.
+   Parmi les méthodes d'extraction de racine carrée, on peut citer
+   notamment la [236]méthode de Héron, qui est une méthode historique qui
+   peut être vue d'un point de vue moderne comme un cas particulier de la
+   [237]méthode de Newton. D'autres méthodes sont basées sur des
+   [238]suites adjacentes, sur des [239]fractions continues ou sur un
+   principe de dichotomie.
+
+Racines carrées particulières
+
+   [[240]modifier | [241]modifier le code]
+
+Nombre d'or
+
+   [[242]modifier | [243]modifier le code]
+   Article détaillé : [244]Radical imbriqué.
+
+   Si p est un [245]nombre réel strictement positif,
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>p</mi> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>p</mi> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>p</mi> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mi>p</mi> <mo>+</mo>
+          <mo>.3</mo> </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow>
+          </msqrt> </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mfrac> <mrow> <mn>1</mn> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>4</mn> <mi>p</mi>
+          <mo>+</mo> <mn>1</mn> </msqrt> </mrow> </mrow> <mn>2</mn>
+          </mfrac> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle {\sqrt {p+{\sqrt
+          {p+{\sqrt {p+{\sqrt {p+\cdots }}}}}}}}={\frac {1+{\sqrt
+          {4p+1}}}{2}}}</annotation> </semantics> :MATH]
+          {\displaystyle {\sqrt {p+{\sqrt {p+{\sqrt {p+{\sqrt {p+\cdots
+          }}}}}}}}={\frac {1+{\sqrt {4p+1}}}{2}}} .
+
+   Pour p = 1, on obtient le [246]nombre d'or :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mo>+</mo>
+          <mo>.3</mo> </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow>
+          </msqrt> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \varphi ={\sqrt
+          {1+{\sqrt {1+{\sqrt {1+{\sqrt {1+\cdots }}}}}}}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \varphi ={\sqrt {1+{\sqrt {1+{\sqrt {1+{\sqrt
+          {1+\cdots }}}}}}}}} .
+
+Nombres [247]entiers supérieurs à 1 sous forme de racines carrées
+
+   [[248]modifier | [249]modifier le code]
+   Article détaillé : [250]Radicaux infinis de Ramanujan.
+
+   [251]Ramanujan a découvert les formules suivantes :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mo>+</mo>
+          <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn>
+          <mo>+</mo> <mn>3</mn> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mn>1</mn> <mo>+</mo> <mo>...</mo> </msqrt> </mrow> </msqrt>
+          </mrow> </msqrt> </mrow> <mo>=</mo> <mn>3</mn> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+          {1+2{\sqrt {1+3{\sqrt {1+\dots }}}}}}=3}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\sqrt {1+2{\sqrt {1+3{\sqrt {1+\dots }}}}}}=3}
+          et
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>6</mn> <mo>+</mo>
+          <mn>2</mn> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>7</mn>
+          <mo>+</mo> <mn>3</mn> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mn>8</mn> <mo>+</mo> <mo>...</mo> </msqrt> </mrow> </msqrt>
+          </mrow> </msqrt> </mrow> <mo>=</mo> <mn>4</mn> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+          {6+2{\sqrt {7+3{\sqrt {8+\dots }}}}}}=4}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\sqrt {6+2{\sqrt {7+3{\sqrt {8+\dots }}}}}}=4} .
+
+   Ces formules se généralisent, ce qui donne en particulier, pour tout
+   [252]réel
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>>=</mo> <mn>0</mn>
+   </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle n\geq 0}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n\geq 0}  :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>+</mo>
+          <mn>2</mn> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mn>1</mn> <mo>+</mo> <mo stretchy="false">(</mo> <mi>n</mi>
+          <mo>+</mo> <mn>1</mn> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>1</mn> <mo>+</mo> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo>+</mo> <mn>2</mn> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mn>1</mn> <mo>+</mo> <mo stretchy="false">(</mo> <mi>n</mi>
+          <mo>+</mo> <mn>3</mn> <mo stretchy="false">)</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mo>...</mo> </msqrt> </mrow>
+          </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          n+2={\sqrt {1+(n+1){\sqrt {1+(n+2){\sqrt {1+(n+3){\sqrt {\dots
+          }}}}}}}}}</annotation> </semantics> :MATH]
+          {\displaystyle n+2={\sqrt {1+(n+1){\sqrt {1+(n+2){\sqrt
+          {1+(n+3){\sqrt {\dots }}}}}}}}} et
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>n</mi> <mo>+</mo>
+          <mn>3</mn> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mi>n</mi> <mo>+</mo> <mn>5</mn> <mo>+</mo> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo>+</mo> <mn>1</mn> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mi>n</mi> <mo>+</mo> <mn>6</mn> <mo>+</mo> <mo
+          stretchy="false">(</mo> <mi>n</mi> <mo>+</mo> <mn>2</mn> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mi>n</mi> <mo>+</mo> <mn>7</mn> <mo>+</mo> <mo>...</mo>
+          </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          n+3={\sqrt {n+5+(n+1){\sqrt {n+6+(n+2){\sqrt {n+7+\dots
+          }}}}}}}</annotation> </semantics> :MATH]
+          {\displaystyle n+3={\sqrt {n+5+(n+1){\sqrt {n+6+(n+2){\sqrt
+          {n+7+\dots }}}}}}} .
+
+[253]Pi
+
+   [[254]modifier | [255]modifier le code]
+
+   Le nombre [256]p s'exprime sous la forme d'une [257]itération infinie
+   de racines carrées :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>p</mi> <mo>=</mo>
+          <munder> <mo movablelimits="true" form="prefix">lim</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo stretchy="false">-></mo>
+          <mi mathvariant="normal">infty</mi> </mrow> </munder> <mrow>
+          <mo>(</mo> <mrow> <msup> <mn>2</mn> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> <mo> · </mo>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>-</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo>
+          <mo>.3</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn>
+          <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn>
+          </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow> </msqrt>
+          </mrow> </msqrt> </mrow> </msqrt> </mrow> </mrow> <mo>)</mo>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \pi =\lim _{k\to
+          \infty }\left(2^{k}\cdot {\sqrt {2-{\sqrt {2+{\sqrt {2+{\sqrt
+          {2+\cdots {\sqrt {2+{\sqrt {2}}}}}}}}}}}}\right)}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \pi =\lim _{k\to \infty }\left(2^{k}\cdot {\sqrt
+          {2-{\sqrt {2+{\sqrt {2+{\sqrt {2+\cdots {\sqrt {2+{\sqrt
+          {2}}}}}}}}}}}}\right)} , où k est le nombre de racines carrées
+          emboitées
+
+   Ou encore :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>p</mi> <mo>=</mo>
+          <munder> <mo movablelimits="true" form="prefix">lim</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo stretchy="false">-></mo>
+          <mi mathvariant="normal">infty</mi> </mrow> </munder> <mrow>
+          <mo>(</mo> <mrow> <mn>3</mn> <mo> · </mo> <msup> <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD"> <mi>k</mi> <mo>-</mo> <mn>1</mn>
+          </mrow> </msup> <mo> · </mo> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mn>2</mn> <mo>-</mo> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mn>2</mn> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mn>2</mn> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <mn>2</mn> <mo>+</mo> <mo>.3</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>2</mn> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mn>3</mn> </msqrt> </mrow>
+          </msqrt> </mrow> </msqrt> </mrow> </msqrt> </mrow> </msqrt>
+          </mrow> </msqrt> </mrow> </msqrt> </mrow> </mrow> <mo>)</mo>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle \pi =\lim _{k\to
+          \infty }\left(3\cdot 2^{k-1}\cdot {\sqrt {2-{\sqrt {2+{\sqrt
+          {2+{\sqrt {2+\cdots {\sqrt {2+{\sqrt {2+{\sqrt
+          {3}}}}}}}}}}}}}}\right)}</annotation> </semantics> :MATH]
+          {\displaystyle \pi =\lim _{k\to \infty }\left(3\cdot
+          2^{k-1}\cdot {\sqrt {2-{\sqrt {2+{\sqrt {2+{\sqrt {2+\cdots
+          {\sqrt {2+{\sqrt {2+{\sqrt {3}}}}}}}}}}}}}}\right)}
+
+   (formules qui se démontrent par calcul trigonométrique direct : le
+   terme de droite de la première, par exemple, vaut
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mn>2</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> <mi>sin</mi>
+   <mo>&#x2061;</mo> <mo stretchy="false">(</mo> <mi>p</mi> <mrow
+   class="MJX-TeXAtom-ORD"> <mo>/</mo> </mrow> <msup> <mn>2</mn> <mrow
+   class="MJX-TeXAtom-ORD"> <mi>k</mi> </mrow> </msup> <mo
+   stretchy="false">)</mo> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle 2^{k}\sin(\pi
+   /2^{k})}</annotation> </semantics> :MATH]
+   {\displaystyle 2^{k}\sin(\pi /2^{k})} ).
+
+Notion algébrique générale
+
+   [[258]modifier | [259]modifier le code]
+
+Définition algébrique d'une racine carrée
+
+   [[260]modifier | [261]modifier le code]
+
+   Soient x et a deux éléments d'un [262]anneau A, tels que x^2 = a.
+   L'élément x est alors une racine carrée de a. La notation SQRT a est
+   néanmoins souvent déconseillée car il peut exister plusieurs tels
+   éléments x.
+
+   En général (si l'anneau n'est pas [263]intègre ou s'il n'est pas
+   commutatif), un élément peut avoir plus de deux racines carrées. Par
+   exemple dans l'[264]anneau ¤/9¤, les racines carrées de 0 sont 0, 3 et
+   -3, et dans le [265]corps gauche des [266]quaternions, tout réel
+   strictement négatif possède une infinité de racines carrées.
+
+   Dans le cas des nombres réels, un auteur parlant d'une racine carrée de
+   2, traite d'un des deux éléments SQRT 2 ou bien - SQRT 2. En revanche,
+   l'expression la racine carrée de deux évoque toujours la solution
+   positive. Comme l'expression SQRT 2 est toujours positive et le terme
+   fonction racine définie sur les réels positifs désigne toujours la
+   valeur positive, on évite cette confusion dans les enseignements un peu
+   élémentaires des mathématiques en ne faisant usage que de
+   l'expression : la racine carrée, alors toujours positive.
+
+Racines carrées de nombres complexes
+
+   [[267]modifier | [268]modifier le code]
+   Article connexe : [269]Racine d'un nombre complexe.
+
+   La racine carrée sur est définie seulement pour les nombres positifs.
+   Dans la résolution effective des [270]équations polynomiales,
+   l'introduction d'une racine carrée formelle d'un nombre négatif dans
+   les calculs intermédiaires donne des résultats exacts. C'est ainsi que
+   le corps des [271]nombres complexes a été introduit^[272][5]
+
+     Pour tout nombre complexe non nul z = a + ib (avec a et b réels), il
+     existe exactement deux nombres complexes w tels que w^2 = z. Ils
+     sont opposés l'un de l'autre.
+     * Si b est non nul, ils sont donnés par :
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mi>w</mi> <mo>=</mo>
+                <mo>±</mo> <mrow> <mo>(</mo> <mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <msqrt> <mfrac> <mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <msqrt> <msup> <mi>a</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+                <mo>+</mo> <msup> <mi>b</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+                </msqrt> </mrow> <mo>+</mo> <mi>a</mi> </mrow> <mn>2</mn>
+                </mfrac> </msqrt> </mrow> <mo>+</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">i</mi>
+                </mrow> <mtext> </mtext> <mi>signe</mi> <mo>&#x2061;</mo>
+                <mo stretchy="false">(</mo> <mi>b</mi> <mo
+                stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+                <msqrt> <mfrac> <mrow> <mrow class="MJX-TeXAtom-ORD">
+                <msqrt> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+                <mn>2</mn> </mrow> </msup> <mo>+</mo> <msup> <mi>b</mi>
+                <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+                </msqrt> </mrow> <mo>-</mo> <mi>a</mi> </mrow> <mn>2</mn>
+                </mfrac> </msqrt> </mrow> </mrow> <mo>)</mo> </mrow>
+                </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle w=\pm
+                \left({\sqrt {\frac {{\sqrt {a^{2}+b^{2}}}+a}{2}}}+\mathrm
+                {i} \ \operatorname {signe} (b){\sqrt {\frac {{\sqrt
+                {a^{2}+b^{2}}}-a}{2}}}\right)}</annotation> </semantics>
+                :MATH]
+                {\displaystyle w=\pm \left({\sqrt {\frac {{\sqrt
+                {a^{2}+b^{2}}}+a}{2}}}+\mathrm {i} \ \operatorname {signe}
+                (b){\sqrt {\frac {{\sqrt {a^{2}+b^{2}}}-a}{2}}}\right)} ,
+                avec
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mi>signe</mi>
+                <mo>&#x2061;</mo> <mo stretchy="false">(</mo> <mi>b</mi>
+                <mo stretchy="false">)</mo> <mo>=</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mfrac> <mi>b</mi> <mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo>
+                </mrow> <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mo
+                stretchy="false">|</mo> </mrow> </mrow> </mfrac> </mrow>
+                </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle \operatorname
+                {signe} (b)={\frac {b}{|b|}}}</annotation> </semantics>
+                :MATH]
+                {\displaystyle \operatorname {signe} (b)={\frac {b}{|b|}}}
+                .
+
+     * Si b est nul et a est négatif, cette formule se simplifie en :
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mi>w</mi> <mo>=</mo>
+                <mo>±</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+                mathvariant="normal">i</mi> </mrow> <mrow
+                class="MJX-TeXAtom-ORD"> <msqrt> <mrow
+                class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo>
+                </mrow> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD"> <mo
+                stretchy="false">|</mo> </mrow> </msqrt> </mrow> </mstyle>
+                </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle w=\pm \mathrm
+                {i} {\sqrt {|a|}}}</annotation> </semantics> :MATH]
+                {\displaystyle w=\pm \mathrm {i} {\sqrt {|a|}}} .
+
+     * Par ailleurs, si z n'est pas un réel négatif (c.-à-d. si b est non
+       nul ou si a est positif),
+
+                [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+                displaystyle="true" scriptlevel="0"> <mi>w</mi> <mo>=</mo>
+                <mo>±</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow>
+                <mi>z</mi> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mo
+                stretchy="false">|</mo> </mrow> <mi>z</mi> <mrow
+                class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo>
+                </mrow> </mrow> <msqrt> <mn>2</mn> <mo
+                stretchy="false">(</mo> <mi>a</mi> <mo>+</mo> <mrow
+                class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo>
+                </mrow> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mo
+                stretchy="false">|</mo> </mrow> <mo
+                stretchy="false">)</mo> </msqrt> </mfrac> </mrow>
+                </mstyle> </mrow> <annotation
+                encoding="application/x-tex">{\displaystyle w=\pm {\frac
+                {z+|z|}{\sqrt {2(a+|z|)}}}}</annotation> </semantics>
+                :MATH]
+                {\displaystyle w=\pm {\frac {z+|z|}{\sqrt {2(a+|z|)}}}} .
+
+   Méthode de calcul des racines carrées w d'un nombre complexe z = a + ib
+
+   Pour trouver w = x + iy tel que w^2 = a + ib, on pose le système
+   suivant :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>{</mo> <mtable
+          columnalign="left left" rowspacing=".2em" columnspacing="1em"
+          displaystyle="false"> <mtr> <mtd> <msup> <mi>w</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+          <mi>z</mi> </mtd> </mtr> <mtr> <mtd> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mi>w</mi> <msup> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo> </mrow>
+          <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> </mtd> </mtr> </mtable> <mo
+          fence="true" stretchy="true" symmetric="true"></mo> </mrow>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\begin{cases}w^{2}=z\\|w|^{2}=|z|\end{cases}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\begin{cases}w^{2}=z\\|w|^{2}=|z|\end{cases}}}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>{</mo> <mtable
+          columnalign="left left" rowspacing=".2em" columnspacing="1em"
+          displaystyle="false"> <mtr> <mtd> <mo stretchy="false">(</mo>
+          <mi>x</mi> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">i</mi> </mrow> <mi>y</mi> <msup> <mo
+          stretchy="false">)</mo> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mo>=</mo> <mi>a</mi> <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">i</mi>
+          </mrow> <mi>b</mi> </mtd> </mtr> <mtr> <mtd> <msup> <mi>x</mi>
+          <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup>
+          <mo>+</mo> <msup> <mi>y</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <msup> <mi>a</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>b</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> </msqrt> </mrow> </mtd> </mtr> </mtable> <mo
+          fence="true" stretchy="true" symmetric="true"></mo> </mrow>
+          </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle
+          {\begin{cases}(x+\mathrm {i} y)^{2}=a+\mathrm {i}
+          b\\x^{2}+y^{2}={\sqrt {a^{2}+b^{2}}}\end{cases}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\begin{cases}(x+\mathrm {i} y)^{2}=a+\mathrm {i}
+          b\\x^{2}+y^{2}={\sqrt {a^{2}+b^{2}}}\end{cases}}}
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>{</mo> <mtable
+          columnalign="left left" rowspacing=".2em" columnspacing="1em"
+          displaystyle="false"> <mtr> <mtd> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>-</mo>
+          <msup> <mi>y</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">i</mi> </mrow> <mn>2</mn> <mi>x</mi>
+          <mi>y</mi> <mo>=</mo> <mi>a</mi> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">i</mi> </mrow>
+          <mi>b</mi> </mtd> </mtr> <mtr> <mtd> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>y</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mo>+</mo> <msup> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </msqrt>
+          </mrow> </mtd> </mtr> </mtable> <mo fence="true" stretchy="true"
+          symmetric="true"></mo> </mrow> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          {\begin{cases}x^{2}-y^{2}+\mathrm {i} 2xy=a+\mathrm {i}
+          b\\x^{2}+y^{2}={\sqrt {a^{2}+b^{2}}}\end{cases}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle {\begin{cases}x^{2}-y^{2}+\mathrm {i}
+          2xy=a+\mathrm {i} b\\x^{2}+y^{2}={\sqrt
+          {a^{2}+b^{2}}}\end{cases}}}
+
+   Par identification de la partie réelle et imaginaire, on obtient :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mrow
+          class="MJX-TeXAtom-ORD"> <mrow> <mo>{</mo> <mtable
+          columnalign="left left" rowspacing=".2em" columnspacing="1em"
+          displaystyle="false"> <mtr> <mtd> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>-</mo>
+          <msup> <mi>y</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>=</mo> <mi>a</mi> </mtd> </mtr> <mtr> <mtd>
+          <mn>2</mn> <mi>x</mi> <mi>y</mi> <mo>=</mo> <mi>b</mi> </mtd>
+          </mtr> <mtr> <mtd> <msup> <mi>x</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>+</mo>
+          <msup> <mi>y</mi> <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn>
+          </mrow> </msup> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD">
+          <msqrt> <msup> <mi>a</mi> <mrow class="MJX-TeXAtom-ORD">
+          <mn>2</mn> </mrow> </msup> <mo>+</mo> <msup> <mi>b</mi> <mrow
+          class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> </msqrt>
+          </mrow> <mo>.</mo> </mtd> </mtr> </mtable> <mo fence="true"
+          stretchy="true" symmetric="true"></mo> </mrow> </mrow> </mstyle>
+          </mrow> <annotation encoding="application/x-tex">{\displaystyle
+          {\begin{cases}x^{2}-y^{2}=a\\2xy=b\\x^{2}+y^{2}={\sqrt
+          {a^{2}+b^{2}}}.\end{cases}}}</annotation> </semantics> :MATH]
+          {\displaystyle
+          {\begin{cases}x^{2}-y^{2}=a\\2xy=b\\x^{2}+y^{2}={\sqrt
+          {a^{2}+b^{2}}}.\end{cases}}}
+
+   On en déduit alors x^2 et y^2 en ajoutant et soustrayant les première
+   et troisième équations. Le signe du produit xy est celui de b, d'où la
+   première expression des deux couples de solutions pour x et y.
+
+   Mais une manière moins traditionnelle de résoudre ce système est de
+   faire dans un premier temps seulement la somme (des première et
+   troisième équations) :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mn>2</mn> <mi>x</mi>
+          <mo>=</mo> <mo>±</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt>
+          <mn>2</mn> <mo stretchy="false">(</mo> <mi>a</mi> <mo>+</mo>
+          <mrow class="MJX-TeXAtom-ORD"> <mo stretchy="false">|</mo>
+          </mrow> <mi>z</mi> <mrow class="MJX-TeXAtom-ORD"> <mo
+          stretchy="false">|</mo> </mrow> <mo stretchy="false">)</mo>
+          </msqrt> </mrow> </mstyle> </mrow> <annotation
+          encoding="application/x-tex">{\displaystyle 2x=\pm {\sqrt
+          {2(a+|z|)}}}</annotation> </semantics> :MATH]
+          {\displaystyle 2x=\pm {\sqrt {2(a+|z|)}}} ,
+
+   ce qui, si z n'est pas un réel négatif, mène à la dernière formule.
+   Exemple :
+   [273][220px-Imaginary2Root.svg.png]
+
+   Les deux racines carrées de [274]i sont
+
+          1 + i/[275] SQRT 2 =
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <msup> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">e</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <mfrac> <mrow> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">i</mi> </mrow>
+          <mi>p</mi> </mrow> <mn>4</mn> </mfrac> </mrow> </msup>
+          <mo>=</mo> <mi>cos</mi> <mo>&#x2061;</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mfrac> <mi>p</mi> <mn>4</mn> </mfrac>
+          </mrow> <mo>+</mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+          mathvariant="normal">i</mi> </mrow> <mi>sin</mi>
+          <mo>&#x2061;</mo> <mrow class="MJX-TeXAtom-ORD"> <mfrac>
+          <mi>p</mi> <mn>4</mn> </mfrac> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle \mathrm
+          {e} ^{\frac {\mathrm {i} \pi }{4}}=\cos {\frac {\pi
+          }{4}}+\mathrm {i} \sin {\frac {\pi }{4}}}</annotation>
+          </semantics> :MATH]
+          {\displaystyle \mathrm {e} ^{\frac {\mathrm {i} \pi }{4}}=\cos
+          {\frac {\pi }{4}}+\mathrm {i} \sin {\frac {\pi }{4}}}
+          ~=^[276][6] 0,707 + 0,707 i
+
+   et son opposé.
+
+   Pour des raisons de nature topologique, il est impossible^[277][7] de
+   prolonger la fonction racine carrée, de [+] dans [+], en une fonction
+   continue
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo>:</mo> <mrow
+   class="MJX-TeXAtom-ORD"> <mi mathvariant="double-struck">C</mi> </mrow>
+   <mo stretchy="false">-></mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">C</mi> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle f:\mathbb {C}
+   \rightarrow \mathbb {C} }</annotation> </semantics> :MATH]
+   {\displaystyle f:\mathbb {C} \rightarrow \mathbb {C} } vérifiant f(z)^2
+   = z.
+
+   On appelle [278]détermination de la racine carrée sur un ouvert U de
+   toute fonction continue
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo>:</mo> <mi>U</mi>
+   <mo stretchy="false">-></mo> <mrow class="MJX-TeXAtom-ORD"> <mi
+   mathvariant="double-struck">C</mi> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle f:U\rightarrow
+   \mathbb {C} }</annotation> </semantics> :MATH]
+   {\displaystyle f:U\rightarrow \mathbb {C} } vérifiant
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+   stretchy="false">(</mo> <mi>z</mi> <msup> <mo stretchy="false">)</mo>
+   <mrow class="MJX-TeXAtom-ORD"> <mn>2</mn> </mrow> </msup> <mo>=</mo>
+   <mi>z</mi> </mstyle> </mrow> <annotation
+   encoding="application/x-tex">{\displaystyle f(z)^{2}=z}</annotation>
+   </semantics> :MATH]
+   {\displaystyle f(z)^{2}=z} .
+
+   La [279]détermination principale de la racine carrée est la fonction de
+   dans ainsi définie : si z s'écrit sous forme trigonométrique z = r e^i
+   f avec -p < f <= p, alors on pose f(z) = SQRT r e^i f/2. Cette
+   détermination principale n'est continue en aucun point de la
+   [280]demi-droite des réels strictement négatifs, et est holomorphe sur
+   son complémentaire.
+
+   Quand le nombre est dans sa forme algébrique z = a + ib, cette
+   définition se traduit par :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+          displaystyle="true" scriptlevel="0"> <mi>f</mi> <mo
+          stretchy="false">(</mo> <mi>a</mi> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">i</mi> </mrow>
+          <mi>b</mi> <mo stretchy="false">)</mo> <mo>=</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <msqrt> <mfrac> <mrow> <mrow>
+          <mo>|</mo> <mrow> <mi>a</mi> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">i</mi> </mrow>
+          <mi>b</mi> </mrow> <mo>|</mo> </mrow> <mo>+</mo> <mi>a</mi>
+          </mrow> <mn>2</mn> </mfrac> </msqrt> </mrow> <mo>±</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">i</mi> </mrow>
+          <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mfrac> <mrow> <mrow>
+          <mo>|</mo> <mrow> <mi>a</mi> <mo>+</mo> <mrow
+          class="MJX-TeXAtom-ORD"> <mi mathvariant="normal">i</mi> </mrow>
+          <mi>b</mi> </mrow> <mo>|</mo> </mrow> <mo>-</mo> <mi>a</mi>
+          </mrow> <mn>2</mn> </mfrac> </msqrt> </mrow> </mstyle> </mrow>
+          <annotation encoding="application/x-tex">{\displaystyle
+          f(a+\mathrm {i} b)={\sqrt {\frac {\left|a+\mathrm {i}
+          b\right|+a}{2}}}\pm \mathrm {i} {\sqrt {\frac {\left|a+\mathrm
+          {i} b\right|-a}{2}}}}</annotation> </semantics> :MATH]
+          {\displaystyle f(a+\mathrm {i} b)={\sqrt {\frac {\left|a+\mathrm
+          {i} b\right|+a}{2}}}\pm \mathrm {i} {\sqrt {\frac
+          {\left|a+\mathrm {i} b\right|-a}{2}}}}
+
+   où le signe de la partie imaginaire de la racine est
+     * si b != 0 : le signe de b
+     * si b = 0 et a < 0 : le signe +
+     * si b = 0 et a >= 0 : pas de signe (le nombre est nul).
+
+   Notons qu'à cause de la nature discontinue de la détermination
+   principale de la racine carrée dans le plan complexe, la relation
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+   <msqrt> <mi>z</mi> <msup> <mi>z</mi> <mo>'</mo> </msup> </msqrt>
+   </mrow> <mo>=</mo> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <mi>z</mi>
+   </msqrt> </mrow> <mrow class="MJX-TeXAtom-ORD"> <msqrt> <msup>
+   <mi>z</mi> <mo>'</mo> </msup> </msqrt> </mrow> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle {\sqrt
+   {zz'}}={\sqrt {z}}{\sqrt {z'}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt {zz'}}={\sqrt {z}}{\sqrt {z'}}} devient fausse en
+   général.
+
+Racines carrées de matrices et d'opérateurs
+
+   [[281]modifier | [282]modifier le code]
+   Article détaillé : [283]Racine carrée d'une matrice.
+
+   Si A est une [284]matrice autoadjointe positive ou un [285]opérateur
+   autoadjoint positif en dimension finie, alors il existe exactement une
+   matrice autoadjointe positive ou un opérateur autoadjoint positif B tel
+   que B^2 = A. On pose alors : SQRT A = B.
+
+   Plus généralement, pour toute [286]matrice normale ou tout opérateur
+   normal en dimension finie A, il existe des opérateurs normaux B tels
+   que B^2 = A. Cette propriété se généralise à tout [287]opérateur borné
+   normal sur un [288]espace de Hilbert.
+
+   En général, il y a plusieurs tels opérateurs B pour chaque A et la
+   fonction racine carrée ne peut pas être définie pour les opérateurs
+   normaux d'une façon satisfaisante (continue par exemple). Les
+   opérateurs positifs sont apparentés à des nombres réels positifs, et
+   les opérateurs normaux sont apparentés à des nombres complexes. Les
+   articles sur la théorie des [289]opérateurs développent davantage ces
+   aspects.
+
+Notes et références
+
+   [[290]modifier | [291]modifier le code]
+   (en) Cet article est partiellement ou en totalité issu de l'article de
+   Wikipédia en anglais intitulé « [292]Square root » ([293]voir la liste
+   des auteurs).
+    1. [294]^| « [295]Opérateurs mathématiques - standard unicode, version
+       15.1 », sur www.unicode.org, 221A
+    2. [296]^| Collection Mistral, Mathématiques 3^e, 1985, p. 20.
+    3. [297]^| Pour une preuve élémentaire, voir par exemple
+       [298]« Fonction racine carrée » sur Wikiversité..
+    4. [299]^| Pour une démonstration, voir par exemple le [300]chapitre
+       « Dérivées usuelles » de la leçon « Fonction dérivée » sur
+       Wikiversité..
+    5. [301]^| Dans la résolution de l'[302]équation du troisième degré,
+       la [303]méthode de Cardan s'applique formellement et donne des
+       résultats réels, si l'on accepte d'introduire dans certains cas des
+       racines carrées « imaginaires » de réels négatifs. Pour plus de
+       détails, voir [304]histoire des nombres complexes, et aussi la
+       [305]description des résultats de Bombelli.
+    6. [306]^| Suite [307]OEIS [308]A010503 de l'[309]OEIS.
+    7. [310]^| Cependant, on trouvera à l'article « [311]Surface de
+       Riemann » une façon de contourner cette difficulté.
+
+Voir aussi
+
+   [[312]modifier | [313]modifier le code]
+
+   Sur les autres projets Wikimedia :
+     * [314]Racine carrée, sur Wikimedia Commons
+     * [315]Racine carrée, sur Wikiversity
+
+   Sur les autres projets Wikimedia :
+     * [316]Fonction racine carrée, sur Wikiversity
+
+Articles connexes
+
+   [[317]modifier | [318]modifier le code]
+     * [319]Équation du second degré
+     * [320]Racine carrée de deux
+     * [321]Racine carrée de trois
+     * [322]Racine carrée de cinq
+     * [323]Racine cubique
+     * [324]Racine d'un nombre complexe
+     * [325]Racine n-ième
+     * [326]Nombre d'or
+     * [327]Nombre irrationnel
+     * [328]Nombre algébrique
+     * [329]Nombre réel
+     * [330]Nombre complexe
+     * [331]Fonction exponentielle
+     * [332]Résidu quadratique
+
+Lien externe
+
+   [[333]modifier | [334]modifier le code]
+
+   (en) [335]Suites concernant la racine carrée dans l'[336]encyclopédie
+   en ligne des suites de nombres entiers (entre autres : développements
+   décimaux des racines carrées des entiers de 2 à 99)
+
+Bibliographie
+
+   [[337]modifier | [338]modifier le code]
+     * (en) [339]David Eugene Smith, History of Mathematics, [340]vol. 2
+     * (en) George Gheverghese Joseph, The Crest of the Peacock:
+       Non-European Roots of Mathematics, 2^e éd., [341]Penguin Books,
+       London, 2000 ([342]ISBN [343]0-691-00659-8)
+       [344]3^e éd. augmentée : [345]Princeton University Press, 2010
+       ([346]ISBN [347]978-0-691-13526-7)
+     * (en) P A J Lewis, Essential Mathematics, Ratna-Sagar, 2008, 440 p.
+       ([348]ISBN [349]978-81-8332-367-3, [350]lire en ligne), chap. 3
+       (« Irrational numbers ») (ce chapitre, malgré son titre, porte sur
+       les racines carrées)
+     * (en) A V Vijaya, Figuring Out Mathematics, [351]Dorling Kindersley,
+       2007 ([352]ISBN [353]978-81-317-0359-5, [354]lire en ligne), p. 15
+
+     * [355]icône décorative [356]Portail des mathématiques
+
+   Ce document provient de
+   « [357]https://fr.wikipedia.org/w/index.php?title=Racine_carrée&oldid=2
+   20344938 ».
+
+   [358]Catégories:
+     * [359]Racine carrée
+     * [360]Fonction de référence
+
+   Catégories cachées:
+     * [361]Article manquant de références depuis mars 2008
+     * [362]Article manquant de références/Liste complète
+     * [363]Article utilisant l'infobox Fonction mathématique
+     * [364]Article utilisant une Infobox
+     * [365]Article avec une section vide ou incomplète
+     * [366]Catégorie Commons avec lien local différent sur Wikidata
+     * [367]Portail:Mathématiques/Articles liés
+     * [368]Portail:Sciences/Articles liés
+     * [369]Projet:Mathématiques/Articles
+
+     * La dernière modification de cette page a été faite le 16 novembre
+       2024 à 17:47.
+     * [370]Droit d'auteur : les textes sont disponibles sous [371]licence
+       Creative Commons attribution, partage dans les mêmes conditions ;
+       d'autres conditions peuvent s'appliquer. Voyez les [372]conditions
+       d'utilisation pour plus de détails, ainsi que les [373]crédits
+       graphiques. En cas de réutilisation des textes de cette page, voyez
+       [374]comment citer les auteurs et mentionner la licence.
+       Wikipedia® est une marque déposée de la [375]Wikimedia Foundation,
+       Inc., organisation de bienfaisance régie par le paragraphe
+       [376]501(c)(3) du code fiscal des États-Unis.
+
+     * [377]Politique de confidentialité
+     * [378]À propos de Wikipédia
+     * [379]Avertissements
+     * [380]Contact
+     * [381]Code de conduite
+     * [382]Développeurs
+     * [383]Statistiques
+     * [384]Déclaration sur les témoins (cookies)
+     * [385]Version mobile
+
+     * [386]Wikimedia Foundation
+     * [387]Powered by MediaWiki
+
+References
+
+   Visible links:
+   1. file://fr.m.wikipedia.org/wiki/Racine_carr%C3%A9e
+   2. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+   8. file:///wiki/Sp%C3%A9cial:Page_au_hasard
+   9. file:///wiki/Wikip%C3%A9dia:Contact
+  10. file:///wiki/Aide:D%C3%A9buter
+  11. file:///wiki/Aide:Accueil
+  12. file:///wiki/Wikip%C3%A9dia:Accueil_de_la_communaut%C3%A9
+  13. file:///wiki/Sp%C3%A9cial:Modifications_r%C3%A9centes
+  14. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+  15. file:///wiki/Sp%C3%A9cial:Recherche
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  17. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+carr%C3%A9e
+  18. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+carr%C3%A9e
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  20. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+carr%C3%A9e
+  21. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+carr%C3%A9e
+  22. file:///wiki/Aide:Premiers_pas
+  23. file:///wiki/Sp%C3%A9cial:Mes_contributions
+  24. file:///wiki/Sp%C3%A9cial:Mes_discussions
+  25. https://af.wikipedia.org/wiki/Vierkantswortel
+  26. https://ar.wikipedia.org/wiki/%D8%AC%D8%B0%D8%B1_%D8%AA%D8%B1%D8%A8%D9%8A%D8%B9%D9%8A
+  27. https://ast.wikipedia.org/wiki/Ra%C3%ADz_cuadrada
+  28. https://az.wikipedia.org/wiki/Kvadrat_k%C3%B6kl%C9%99r
+  29. https://ba.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82_%D1%82%D0%B0%D0%BC%D1%8B%D1%80
+  30. https://bcl.wikipedia.org/wiki/Kwadradong_gamot
+  31. https://be.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B_%D0%BA%D0%BE%D1%80%D0%B0%D0%BD%D1%8C
+  32. https://be-tarask.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B_%D0%BA%D0%BE%D1%80%D0%B0%D0%BD%D1%8C
+  33. https://bg.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%B5%D0%BD_%D0%BA%D0%BE%D1%80%D0%B5%D0%BD
+  34. https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A6%B0%E0%A7%8D%E0%A6%97%E0%A6%AE%E0%A7%82%E0%A6%B2
+  35. https://br.wikipedia.org/wiki/Gwrizienn_garrez
+  36. https://bs.wikipedia.org/wiki/Kvadratni_korijen
+  37. https://ca.wikipedia.org/wiki/Arrel_quadrada
+  38. https://ckb.wikipedia.org/wiki/%DA%95%DB%95%DA%AF%DB%8C_%D8%AF%D9%88%D9%88%D8%AC%D8%A7
+  39. https://cs.wikipedia.org/wiki/Druh%C3%A1_odmocnina
+  40. https://cv.wikipedia.org/wiki/%D0%A2%C4%83%D0%B2%D0%B0%D1%82%D0%BA%D0%B0%D0%BB%D0%BB%D0%B0_%D1%82%D1%8B%D0%BC%D0%B0%D1%80
+  41. https://cy.wikipedia.org/wiki/Ail_isradd
+  42. https://da.wikipedia.org/wiki/Kvadratrod
+  43. https://de.wikipedia.org/wiki/Quadratwurzel
+  44. https://el.wikipedia.org/wiki/%CE%A4%CE%B5%CF%84%CF%81%CE%B1%CE%B3%CF%89%CE%BD%CE%B9%CE%BA%CE%AE_%CF%81%CE%AF%CE%B6%CE%B1
+  45. https://en.wikipedia.org/wiki/Square_root
+  46. https://eo.wikipedia.org/wiki/Kvadrata_radiko
+  47. https://es.wikipedia.org/wiki/Ra%C3%ADz_cuadrada
+  48. https://et.wikipedia.org/wiki/Ruutjuur
+  49. https://eu.wikipedia.org/wiki/Erro_karratu
+  50. https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D8%B4%D9%87_%D8%AF%D9%88%D9%85
+  51. https://fi.wikipedia.org/wiki/Neli%C3%B6juuri
+  52. https://fo.wikipedia.org/wiki/Kvadratr%C3%B3t
+  53. https://fur.wikipedia.org/wiki/Lidr%C3%AEs_cuadrade
+  54. https://gcr.wikipedia.org/wiki/Rasin_di_roun_nonm
+  55. https://gl.wikipedia.org/wiki/Ra%C3%ADz_cadrada
+  56. https://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AA%B0%E0%AB%8D%E0%AA%97%E0%AA%AE%E0%AB%82%E0%AA%B3
+  57. https://he.wikipedia.org/wiki/%D7%A9%D7%95%D7%A8%D7%A9_%D7%A8%D7%99%D7%91%D7%95%D7%A2%D7%99
+  58. https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%AE%E0%A5%82%E0%A4%B2
+  59. https://hr.wikipedia.org/wiki/Kvadratni_korijen
+  60. https://hu.wikipedia.org/wiki/N%C3%A9gyzetgy%C3%B6k
+  61. https://hy.wikipedia.org/wiki/%D5%94%D5%A1%D5%BC%D5%A1%D5%AF%D5%B8%D6%82%D5%BD%D5%AB_%D5%A1%D6%80%D5%B4%D5%A1%D5%BF
+  62. https://id.wikipedia.org/wiki/Akar_kuadrat
+  63. https://io.wikipedia.org/wiki/Quadratala_radiko
+  64. https://is.wikipedia.org/wiki/Ferningsr%C3%B3t
+  65. https://it.wikipedia.org/wiki/Radice_quadrata
+  66. https://ja.wikipedia.org/wiki/%E5%B9%B3%E6%96%B9%E6%A0%B9
+  67. https://jam.wikipedia.org/wiki/Skwier_ruut
+  68. https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%95%E1%83%90%E1%83%93%E1%83%A0%E1%83%90%E1%83%A2%E1%83%A3%E1%83%9A%E1%83%98_%E1%83%A4%E1%83%94%E1%83%A1%E1%83%95%E1%83%98
+  69. https://kk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D1%82%D1%8B%D2%9B_%D1%82%D2%AF%D0%B1%D1%96%D1%80
+  70. https://kn.wikipedia.org/wiki/%E0%B2%B5%E0%B2%B0%E0%B3%8D%E0%B2%97%E0%B2%AE%E0%B3%82%E0%B2%B2
+  71. https://ko.wikipedia.org/wiki/%EC%A0%9C%EA%B3%B1%EA%B7%BC
+  72. https://ky.wikipedia.org/wiki/%D0%90%D1%80%D0%B8%D1%84%D0%BC%D0%B5%D1%82%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82_%D1%82%D0%B0%D0%BC%D1%8B%D1%80
+  73. https://la.wikipedia.org/wiki/Radix_quadrata
+  74. https://lfn.wikipedia.org/wiki/Radis_cuadral
+  75. https://lmo.wikipedia.org/wiki/Radis_quadrada
+  76. https://lo.wikipedia.org/wiki/%E0%BA%AE%E0%BA%B2%E0%BA%81%E0%BA%AA%E0%BA%B5%E0%BB%88%E0%BA%AB%E0%BA%A5%E0%BB%88%E0%BA%BD%E0%BA%A1
+  77. https://lt.wikipedia.org/wiki/Kvadratin%C4%97_%C5%A1aknis
+  78. https://lv.wikipedia.org/wiki/Kvadr%C4%81tsakne
+  79. https://mk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%B5%D0%BD_%D0%BA%D0%BE%D1%80%D0%B5%D0%BD
+  80. https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%BC%E0%B4%97%E0%B5%8D%E0%B4%97%E0%B4%AE%E0%B5%82%E0%B4%B2%E0%B4%82
+  81. https://mr.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%AE%E0%A5%82%E0%A4%B3
+  82. https://ms.wikipedia.org/wiki/Punca_kuasa_dua
+  83. https://mt.wikipedia.org/wiki/G%C4%A7erq_kwadru
+  84. https://my.wikipedia.org/wiki/%E1%80%94%E1%80%BE%E1%80%85%E1%80%BA%E1%80%91%E1%80%95%E1%80%BA%E1%80%80%E1%80%AD%E1%80%94%E1%80%BA%E1%80%B8%E1%80%9B%E1%80%84%E1%80%BA%E1%80%B8
+  85. https://ne.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%AE%E0%A5%82%E0%A4%B2
+  86. https://new.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%97%E0%A4%AE%E0%A5%82%E0%A4%B2
+  87. https://nl.wikipedia.org/wiki/Vierkantswortel
+  88. https://nn.wikipedia.org/wiki/Kvadratrot
+  89. https://no.wikipedia.org/wiki/Kvadratrot
+  90. https://oc.wikipedia.org/wiki/Rai%C3%A7_carrada
+  91. https://om.wikipedia.org/wiki/Caaroo_Kaaslamee
+  92. https://pa.wikipedia.org/wiki/%E0%A8%B5%E0%A8%B0%E0%A8%97_%E0%A8%AE%E0%A9%82%E0%A8%B2
+  93. https://pl.wikipedia.org/wiki/Pierwiastek_kwadratowy
+  94. https://pt.wikipedia.org/wiki/Raiz_quadrada
+  95. https://ro.wikipedia.org/wiki/R%C4%83d%C4%83cin%C4%83_p%C4%83trat%C4%83
+  96. https://ru.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9_%D0%BA%D0%BE%D1%80%D0%B5%D0%BD%D1%8C
+  97. https://scn.wikipedia.org/wiki/Radici_quatrata
+  98. https://sh.wikipedia.org/wiki/Kvadratni_korijen
+  99. https://simple.wikipedia.org/wiki/Square_root
+ 100. https://sl.wikipedia.org/wiki/Kvadratni_koren
+ 101. https://sq.wikipedia.org/wiki/Rr%C3%ABnja_katrore
+ 102. https://sr.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B8_%D0%BA%D0%BE%D1%80%D0%B5%D0%BD
+ 103. https://su.wikipedia.org/wiki/Akar_kuadrat
+ 104. https://sv.wikipedia.org/wiki/Kvadratrot
+ 105. https://sw.wikipedia.org/wiki/Kipeuo_cha_pili
+ 106. https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AF%8D
+ 107. https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B0%B0%E0%B1%8D%E0%B0%97%E0%B0%AE%E0%B1%82%E0%B0%B2%E0%B0%82
+ 108. https://tl.wikipedia.org/wiki/Pariugat
+ 109. https://tr.wikipedia.org/wiki/Karek%C3%B6k
+ 110. https://uk.wikipedia.org/wiki/%D0%9A%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D1%80%D1%96%D0%BD%D1%8C
+ 111. https://ur.wikipedia.org/wiki/%D8%AC%D8%B0%D8%B1_%D8%A7%D9%84%D9%85%D8%B1%D8%A8%D8%B9
+ 112. https://uz.wikipedia.org/wiki/Kvadrat_ildiz
+ 113. https://vi.wikipedia.org/wiki/C%C4%83n_b%E1%BA%ADc_hai
+ 114. https://war.wikipedia.org/wiki/Kwadrado_nga_gamot
+ 115. https://wuu.wikipedia.org/wiki/%E5%B9%B3%E6%96%B9%E6%A0%B9
+ 116. https://yi.wikipedia.org/wiki/%D7%A7%D7%95%D7%95%D7%90%D7%93%D7%A8%D7%90%D7%98_%D7%95%D7%95%D7%90%D7%A8%D7%A6%D7%9C
+ 117. https://yo.wikipedia.org/wiki/Gb%C3%B2ngb%C3%B2_al%C3%A1gb%C3%A1ram%C3%A9j%C3%AC
+ 118. https://zh.wikipedia.org/wiki/%E5%B9%B3%E6%96%B9%E6%A0%B9
+ 119. https://zh-min-nan.wikipedia.org/wiki/P%C3%AAng-hong-kin
+ 120. https://zh-yue.wikipedia.org/wiki/%E9%96%8B%E6%96%B9%E6%A0%B9
+ 121. https://www.wikidata.org/wiki/Special:EntityPage/Q134237#sitelinks-wikipedia
+ 122. file:///wiki/Racine_carr%C3%A9e
+ 123. file:///wiki/Discussion:Racine_carr%C3%A9e
+ 124. file:///wiki/Racine_carr%C3%A9e
+ 125. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit
+ 126. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit
+ 127. file:///w/index.php?title=Racine_carr%C3%A9e&action=history
+ 128. file:///wiki/Racine_carr%C3%A9e
+ 129. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit
+ 130. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit
+ 131. file:///w/index.php?title=Racine_carr%C3%A9e&action=history
+ 132. file:///wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Racine_carr%C3%A9e
+ 133. file:///wiki/Sp%C3%A9cial:Suivi_des_liens/Racine_carr%C3%A9e
+ 134. file:///wiki/Aide:Importer_un_fichier
+ 135. file:///wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+ 136. file:///w/index.php?title=Racine_carr%C3%A9e&oldid=220344938
+ 137. file:///w/index.php?title=Racine_carr%C3%A9e&action=info
+ 138. file:///w/index.php?title=Sp%C3%A9cial:Citer&page=Racine_carr%C3%A9e&id=220344938&wpFormIdentifier=titleform
+ 139. file:///w/index.php?title=Sp%C3%A9cial:UrlShortener&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_carr%25C3%25A9e
+ 140. file:///w/index.php?title=Sp%C3%A9cial:QrCode&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_carr%25C3%25A9e
+ 141. file:///w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Racine+carr%C3%A9e
+ 142. file:///w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Racine_carr%C3%A9e&action=show-download-screen
+ 143. file:///w/index.php?title=Racine_carr%C3%A9e&printable=yes
+ 144. https://commons.wikimedia.org/wiki/Category:Square_root
+ 145. https://fr.wikiversity.org/wiki/Racine_carr%C3%A9e
+ 146. https://www.wikidata.org/wiki/Special:EntityPage/Q134237
+ 147. file:///wiki/Aide:Homonymie
+ 148. file:///wiki/Racine_carr%C3%A9e_(album)
+ 149. file:///wiki/Mod%C3%A8le:%C3%80_sourcer
+ 150. file:///wiki/Wikip%C3%A9dia:Citez_vos_sources
+ 151. file:///wiki/Wikip%C3%A9dia:V%C3%A9rifiabilit%C3%A9
+ 152. file:///wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence
+ 153. file:///wiki/Wikip%C3%A9dia:Citez_vos_sources#Qualit%C3%A9_des_sources
+ 154. file:///wiki/Aide:Ins%C3%A9rer_une_r%C3%A9f%C3%A9rence_(%C3%89diteur_visuel)
+ 155. file:///w/index.php?title=Fichier:Squareroot-0-9-metapost.svg&lang=fr
+ 156. file:///wiki/Courbe_repr%C3%A9sentative
+ 157. file:///wiki/Bijection_r%C3%A9ciproque
+ 158. file:///wiki/D%C3%A9riv%C3%A9e
+ 159. file:///wiki/Primitive
+ 160. file:///wiki/Ensemble_de_d%C3%A9finition
+ 161. file:///wiki/Image_d%27une_application
+ 162. file:///wiki/Ordonn%C3%A9e_%C3%A0_l%27origine
+ 163. file:///wiki/Limite_(math%C3%A9matiques)
+ 164. file:///wiki/Extremum
+ 165. file:///wiki/Z%C3%A9ro_d%27une_fonction
+ 166. file:///wiki/Point_fixe
+ 167. https://fr.wikipedia.org/w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=0
+ 168. https://fr.wikipedia.org/w/index.php?title=Racine_carr%C3%A9e&action=edit&section=0
+ 169. https://www.wikidata.org/wiki/Q134237
+ 170. file:///wiki/Mod%C3%A8le:Infobox_Fonction_math%C3%A9matique
+ 171. file:///w/index.php?title=Fichier:Root_symbol.svg&lang=fr
+ 172. file:///wiki/Unicode
+ 173. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-1
+ 174. file:///wiki/Table_des_caract%C3%A8res_Unicode/U2200
+ 175. https://fr.wikipedia.org/w/index.php?title=Racine_carr%C3%A9e&action=edit
+ 176. file:///wiki/Math%C3%A9matiques_%C3%A9l%C3%A9mentaires
+ 177. file:///wiki/Carr%C3%A9_(alg%C3%A8bre)
+ 178. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-2
+ 179. file:///wiki/Fonction_(math%C3%A9matiques)
+ 180. file:///wiki/Alg%C3%A8bre
+ 181. file:///wiki/Analyse_(math%C3%A9matiques)
+ 182. file:///wiki/Anneau_(math%C3%A9matiques)
+ 183. file:///wiki/Corps_commutatif
+ 184. file:///wiki/Nombre_complexe
+ 185. file:///wiki/Entier_naturel
+ 186. file:///wiki/Nombre_irrationnel
+ 187. file:///wiki/Nombre_n%C3%A9gatif
+ 188. file:///wiki/Nombre_complexe
+ 189. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=1
+ 190. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=1
+ 191. file:///wiki/Sp%C3%A9cial:EditPage/Racine_carr%C3%A9e
+ 192. file:///wiki/Aide:Comment_modifier_une_page
+ 193. file:///wiki/Histoire_de_la_racine_carr%C3%A9e
+ 194. file:///wiki/Fichier:Ybc7289-bw.jpg
+ 195. file:///wiki/YBC_7289
+ 196. file:///wiki/YBC_7289
+ 197. file:///wiki/Carr%C3%A9
+ 198. file:///wiki/Valeur_approch%C3%A9e
+ 199. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=2
+ 200. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=2
+ 201. file:///wiki/Fichier:Construction_racine_carree.png
+ 202. file:///wiki/Th%C3%A9or%C3%A8me_de_la_moyenne_g%C3%A9om%C3%A9trique
+ 203. file:///wiki/R%C3%A8gle_(instrument_de_g%C3%A9om%C3%A9trie)
+ 204. file:///wiki/Compas_(g%C3%A9om%C3%A9trie)
+ 205. file:///wiki/Segment_(math%C3%A9matiques)
+ 206. file:///wiki/Segment_(math%C3%A9matiques)
+ 207. file:///wiki/Diam%C3%A8tre
+ 208. file:///wiki/Triangle_rectangle#Hauteur
+ 209. file:///wiki/Triangles_semblables
+ 210. file:///wiki/Nombre_constructible
+ 211. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=3
+ 212. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=3
+ 213. file:///wiki/Fonction_puissance#Racines_n-i%C3%A8mes
+ 214. file:///wiki/Fichier:Mplwp_sqrt.svg
+ 215. file:///wiki/Repr%C3%A9sentation_graphique_d%27une_fonction_math%C3%A9matique
+ 216. file:///wiki/Bijection
+ 217. file:///wiki/Carr%C3%A9
+ 218. file:///wiki/Plan_euclidien
+ 219. file:///wiki/Fonction_croissante
+ 220. file:///wiki/Condition_de_H%C3%B6lder
+ 221. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-3
+ 222. file:///wiki/Continuit%C3%A9_uniforme
+ 223. file:///wiki/D%C3%A9riv%C3%A9e
+ 224. file:///wiki/Tangente_(g%C3%A9om%C3%A9trie)
+ 225. file:///wiki/D%C3%A9riv%C3%A9e
+ 226. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-4
+ 227. file:///wiki/Classe_de_r%C3%A9gularit%C3%A9
+ 228. file:///wiki/S%C3%A9rie_de_Taylor
+ 229. file:///wiki/Convergence_normale
+ 230. file:///wiki/Racine_d%27un_nombre#D%C3%A9veloppement_en_s%C3%A9rie_enti%C3%A8re
+ 231. file:///wiki/Nombre_de_Catalan
+ 232. file:///wiki/Puissance_de_deux
+ 233. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=4
+ 234. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=4
+ 235. file:///wiki/Extraction_de_racine_carr%C3%A9e
+ 236. file:///wiki/M%C3%A9thode_de_H%C3%A9ron
+ 237. file:///wiki/M%C3%A9thode_de_Newton
+ 238. file:///wiki/Th%C3%A9or%C3%A8me_des_suites_adjacentes
+ 239. file:///wiki/Fraction_continue
+ 240. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=5
+ 241. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=5
+ 242. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=6
+ 243. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=6
+ 244. file:///wiki/Radical_imbriqu%C3%A9
+ 245. file:///wiki/Nombre_r%C3%A9el
+ 246. file:///wiki/Nombre_d%27or
+ 247. file:///wiki/Entier_naturel
+ 248. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=7
+ 249. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=7
+ 250. file:///wiki/Radical_imbriqu%C3%A9#Radicaux_infinis_de_Ramanujan
+ 251. file:///wiki/Srinivasa_Ramanujan
+ 252. file:///wiki/Nombre_r%C3%A9el
+ 253. file:///wiki/Pi
+ 254. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=8
+ 255. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=8
+ 256. file:///wiki/Pi
+ 257. file:///wiki/It%C3%A9ration
+ 258. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=9
+ 259. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=9
+ 260. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=10
+ 261. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=10
+ 262. file:///wiki/Anneau_unitaire
+ 263. file:///wiki/Anneau_int%C3%A8gre
+ 264. file:///wiki/Anneau_%E2%84%A4/n%E2%84%A4
+ 265. file:///wiki/Corps_gauche
+ 266. file:///wiki/Quaternion
+ 267. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=11
+ 268. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=11
+ 269. file:///wiki/Racine_d%27un_nombre_complexe
+ 270. file:///wiki/%C3%89quation_polynomiale
+ 271. file:///wiki/Nombre_complexe
+ 272. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-5
+ 273. file:///wiki/Fichier:Imaginary2Root.svg
+ 274. file:///wiki/Unit%C3%A9_imaginaire
+ 275. file:///wiki/Racine_carr%C3%A9e_de_deux
+ 276. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-6
+ 277. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_note-7
+ 278. file:///wiki/D%C3%A9termination_d%27une_fonction_multivalu%C3%A9e
+ 279. file:///wiki/D%C3%A9termination_d%27une_fonction_multivalu%C3%A9e
+ 280. file:///wiki/Demi-droite
+ 281. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=12
+ 282. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=12
+ 283. file:///wiki/Racine_carr%C3%A9e_d%27une_matrice
+ 284. file:///wiki/Matrice_autoadjointe_positive
+ 285. file:///wiki/Endomorphisme_autoadjoint
+ 286. file:///wiki/Matrice_normale
+ 287. file:///wiki/Op%C3%A9rateur_born%C3%A9
+ 288. file:///wiki/Espace_de_Hilbert
+ 289. file:///wiki/Op%C3%A9rateur_(math%C3%A9matiques)
+ 290. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=13
+ 291. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=13
+ 292. https://en.wikipedia.org/wiki/Square_root?oldid=755244
+ 293. https://en.wikipedia.org/wiki/Square_root?action=history
+ 294. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-1
+ 295. https://www.unicode.org/charts/fr/PDF/U2200.pdf
+ 296. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-2
+ 297. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-3
+ 298. https://fr.wikiversity.org/wiki/fr:Fonction_racine_carr%C3%A9e
+ 299. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-4
+ 300. https://fr.wikiversity.org/wiki/fr:Fonction_d%C3%A9riv%C3%A9e/D%C3%A9riv%C3%A9es_usuelles#Fonction_racine_carr%C3%A9e
+ 301. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-5
+ 302. file:///wiki/%C3%89quation_cubique
+ 303. file:///wiki/M%C3%A9thode_de_Cardan
+ 304. file:///wiki/Nombre_complexe#Historique
+ 305. file:///wiki/%C3%89quation_cubique#Rapha%C3%ABl_Bombelli
+ 306. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-6
+ 307. file:///wiki/On-Line_Encyclopedia_of_Integer_Sequences
+ 308. file://oeis.org/A010503
+ 309. file:///wiki/OEIS
+ 310. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#cite_ref-7
+ 311. file:///wiki/Surface_de_Riemann
+ 312. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=14
+ 313. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=14
+ 314. https://commons.wikimedia.org/wiki/Racine_carr%C3%A9e?uselang=fr
+ 315. https://fr.wikiversity.org/wiki/Racine_carr%C3%A9e
+ 316. https://fr.wikiversity.org/wiki/%C3%89tude_et_trac%C3%A9_d%27une_fonction/Annexe/Fonction_racine_carr%C3%A9e
+ 317. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=15
+ 318. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=15
+ 319. file:///wiki/%C3%89quation_du_second_degr%C3%A9
+ 320. file:///wiki/Racine_carr%C3%A9e_de_deux
+ 321. file:///wiki/Racine_carr%C3%A9e_de_trois
+ 322. file:///wiki/Racine_carr%C3%A9e_de_cinq
+ 323. file:///wiki/Racine_cubique
+ 324. file:///wiki/Racine_d%27un_nombre_complexe
+ 325. file:///wiki/Racine_n-i%C3%A8me
+ 326. file:///wiki/Nombre_d%27or
+ 327. file:///wiki/Nombre_irrationnel
+ 328. file:///wiki/Nombre_alg%C3%A9brique
+ 329. file:///wiki/Nombre_r%C3%A9el
+ 330. file:///wiki/Nombre_complexe
+ 331. file:///wiki/Fonction_exponentielle
+ 332. file:///wiki/R%C3%A9sidu_quadratique
+ 333. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=16
+ 334. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=16
+ 335. http://oeis.org/search?q=square+root
+ 336. file:///wiki/Encyclop%C3%A9die_en_ligne_des_suites_de_nombres_entiers
+ 337. file:///w/index.php?title=Racine_carr%C3%A9e&veaction=edit&section=17
+ 338. file:///w/index.php?title=Racine_carr%C3%A9e&action=edit&section=17
+ 339. file:///wiki/David_Eugene_Smith
+ 340. https://books.google.fr/books?id=uTytJGnTf1kC
+ 341. file:///wiki/Penguin_Books
+ 342. file:///wiki/International_Standard_Book_Number
+ 343. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/0-691-00659-8
+ 344. https://books.google.fr/books?id=c-xT0KNJp0cC&dq=isbn:9780691135267
+ 345. file:///wiki/Princeton_University_Press
+ 346. file:///wiki/International_Standard_Book_Number
+ 347. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-0-691-13526-7
+ 348. file:///wiki/International_Standard_Book_Number
+ 349. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-81-8332-367-3
+ 350. file://books.google.com/books?id=KjMVx6ljh6YC&pg=PA24
+ 351. file:///wiki/Dorling_Kindersley
+ 352. file:///wiki/International_Standard_Book_Number
+ 353. file:///wiki/Sp%C3%A9cial:Ouvrages_de_r%C3%A9f%C3%A9rence/978-81-317-0359-5
+ 354. file://books.google.com/books?id=xAwukpHCqH0C&pg=PA15
+ 355. file:///wiki/Portail:Math%C3%A9matiques
+ 356. file:///wiki/Portail:Math%C3%A9matiques
+ 357. https://fr.wikipedia.org/w/index.php?title=Racine_carr%C3%A9e&oldid=220344938
+ 358. file:///wiki/Cat%C3%A9gorie:Accueil
+ 359. file:///wiki/Cat%C3%A9gorie:Racine_carr%C3%A9e
+ 360. file:///wiki/Cat%C3%A9gorie:Fonction_de_r%C3%A9f%C3%A9rence
+ 361. file:///wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences_depuis_mars_2008
+ 362. file:///wiki/Cat%C3%A9gorie:Article_manquant_de_r%C3%A9f%C3%A9rences/Liste_compl%C3%A8te
+ 363. file:///wiki/Cat%C3%A9gorie:Article_utilisant_l%27infobox_Fonction_math%C3%A9matique
+ 364. file:///wiki/Cat%C3%A9gorie:Article_utilisant_une_Infobox
+ 365. file:///wiki/Cat%C3%A9gorie:Article_avec_une_section_vide_ou_incompl%C3%A8te
+ 366. file:///wiki/Cat%C3%A9gorie:Cat%C3%A9gorie_Commons_avec_lien_local_diff%C3%A9rent_sur_Wikidata
+ 367. file:///wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s
+ 368. file:///wiki/Cat%C3%A9gorie:Portail:Sciences/Articles_li%C3%A9s
+ 369. file:///wiki/Cat%C3%A9gorie:Projet:Math%C3%A9matiques/Articles
+ 370. file:///wiki/Wikip%C3%A9dia:Citation_et_r%C3%A9utilisation_du_contenu_de_Wikip%C3%A9dia
+ 371. https://creativecommons.org/licenses/by-sa/4.0/deed.fr
+ 372. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr
+ 373. file:///wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques
+ 374. file:///wiki/Sp%C3%A9cial:Citer/Racine_carr%C3%A9e
+ 375. https://wikimediafoundation.org/
+ 376. file:///wiki/501c
+ 377. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/fr
+ 378. file:///wiki/Wikip%C3%A9dia:%C3%80_propos_de_Wikip%C3%A9dia
+ 379. file:///wiki/Wikip%C3%A9dia:Avertissements_g%C3%A9n%C3%A9raux
+ 380. file://fr.wikipedia.org/wiki/Wikip%C3%A9dia:Contact
+ 381. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Universal_Code_of_Conduct
+ 382. https://developer.wikimedia.org/
+ 383. https://stats.wikimedia.org/#/fr.wikipedia.org
+ 384. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 385. file://fr.m.wikipedia.org/w/index.php?title=Racine_carr%C3%A9e&mobileaction=toggle_view_mobile
+ 386. https://wikimediafoundation.org/
+ 387. https://www.mediawiki.org/
+
+   Hidden links:
+ 389. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html
+ 390. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Histoire
+ 391. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Construction_g%C3%A9om%C3%A9trique_de_la_racine_carr%C3%A9e
+ 392. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Fonction_r%C3%A9elle
+ 393. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Extraction_de_racines_carr%C3%A9es
+ 394. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Racines_carr%C3%A9es_particuli%C3%A8res
+ 395. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Nombre_d'or
+ 396. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Nombres_entiers_sup%C3%A9rieurs_%C3%A0_1_sous_forme_de_racines_carr%C3%A9es
+ 397. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Pi
+ 398. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Notion_alg%C3%A9brique_g%C3%A9n%C3%A9rale
+ 399. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#D%C3%A9finition_alg%C3%A9brique_d'une_racine_carr%C3%A9e
+ 400. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Racines_carr%C3%A9es_de_nombres_complexes
+ 401. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Racines_carr%C3%A9es_de_matrices_et_d%E2%80%99op%C3%A9rateurs
+ 402. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Notes_et_r%C3%A9f%C3%A9rences
+ 403. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Voir_aussi
+ 404. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Articles_connexes
+ 405. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Lien_externe
+ 406. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_carr%25C3%25A9e.html#Bibliographie
+ 407. https://gan.wikipedia.org/wiki/%E5%B9%B3%E6%96%B9%E6%A0%B9
+ 408. file://localhost/wiki/Fichier:2017-fr.wp-orange-source.svg
+ 409. file://localhost/wiki/Mod%C3%A8le:Infobox_Caract%C3%A8re_Unicode
+ 410. file://localhost/wiki/Fichier:Fairytale_warning.png

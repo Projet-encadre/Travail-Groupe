@@ -1,0 +1,118 @@
+   Musée Jean Racine
+   (BUTTON) menu
+     * [1]Actualités
+--
+     * [3]Bienvenue
+       [4]Contacts [5]En pratique
+     * [6]Jean Racine
+       [7]Biographie de Jean Racine [8]L'oeuvre de Jean Racine [9]Le
+       théâtre de Jean Racine [10]Bibliographie
+     * [11]Le musée
+       [12]Histoire du musée [13]Les collections [14]La bibliothèque
+--
+       [16]Exposition 2022 [17]Les expositions précédentes
+     * [18]Animations
+       [19]Racine, lettres aux intimes [20]Animations pédagogiques
+       [21]Animations tout public [22]La lettre du jour
+     * [23]L'association
+       [24]Qui sommes-nous ? [25]Assemblées générales [26]La Gazette
+       Racine [27]Adhésion, soutien
+     * [28]Contact
+
+L'oeuvre de Jean Racine
+
+   [29]Accueil / [30]Jean Racine / [31]L'oeuvre de Jean Racine
+
+L'oeuvre de Jean Racine
+
+   Bérénice par Le Barbier _di_.png
+--
+   Son inspiration antique, ses héroïnes passionnées, la perfection de ses
+   alexandrins rompent avec l'héroïsme baroque de Corneille et divisent le
+   public. Racine devient rapidement l'auteur de référence au
+   Théâtre-Français.
+   Au sommet de la gloire littéraire
+--
+   La liste ci-dessous n'est pas exhaustive. Le lecteur intéressé se
+   référera à la bibliographie pour trouver dans les ouvrages généraux
+   l'oeuvre exhaustive de Racine.
+
+
+--
+   1678 : Discours prononcé à l'Académie française à la réception de M.
+   l'abbé Colbert
+   1685 : Réponse de M. Racine aux discours de MM. Thomas Corneille et
+   Bergeret
+
+   Correspondance
+
+   La correspondance de Racine est forte d'environ deux cents lettres, ce
+   qui est peu au regard du grand épistolier qu'il était. Lettres à sa
+   famille, à ses amis, elles sont publiées parfois de façon thématique :
+   - Lettres d'Uzès (16661 et 1662)
+   - Correspondance entre Racine et La Fontaine
+   - Correspondance entre Racine et Boileau
+   - Lettres de Racine à son fils
+    L'édition présentée, établie et annotée par Jean Lesaulnier est
+   l'édition de référence en la matière (voir bibliographie).
+--
+[32]Contacts
+
+   Association Jean Racine et son terroir
+
+   29, rue de la Chaussée
+--
+[34]Liens
+
+   [35]Centre International Jean Racine (CIJR) [36]Réseau des maisons
+   d'écrivain et patrimoines littéraires des Hauts-de-France [37]Mairie de
+   La Ferté-Milon [38]Société des Amis de Port-Royal [39]Cité
+--
+
+   Visible links:
+   1. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_loeuvre-de-jean-racine.html
+   2. file:///fr/nw/44631/actualites-36
+   3. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_loeuvre-de-jean-racine.html
+   4. file:///fr/ct/44553/contacts-36
+   5. file:///fr/rb/2914/en-pratique
+   6. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_loeuvre-de-jean-racine.html
+   7. file:///fr/rb/18553/biographie-de-jean-racine
+   8. file:///fr/rb/18579/loeuvre-de-jean-racine
+   9. file:///fr/rb/333374/le-theatre-de-jean-racine
+  10. file:///fr/rb/18592/bibliographie
+  11. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_loeuvre-de-jean-racine.html
+  12. file:///fr/rb/18618/histoire-du-musee
+  13. file:///fr/rb/18735/les-collections
+  14. file:///fr/rb/18761/la-bibliotheque
+  15. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_loeuvre-de-jean-racine.html
+  16. file:///fr/rb/1586561/exposition-2022
+  17. file:///fr/rb/333465/les-expositions-precedentes
+  18. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_loeuvre-de-jean-racine.html
+  19. file:///fr/rb/705915/racine-lettres-aux-intimes
+  20. file:///fr/rb/334388/animations-pedagogiques
+  21. file:///fr/rb/334414/animations-tout-public
+  22. file:///fr/rb/864294/la-lettre-du-jour
+  23. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_loeuvre-de-jean-racine.html
+  24. file:///fr/rb/18774/qui-sommes-nous-1
+  25. file:///fr/rb/1218193/assemblees-generales-2
+  26. file:///fr/rb/75116/la-gazette-racine
+  27. file:///fr/rb/18813/adhesion-soutien
+  28. file:///fr/lk/44748/liens-36
+  29. file:///
+  30. file:///
+  31. file:///fr/rb/18579/loeuvre-de-jean-racine
+  32. file:///fr/ct/44553/contacts-36
+  33. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_loeuvre-de-jean-racine.html
+  34. file:///fr/lk/44748/liens-36
+  35. https://jeanracine.org/cijr/
+  36. https://reseaumaisonsecrivain-hdf.fr/
+  37. http://www.lafertemilon.fr/
+--
+  42. file:///fr/accessibilite
+  43. file:///fr/sm/2228/plan-du-site-1
+  44. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_loeuvre-de-jean-racine.html#tarteaucitron
+  45. https://reseaudescommunes.fr/?utm_source=rdcclients&utm_medium=footerlink
+
+   Hidden links:
+  47. file://localhost/fr/
+  48. https://fr-fr.facebook.com/museejeanracine

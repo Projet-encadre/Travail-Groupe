@@ -1,0 +1,1242 @@
+@import url('https://fonts.googleapis.com/css2?family=Aladin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&family=Oswald:wght@300..700&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Heebo', sans-serif; /* Appliquer la police 'Heebo' au texte général */
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+:root
+{
+    --bg-color: #121212;
+    --second-bg-color: #202020;
+    --primary-color: #007bff;
+    --text-color: #ffffff;
+    --highlight-color: #ffe5b0;
+    --golden-color: #caa862;
+    --warm-golden-color: #d5a45a;
+    --light-orange-color: #f3985b;
+    --alert-color: #E60026;
+    --dark-sand-color: #b68362;
+    --dark-chocolate-color: #642f0c;
+    --header-color:  rgb(196, 28, 56);
+    --footer-color:  rgba(196, 28, 56, 0.541);
+    --footer-dark-color:  rgba(94, 17, 30, 0.822);
+    --footer-red-color:  rgb(170, 5, 33);
+    --icon-color: #75ff4b;
+    --link-calm-color: #8b8a91;
+    --water-color: #12c2e9;
+    --border-color: #3e363f;
+    --notification-color: #c7c6d3;
+
+    --h1-font: 6rem;
+    --h2-font: 3.8rem;
+    --p-font: 1.1rem;
+}
+
+body {
+    font-family: 'Heebo', sans-serif !important; /* Utiliser 'Heebo' pour le texte du corps de la page */
+	font-size: 28px;
+    background-color: #ffc857;
+    background-image: linear-gradient(315deg, #ffc857 0%, #0c0c0c 74% );
+    overflow: hidden;
+    overflow-y: auto; /* Activer le défilement vertical sur toute la page */
+	text-align: center;
+    margin: 0; /* Supprimer la marge par défaut */
+    padding: 0; /* Supprimer le padding par défaut */
+    min-height: 100vh; /* Définir la hauteur minimale du corps à 100% de la hauteur de la fenêtre */
+    height: 100%;
+    justify-content: center;
+    display: block;
+}
+
+/* Utiliser Oswald pour tous les titres */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
+}
+
+/* Classe spéciale pour appliquer la police Aladin */
+.special-heading {
+    font-family: 'Aladin', cursive;
+}
+header {
+    background-color: #800020; /* Couleur bordeaux */
+    background-size: cover; /* Couvrir l'intégralité de l'écran */
+    height: 227px;
+    width: 100vw;
+    transition: background-color 0.3s ease; /* Transition du background-color */
+}
+
+/* Le header avec l'effet sticky */
+.header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 6rem;
+    z-index: 1000;
+    background-color: transparent; /* Par défaut, sans fond */
+    display: flex;
+    align-items: center;
+    justify-content: space-between; /* Logo à gauche, menu à droite */
+    padding: 0 2rem; /* Ajuster les marges du header */
+    box-sizing: border-box; /* Inclut le padding dans la largeur totale */
+    transition: background-color 0.3s ease; /* Animation pour sticky */
+}
+
+/* Quand le header devient sticky */
+header.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #222; /* Couleur de fond quand sticky */
+    transition: background-color 0.3s ease; /* Transition du changement de couleur */
+    height: 233px;
+    padding: 10px 20px; /* Pour plus d'espace à l'intérieur */
+}
+
+header.sticky .menu-btn {
+    padding: 12px 10px;
+    margin: 7px 2px;
+    position: relative; /* Garde sa position relative pour éviter tout déplacement non voulu */
+    top: 0; /* Réinitialise tout décalage vertical */
+    transform: translateX(0); /* Empêche tout décalage horizontal */
+    background: linear-gradient(135deg, #a36d7c 0%, var(--dark-sand-color) 100%);
+    color: var(--bg-color);
+    transition: all 0.3s ease; /* Transition douce pour toutes les propriétés */
+}
+header.sticky .menu-right .bx-menu {
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    transform: scale(1); /* Par défaut */
+}
+
+header.sticky .menu-right .bx-menu:hover {
+    transform: scale(1.1); /* Agrandit légèrement au survol */
+    background-color: var(--hover-bg-color); /* Change la couleur de fond */
+}
+
+header.sticky .dropdown_button {
+    color: var(--text-color);
+}
+
+/* Styles spécifiques au logo */
+
+.header .logo img {
+    position: relative;
+    height: 100%; /* Le logo occupe toute la hauteur du header */
+    max-height: 5.8rem; /* Hauteur maximale pour éviter un débordement */
+    max-width: 138px; /* Largeur maximale */
+    width: 100%; /* Occupe toute la largeur */
+    object-fit: contain; /* Garde les proportions du logo */
+    margin: 0; 
+    padding: 0;
+    margin-left: -25px; /* Un léger décalage */
+    z-index: 1200; /* Suffisant pour apparaître en haut. */
+    cursor: pointer;
+}
+
+a.logo {
+    all: unset; /* Réinitialise tous les styles par défaut */
+    text-decoration: none !important; /* Pas de soulignement */
+    color: inherit; /* Conserver la couleur par défaut */
+    position: relative;
+    display: inline-block; /* Rétablir le comportement du lien */
+}
+
+/* Appliquer explicitement aucun soulignement au survol */
+a.logo:hover {
+    text-decoration: none !important; /* Pas de soulignement au survol */
+    opacity: 0.8; /* Effet subtil au survol */
+}
+
+/* Lors du clic ou de l'état actif */
+a.logo:active,
+a.logo.active {
+    text-decoration: none !important; /* Pas de soulignement lors du clic */
+    text-shadow: none; /* Pas d'ombre de texte */
+    color: inherit; /* Conserver la couleur par défaut */
+}
+
+/* Supprimer le soulignement, l'ombre et ajuster la couleur lors de l'état actif, au survol ou au focus */
+a.logo:active,
+a.logo:hover,
+a.logo:focus,
+a.logo.active {
+    text-decoration: none !important; /* Pas de soulignement dans tous les états */
+    text-shadow: none; /* Pas d'ombre de texte */
+    color: inherit; /* Conserver la couleur par défaut */
+}
+
+/* Assurer qu'il n'y a pas de soulignement dans le cas où un lien aurait été modifié */
+a.logo:focus {
+    outline: none; /* Retirer l'encadré par défaut au focus */
+    text-decoration: none !important; /* Pas de soulignement au focus */
+}
+
+.navbar {
+    position: fixed; /* Garder la navbar fixe en haut */
+    display: flex;
+    overflow: visible; /* Permet au contenu de dépasser les limites de la navbar */
+    clip-path: none;
+    justify-content: space-between; /* Ensure even spacing between elements */
+    align-items: center;
+    bottom: 640px;
+    top: 12px;
+    left: 0;
+    right: 0px;
+    width: auto; /* Ajuste automatiquement à son contenu */
+    max-width: 1600px; /* Limite la largeur maximale de la navbar */
+    box-sizing: border-box; /* Inclut le padding dans la largeur totale */
+    height: 8rem;
+    line-height: 4rem; /* Aligne le texte verticalement au centre */
+    background: rgb(2,0,36); 
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(213,164,90,1) 35%, rgba(253,226,200,1) 100%); 
+    padding: 0 1rem; /* Ajoute de l'espace autour du contenu */
+    margin: 5px 19% 2px 13%;
+    transform: translateX(-10px); /* Ajustement fin */
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 50px;
+    overflow: hidden; /* Empêche tout dépassement */
+    z-index: 1000; 
+    flex-wrap: wrap; /* Permet de déplacer les éléments à la ligne suivante */
+    gap: 1rem;
+}
+
+.navbar .menu-content {
+    display: flex;
+    align-items: center;
+}
+
+.navbar ul {
+    display: flex;
+    gap: 0.5rem; /* Espacement réduit */
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    text-align: center;
+    height: 100%;
+}
+.navbar li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 20px;
+    position: relative; /* For dropdown positioning */
+    align-items: center;
+}
+.navbar li a{
+    display: inline-block;
+    color: var(--link-calm-color); /* Couleur par défaut */
+    text-align: center;
+    margin: 0 1rem;
+    padding: 0.5rem 1rem;
+    font-size: 1.4rem;
+    max-width: 140px; /* Largeur maximale d'un lien */
+    text-decoration: none;
+    transition: color 0.3s ease, text-shadow 0.3s ease; /* Ajout d'une animation fluide */
+    height: 100%;
+    font-weight: 900;
+    font-family: 'Aladin', cursive;
+    white-space: nowrap; /* Empêche les sauts de ligne */
+    word-spacing: normal; /* Réduit les espaces entre les mots */
+    letter-spacing: normal; /* Réduit les espaces entre les lettres */
+    word-wrap: break-word; /* Permet aux mots longs de passer à la ligne dans le lien */
+}
+.navbar li a:hover {
+    color: var(--alert-color); /* Change la couleur au survol */
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.958); /* Effet d'ombre */
+    padding-bottom: .5rem;
+    text-decoration: none;
+}
+
+.navbar li a:active {
+    color: var(--text-color); /* Couleur quand le lien est cliqué */
+    text-shadow: 1px 1px 2px #8B0000, 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+/* Ligne de surlignage pour l'élément actif */
+.navbar li a.active::after {
+    position: absolute;
+    content: "";
+    width: 100%; /* Largeur sous le lien */
+    height: 0.18rem; /* Épaisseur de la ligne */
+    left: 0;
+    bottom: 0; /* Position au bas du lien */
+    background-color: var(--highlight-color);
+    border-radius: 5px; /* Arrondi pour plus d'esthétique */
+}
+.navbar li a.active {
+    color: var(--text-color);
+    text-shadow: 1px 1px 2px #8B0000, 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Exclure le logo des styles :active */
+.navbar li a:active:not(.logo) {
+    color: var(--text-color);
+    text-shadow: 1px 1px 2px #8B0000, 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+.menulist a:active:not(.logo) {
+    color: var(--text-color);
+    text-shadow: 1px 1px 2px #8B0000, 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+/* Sticky behavior for the navbar */
+header.sticky .navbar li a {
+    color: white; /* Restaure la couleur dans le sticky */
+}
+@media only screen and (max-width: 860px) {
+    nav
+    {
+        width:60%;
+        margin: 10px 20%;
+    }
+}
+/* Responsive: Petits écrans */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column; /* Colonne pour petits écrans */
+        height: auto; /* Ajuste la hauteur */
+        padding: 1rem; /* Réduit le padding */
+    }
+
+    .navbar ul {
+        flex-direction: column; /* Menu en colonne */
+        gap: 1rem; /* Espacement réduit */
+    }
+
+    .header .logo img {
+        max-height: 4rem; /* Réduit la taille du logo */
+    }
+}
+@media only screen and (max-width: 600px) {
+    nav
+    {
+        width:80%;
+        margin: 10px 10%;
+    }
+    nav ul li a 
+    {
+        font-size: 17px;
+        padding: 8px;
+    }
+}
+
+/* ========================================================================= */
+
+.menulist a {
+    display: flex; /* Permet d'aligner les icônes et le texte ensemble */
+    align-items: center; /* Aligne verticalement les icônes et le texte */
+    gap: 5px; /* Ajoute un petit espace entre l'icône et le texte */
+    font-size: 1.4rem;
+    text-decoration: none; /* Supprime les soulignements */
+    color: var(--link-calm-color); /* La couleur calme pour les liens */
+}
+.menulist a span {
+    display: block; /* Assure que l'icône est au-dessus du texte */
+    margin-bottom: 0px; /* Réduit l'espace entre l'icône et le texte */
+    font-size: 24px; /* Ajuste la taille de l'icône si nécessaire */
+    text-align: center; /* Centrer l'icône au-dessus du texte */
+    padding: 0; /* Supprime tout padding inutile */
+    line-height: 1; /* Assure que l'espacement interne de l'icône est minimal */
+}
+ul.menulist, ul.menulist li, .menulist a, .menulist a span {
+    margin: 0;
+    padding: 0;
+    list-style: none; /* Supprime les puces des listes */
+}
+.menulist a i, /* Cible les icônes Font Awesome */
+.menulist a span { /* Cible les icônes dans des <span> */
+    font-size: 40px; /* La taille de l'icône */
+    display: inline-block; /* Assure que l'icône reste à côté ou au-dessus du texte */
+    vertical-align: middle; /* Centre les icônes par rapport au texte */
+    margin-bottom: 2px; /* Réduit l'espacement entre l'icône et le texte (si icône au-dessus) */
+    margin-right: 5px; /* Réduit l'espace horizontal entre l'icône et le texte */
+}
+
+.menulist a span i {
+    vertical-align: middle; /* Alignement précis de l'icône */
+    line-height: 1; /* Supprime les espacements verticaux implicites */
+}
+.menulist a:hover 
+{
+    color: var(--alert-color);
+}
+.menulist a:active
+{
+    color: var(--text-color);
+    text-shadow: 1px 1px 2px #8B0000, 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+.active::after {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 0.18rem;
+    left: 0;
+    top: 2rem;
+}
+
+.menulist {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    width: 1200px;
+}
+
+.menulist.open {
+    display: block;
+}
+
+.dropdown_button {
+    display: flex; /* Permet d'aligner les icônes et le texte ensemble */
+    align-items: center; /* Aligne verticalement les icônes et le texte */
+    gap: 5px; /* Ajoute un petit espace entre l'icône et le texte */
+    margin: 0px 0px 25px 0px;
+    padding: 0;
+    font-weight: bold;
+    font-size: 1.4rem;
+    text-decoration: none; /* Supprime les soulignements */
+    font-family: 'Aladin', cursive;
+    color: var(--link-calm-color);
+    list-style: none;
+}
+
+.dropdown_button:hover + .content,
+.dropdown_button:focus + .content {
+  display: block; /* Show dropdown on hover or focus */
+}
+
+.dropdown_button:hover {
+    color: var(--alert-color); /* Change la couleur au survol */
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.958); /* Effet d'ombre */
+    padding-bottom: .5rem;
+    text-decoration: none;
+}
+
+.dropdown_button:active {
+    color: var(--text-color);
+    text-shadow: 1px 1px 2px #8B0000, 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+button {
+    font-family: 'Heebo', sans-serif !important;
+}
+
+
+.bx bx-menu {
+    display: none;
+    display: flex;
+    cursor: pointer;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    gap: 5px;
+    
+}
+
+.bx bx-menu div {
+    width: 100%;
+    height: 3px;
+    background-color: white;
+    border-radius: 10px;
+    transition: all 0.3s ease; /* Smooth animation for menu button */
+    margin-right: 5%;
+}
+
+
+@media (max-width: 768px) {
+    .nav-links {
+        position: absolute;
+        right: 0;
+        height: 92vh;
+        top: 8vh;
+        background-color: #333;
+        flex-direction: column;
+        align-items: center;
+        width: 50%;
+        transform: translateX(100%);
+        transition: transform 0.5s ease-in;
+    }
+
+    .nav-links.open {
+        transform: translateX(0);
+    }
+
+    .nav-links li {
+        padding: 20px 0;
+    }
+    .bx bx-menu {
+        display: flex;
+    }
+}
+
+.navbar.show-menu .nav-links {
+    transform: translateX(0); /* Rendre les liens visibles */
+    opacity: 1; /* Rendre les liens complètement opaques */
+    pointer-events: auto; /* Permettre l'interaction avec les liens */
+}
+
+/* ============================================================================== */
+/* Sous-menu déroulant pour choisir nos Journaux de Bord */
+
+/* Conteneur du menu déroulant */
+.dropdown {
+    position: relative; /* Position relative pour permettre le positionnement du sous-menu */
+    overflow: visible; /* Pas de limitation du contenu */
+    flex-direction: column;
+}
+
+.dropdown .dropdown-1 {
+    position: relative;
+    height: 100%;
+    display: flex;
+    z-index: 1050;
+}
+
+.dropdown .dropdown-1 button {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    color: blanchedalmond;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    margin: 0 15px;
+    font-size: 1.3em;
+    cursor: pointer;
+}
+
+.dropdown .dropdown-1 button::after {
+    content: '▼'; /* Flèche vers le bas */
+    font-size: 0.8em;
+    margin-left: 5px;
+    color: blanchedalmond; /* Même couleur que le texte */
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.dropdown .dropdown-1:hover button {
+    background-color: #caa862; /* Change le fond */
+    color: #0c0c0c; /* Change la couleur du texte */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Effet de surbrillance */
+    transition: all 0.3s ease;
+}
+
+.dropdown .dropdown-1:hover button::after {
+    transform: rotate(180deg); /* Flèche vers le haut */
+    color: #fff; /* Change la couleur pour indiquer une action */
+}
+
+.dropdown .dropdown-1 .content {
+    position: absolute;
+    /* display: none; */
+    display: flex;
+    flex-direction: column;
+    z-index: 1100; /* Supérieur à celui de la navbar */
+    top: 100%; /* Juste en dessous du bouton */
+    left: 0; /* Aligné horizontalement avec le bouton */
+    width: auto; /* Ajuste automatiquement à son contenu */
+    max-height: none; /* Assure que le sous-menu n'a pas de limite de hauteur */
+    min-width: 100%; /* Largeur au moins égale au bouton */
+    overflow: hidden; /* Pas de barre de défilement inutile */
+    padding: 1px 3px;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #caa862;
+    color: #0c0c0c;
+    border: 1px solid #ccc; /* Ajoute une bordure pour plus de visibilité */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Effet d'ombre */
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+/* Afficher le menu déroulant au survol */
+.dropdown .dropdown-1:hover .content {
+    display: flex; /* Passer de `block` à `flex` car des alignements sont nécessaires pour organiser les éléments du sous-menu */
+    flex-direction: column;
+    position: absolute; /* Important pour éviter tout décalage */
+    background-color: #caa862;
+    top: 100%; /* Assure le positionnement juste en dessous */
+    left: 0; /* Aligné avec le côté gauche du bouton */
+    width: 145%;
+    padding: 1px 3px;
+    box-sizing: border-box;
+    color: #0c0c0c;
+    opacity: 1;
+    visibility: visible;
+    z-index: 1100;
+}
+
+.dropdown .content a {
+    color: #0c0c0c;
+    text-decoration: none;
+    padding: 1px;
+    display: block;
+    font-size: 18px;
+}
+
+/* ============================================================================= */
+
+.burger-menu {
+    position: absolute;
+    top: 190px;
+    right: 2rem;
+    width: 600px;
+}
+.burger-menu li {
+    padding: 1.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.other_links {
+    position: absolute;
+    display: flex; /* Caché par défaut */
+    flex-direction: column; /* Empile les éléments */
+    padding: 3rem;
+    top: 0;
+    right: 0; /* Aligné à droite */
+    left: 0;
+    height: 79vh; /* Hauteur du menu */
+    width: 100%; /* Occupe toute la largeur */
+    align-items: center;
+    justify-content: space-around;
+    background: #333; /* Couleur de fond */
+    backdrop-filter: blur(15px);
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Ombre */
+    overflow-y: auto; /* Ajoute un défilement si le contenu dépasse */
+    z-index: 998; /* un z-index qui le place en dessous du logo et de la navbar */
+    transition: transform 0.5s ease-in-out, opacity 0.5s ease-in-out;
+    transform: translateX(100%); /* Déplacé hors écran à droite */
+    opacity: 0; /* Invisible au départ */
+}
+
+.navbar.show-menu .other_links {
+    display: flex; /* Affiche les liens */
+    transform: translateX(0); /* Réinitialise la position/affiche (le menu apparaît à l'écran ) */
+    opacity: 1; /* Restaure la visibilité */
+}
+
+.other_links a {
+    font-size: 1.4rem;
+    font-family: 'Aladin', cursive;
+    display: flex; /* Permet d'aligner les icônes et le texte ensemble */
+    align-items: center; /* Aligne verticalement les icônes et le texte */
+    gap: 5px; /* Ajoute un petit espace entre l'icône et le texte */
+    text-decoration: none; /* Supprime les soulignements */
+    color: var(--link-calm-color); /* La couleur calme pour les liens */
+}
+.other_links a:hover {
+    color: var(--alert-color);
+}
+.other_links a:active {
+    color: var(--text-color);
+    text-shadow: 1px 1px 2px #8B0000, 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.divider {
+    height: 1px;
+    background-color: firebrick;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1rem;
+}
+
+/* Responsive */
+@media (max-width: 990px) {
+    .other_links {
+        display: none;
+    }
+    .burger-menu {
+        display: block;
+    }
+}
+
+@media (max-width: 576px) {
+    .burger-menu {
+        left: 2rem;
+        width: unset;
+    }
+}
+
+.bx-menu {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+/* Styles pour le bouton de menu */
+#menu-icon {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 25px;
+    width: 30px;
+    cursor: pointer;
+    z-index: 1002; /* au-dessus de la navbar, en dessous du logo et sous .dropdown-menu */
+}
+
+#menu-icon div {
+    width: 100%;
+    height: 3px;
+    background-color: white;
+    border-radius: 5px;
+    transition: 0.3s ease;
+}
+
+/* Quand le menu est ouvert */
+/* #menu-icon.bx-x div:nth-child(1) */
+#menu-icon.bx-x .line1 {
+    transform: rotate(45deg) translate(5px, 5px);
+}
+
+/* #menu-icon.bx-x div:nth-child(2) */
+#menu-icon.bx-x .line2 {
+    opacity: 0;
+}
+
+/* #menu-icon.bx-x div:nth-child(3) */
+#menu-icon.bx-x .line3 {
+    transform: rotate(-45deg) translate(5px, -5px);
+}
+
+/*------*/
+#menu-icon 
+{
+    z-index: 10001;
+    font-size: 40px;
+    margin: 18px 25px;
+    cursor: pointer;
+}
+
+.menu-right 
+{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 1rem;
+    position: relative;
+}
+.menu-btn 
+{
+    display: inline-block;
+    padding: 10px;
+    margin: 22px 3px;
+    background: linear-gradient(135deg, #e1bac5 0%, var(--dark-sand-color) 100%);
+    color: var(--bg-color);
+    font-size: 20px;
+    font-family: 'Aladin', cursive;
+    font-weight: 300; /* Correspond à l'épaisseur importée */
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    border-radius: 13px;
+    cursor: pointer;
+    z-index: 1005; /* toujours visible, mais sous .close-button */
+}
+.menu-btn span {
+    font-family: 'Aladin', cursive;
+}
+.menu-btn:hover 
+{
+    background: linear-gradient(135deg, var(--dark-sand-color) 0%, #e1bac5 100%);
+}
+.icon-container {
+    padding: 10px; /* Zone cliquable autour de l'icône */
+    display: inline-block;
+    background-color: transparent; /* Pas de changement visuel */
+}
+
+/* Styles for expandable section */
+.expandable-section 
+{
+    display: none; /* Cache par défaut */
+    margin-left: 17rem;
+    margin-bottom: 0;
+    position: absolute; /* Ou 'fixed' si on veut la positionner par rapport à la fenêtre */
+    top: 1.5rem; /* Place la section directement sous la navbar */
+    left: 0;
+    width: 100%; /* Occupe toute la largeur */
+    max-height: 0; /* Cachée par défaut */
+    overflow: hidden;
+    transition: max-height 0.5s ease-out; /* Animation d'ouverture */
+    z-index: 5; /* Plus bas que la navbar */
+    padding: 0;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1); /* Ombre */
+    background: white;
+    border: 1px solid #ddd;
+}
+.dropdown_button:hover + .expandable-section,
+.dropdown_button:focus + .expandable-section {
+  display: block; /* Affiche quand on survole ou on clique */
+}
+
+.expandable-section.open 
+{
+    max-height: 500px; /* Adjust as needed */
+}
+.expandable-section p {
+    color: var(--header-color); /* Applique la couleur définie dans les variables CSS */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Ombre légère pour le texte */
+}
+
+#project-section {
+    margin-top: 2px;
+    margin-left: -4rem;
+    margin-right: 15rem;
+}
+
+#contact-section {
+    margin-left: 17rem;
+}
+
+/* ========================================================================== */
+
+@media(max-width: 1000px) 
+{
+    .logo img 
+    {
+        max-width: 50px;
+    }
+    .menulist a 
+    {
+        margin: 0 20px;
+        font-size: 17px;
+    }
+    .menu-btn 
+    {
+        padding: 14px 22px;
+        font-size: 15px;
+    }
+}
+@media(max-width: 900px) 
+{
+    :root 
+    {
+        --h1-font: 4rem;
+        --h2-font: 2.8rem;
+    }
+}
+@media(max-width: 800px) 
+{
+    #menu-icon 
+    {
+        display: block;
+    }
+    .menulist 
+    {
+        position: absolute;
+        width: 100%;
+        height: 100vh;
+        padding: 70px 50px;
+        top: 0;
+        right: 0;
+        left: 100%;
+        display: flex;
+        flex-direction: column;
+        background: #000;
+        transition: all .6s ease-in-out;
+    }
+    .menulist a 
+    {
+        display: block;
+        padding: 0;
+        margin: 0px 0px 25px 0px;
+        font-size: 1.8rem;
+    }
+    .menulist.open 
+    {
+        left: 0;
+    }
+}
+
+/* =================================================================== */
+
+section {
+    padding: 110px 14% 90px;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#home {
+    background: #12c2e9;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f64f59, #c471ed, #12c2e9);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); 
+}
+
+#about {
+    background: #FDC830;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 98px;
+    color:#000;
+    text-shadow: 3px 3px 0px #fff;
+    font-family: 'Aladin', cursive;
+}
+
+
+p {
+    font-size: 24px;
+    color: #333;
+}
+@media only screen and (max-width: 860px) {
+    h1
+    {
+        font-size: 38px;
+    }
+    p   
+    {
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width: 600px) {
+    h1
+        {
+        font-size: 38px;
+    }
+    p   {
+        font-size: 12px;
+    }
+}
+
+.go-to-bottom-button {
+    float: right; /* Align the button to the right */
+    margin-left: 725px; /* Add some space between the button and other items */
+}
+/* Dropdown Menu */
+.menu-dropdown .dropdown {
+    display: none; /* Hidden by default */
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #444;
+    padding: 10px 0;
+    min-width: 150px;
+    z-index: 1000;
+}
+  
+.menu-dropdown:hover .dropdown {
+    display: block; /* Show on hover */
+}
+  
+.menu-dropdown .dropdown li {
+    text-align: left;
+    padding: 5px 15px;
+}
+  
+.menu-dropdown .dropdown li:hover {
+    background: #555;
+}
+  
+/* Slide Down Button */
+.slide-down a {
+    font-size: 1.5rem;
+    color: white;
+}
+  
+.slide-down a:hover {
+    color: #007bff;
+}
+  
+/* Responsive Design */
+@media (max-width: 768px) {
+    .navbar {
+      flex-direction: column; /* Stack items vertically on small screens */
+    }
+  
+    .navbar ul {
+      flex-direction: column;
+      gap: 10px;
+    }
+}
+
+
+/* ===================================================================== */
+
+
+.menulist {
+    display: flex;
+    flex-wrap: nowrap; /* Prevent items from wrapping onto the next line */
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    gap: 2rem; /* Adjust space between menu items */
+}
+
+.menulist.open {
+    display: block;
+}
+
+.bx bx-menu {
+    display: none;
+    cursor: pointer;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 25px;
+}
+
+.bx bx-menu div {
+    width: 25px;
+    height: 3px;
+    background-color: white;
+    border-radius: 10px;
+}
+@media (max-width: 768px) {
+    .nav-links {
+        position: absolute;
+        right: 0;
+        height: 92vh;
+        top: 8vh;
+        background-color: #333;
+        flex-direction: column;
+        align-items: center;
+        width: 50%;
+        transform: translateX(100%);
+        transition: transform 0.5s ease-in;
+    }
+
+    .nav-links.open {
+        transform: translateX(0);
+    }
+
+    .nav-links li {
+        padding: 20px 0;
+    }
+    .bx bx-menu {
+        display: flex;
+    }
+}
+
+#menu-icon 
+{
+    z-index: 10001;
+    font-size: 40px;
+    margin-left: 25px;
+    cursor: pointer;
+}
+#menu-icon.bx-x .line1,
+#menu-icon.bx-x .line2,
+#menu-icon.bx-x .line3 {
+    background-color: red;
+}
+.menu-right 
+{
+    display: flex;
+    align-items: center;
+}
+.menu-btn 
+{
+    display: inline-block;
+    padding: 15px 25px;
+    background: linear-gradient(135deg, #e1bac5 0%, var(--dark-sand-color) 100%);
+    color: var(--bg-color);
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 13px;
+}
+.menu-btn:hover 
+{
+    background: linear-gradient(135deg, var(--dark-sand-color) 0%, #e1bac5 100%);
+}
+
+/* ========================================================================== */
+
+.outer {
+    border: 10px solid oklch(20% 0 360);
+    max-height: 100svh;
+    overscroll-behavior: contain;
+}
+.inner {
+    columns: 40ch;
+    max-height: 100%;
+    overflow-x: auto;
+    overscroll-behavior: contain;
+}
+main {
+    border: 8px solid darkred; /* Bordure */
+    padding: 0; /* Pas d'espace interne entre le contenu et la bordure */
+    box-sizing: border-box; /* Assure que le padding n'affecte pas la taille totale */
+    margin: 0 auto; /* Centre la section <main> horizontalement */
+    min-height: 100%;
+    overflow-y: auto; /* Barre de défilement verticale si nécessaire */
+}
+
+div:first-child {
+    overflow: auto;
+}
+div:nth-child(2) {
+    overflow: hidden;
+    scrollbar-gutter: stable both edges;
+}
+
+
+/* =================================FOOTER================================ */
+
+.footer-container {
+    justify-content: end;
+    align-items: end;
+}
+.p1 {
+    height: 80vh;
+    width: 100%;
+    margin: 0;
+    padding-top: 100px;
+    padding-right: 70px;
+    padding-left: 150px;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 10px;
+}
+.d {
+    height: 50%;
+    width: 100%;
+    padding-bottom: 0px;
+    color: var(--text-color);
+    display: flex;
+    justify-content: space-around;
+}
+.sub1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 45%;
+}
+.sub1 span {
+    margin-bottom: 10px;
+}
+.sub2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100%;
+    width: 35%;
+}
+.cir {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    color: var(--text-color);
+    background-color: var(--footer-color);
+    font-size: 1.1em;
+    margin-top: 20px;
+    cursor: pointer;
+    transition: all .4s;
+}
+.cir:hover {
+    transform: scale(1.1);
+    box-shadow: rgba(255, 255, 255, 0.3) 0px 5px 10px, rgba(254, 253, 253, 0.22) 0px 3px 7px;
+}
+
+.footer-logos {
+    display: flex;
+    justify-content: space-evenly;
+    height: 80%;
+    width: 100%;
+    display: flex;
+}
+.footer-logos .cir ion-icon {
+    font-size: 28px; /* Taille uniforme pour toutes les icônes */
+    color: rgb(221, 161, 161); /* Couleur calme */
+    transition: color 0.3s ease; /* Animation fluide pour les changements de couleur */
+}
+
+.footer-logos .cir a {
+    text-decoration: none; /* Supprime le soulignement des liens */
+}
+
+.footer-logos .cir a ion-icon {
+    color: rgb(221, 161, 161); /* Uniformiser la couleur des icônes dans les liens */
+    margin: 0;
+    padding-top: 13px;
+}
+
+/* Effet au survol */
+.footer-logos .cir a:hover ion-icon {
+    color: rgb(250, 215, 215); /* Uniformiser la couleur des icônes dans les liens */
+}
+
+
+.footer-content {
+    font-size: .8em;
+    font-family: 800;
+    font-family: 'Heebo', sans-serif;
+    color: var(--text-color);
+    cursor: pointer;
+    transition: all .4s;
+}
+.footer-content:hover {
+    transform: scale(1.1);
+    color: rgb(110, 110, 110);
+}
+#head {
+    color:var(--footer-red-color);
+    font-size: 1.1em;
+    font-weight: 600;
+    font-family: 'Aladin', cursive;
+}
+#name {
+    color: var(--footer-red-color);
+    font-size: 1.2em;
+    font-weight: 800;
+    font-family: 'Aladin', cursive;
+}
+@media screen and (max-width:790px){
+    .footer-container {
+        height: auto;
+        width: auto;
+        align-items: end;
+        justify-content: end;
+        display: flex;
+    }
+    .p1 {
+        height: 650px;
+        width: 100%;
+        align-items: center;
+        justify-content: center;
+    }
+    .d{
+        flex-direction: column;
+        height: auto;
+        width: 100%;
+        align-items: center;
+    }
+    .sub1,.sub2{
+        height: auto;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .sub2{
+        margin-bottom: 30px;
+    }
+}
+
+@media screen and (max-width:620px){
+    .d{
+        height: 150px;
+
+    }
+}

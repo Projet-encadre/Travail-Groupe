@@ -1,0 +1,621 @@
+   #[1]Les bases de la linguistique, 2e edition » Feed [2]JSON [3]oEmbed
+   (JSON) [4]oEmbed (XML)
+
+   "
+
+   [5]Skip to content
+
+   [6]Logo for Open Library Publishing Platform
+   [7]Toggle Menu
+
+   Primary Navigation
+     * [8]Home
+     * [9]Read
+     * [10]Sign in
+     * Search in book: ____________________ (BUTTON) Search
+
+   Want to create or adapt books like this? [11]Learn more about how
+   Pressbooks supports open publishing practices.
+
+   Book Contents Navigation
+   Contents
+    1. [12]Déclaration sur l'accessibilité
+    2. [13]À propos des auteurs
+    3. [14]Remerciements
+    4. [15]Note à l'attention des enseignants
+    5. [16]Cette édition
+    6. [17]Chapitre 1 : Langage humain et sciences du langage
+         1. [18]1.1 Qu'est-ce qu'un langage?
+         2. [19]1.2 Ce qu'est la grammaire et ce qu'elle n'est pas
+         3. [20]1.3 L'étude scientifique du langage
+         4. [21]1.4 Faire du mal avec les sciences du langage
+         5. [22]1.5 L'utilisation des sciences du langage à bon escient
+         6. [23]1.6 Exercez vos compétences linguistiques
+         7. [24]ARCHIVES -- Essentials of Linguistics, 2e édition
+    7. [25]Chapitre 2 : Langage, pouvoir et privilège
+         1. [26]2.1 Langage et identité
+         2. [27]2.2 Langage et offense
+         3. [28]2.3 Dépréciation, toxicité et déséquilibres de pouvoir
+         4. [29]2.4 Le pouvoir des noms
+         5. [30]2.5 Pronoms, changements linguistiques et police de la
+            grammaire
+         6. [31]2.8 Préjudices inscrits dans la loi
+         7. [32]2.6 Application du droit linguistique
+         8. [33]2.9 Exercez vos compétences linguistiques
+    8. [34]Chapitre 3 : Phonétique
+         1. [35]3.1 Modalité
+         2. [36]3.2 Articulateurs vocaux
+         3. [37]3.3 Description des consonnes : Lieu d'articulation et
+            phonation
+         4. [38]3.4 Description des consonnes : mode d'articulation
+         5. [39]3.5 Description des voyelles
+         6. [40]3.6 L'alphabet phonétique international
+         7. [41]3.7 Articulateurs en langue des signes
+         8. [42]3.8 Description des signes
+         9. [43]3.9 Notation de la langue des signes
+        10. [44]3.10 Syllabes
+        11. [45]3.11 Accent
+        12. [46]3.12 Tonalité et intonation
+    9. [47]Chapitre 4 : Phonologie
+         1. [48]4.1 Phonèmes et allophones
+         2. [49]4.2 Phonotactique et classes naturelles
+         3. [50]4.3 Distribution contrastive et paires minimales
+         4. [51]4.4 Distribution complémentaire
+         5. [52]4.5 Analyse phonémique
+         6. [53]4.6 Autre exemple d'analyse phonémique
+         7. [54]4.7 Règles phonologiques
+         8. [55]4.8 Dérivations phonologiques
+         9. [56]4.9 Types de règles phonologiques
+        10. [57]4.10 Phonologie de la langue des signes
+   10. [58]Chapitre 5 : Morphologie
+         1. [59]5.1 Qu'est-ce que la morphologie?
+         2. [60]5.2 Racines, bases et affixes
+         3. [61]5.3 Morphologie au-delà des affixes
+         4. [62]5.4 Allomorphie
+         5. [63]5.5 Catégories lexicales
+         6. [64]5.6 Morphologie dérivationnelle
+         7. [65]5.7 Flexion
+         8. [66]5.8 Composition
+         9. [67]5.9 Ambiguïté structurelle dans la morphologie
+        10. [68]5.10 Dessiner des arbres morphologiques
+        11. [69]5.11 Résoudre les problèmes de morphologie
+   11. [70]Chapitre 6 : Syntaxe
+         1. [71]6.1 Connaissance syntaxique et jugements de grammaticalité
+         2. [72]6.2 Ordre des mots
+         3. [73]6.3 Structure de la phrase : Syntagmes, têtes et sélection
+         4. [74]6.4 Identification des syntagmes : tests de constituance
+         5. [75]6.5 Catégories fonctionnelles
+         6. [76]6.6 Enchâssement de propositions
+         7. [77]6.7 Questions par oui ou non en proposition principale
+         8. [78]6.8 Questions de contenu en proposition principale
+         9. [79]6.9 Questions de contenu enchâssées
+        10. [80]6.10 Arguments et rôles thématiques
+        11. [81]6.11 Modification de la structure d'argument : les
+            constructions causatives et passives
+        12. [82]6.12 Résumé intermédiaire
+        13. [83]6.13 Des constituants aux arbres syntaxiques
+        14. [84]6.14 Arbres : Introduction
+        15. [85]6.15 Arbres : phrases en tant que syntagmes temporels
+        16. [86]6.16 Arbres : modificateurs en tant qu'adjoints
+        17. [87]6.17 Arbres : ambiguïté structurelle
+        18. [88]6.18 Arbres : propositions enchâssées
+        19. [89]6.19 Arbres : déplacement
+        20. [90]6.20 Arbres : déplacements autres que ceux des questions
+        21. [91]6.21 Arbres : résumé
+   12. [92]Chapitre 7 : Sémantique
+         1. [93]7.1 Signification linguistique
+         2. [94]7.2 Compositionnalité : pourquoi ne pas se limiter à la
+            syntaxe?
+         3. [95]7.3 Que signifie cette phrase? Implications vs
+            implicatures
+         4. [96]7.4 Le lexique mental
+         5. [97]7.5 La nature du sens lexical
+         6. [98]7.6 Événements et rôles thématiques
+         7. [99]7.7 Dénombrabilité
+         8. [100]7.8 Prédicat d'individu vs prédicat épisodique
+         9. [101]7.9 Degrés
+        10. [102]7.10 Pourquoi pas le dictionnaire?
+        11. [103]7.11 Dénotation
+        12. [104]7.12 Introduction à la théorie des ensembles
+        13. [105]7.13 Éléments de polarité négative
+        14. [106]7.14. Résumé
+        15. [107]7.15 Exercez vos compétences linguistiques
+   13. [108]Chapitre 8 : Pragmatique
+         1. [109]8.1 Sens problématique vs sens non problématique
+         2. [110]8.2 Différences interculturelles dans le discours
+         3. [111]8.3 Sémantique et pragmatique dans le domaine juridique
+         4. [112]8.4 Implicatures conversationnelles
+         5. [113]8.5 Le principe de coopération
+         6. [114]8.6 Formation des inférences et neurodiversité dans la
+            production d'inférences
+         7. [115]8.7 Violation vs transgression d'une maxime
+         8. [116]8.8 En savoir plus sur le principe de coopération
+         9. [117]8.9 Sens illocutoire
+        10. [118]8.10 Réflexion sur le sens illocutoire de manière
+            compositionnelle
+        11. [119]8.11 Qu'est-ce qu'un contexte?
+        12. [120]8.12 Assertion
+        13. [121]8.13 Question
+        14. [122]8.14 Analyser le sens de manière dynamique
+        15. [123]8.15 Résumé (et autres questions à examiner)
+        16. [124]8.16 Exercez vos compétences linguistiques
+   14. [125]Chapitre 9 : Récupération des langues autochtones
+         1. [126]9.1 Préserver ;le mohawk
+            David Kanatawakhon-Maracle
+         2. [127]9.2 Apprendre le mohawk
+            David Kanatawakhon-Maracle
+         3. [128]9.3 Culture et langue mohawk
+            David Kanatawakhon-Maracle
+         4. [129]9.4 Création de matériel pédagogique pour enseigner le
+            mohawk
+            David Kanatawakhon-Maracle
+         5. [130]9.5 Parler le mohawk et la réconciliation
+            David Kanatawakhon-Maracle
+         6. [131]9.6 Une vision de l'avenir des langues autochtones
+            David Kanatawakhon-Maracle
+         7. [132]9.7 La reconquête du mitchif
+            Martin Kohlberger and Chantale Cenerini
+         8. [133]9.8 La reconquête de la langue hul'q'umi'num'
+            Rae Anne Claxton
+         9. [134]9.9 Grandir en parlant le nishnaabemwin
+            Mary Ann Corbiere
+        10. [135]9.10 Apprendre le nishnaabemwin à l'université
+            Mary Ann Corbiere
+        11. [136]9.11 Ressources pour l'enseignement et l'apprentissage du
+            nishnaabemwin
+            Mary Ann Corbiere
+   15. [137]Chapitre 10 : Variations et changements linguistiques
+         1. [138]10.1 Qu'est-ce que la sociolinguistique variationniste?
+         2. [139]10.3 Changements linguistiques
+         3. [140]10.2 Variations linguistiques
+         4. [141]10.4 La langue transmet plus qu'une signification
+            sémantique
+         5. [142]10.5 Méthodes et concepts variationnistes
+         6. [143]10.6 Corrélations sociolinguistiques : Lieu
+         7. [144]10.7 Corrélations sociolinguistiques : Statut social
+         8. [145]10.8 Corrélations sociolinguistiques : Genre
+         9. [146]10.9 Corrélations sociolinguistiques : Ethnicité
+        10. [147]10.10. Les trois vagues de la sociolinguistique
+        11. [148]10.11. Résumé
+        12. [149]10.12. Exercez vos compétences linguistiques
+   16. [150]Chapitre 11 : Développement du langage chez l'enfant
+         1. [151]11.1 Les tout-petits, des apprenants de langue puissants
+         2. [152]11.2 Quand l'apprentissage linguistique commence-t-il?
+         3. [153]11.3 Contraste phonémique
+         4. [154]11.4 Production précoce du langage
+         5. [155]11.5 L'environnement langagier et le prétendu écart de
+            vocabulaire
+         6. [156]11.6 Comprendre les combinaisons de mots
+         7. [157]11.7. La syntaxe dans les premiers énoncés
+         8. [158]11.8. Développer le sens des mots
+         9. [159]11.9. Grandir bilingue (ou multilingue!)
+        10. [160]11.10. Les jalons du développement du langage au cours
+            des deux premières années
+        11. [161]11.11. Exercez vos compétences linguistiques
+   17. [162][À venir] Chapitre 12 : Apprentissage des langues par les
+       adultes
+         1. [163][À venir] Chapitre 12 : Apprentissage des langues par les
+            adultes
+   18. [164][En cours] Chapitre 13 : Psycholinguistique et
+       neurolinguistique
+         1. [165]13.3 Preuves de l'existence d'une phonologie propre à une
+            langue
+         2. [166]13.4 Preuves des effets « descendants » de la
+            connaissance des mots sur la perception
+         3. [167][En cours] Chapitre 13 : Psycholinguistique et
+            neurolinguistique
+         4. [168]13.1. L'esprit crée le langage
+         5. [169]13.2 Preuves que les phonèmes sont des catégories
+            mentales
+   19. [170]Chapitre 14 : Linguistique historique
+         1. [171]Chapitre 14 : Linguistique historique
+   20. [172]Chapitre 15 : Diversité linguistique
+         1. [173]Chapitre 15 : Diversité linguistique
+   21. [174]Évaluez vos connaissances
+
+[175]Les bases de la linguistique, 2e edition
+
+   Chapitre 5 : Morphologie
+
+5.2 Racines, bases et affixes
+
+Affixes vs racines
+
+   Dans cette section, nous examinons les formes que peuvent prendre les
+   morphèmes eux-mêmes. Certains morphèmes sont des affixes : ils doivent
+   être reliés à quelque chose. Les morphèmes -s, inter- et -al sont tous
+   des affixes. On ne peut pas les dire indépendamment, ils doivent se
+   lier à un autre élément. Nous écrivons les affixes avec un trait d'un
+   côté ou de l'autre pour indiquer ce besoin de liaison.
+
+   L'élément auquel se lie un affixe est appelé une base. Certaines bases
+   sont morphologiquement simples, tandis que d'autres sont
+   morphologiquement complexes.
+
+   Prenons, par exemple, le mot anglais librarian. Ce mot est formé en
+   reliant l'affixe -ian à la base library.
+   Nous pouvons ignorer le fait que « y » se transforme en « i » lorsqu'un
+   suffixe est relié au mot ;library. Une convention de l'orthographe
+   anglaise veut que « y » se transforme en « i » devant un affixe; cela
+   ne reflète pas de changement de forme phonologique.
+
+   Librarian peut alors être la base d'un autre affixe : par exemple, le
+   mot librarianship, l'état ou le rôle d'un bibliothécaire, est formé en
+   reliant l'affixe -ship à la base librarian.
+
+   Il existe un nom particulier pour les bases simples : la racine. Une
+   racine est la plus petite base possible qui ne peut être divisée, ce
+   que nous pourrions considérer comme le noyau d'un mot. Les racines
+   anglaises que nous avons vues jusqu'à présent dans ce chapitre
+   comprennent cat, library et nation.
+   Si on examine l'origine des mots library et nation, on constate qu'ils
+   renvoient tous deux au latin (en passant par le français) et qu'en
+   latin, les mots concernés étaient morphologiquement complexes : library
+   remonte à la racine latine libr- (qui signifie « livre ») et nation
+   renvoie à la racine latine nat- (qui signifie « naître »). Cependant,
+   lorsqu'un enfant rencontre pour la première fois un mot tel que library
+   ou nation, le mot n'est pas annoté de ces informations historiques!
+   Dans l'esprit de la plupart des locuteurs anglophones contemporains, il
+   est probable que library et nation soient traités comme des racines
+   simples. Au chapitre 13, vous apprendrez comment ce type d'hypothèse
+   peut être testé expérimentalement.
+
+   Revenons aux affixes. Un affixe est un morphème qui doit être relié à
+   une base. Nous utilisons le terme « affixe » pour désigner l'ensemble
+   de ces éléments, mais nous précisons généralement le type d'affixe dont
+   il est question lorsque c'est possible.
+
+Types d'affixes
+
+   Préfixe
+          Un affixe que l'on place avant sa base, comme inter- dans
+          international.
+
+   Suffixe
+          Un affixe qui suit sa base, comme -s dans cats.
+
+   Circonfixe
+          Un affixe qui se fixe autour de sa base (avant et après).
+
+   Infixe
+          Un affixe qui s'insère à l'intérieur de sa base.
+
+   Affixe simultané
+          Un affixe qui se lie à sa base en même temps.
+
+Circonfixe
+
+   On trouve un exemple de circonfixe dans le marquage des possessifs
+   pluriels de nombreuses langues algonquiennes. Les exemples suivants
+   sont tirés du meskwaki, langue parlée dans certaines parties du Midwest
+   des États-Unis et dans le nord du Mexique; la source de ces exemples
+   est Oxford (2020), qui les a adaptés à partir d'une grammaire en
+   préparation d'Amy Dahlstrom (A grammar of Meskwaki, an Algonquian
+   language). Ces exemples sont présentés en orthographe meskwaki; « a- »
+   indique une voyelle longue.
+   (2) a) ne-ta·nes-aki
+          1-daughter-AN.PL
+          « my daughters »
+   (2) b) ne-ta·nes-ena·n-aki
+          1-daughter-1PL-AN.PL
+          « our daughters »
+
+   On voit ici que le possesseur singulier de « my daughters » n'est
+   marqué que par un préfixe, mais que le possesseur pluriel de « our
+   daughters » est marqué par la combinaison du préfixe ni- et du suffixe
+   -ena·n ou, autrement dit, par un circonfixe.
+
+   Ces exemples comportent des gloses morphème par morphème, ce qui
+   signifie que l'analyse morphologique a été effectuée pour vous. Dans la
+   section 5.X, nous verrons comment déterminer les frontières entre les
+   morphèmes dans une langue qui ne nous est pas encore familière. Les
+   gloses morphème par morphème font appel à des abréviations
+   conventionnelles :
+     * 1 signifie « première personne » (I, me, my / we, us, our).
+     * PL signifie « pluriel » (1PL signifie donc « we, us, our »).
+     * AN signifie « animé ». Les langues algonquiennes distinguent tous
+       les noms comme « animés » ou « inanimés », ce qui se reflète dans
+       leur morphologie.
+
+Infixe
+
+   Les infixes sont des affixes qui apparaissent au centre d'un autre
+   morphème. En tagalog par exemple (une langue qui compte environ
+   24 millions de locuteurs, dont la plupart vivent aux Philippines),
+   l'infixe -um- apparaît immédiatement après la première consonne de la
+   racine à laquelle il est relié, pour exprimer l'aspect perfectif d'un
+   verbe (utilisé pour indiquer une action terminée, généralement traduite
+   au passé simple en anglais (simple past) :
+   (3) a) [takbuh] run  [tumakbuh] ran
+       b) [lakad]  walk [lumakad]  walked
+       c) [bili]   buy  [bumili]   bought
+       d) [kain]   eat  [kumain]   ate
+
+Affixe simultané
+
+   Les affixes simultanés sont courants dans les langues des signes et
+   dans les langues tonales. En signant, il est possible de faire appel à
+   plusieurs articulateurs (une deuxième main ou son visage), ou d'ajouter
+   un mouvement à un signe, d'une manière qui n'est pas possible avec les
+   articulations orales dans les langues parlées.
+
+   En ASL par exemple, il existe un morphème qui se lie aux verbes pour
+   exprimer l'aspect duratif (le fait que quelque chose se passe pendant
+   un certain temps ou pendant une longue période). Ce morphème consiste à
+   ajouter un mouvement circulaire particulier au signe de base du verbe;
+   ce mouvement circulaire ne se produit pas avant ou après le verbe, mais
+   en même temps que lui.
+   (4) [VIDÉO : Verbe en ASL, verbe+duratif]
+
+   Une fois que nous avons vu ces exemples dans les langues des signes,
+   nous pouvons penser à la morphologie de certaines langues parlées qui
+   ont un profil similaire. Par exemple, les langues tonales ont parfois
+   des morphèmes tonaux, qui se superposent aux consonnes et aux voyelles
+   d'un mot.
+
+   L'anglais n'est pas une langue tonale, mais elle comporte quelques
+   paires de mots qui impliquent clairement la même racine, mais où
+   l'accent s'est déplacé. Il s'agit de paires nom-verbe où le nom est
+   accentué sur la première syllabe, mais où le verbe est accentué sur la
+   deuxième syllabe.
+   (5) a) They used to use récords to recórd music.
+   b) I have a pérmit that permíts me to drive.
+   c) I receive mail at my home áddress, at least when it's addréssed
+   properly.
+
+   Tous les anglophones ne réalisent pas le déplacement de l'accent dans
+   les mêmes paires de mots. Par exemple, de nombreuses personnes
+   prononcent « address » en mettant l'accent sur la deuxième syllabe, que
+   ce soit pour le nom ou le verbe.
+
+Morphèmes libres ou liés
+
+   Une autre façon de diviser les morphèmes est de déterminer s'ils sont
+   libres ou liés. Un morphème libre est un morphème qui peut se présenter
+   comme un mot à part entière. Un morphème lié, en revanche, ne peut
+   apparaître dans un mot que s'il est accompagné d'un ou de plusieurs
+   autres morphèmes.
+
+   Par définition, les affixes doivent être liés à une base; c'est
+   pourquoi seules les racines peuvent être libres. En effet, la plupart
+   des racines en anglais sont libres, mais quelques racines ne peuvent
+   pas être utilisées seules. Par exemple, la racine -whelmed, qui
+   apparaît dans overwhelm et underwhelmed, ne peut pas être utilisée
+   seule comme dans *whelmed.
+
+   Cependant, dans de nombreuses autres langues, toutes les racines (ou la
+   plupart d'entre elles) sont liées, car elles doivent toujours être
+   utilisées avec un ou des éléments de la morphologie flexionnelle. C'est
+   le cas des verbes en français et dans les autres langues romanes, par
+   exemple. C'était aussi le cas pour le latin; c'est pourquoi les racines
+   nat- et libr- étaient indiquées avec des traits au-dessus.
+
+   Dans notre notation, nous montrons que les morphèmes sont liés en
+   plaçant des traits avant ou après eux (du côté où ils se lient à
+   d'autres morphèmes).
+     __________________________________________________________________
+
+Références
+
+   Oxford, William R. 2020. Algonquian. In Routledge handbook of North
+   American languages, ed. Daniel Siddiqi , Michael Barrie, Carrie Gillon,
+   and Éric Mathieu. Routledge.
+
+   Previous/next navigation
+   [176]Previous: 5.1 Qu'est-ce que la morphologie?
+   [177]Next: 5.3 Morphologie au-delà des affixes
+   (BUTTON) Back to top
+
+License
+
+   Icon for the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
+   International License
+
+   [178]Les bases de la linguistique, 2e edition Copyright © 2022 by
+   Catherine Anderson; Bronwyn Bjorkman; Derek Denis; Julianne Doner;
+   Margaret Grant; Nathan Sanders; Ai Taniguchi; and eCampusOntario is
+   licensed under a [179]Creative Commons
+   Attribution-NonCommercial-ShareAlike 4.0 International License, except
+   where otherwise noted.
+
+Share This Book
+
+   [180]Powered by Pressbooks
+     * [181]Guides and Tutorials
+     * |[182]Pressbooks Directory
+     * |[183]Contact
+
+   [184]Pressbooks on YouTube [185]Pressbooks on LinkedIn
+
+References
+
+   Visible links:
+   1. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/feed/
+   2. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/wp-json/pressbooks/v2/chapters/810
+   3. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fecampusontario.pressbooks.pub%2Fessentialsoflinguistics2fr%2Fchapter%2F5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition%2F
+   4. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fecampusontario.pressbooks.pub%2Fessentialsoflinguistics2fr%2Fchapter%2F5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition%2F&format=xml
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition.html#content
+   6. https://ecampusontario.pressbooks.pub/
+   7. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition.html#navigation
+   8. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr
+   9. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/front-matter/declaration-sur-laccessibilite-essentials-of-linguistics-2e-edition/
+  10. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/wp-login.php?redirect_to=https%3A%2F%2Fecampusontario.pressbooks.pub%2Fessentialsoflinguistics2fr%2Fchapter%2F5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition%2F
+  11. https://pressbooks.com/adapt-open-textbooks?utm_source=book&utm_medium=banner&utm_campaign=bbc
+  12. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/front-matter/declaration-sur-laccessibilite-essentials-of-linguistics-2e-edition/
+  13. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/front-matter/a-propos-des-auteurs-essentials-of-linguistics-2e-edition/
+  14. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/front-matter/remerciements-essentials-of-linguistics-2e-edition/
+  15. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/front-matter/note-a-lattention-des-enseignants-essentials-of-linguistics-2e-edition/
+  16. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/front-matter/cette-edition/
+  17. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-1-language-science/
+  18. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/1-1-quest-ce-quun-langage-essentials-of-linguistics-2e-edition-2/
+  19. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/1-2-ce-quest-la-grammaire-et-ce-quelle-nest-pas-essentials-of-linguistics-2e-edition-2/
+  20. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/1-3-letude-scientifique-du-langage-essentials-of-linguistics-2e-edition-2/
+  21. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/1-4-faire-du-mal-avec-les-sciences-du-langage-essentials-of-linguistics-2e-edition-2/
+  22. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/1-5-lutilisation-des-sciences-du-langage-a-bon-escient-essentials-of-linguistics-2e-edition/
+  23. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/1-6-exercez-vos-competences-linguistiques-essentials-of-linguistics-2e-edition/
+  24. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/archives-essentials-of-linguistics-2e-edition/
+  25. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-2-language-power-privilege/
+  26. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/2-1-langage-et-identite-essentials-of-linguistics-2e-edition/
+  27. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/2-2-langage-et-offense-essentials-of-linguistics-2e-edition/
+  28. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/2-3-depreciation-toxicite-et-desequilibres-de-pouvoir-essentials-of-linguistics-2e-edition/
+  29. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/2-4-le-pouvoir-des-noms-essentials-of-linguistics-2e-edition/
+  30. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/2-5-pronoms-changements-linguistiques-et-police-de-la-grammaire-essentials-of-linguistics-2e-edition/
+  31. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/2-8-prejudices-inscrits-dans-la-loi-essentials-of-linguistics-2e-edition/
+  32. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/2-6-application-du-droit-linguistique-essentials-of-linguistics-2e-edition/
+  33. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/2-9-exercez-vos-competences-linguistiques-essentials-of-linguistics-2e-edition/
+  34. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/3-phonetics/
+  35. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-1-modalite-essentials-of-linguistics-2e-edition/
+  36. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-2-articulateurs-vocaux-essentials-of-linguistics-2e-edition/
+  37. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-3-description-des-consonnes-lieu-darticulation-et-phonation-essentials-of-linguistics-2e-edition/
+  38. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-4-description-des-consonnes-mode-darticulation-essentials-of-linguistics-2e-edition/
+  39. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-5-description-des-voyelles-essentials-of-linguistics-2e-edition/
+  40. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-6-lalphabet-phonetique-international-essentials-of-linguistics-2e-edition/
+  41. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-7-articulateurs-en-langue-des-signes-essentials-of-linguistics-2e-edition/
+  42. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-8-description-des-signes-essentials-of-linguistics-2e-edition/
+  43. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-9-notation-de-la-langue-des-signes-essentials-of-linguistics-2e-edition/
+  44. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-10-syllabes-essentials-of-linguistics-2e-edition/
+  45. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-11-accent-essentials-of-linguistics-2e-edition/
+  46. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/3-12-tonalite-et-intonation-essentials-of-linguistics-2e-edition/
+  47. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-4-phonology/
+  48. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/4-1-phonemes-et-allophones-essentials-of-linguistics-2e-edition/
+  49. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/4-2-phonotactique-et-classes-naturelles-essentials-of-linguistics-2e-edition/
+  50. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/4-3-distribution-contrastive-et-paires-minimales-essentials-of-linguistics-2e-edition/
+  51. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/4-4-distribution-complementaire-essentials-of-linguistics-2e-edition/
+  52. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/4-5-analyse-phonemique-essentials-of-linguistics-2e-edition/
+  53. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/4-6-autre-exemple-danalyse-phonemique-essentials-of-linguistics-2e-edition/
+  54. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/4-7-regles-phonologiques-essentials-of-linguistics-2e-edition/
+  55. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/4-8-derivations-phonologiques-essentials-of-linguistics-2e-edition/
+  56. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/4-9-types-de-regles-phonologiques-essentials-of-linguistics-2e-edition/
+  57. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/4-10-phonologie-de-la-langue-des-signes-essentials-of-linguistics-2e-edition/
+  58. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-5-morphology/
+  59. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-1-quest-ce-que-la-morphologie-essentials-of-linguistics-2e-edition/
+  60. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-2-racines-bases-et-affixes-essentials-of-linguistics-2e-edition/
+  61. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-3-morphologie-au-dela-des-affixes-essentials-of-linguistics-2e-edition/
+  62. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-4-allomorphie-essentials-of-linguistics-2e-edition/
+  63. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-5-categories-lexicales-essentials-of-linguistics-2e-edition/
+  64. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-6-morphologie-derivationnelle-essentials-of-linguistics-2e-edition/
+  65. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-7-flexion-essentials-of-linguistics-2e-edition/
+  66. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-8-composition-essentials-of-linguistics-2e-edition/
+  67. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-9-ambiguite-structurelle-dans-la-morphologie-essentials-of-linguistics-2e-edition/
+  68. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-10-dessiner-des-arbres-morphologiques-essentials-of-linguistics-2e-edition/
+  69. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-11-resoudre-les-problemes-de-morphologie-essentials-of-linguistics-2e-edition/
+  70. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-6-syntax/
+  71. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-1-connaissance-syntaxique-et-jugements-de-grammaticalite-essentials-of-linguistics-2e-edition/
+  72. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-2-ordre-des-mots-essentials-of-linguistics-2e-edition-2/
+  73. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-3-structure-de-la-phrase-syntagmes-tetes-et-selection-essentials-of-linguistics-2e-edition/
+  74. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-4-identification-des-syntagmes-tests-de-constituance-essentials-of-linguistics-2e-edition/
+  75. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-5-categories-fonctionnelles-essentials-of-linguistics-2e-edition/
+  76. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-6-enchassement-de-propositions-essentials-of-linguistics-2e-edition/
+  77. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-7-questions-par-oui-ou-non-en-proposition-principale-essentials-of-linguistics-2e-edition/
+  78. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-8-questions-de-contenu-en-proposition-principale-essentials-of-linguistics-2e-edition/
+  79. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-9-questions-de-contenu-enchassees-essentials-of-linguistics-2e-edition/
+  80. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-10-arguments-et-roles-thematiques-essentials-of-linguistics-2e-edition/
+  81. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-11-modification-de-la-structure-dargument-les-constructions-causatives-et-passives-essentials-of-linguistics-2e-edition/
+  82. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-12-resume-intermediaire-essentials-of-linguistics-2e-edition/
+  83. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-13-des-constituants-aux-arbres-syntaxiques-essentials-of-linguistics-2e-edition/
+  84. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-14-arbres-introduction-essentials-of-linguistics-2e-edition/
+  85. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-15-arbres-phrases-en-tant-que-syntagmes-temporels-essentials-of-linguistics-2e-edition/
+  86. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-16-arbres-modificateurs-en-tant-quadjoints-essentials-of-linguistics-2e-edition/
+  87. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-17-arbres-ambiguite-structurelle-essentials-of-linguistics-2e-edition/
+  88. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-18-arbres-propositions-enchassees-essentials-of-linguistics-2e-edition/
+  89. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-19-arbres-deplacement-essentials-of-linguistics-2e-edition/
+  90. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-20-arbres-deplacements-autres-que-ceux-des-questions-essentials-of-linguistics-2e-edition/
+  91. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/6-21-arbres-resume-essentials-of-linguistics-2e-edition/
+  92. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-7-semantics/
+  93. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-1-signification-linguistique-essentials-of-linguistics-2e-edition/
+  94. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-2-compositionnalite-pourquoi-ne-pas-se-limiter-a-la-syntaxe-essentials-of-linguistics-2e-edition/
+  95. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-3-que-signifie-cette-phrase-implications-vs-implicatures-essentials-of-linguistics-2e-edition/
+  96. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-4-le-lexique-mental-essentials-of-linguistics-2e-edition/
+  97. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-5-la-nature-du-sens-lexical-essentials-of-linguistics-2e-edition/
+  98. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-6-evenements-et-roles-thematiques-essentials-of-linguistics-2e-edition/
+  99. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-7-denombrabilite-essentials-of-linguistics-2e-edition/
+ 100. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-8-predicat-dindividu-vs-predicat-episodique-essentials-of-linguistics-2e-edition/
+ 101. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-9-degres-essentials-of-linguistics-2e-edition/
+ 102. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-10-pourquoi-pas-le-dictionnaire-essentials-of-linguistics-2e-edition/
+ 103. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-11-denotation-essentials-of-linguistics-2e-edition/
+ 104. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-12-introduction-a-la-theorie-des-ensembles-essentials-of-linguistics-2e-edition/
+ 105. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-13-elements-de-polarite-negative-essentials-of-linguistics-2e-edition/
+ 106. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-14-resume-essentials-of-linguistics-2e-edition/
+ 107. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/7-15-exercez-vos-competences-linguistiques-essentials-of-linguistics-2e-edition/
+ 108. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-8-pragmatics/
+ 109. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-1-sens-problematique-vs-sens-non-problematique-essentials-of-linguistics-2e-edition/
+ 110. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-2-differences-interculturelles-dans-le-discours-essentials-of-linguistics-2e-edition/
+ 111. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-3-semantique-et-pragmatique-dans-le-domaine-juridique-essentials-of-linguistics-2e-edition/
+ 112. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-4-implicatures-conversationnelles-essentials-of-linguistics-2e-edition/
+ 113. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-5-le-principe-de-cooperation-essentials-of-linguistics-2e-edition/
+ 114. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-6-formation-des-inferences-et-neurodiversite-dans-la-production-dinferences-essentials-of-linguistics-2e-edition/
+ 115. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-7-violation-vs-transgression-dune-maxime-essentials-of-linguistics-2e-edition/
+ 116. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-8-en-savoir-plus-sur-le-principe-de-cooperation-essentials-of-linguistics-2e-edition/
+ 117. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-9-sens-illocutoire-essentials-of-linguistics-2e-edition/
+ 118. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-10-reflexion-sur-le-sens-illocutoire-de-maniere-compositionnelle-essentials-of-linguistics-2e-edition/
+ 119. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-11-quest-ce-quun-contexte-essentials-of-linguistics-2e-edition/
+ 120. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-12-assertion-essentials-of-linguistics-2e-edition/
+ 121. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-13-question-essentials-of-linguistics-2e-edition/
+ 122. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-14-analyser-le-sens-de-maniere-dynamique-essentials-of-linguistics-2e-edition/
+ 123. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-15-resume-et-autres-questions-a-examiner-essentials-of-linguistics-2e-edition/
+ 124. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/8-16-exercez-vos-competences-linguistiques-essentials-of-linguistics-2e-edition/
+ 125. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-9-reclaiming/
+ 126. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/9-1-preserver-le-mohawk-essentials-of-linguistics-2e-edition/
+ 127. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/9-2-apprendre-le-mohawk-essentials-of-linguistics-2e-edition/
+ 128. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/9-3-culture-et-langue-mohawk-essentials-of-linguistics-2e-edition/
+ 129. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/9-4-creation-de-materiel-pedagogique-pour-enseigner-le-mohawk-essentials-of-linguistics-2e-edition/
+ 130. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/9-5-parler-le-mohawk-et-la-reconciliation-essentials-of-linguistics-2e-edition/
+ 131. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/9-6-une-vision-de-lavenir-des-langues-autochtones-essentials-of-linguistics-2e-edition/
+ 132. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/9-7-la-reconquete-du-mitchif-essentials-of-linguistics-2e-edition/
+ 133. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/9-8-la-reconquete-de-la-langue-hulquminum-essentials-of-linguistics-2e-edition/
+ 134. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/9-9-grandir-en-parlant-le-nishnaabemwin-essentials-of-linguistics-2e-edition/
+ 135. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/9-10-apprendre-le-nishnaabemwin-a-luniversite-essentials-of-linguistics-2e-edition/
+ 136. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/9-11-ressources-pour-lenseignement-et-lapprentissage-du-nishnaabemwin-essentials-of-linguistics-2e-edition/
+ 137. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-10-language-variation-and-change/
+ 138. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-1-quest-ce-que-la-sociolinguistique-variationniste-essentials-of-linguistics-2e-edition/
+ 139. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-3-changements-linguistiques-essentials-of-linguistics-2e-edition/
+ 140. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-2-variations-linguistiques-essentials-of-linguistics-2e-edition/
+ 141. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-4-la-langue-transmet-plus-quune-signification-semantique-essentials-of-linguistics-2e-edition/
+ 142. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-5-methodes-et-concepts-variationnistes-essentials-of-linguistics-2e-edition/
+ 143. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-6-correlations-sociolinguistiques-lieu-essentials-of-linguistics-2e-edition/
+ 144. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-7-correlations-sociolinguistiques-statut-social-essentials-of-linguistics-2e-edition/
+ 145. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-8-correlations-sociolinguistiques-genre-essentials-of-linguistics-2e-edition/
+ 146. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-9-correlations-sociolinguistiques-ethnicite-essentials-of-linguistics-2e-edition/
+ 147. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-10-les-trois-vagues-de-la-sociolinguistique-essentials-of-linguistics-2e-edition/
+ 148. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-11-resume-essentials-of-linguistics-2e-edition/
+ 149. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/10-12-exercez-vos-competences-linguistiques-essentials-of-linguistics-2e-edition/
+ 150. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-11-child-language-acquisition/
+ 151. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/11-1-les-tout-petits-des-apprenants-de-langue-puissants-essentials-of-linguistics-2e-edition/
+ 152. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/11-2-quand-lapprentissage-linguistique-commence-t-il-essentials-of-linguistics-2e-edition/
+ 153. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/11-3-contraste-phonemique-essentials-of-linguistics-2e-edition/
+ 154. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/11-4-production-precoce-du-langage-essentials-of-linguistics-2e-edition/
+ 155. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/11-5-lenvironnement-langagier-et-le-pretendu-ecart-de-vocabulaire-essentials-of-linguistics-2e-edition/
+ 156. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/11-6-comprendre-les-combinaisons-de-mots-essentials-of-linguistics-2e-edition/
+ 157. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/11-7-la-syntaxe-dans-les-premiers-enonces-essentials-of-linguistics-2e-edition/
+ 158. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/11-8-developper-le-sens-des-mots-essentials-of-linguistics-2e-edition/
+ 159. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/11-9-grandir-bilingue-ou-multilingue-essentials-of-linguistics-2e-edition/
+ 160. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/11-10-les-jalons-du-developpement-du-langage-au-cours-des-deux-premieres-annees-essentials-of-linguistics-2e-edition/
+ 161. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/11-11-exercez-vos-competences-linguistiques-essentials-of-linguistics-2e-edition/
+ 162. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-12-adult-language-learning/
+ 163. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/a-venir-chapitre-12-apprentissage-des-langues-par-les-adultes-essentials-of-linguistics-2e-edition/
+ 164. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-13-psycholinguistics-and-neurolinguistics/
+ 165. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/13-3-preuves-de-lexistence-dune-phonologie-propre-a-une-langue-essentials-of-linguistics-2e-edition/
+ 166. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/13-4-preuves-des-effets-descendants-de-la-connaissance-des-mots-sur-la-perception-essentials-of-linguistics-2e-edition/
+ 167. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/en-cours-chapitre-13-psycholinguistique-et-neurolinguistique-essentials-of-linguistics-2e-edition/
+ 168. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/13-1-lesprit-cree-le-langage-essentials-of-linguistics-2e-edition/
+ 169. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/13-2-preuves-que-les-phonemes-sont-des-categories-mentales-essentials-of-linguistics-2e-edition/
+ 170. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-14-historical-linguistics/
+ 171. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/chapitre-14-linguistique-historique-essentials-of-linguistics-2e-edition/
+ 172. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/part/chapter-16-language-diversity/
+ 173. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/chapitre-15-diversite-linguistique-essentials-of-linguistics-2e-edition/
+ 174. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/back-matter/evaluez-vos-connaissances-essentials-of-linguistics-2e-edition/
+ 175. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/
+ 176. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-1-quest-ce-que-la-morphologie-essentials-of-linguistics-2e-edition/
+ 177. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr/chapter/5-3-morphologie-au-dela-des-affixes-essentials-of-linguistics-2e-edition/
+ 178. https://ecampusontario.pressbooks.pub/essentialsoflinguistics2fr
+ 179. https://creativecommons.org/licenses/by-nc-sa/4.0/
+ 180. https://pressbooks.com/
+ 181. https://pressbooks.com/support/
+ 182. https://pressbooks.directory/
+ 183. https://pressbooks.com/contact/
+ 184. https://www.youtube.com/user/pressbooks
+ 185. https://www.linkedin.com/company/pressbooks/?originalSubdomain=ca
+
+   Hidden links:
+ 187. javascript:void()
+ 188. https://pressbooks.com/

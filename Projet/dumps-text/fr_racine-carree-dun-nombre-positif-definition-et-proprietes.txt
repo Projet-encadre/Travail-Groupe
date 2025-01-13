@@ -1,0 +1,464 @@
+     * [1]Accueil
+          + [2]Logiciels & calculatrices
+          + [3]Méthodologie
+          + [4]Blog
+          + [5]Mentions légales
+          + [6]Contact
+     * [7]Lycée
+          + [8]Maths Seconde générale
+          + [9]Première Spé-Maths
+          + [10]Terminale Spé-Maths
+          + [11]Maths Première STMG
+          + [12]Maths Terminale STMG
+          + [13]Éléments de logique
+          + [14]Programmes au Lycée
+          + [15]Logiciels & calculatrices
+     * [16]Collège
+          + [17]Maths - 3ème
+          + [18]Maths - 4ème
+          + [19]Maths - 5ème
+          + [20]Maths - 6ème
+               o [21]Tests d'évaluations en sixième
+          + [22]Programmes au Collège
+          + [23]Logiciels & calculatrices
+     * [24]Vacances
+          + [25]2024/2025 - Zone C
+          + [26]2024/2025 - Zone B
+          + [27]2024/2025 - Zone A
+          + [28]Contact
+
+   Rechercher : ____________________ (BUTTON)
+   Logamaths.fr
+     * [29]Accueil
+          + [30]Logiciels & calculatrices
+          + [31]Méthodologie
+          + [32]Blog
+          + [33]Mentions légales
+          + [34]Contact
+     * [35]Lycée
+          + [36]Maths Seconde générale
+          + [37]Première Spé-Maths
+          + [38]Terminale Spé-Maths
+          + [39]Maths Première STMG
+          + [40]Maths Terminale STMG
+          + [41]Éléments de logique
+          + [42]Programmes au Lycée
+          + [43]Logiciels & calculatrices
+     * [44]Collège
+          + [45]Maths - 3ème
+          + [46]Maths - 4ème
+          + [47]Maths - 5ème
+          + [48]Maths - 6ème
+               o [49]Tests d'évaluations en sixième
+          + [50]Programmes au Collège
+          + [51]Logiciels & calculatrices
+     * [52]Vacances
+          + [53]2024/2025 - Zone C
+          + [54]2024/2025 - Zone B
+          + [55]2024/2025 - Zone A
+          + [56]Contact
+
+Racine carrée d'un nombre positif. Définition et propriétés
+
+   (BUTTON) Racine carrée d'un nombre réel positif
+    1. [57]Découverte de la racine carrée d'un nombre réel positif
+    2. [58]Définition et propriétés de la racine carrée
+    3. [59]Comment simplifier ou réduire une racine carrée ?
+    4. [60]Comment calculer une expression avec des racines carrées ?
+    5. [61]Comment réduire une somme ou un produit avec les racines
+       carrées ?
+    6. [62]Résolution d'équations de la forme $x^2=a$
+    7. [63]Applications des identités remarquables aux racines carrées.
+    8. [64]Rendre rationnel un dénominateur.
+       Applications en géométrie
+    9. [65]Calcul de la diagonale du carrée en fonction de la longueur de
+       son côté
+   10. [66]Calcul de la hauteur d'un triangle équilatéral.
+     __________________________________________________________________
+
+1. Racine carrée d'un nombre positif
+
+1.1. Définitions et exemples
+
+   Théorème et définition 1.
+   Soit $a$ un nombre positif.
+   Il existe un seul nombre positif $c$ dont le carré est égal à $a$. Ce
+   nombre est appelé « racine carrée de $a$ » et se note $\sqrt{a}$. Ce
+   qui donne : $$ \boxed{\; c=\sqrt{a}\quad\text{si et seulement si}\quad
+   c^2=a\;}$$ Le symbole $\sqrt{{.}}$ s'appelle un « radical ».
+
+Exemples
+
+   $\sqrt{-2}$ n'existe pas car il n'existe aucun nombre dont le carré est
+   égal à $- 2$.
+
+   $\sqrt{25}=5$ car $5^2=25$ et $5 > 0$.
+
+   $\sqrt{25}\not=-5$ car $(-5)^2=25$, mais $-5<0$. La racine carrée d'un
+   nombre réel positif est un nombre réel positif.
+
+1.2. Premières propriétés
+
+   Propriétés 1.
+   Quels que soient le nombre $a$ positif, on a les propriétés suivantes :
+   $(P_0)$ : $\sqrt{a}\geqslant0$.
+   $(P_1)$ : $[\sqrt{a}=0$ si et seulement si $a = 0]$.
+   $(P_2)$ : $(\sqrt{a})^2=a$.
+   $(P_{2bis})$ : $\sqrt{a}\times\sqrt{a}=a$.
+   $(P_3)$ : $\sqrt{a^2}=a$.
+   L'attribut alt de cette image est vide, son nom de fichier est
+   ReciprociteCarreRacine-1024x349.jpg. Réciprocité des opérations «
+   Élever au carré » et « Prendre la racine carrée »
+
+   En effet :
+
+   1°) Par définition, la racine carrée d'un nombre positif est un nombre
+   positif. Et $0$ est le seul nombre positif dont le carré est égal à
+   $0$. On obtient les deux propriétés $(P_0)$ et $(P_1)$.
+
+   2°) Comme $c=\sqrt{a}$ équivaut à $c^2=a$, en remplaçant $c$ par
+   $\sqrt{a}$, on obtient : $(\sqrt{a})^2=a$. D'où $(P_2)$.
+   Le carré d'un nombre s'obtient en multipliant ce nombre par lui-même,
+   donc : $$(\sqrt{a})^2=a\Leftrightarrow\sqrt{a}\times \sqrt{a}=a$$ On
+   obtient la propriété $(P_{2bis})$.
+
+   3°) Si $a\geqslant0$, donc par définition de la racine carrée,
+   $(\sqrt{a^2})^2=a^2$. Or est le seul nombre positif dont le carré est
+   égal à $a^2$ est $a$ lui-même. Donc, $\sqrt{a^2}=a$. On obtient la
+   propriété $(P_3)$.
+
+Exemples
+
+   $(\sqrt{8})^2=\sqrt{8}\times\sqrt{8}= \boxed{\; 8\;}$
+   et $\sqrt{5^2}=\sqrt{25}= \boxed{\; 5\;}$.
+
+1.3. Nature de ces nombres
+
+   Propriété 2.
+   Si $a$ est un nombre positif, alors $\sqrt{a}$ peut être un nombre
+   entier, un nombre décimal, un nombre rationnel ou encore un nombre
+   irrationnel (comme $\pi$ ou $\sqrt{2}$).
+
+Exemples
+
+   $\sqrt{2}$ et $\sqrt{3}$ sont des nombres irrationnels.
+   $\sqrt{25}=5$ est un nombre entier.
+   $\sqrt{2,25}=1,5$ est un nombre décimal.
+   $\sqrt{\dfrac{4}{9}}=\dfrac{2}{3}$ est un nombre rationnel, car
+   $\left(\dfrac{2}{3}\right)^2=\dfrac{4}{9}$.
+   $\sqrt{\pi^2}=\pi$ est un nombre irrationnel.
+
+   Pour obtenir un nombre entier, il faut choisir un nombre dans la liste
+   des nombres entiers carrés parfaits : $0$ ; $1$ ; $4$ ; $9$ ; $16$ ;
+   $25$ ; $36$ ; $49$ ; $64$ ; $81$ ; $100$ ; $121$ ; $144$ ; $169$ ;
+   $196$ ; $225$ ; $256$ ; $289$ ; $324$ ; $361$ ; $400$ ; $\ldots$
+
+   Propriété 3.
+   Si $N$ est un entier naturel qui n'est pas un carré parfait, alors
+   $\sqrt{N}$ est un nombre irrationnel.
+
+2. Opérations et racines carrées
+
+2.1. Racine carrée et multiplication
+
+   Propriété 4.
+   Soient $a$ et $b$ deux nombres positifs. Alors, la racine carrée du
+   produit est égal au produit des racines carrées : $$(P_4):\quad
+   \boxed{\; \sqrt{ab}=\sqrt{a}\times\sqrt{b}\;}$$
+
+   On dit que « La racine carrée est compatible (c'est-à-dire qui se marie
+   bien) avec la multiplication ».
+
+Exemple
+
+   $\sqrt{8}\times\sqrt{2}=\sqrt{8\times2}=\sqrt{16}= \boxed{\; 4\;}$.
+
+2.2. Racine carrée et quotient
+
+   Propriété 5.
+   Soient $a$ et $b$ deux nombres positifs, $b\not=0$. Alors, la racine
+   carrée du quotient est égal au quotient des racines carrées :
+   $$(P_5):\quad \boxed{\;
+   \sqrt{\dfrac{a}{b}}=\dfrac{\sqrt{a}}{\sqrt{b}}\;}$$
+
+   On dit que « La racine carrée est compatible avec la division ».
+
+Exemple
+
+   $\dfrac{\sqrt{27}}{\sqrt{48}}=\sqrt{\dfrac{27}{48}}=\sqrt{\dfrac{9\time
+   s3}{16\times3}}=\sqrt{\dfrac{9}{16}}=\color{brown}{\boxed{\;\dfrac{3}{4
+   }}\;}$
+
+2.3. Racine carrée et addition
+
+   Propriété 6.
+   Soient $a$ et $b$ deux nombres positifs non nuls. Alors, en général, la
+   somme des deux racines carrées n'est pas égale à la racine carrée de la
+   somme : $$(P_6):\quad \boxed{\; \sqrt{a+b}\not=\sqrt{a}+\sqrt{b}\;}$$
+
+   On dit que « La racine carrée est n'est pas compatible avec l'addition
+   ».
+
+Exemple
+
+   $\sqrt{16+9}=\sqrt{25}=5$ et $\sqrt{16}+\sqrt{9}=4+3=7$.
+   Donc, on a bien : $\sqrt{16+9}\not=\sqrt{16}+\sqrt{9}$.
+
+3.4) Racine carrée et soustraction
+
+   Propriété 7.
+   Soient $a$ et $b$ deux nombres positifs non nuls, $a>b$. Alors, en
+   général, la différence des deux racines carrées n'est pas égale à la
+   racine carrée de la différence : $$(P_7):\quad \boxed{\;
+   \sqrt{a-b}\not=\sqrt{a}-\sqrt{b}\;}$$
+
+   On dit que « La racine carrée est n'est pas compatible avec la
+   soustraction ».
+
+Exemple
+
+   $\sqrt{16-9}=\sqrt{7}$ et $\sqrt{16}-\sqrt{9}=4-3=1$.
+   Donc, on a bien : $\sqrt{16-9}\not=\sqrt{16}-\sqrt{9}$.
+
+3. Comment simplifier ou réduire une racine carrée ?
+
+   Définition 3.
+   Simplifier ou réduire la racine carrée $\sqrt{18}$ revient à l'écrire
+   sous la forme $a\sqrt{b}$, où $a$ et $b$ sont des entiers et le nombre
+   $b$ sous le radical est le plus petit possible !
+
+   Pour simplifier ou réduire la racine carrée d'un nombre entier, il faut
+   commencer par le décomposer au maximum à l'aide des nombres entiers
+   carrés parfaits : $0$ ; $1$ ; $4$ ; $9$ ; $16$ ; $25$ ; $36$ ; $49$ ;
+   $64$ ; $81$ ; $100$ ; $121$ ; $144$ ; $169$ ; $\ldots$
+
+Exemple
+
+   $$\begin{array}{ll}
+   &\sqrt{18}=\sqrt{9\times 2}\\
+   &\phantom{\sqrt{18}}=\sqrt{9}\times\sqrt{2}\\
+   &\phantom{\sqrt{18}}=3\times\sqrt{2}\\
+   \text{D'où :} &\color{brown}{\boxed{\;\sqrt{18}=3\sqrt{2}}\;}\\
+   \end{array}$$
+
+   Comme vous le voyez, pour simplifier ou réduire une racine carrée, nous
+   allons utiliser les nombres entiers carrés parfaits et les propriétés
+   des racines carrées. On va donc en rajouter une à partir de $(P_3)$ et
+   $(P_4)$ :
+
+   Propriété 8. simplification des racine carrées.
+   Soient k et a deux nombres positifs. Alors : $$(P_8):\quad \boxed{\;
+   \sqrt{k^2a}=k\sqrt{a}\;}$$
+
+   En effet, on a :
+   $\begin{array}{ll}
+   &\sqrt{k^2a}=\sqrt{k^2}\times\sqrt{a}\\
+   \text{Donc :} &\sqrt{k^2a}=k\sqrt{a}\\
+   \text{Et par suite :}&\color{brown}{
+   \boxed{\;\sqrt{k^2a}=k\sqrt{a}}\;}\\ \end{array}$
+
+2. Exercices résolus
+
+   Exercice résolu n°1.
+   Écrire les racines carrées suivantes sous la forme $a\sqrt{b}$, où $a$
+   et $b$ sont des entiers et le nombre $b$ sous le radical est le plus
+   petit possible !
+   $\sqrt{50}$ ; $\sqrt{48}$ et $\sqrt{45}$.
+   (BUTTON) Corrigé Exercice 1.
+
+   1°) $\sqrt{50}=\sqrt{25\times 2}=\sqrt{25}\times\sqrt{2}=\color{brown}{
+   \boxed{\; 5\sqrt{2}}\;}$.
+
+   2°) $\sqrt{48}=\sqrt{16\times 3}=\sqrt{16}\times\sqrt{3}=\color{brown}{
+   \boxed{\; 4\sqrt{3}}\;}$.
+
+   3°) $\sqrt{45}=\sqrt{9\times 5}=\sqrt{9}\times\sqrt{5}=\color{brown}{
+   \boxed{\; 3\sqrt{5}}\;}$.
+     __________________________________________________________________
+
+   Exercice résolu n°2.
+   Écrire les nombres suivant sous la forme de d'une seule racine carrée.
+   $7\sqrt{2}$ ; $4\sqrt{5}$ et $3\sqrt{11}$.
+   (BUTTON) Corrigé Exercice 2.
+
+   1°) $7\sqrt{2}=\sqrt{49}\times\sqrt{2}= \sqrt{49\times 2}
+   =\color{brown}{ \boxed{\;\sqrt{98}}\;}$.
+
+   2°) $4\sqrt{5}=\sqrt{16}\times\sqrt{5}= \sqrt{16\times 5}
+   =\color{brown}{ \boxed{\;\sqrt{80}}\;}$.
+
+   3°)$3\sqrt{11}=\sqrt{9}\times\sqrt{11}= \sqrt{9\times 11}
+   =\color{brown}{ \boxed{\;\sqrt{99}}\;}$.
+     __________________________________________________________________
+
+   Exercice résolu n°3.
+   Écrire les nombres suivant sous la forme de d'une seule racine carrée.
+   $\dfrac{2}{3}\sqrt{5}$ et $\dfrac{5}{\sqrt{2}}$.
+   (BUTTON) Corrigé Exercice 3.
+
+   1°) $\dfrac{2}{3}\sqrt{5}=\sqrt{ \left(\dfrac{2}{3}\right)^2
+   }\times\sqrt{2}= \sqrt{\dfrac{4}{9}\times2} =\color{brown}{
+   \boxed{\;\sqrt{\dfrac{8}{9}}}\;}$.
+
+   2°) Nous avons deux possibilités pour répondre à cette question :
+   $\dfrac{5}{\sqrt{2}}= \dfrac{\sqrt{5^2}}{\sqrt{2}}=\color{brown}{
+   \boxed{\;\sqrt{\dfrac{25}{2}}}\;}$.
+
+Rechercher dans le site
+
+   Rechercher
+   ____________________ (BUTTON) Rechercher
+
+Élèves, Enseignants, Parents :
+
+   Logamaths.fr, est un site d'enseignement des mathématiques créé depuis
+   le 1er octobre 2011, par M. A. Abouhazim, professeur de mathématiques.
+
+   Mon objectif est de présenter un cours de mathématiques par
+   compétences, du collège et du lycée, ouvert à tous, et des exercices
+   résolus par niveau. A. Abouhazim [67]Contact.
+
+Derniers articles
+
+     * [68]Stage obligatoire en fin de Seconde du 17 au 28 juin 2024. Un
+       choix de dates raté !
+     * [69]Tests de positionnement en seconde
+     * [70]Tests d'évaluations de rentrée en sixième
+     * [71]La fabrique de l'art : Le futur pôle du Centre Pompidou ouvrira
+       ses portes à Massy à l'été 2026
+     * [72]Participation de notre Lycée Fustel de Coulanges, au TFJM²,
+       Tournoi français des jeunes mathématiciennes et mathématiciens
+       2022.
+
+   CAPTION: janvier 2025
+
+   L  M  M  J  V  S  D
+         1  2  3  4  5
+   6  7  8  9  10 11 12
+   13 14 15 16 17 18 19
+   20 21 22 23 24 25 26
+   27 28 29 30 31
+   [73]« Mai
+
+Statistiques
+     __________________________________________________________________
+
+                             Espace partenaires
+        Dans cette zone, images et liens vers des sites partenaires.
+                                 [74]Contact
+
+Qui sommes-nous ?
+
+   [75]Qui sommes-nous
+   [76]Mentions légales
+   [77]Contact
+
+Liens institutionnels
+
+   [78]Lycée Fustel de Coulanges - MASSY
+   [79]Académie de Versailles
+   [80]Éducation Nationale
+   [81]Éduscol.education.fr
+
+Mon compte - RGPD
+
+   Se connecter à mon compte
+   Créer un Compte
+   C.G.U. - C.G.V.
+   [82]Mentions légales
+   [83]Politique de Confidentialité
+   [84]Politique en matière des Cookies
+
+   © 2011-2025 Logamaths.fr - WordPress Theme by [85]Kadence WP
+
+References
+
+   Visible links:
+   1. https://www.logamaths.fr/
+   2. https://www.logamaths.fr/logiciels-mathematiques-et-informatique-utilisation-des-calculatrices/
+   3. https://www.logamaths.fr/methodologie/
+   4. https://www.logamaths.fr/cat/sciences-culture-et-media/
+   5. https://www.logamaths.fr/mentions-legales/
+   6. https://www.logamaths.fr/contact/
+   7. https://www.logamaths.fr/mathematiques-seconde-generale/
+   8. https://www.logamaths.fr/mathematiques-seconde-generale/
+   9. https://www.logamaths.fr/premiere-specialite-maths/
+  10. https://www.logamaths.fr/terminale-specialite-mathematiques/
+  11. https://www.logamaths.fr/mathematiques-premiere-stmg/
+  12. https://www.logamaths.fr/mathematiques-terminale-stmg/
+  13. https://www.logamaths.fr/elements-de-logique-mathematique/
+  14. https://www.logamaths.fr/programmes-de-mathematiques-au-lycee-rentree-2023/
+  15. https://www.logamaths.fr/logiciels-mathematiques-et-informatique-utilisation-des-calculatrices/
+  16. https://www.logamaths.fr/mathematiques-3eme/
+  17. https://www.logamaths.fr/mathematiques-3eme/
+  18. https://www.logamaths.fr/mathematiques-4eme/
+  19. https://www.logamaths.fr/mathematiques-5eme/
+  20. https://www.logamaths.fr/mathematiques-6eme/
+  21. https://www.logamaths.fr/tests-devaluations-de-rentree-en-sixieme/
+  22. https://www.logamaths.fr/programmes-de-mathematiques-au-college-rentree-2023/
+  23. https://www.logamaths.fr/logiciels-mathematiques-et-informatique-utilisation-des-calculatrices/
+  24. https://www.logamaths.fr/calendrier-des-vacances-scolaires-zone-c/
+  25. https://www.logamaths.fr/calendrier-des-vacances-scolaires-zone-c/
+  26. https://www.logamaths.fr/calendrier-des-vacances-scolaires-zone-b/
+  27. https://www.logamaths.fr/calendrier-des-vacances-scolaires-zone-a/
+  28. https://www.logamaths.fr/contact/
+  29. https://www.logamaths.fr/
+  30. https://www.logamaths.fr/logiciels-mathematiques-et-informatique-utilisation-des-calculatrices/
+  31. https://www.logamaths.fr/methodologie/
+  32. https://www.logamaths.fr/cat/sciences-culture-et-media/
+  33. https://www.logamaths.fr/mentions-legales/
+  34. https://www.logamaths.fr/contact/
+  35. https://www.logamaths.fr/mathematiques-seconde-generale/
+  36. https://www.logamaths.fr/mathematiques-seconde-generale/
+  37. https://www.logamaths.fr/premiere-specialite-maths/
+  38. https://www.logamaths.fr/terminale-specialite-mathematiques/
+  39. https://www.logamaths.fr/mathematiques-premiere-stmg/
+  40. https://www.logamaths.fr/mathematiques-terminale-stmg/
+  41. https://www.logamaths.fr/elements-de-logique-mathematique/
+  42. https://www.logamaths.fr/programmes-de-mathematiques-au-lycee-rentree-2023/
+  43. https://www.logamaths.fr/logiciels-mathematiques-et-informatique-utilisation-des-calculatrices/
+  44. https://www.logamaths.fr/mathematiques-3eme/
+  45. https://www.logamaths.fr/mathematiques-3eme/
+  46. https://www.logamaths.fr/mathematiques-4eme/
+  47. https://www.logamaths.fr/mathematiques-5eme/
+  48. https://www.logamaths.fr/mathematiques-6eme/
+  49. https://www.logamaths.fr/tests-devaluations-de-rentree-en-sixieme/
+  50. https://www.logamaths.fr/programmes-de-mathematiques-au-college-rentree-2023/
+  51. https://www.logamaths.fr/logiciels-mathematiques-et-informatique-utilisation-des-calculatrices/
+  52. https://www.logamaths.fr/calendrier-des-vacances-scolaires-zone-c/
+  53. https://www.logamaths.fr/calendrier-des-vacances-scolaires-zone-c/
+  54. https://www.logamaths.fr/calendrier-des-vacances-scolaires-zone-b/
+  55. https://www.logamaths.fr/calendrier-des-vacances-scolaires-zone-a/
+  56. https://www.logamaths.fr/contact/
+  57. https://www.logamaths.fr/decouverte-de-la-racine-carree-dun-nombre-reel-positif/
+  58. https://www.logamaths.fr/racine-carree-dun-nombre-positif-definition-et-proprietes/
+  59. https://www.logamaths.fr/comment-simplifier-ou-reduire-une-racine-carree/
+  60. https://www.logamaths.fr/comment-reduire-une-somme-ou-un-produit-avec-des-racines-carrees/
+  61. https://www.logamaths.fr/comment-reduire-une-somme-ou-un-produit-avec-des-racines-carrees/
+  62. https://www.logamaths.fr/resolution-dequations-de-la-forme-x-au-carre-egal-a/
+  63. https://www.logamaths.fr/applications-des-identites-remarquables-aux-racines-carrees/
+  64. https://www.logamaths.fr/rendre-rationnel-un-denominateur/
+  65. https://www.logamaths.fr/calcul-de-la-diagonale-d-dun-carre-en-fonction-de-la-longueur-du-cote-a/
+  66. https://www.logamaths.fr/calcul-de-la-hauteur-h-dun-triangle-equilateral-en-fonction-de-la-longueur-de-son-cote/
+  67. https://www.logamaths.fr/contact/
+  68. https://www.logamaths.fr/stage-obligatoire-en-fin-de-seconde-un-choix-de-dates-rate/
+  69. https://www.logamaths.fr/tests-de-positionnement-de-seconde/
+  70. https://www.logamaths.fr/tests-devaluations-de-rentree-en-sixieme/
+  71. https://www.logamaths.fr/la-fabrique-de-lart-futur-pole-du-centre-pompidou-a-massy/
+  72. https://www.logamaths.fr/la-participation-de-notre-lycee-fustel-de-coulanges-au-tfjm%c2%b2-tournoi-francais-des-jeunes-mathematiciennes-et-mathematiciens-2022/
+  73. https://www.logamaths.fr/2024/05/
+  74. https://www.logamaths.fr/contact/
+  75. https://www.logamaths.fr/qui-sommes-nous/
+  76. https://www.logamaths.fr/mentions-legales/
+  77. https://www.logamaths.fr/contact/
+  78. https://lyc-fustel-de-coulanges-massy.ac-versailles.fr/
+  79. http://www.ac-versailles.fr/
+  80. http://www.education.gouv.fr/
+  81. http://www.eduscol.education.fr/
+  82. https://www.logamaths.fr/mentions-legales/
+  83. http://www.logamaths.fr/politique-de-confidentialite/
+  84. http://www.logamaths.fr/politique-en-matiere-de-cookies/
+  85. https://www.kadencewp.com/
+
+   Hidden links:
+  87. https://www.logamaths.fr/

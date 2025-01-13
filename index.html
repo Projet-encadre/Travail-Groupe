@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="description" content="Explore the meaning and origins of English idioms with our interactive and user-friendly website." />
+        <meta name="author" content="Natalia Kulikova" />
+        <meta name="keywords" content="responsive, html, css & js projects, project, web development, frontend projects, nlp" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="icon" type=image/x-icon href="assets/icons/favicon_io/favicon.ico" />
+        
+        <!-- Icône pour appareils Apple -->
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+        <!-- Favicons pour navigateurs -->
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <!-- Fichier de configuration pour Progressive Web Apps -->
+        <link rel="manifest" href="/site.webmanifest" />
+
+        <!-- Bulma CSS -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css" />
+
+        <!-- Préconnexion pour Google Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+        <!-- CSS Google Fonts personnalisés (Aladin) -->
+        <link href="https://fonts.googleapis.com/css2?family=Aladin&display=swap" rel="stylesheet" />
+
+        <!-- Google Fonts personnalisés : Heebo et Oswald -->
+        <link 
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&family=Oswald:wght@300..700&display=swap" />
+
+        <!-- Google Fonts : la police "Roboto Slab" avec une épaisseur de 300 -->
+        <link 
+            rel="stylesheet"
+            href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap" />
+
+        <!-- CSS Linearicons -->
+        <link 
+            rel="stylesheet" 
+            href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css" />
+        
+        <!-- CSS Boxicons -->
+        <link 
+            rel="stylesheet"
+            href="https://unpkg.com/boxicons@latest/css/boxicons.min.css" />
+ 
+        <!-- CSS Remix Icons -->
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.css" />
+
+        <!-- Charge la bibliothèque Font Awesome pour ajouter des icônes dans le projet. 
+        Le script utilise un kit personnalisé (ID unique : 5d72166fb5) et autorise le partage de ressources cross-origin. -->
+        <script src="https://kit.fontawesome.com/5d72166fb5.js" crossorigin="anonymous"></script>
+
+        <!-- CSS personnalisé -->
+        <link rel="stylesheet"
+			type="text/css"
+            href="assets/css/style.css" />
+
+        <title>Projet PPE 2024-2025</title>
+
+    </head>
+    <body>
+                           
+        <header>
+            <nav class="header" id="header">
+                <a href="#home" class="logo">
+                    <img src="assets/logo/vmm_logo.png" alt="English Idiom Explorer Website logo">
+                </a>
+            </nav>
+            <nav class="navbar" id="navBar">
+                <div class="menu-content" id="menu-content">
+                    <!-- Menu Items -->
+                    <ul class="menulist nav-links">
+                        <!-- Lien vers la section Accueil (page principale du site) -->
+                        <li>
+                            <a href="#home" class="active">
+                                <i class="fas fa-home"></i> <!-- Icône de maison --> 
+                                Accueil
+                            </a>
+                        </li>
+
+                        <!-- Le Projet -->
+                        <li>
+                            <a href="#about" class="expand-link" data-section="project-section" onclick="toggleExpandableSection('project-section')">
+                                Le Projet
+                            </a>
+                        </li>
+
+                        <!-- Journal de Bord -->
+                        <li class="dropdown">
+                            <div class="dropdown-1">
+                                <button id="journal-de-bord" aria-expanded="false" aria-controls="journal-section">
+                                    
+                                    <p class="dropdown_button">Journal<br> de Bord</p>
+                                </button>
+                                <div class="expandable-section" id="journal-section" aria-hidden="true">
+                                    <p>Défiler pour voir les options…</p>
+                                </div>
+                                <div class="content">
+                                    <a href="#">Journal de Bord 1</a>
+                                    <div class="divider"></div>
+                                    <a href="#">Journal de Bord 2</a>
+                                    <div class="divider"></div>
+                                    <a href="#">Journal de Bord 3</a>
+                                    <div class="divider"></div>
+                                    <a href="#">Journal de Bord 4</a>
+                                </div>
+                            </div>
+                        </li>
+
+                        <!-- Site final -->
+                        <li>
+                            <a href="#">
+                                <img src="assets/icons/root.png" width="35px" alt="root icon">
+                                Site final
+                            </a>
+                        </li>
+                        
+                        <!-- Nous sommes -->
+                        <li><A href="membresDuGroupe.html">Nous<br> sommes…</a></li>
+                    </ul>
+                </div>
+                <br>
+                <br>
+            </nav>
+
+            <div class="menu-right">
+                <a href="#footer" class="menu-btn go-down" onclick="window.scrollTo(0, document.body.scrollHeight)">
+                    <div class="icon-container">
+                        <img src="assets/icons/bottom.png" width="55px" alt="go-to-bottom icon">
+                    </div>
+                    <br>
+                    <span>Bas de la page</span>
+                </a>
+                <br>
+                <div id="menu-icon" class="bx bx-menu">
+                    <div class="line1"></div>
+                    <div class="line2"></div>
+                    <div class="line3"></div>
+                </div>
+            </div>
+            <br>
+            <br>
+            <!-- Menu déroulant -->
+            <nav class="burger-menu">
+                <ul class="other_links">
+                    <li>
+                        <a href="#" class="expand-link" data-section="project-section" onclick="toggleExpandableSection('project-section')">
+                            <img src="assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 1
+                        </a>
+                    </li>
+                    <div class="divider"></div>
+                    <li><a href="#" class="expand-link" data-section="project-section" onclick="toggleExpandableSection('project-section')">
+                        <img src="assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 2
+                        </a>
+                    </li>
+                    <div class="divider"></div>
+                    <li><a href="#" class="expand-link" data-section="project-section" onclick="toggleExpandableSection('project-section')">
+                        <img src="assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 3
+                        </a>
+                    </li>
+                    <div class="divider"></div>
+                    <li><a href="#" class="expand-link" data-section="project-section" onclick="toggleExpandableSection('project-section')">
+                        <img src="assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 4
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <section id="home">
+                <h1>Accueil</h1>
+                <p>…</p>
+                <br>
+                <br>
+            </section>
+            
+            <section id="about">
+                <h1>À propos du projet</h1>
+                <p>…</p>
+            </section>
+
+            <section id="contact" class="expandable-section">
+                <h1>>Qui sommes-nous ?</h1>
+                <p>…</p>
+            </section>
+        </main>
+        <footer id="footer">
+            <div class="back-top hide" title="back to top">
+                <br>
+                <nav>
+                    <ul>
+                        <li><a href="#top"><p>
+                            Haut de page</p></a></li>
+                        <br>
+                        <br>
+                    </ul>
+                </nav>
+            </div>
+            <br>
+            <div class="footer-container">
+                <div class="p1">
+                    <div class="d">
+                        <div class="sub1">
+                            <span id="name">PPE M1 - TAL 2024-2025</span>
+                            <span class="footer-content">© 2025 - Projet pédagogique universitaire </span>
+                            <span class="footer-content">(Universités : Inalco, Sorbonne Nouvelle, Paris-Nanterre)</span>
+                            <span class="footer-content">Site web conçu et designé par Natalia Kulikova &ndash; Tous droits réservés</span>
+                        </div>
+                        <div class="sub1">
+                            <span id="head">Projet</span>
+                            <span class="footer-content">Membres du groupe : </span>
+                            <span class="footer-content">CHENG Dingding 成鼎鼎</span>
+                            <span class="footer-content">DA SILVA Jean-Charles</span>
+                            <span class="footer-content">WANG Xiaobo 王晓波</span>
+                            <span class="footer-content">KULIKOVA Natalia</span>
+                        </div>
+                        <div class="sub2">
+                            <span id="head">Suivez-nous sur…</span>
+
+                            <!-- Icônes sociales de CHENG Dingding 成鼎鼎 -->
+                            <div class="footer-logos">
+                                <div class="cir">
+                                    <a href="https://github.com/GoddessUni" 
+                                    target="_blank">
+                                    <ion-icon name="logo-github"></ion-icon>
+                                    </a>
+                                </div>
+                                <div class="cir"><ion-icon name="logo-linkedin"></ion-icon></div>
+                                <div class="cir"><ion-icon name="logo-twitter"></ion-icon></div>
+                                <div class="cir"><ion-icon name="logo-facebook"></ion-icon></div>
+                            </div>
+
+                            <!-- Icônes sociales de DA SILVA Jean-Charles -->
+                            <div class="footer-logos">
+                                <div class="cir">
+                                    <a href="https://github.com/jcharlesDS" 
+                                    target="_blank">
+                                    <ion-icon name="logo-github"></ion-icon>
+                                    </a>
+                                </div>
+                                <div class="cir"><ion-icon name="logo-linkedin"></ion-icon></div>
+                                <div class="cir"><ion-icon name="logo-twitter"></ion-icon></div>
+                                <div class="cir"><ion-icon name="logo-facebook"></ion-icon></div>
+                            </div>
+
+                            <!-- Icônes sociales de WANG Xiaobo 王晓波 -->
+                            <div class="footer-logos">
+                                <div class="cir">
+                                    <a href="https://github.com/Xiaobo33" 
+                                    target="_blank">
+                                    <ion-icon name="logo-github"></ion-icon>
+                                    </a>
+                                </div>
+
+                                <div class="cir">
+                                    <a href="https://www.linkedin.com/in/xiaobo-wang-17bb53332?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" 
+                                    target="_blank">
+                                    <ion-icon name="logo-linkedin"></ion-icon>
+                                    </a>
+                                </div>
+                                <div class="cir"><ion-icon name="logo-twitter"></ion-icon></div>
+                                <div class="cir"><ion-icon name="logo-facebook"></ion-icon></div>
+                            </div>
+
+                            <!-- Icônes sociales de KULIKOVA Natalia -->
+                            <div class="footer-logos">
+                                <div class="cir">
+                                    <a href="https://github.com/NATaaLiAAK"
+                                    target="_blank">
+                                    <ion-icon name="logo-github"></ion-icon>
+                                    </a>
+                                </div>
+
+                                <div class="cir">
+                                    <a href="https://www.linkedin.com/in/natalia-kulikova-2496b2232?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" 
+                                    target="_blank">
+                                    <ion-icon name="logo-linkedin"></ion-icon>
+                                    </a>
+                                </div>
+
+                                <div class="cir"><ion-icon name="logo-twitter"></ion-icon></div>
+
+                                <div class="cir"><ion-icon name="logo-facebook"></ion-icon></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        
+        <!-- Bibliothèque jQuery pour la manipulation du DOM et AJAX -->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/simplebar/5.3.6/simplebar.min.js"></script>
+        <script src="https://cdn.linearicons.com/free/1.0.0/svgembedder.min.js"></script>
+        <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+        <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+        <script src="assets/js/script_.js"></script>     
+    </body>
+</html>

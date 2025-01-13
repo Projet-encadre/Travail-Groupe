@@ -1,0 +1,147 @@
+   En [68]mathématiques et plus précisément en [69]algèbre dans la théorie
+   des [70]corps commutatifs, un corps de décomposition^[71][1], ou
+   parfois corps des racines^[72][2]^,^[73][3] ou encore corps de
+   déploiement^[74][3], d'un [75]polynôme P non nul est une [76]extension
+   de corps minimale sur laquelle P est [77]scindé. On montre qu'un
+--
+     * P est scindé sur L, c'est-à-dire produit de polynômes du premier
+       degré dans L[X] ;
+     * les racines de P dans L [88]engendrent L sur K, c'est-à-dire qu'il
+       n'existe aucun autre sous-corps de L que lui-même contenant K et
+       les racines de P.
+
+   Dans une [89]clôture algébrique W* donnée, il existe une unique
+   sous-extension de W* qui soit aussi un corps de décomposition de P :
+   c'est la sous-extension de W* engendrée par les racines de P dans W*.
+   En général, tout corps de décomposition de P est isomorphe à ce
+   sous-corps de W*.
+--
+          + Le résultat est évident si ce degré vaut 1.
+          + Sinon, c'est que P a un facteur irréductible Q de degré > 1,
+            qui possède donc une racine a dans L dont l'image f(a) est
+            racine de f(Q) dans L' ; K[a] est un corps de rupture de Q sur
+            K de même que K' [f(a)] est un corps de rupture de f(Q),
+            irréductible sur K'. Les corps K [a] et K' [f(a)] sont donc
+--
+       précédent, c'est une sur-extension de L, c'est-à-dire qu'il existe
+       un K-morphisme injectif th de L dans L'. De plus, comme P est
+       scindé sur L, toutes les racines de P dans L' appartiennent à
+       l'image de th (car ce sont les images des racines de P dans L), si
+       bien que cette image est L' tout entier et que th est un
+       isomorphisme.
+--
+   Le polynôme P(X) = X^3 - 2 est irréductible sur le corps des
+   [98]rationnels (en effet, tout polynôme de degré 3 qui n'est pas
+   irréductible possède une racine rationnelle). Soit r la [99]racine
+   cubique réelle de 2, et j l'une des deux [100]racines cubiques
+   primitives (complexes) de l'unité. Les deux autres racines de P sont jr
+   et j^2r. Le corps de décomposition de P sur est L = (r, jr, j^2r).
+
+--
+   rupture de P, isomorphe à [X]/(P), dont une base est (1, r, r^2).
+
+   Sur K[1], le polynôme P possède une racine r. Une division de P(X) par
+   le polynôme X - r donne l'égalité:
+
+--
+       de l'élément primitif s'applique : l'extension est [108]simple.
+     * Tout corps de décomposition est une [109]extension normale. En
+       effet soient r[1], ... ,r[n] les racines de P dans W*. Alors L est
+       égal à K(r[1], ... ,r[n]). Tout morphisme de L dans W* permute les
+       racines, donc laisse stable L. Si P est séparable, l'extension est
+       donc [110]galoisienne.
+     * On suppose le polynôme P séparable. Le [111]groupe de Galois du
+       corps de décomposition de P [112]opère transitivement sur
+       l'ensemble R des racines de P si, et seulement si, le polynôme P
+       est irréductible^[113][5].
+
+          En effet, si P n'est pas irréductible, il est le produit de deux
+          polynômes P[1] et P[2] de degrés strictement positifs.
+          l'ensemble des racines de P[1] est disjoint de l'ensemble des
+          racines de P[2] car P est séparable. L'image par un morphisme,
+          élément du groupe de Galois, d'une racine de P[1] est
+          nécessairement une racine de ce polynôme, donc ne peut être une
+          racine de P[2], ce qui prouve que le groupe n'opère pas
+          transitivement.
+          Réciproquement si P est irréductible, soient a et b deux racines
+          de P. Soit m le morphisme de K(a), dans K(b) qui à a associe b.
+          La propriété générale démontrée ci-dessus (par récurrence, dans
+--
+    1. [122]^| Alain Kraus, « [123]Théorie de Galois : Cours accéléré de
+       DEA », [124]université Paris 6, 1998.
+    2. [125]^| Ou « corps de racines » : Henri Lombardi et Claude Quitté,
+       Algèbre commutative -- Méthodes constructives -- Modules projectifs
+       de type fini, Calvage & Mounet, 2016 (1^re éd. 2011)
+--
+       déploiement », mais signale que « certains auteurs [l'appellent]
+       « corps de rupture » (splitting field en anglais) ou même « corps
+       des racines », cette dernière appellation étant toutefois un peu
+       ambiguë. » L'appellation « corps de rupture » ne l'est pas moins,
+       [133]comme expliqué dans l'article sur les corps de rupture. En
+--
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+--
+  69. file:///wiki/Alg%C3%A8bre
+  70. file:///wiki/Corps_commutatif
+  71. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_note-1
+  72. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_note-2
+  73. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_note-ulb-3
+  74. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_note-ulb-3
+  75. file:///wiki/Polyn%C3%B4me
+  76. file:///wiki/Extension_de_corps
+--
+  90. file:///wiki/Extension_finie
+  91. file:///wiki/Corps_de_rupture
+  92. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_note-perrin1981-4
+  93. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_note-perrin1981-4
+  94. file:///w/index.php?title=Corps_de_d%C3%A9composition&veaction=edit&section=2
+  95. file:///w/index.php?title=Corps_de_d%C3%A9composition&action=edit&section=2
+--
+  97. file:///wiki/Nombre_complexe
+  98. file:///wiki/Nombre_rationnel
+  99. file:///wiki/Racine_cubique
+ 100. file:///wiki/Racine_de_l%27unit%C3%A9
+ 101. file:///wiki/%C3%89l%C3%A9ment_irr%C3%A9ductible
+ 102. file:///wiki/Corps_de_rupture
+--
+ 111. file:///wiki/Groupe_de_Galois
+ 112. file:///wiki/Action_de_groupe_(math%C3%A9matiques)#Action_transitive
+ 113. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_note-5
+ 114. file:///w/index.php?title=Corps_de_d%C3%A9composition&veaction=edit&section=4
+ 115. file:///w/index.php?title=Corps_de_d%C3%A9composition&action=edit&section=4
+--
+ 120. file:///w/index.php?title=Corps_de_d%C3%A9composition&veaction=edit&section=5
+ 121. file:///w/index.php?title=Corps_de_d%C3%A9composition&action=edit&section=5
+ 122. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_ref-1
+ 123. http://www.galois-group.net/theory/Galois_Kraus.pdf
+ 124. file:///wiki/Universit%C3%A9_Pierre-et-Marie-Curie
+ 125. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_ref-2
+ 126. file:///wiki/ArXiv
+ 127. https://arxiv.org/abs/1611.02942
+ 128. https://webusers.imj-prg.fr/~rached.mneimne/CM/fiches-representants/Lombardi-Quitte-2010-03-press.pdf
+ 129. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_ref-ulb_3-0
+ 130. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_ref-ulb_3-1
+ 131. http://homepages.ulb.ac.be/~amsimon/preprint/nombres.pdf
+ 132. file:///wiki/ULB
+ 133. file:///wiki/Corps_de_rupture#Autres_d%C3%A9finitions
+ 134. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_ref-perrin1981_4-0
+ 135. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_ref-perrin1981_4-1
+ 136. file:///wiki/Daniel_Perrin
+ 137. file:///wiki/R%C3%A9f%C3%A9rence:Cours_d%27alg%C3%A8bre_(Daniel_Perrin)
+ 138. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#cite_ref-5
+ 139. file:///wiki/Adrien_Douady
+ 140. file:///wiki/R%C3%A9f%C3%A9rence:Th%C3%A9ories_galoisiennes_(Douady)
+--
+
+   Hidden links:
+ 208. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html
+ 209. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#D%C3%A9finition
+ 210. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#Exemples
+ 211. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#Extension_de_Galois
+ 212. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#Anneau_de_d%C3%A9composition
+ 213. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#Notes_et_r%C3%A9f%C3%A9rences
+ 214. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Corps_de_d%25C3%25A9composition.html#Bibliographie

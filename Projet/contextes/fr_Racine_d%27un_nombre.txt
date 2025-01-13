@@ -1,0 +1,549 @@
+   (BUTTON) déplacer vers la barre latérale (BUTTON) masquer
+     * Début
+     * 1 Racine d'un réel
+       (BUTTON) Afficher/masquer la sous-section Racine d'un réel
+
+     * 1.1 Racine carrée
+
+     1.2 Racine cubique
+
+     1.3 Racine n-ième d'un nombre réel positif
+
+     1.4 Racine n-ième d'un nombre réel négatif
+
+
+
+   1.5 Les propriétés des racines
+
+
+--
+
+
+   1.7 Fonction racine n-ième
+
+
+--
+
+
+   2 Racines d'un complexe
+
+   (BUTTON) Afficher/masquer la sous-section Racines d'un complexe
+     * 2.1 Nombres réels positifs
+
+
+
+   2.2 Racines de l'unité
+
+
+--
+
+
+   4 Racine en typographie
+
+
+--
+   [ ] Basculer la table des matières
+
+Racine d'un nombre
+
+   [ ] 70 langues
+--
+   [120]Page d'aide sur l'homonymie
+
+   Pour les articles homonymes, voir [121]racine.
+
+   En [122]mathématiques, une racine n-ième d'un nombre a est un nombre b
+   tel que b^n = a, où n est un [123]entier naturel non nul.
+
+   Selon que l'on travaille dans l'ensemble des [124]réels positifs,
+   l'ensemble des réels ou l'ensemble des [125]complexes, le nombre de
+   racines n-ièmes d'un nombre peut être 0, 1, 2 ou n.
+
+   Pour un nombre réel a positif, il existe un unique réel b positif tel
+   que b^n = a. Ce réel est appelé la racine n-ième de a (ou racine n-ième
+   principale de a) et se note ^n SQRT a avec le symbole radical ( SQRT  )
+   ou a^1/n. La racine la plus connue est la [126]racine carrée d'un réel.
+   Cette définition se généralise pour a négatif et b négatif à condition
+   que n soit [127]impair.
+
+   Le terme de racine d'un nombre ne doit pas être confondu avec celui de
+   racine d'un [128]polynôme qui désigne la (ou les) valeur(s) où le
+   polynôme s'annule.
+
+Racine d'un réel
+
+   [[129]modifier | [130]modifier le code]
+
+Racine carrée
+
+   [[131]modifier | [132]modifier le code]
+   Article détaillé : [133]Racine carrée.
+
+   Pour tout réel r strictement positif, l'équation x^2 = r admet deux
+--
+   comme seule solution 0.
+
+   La [134]racine carrée d'un réel positif r est par définition l'unique
+   solution réelle positive de l'équation x^2 = r d'inconnue x.
+
+--
+   Exemples
+
+          + La [135]racine carrée de deux est SQRT 2 = 1,414 213 56....
+          + Celle de trois est SQRT 3 = 1,732 050 80....
+
+Racine cubique
+
+   [[136]modifier | [137]modifier le code]
+   Article détaillé : [138]Racine cubique.
+
+   La [139]racine cubique d'un réel r quelconque est l'unique racine
+   réelle de l'équation
+
+--
+       {\displaystyle -8} .
+
+Racine n-ième d'un nombre réel positif
+
+   [[140]modifier | [141]modifier le code]
+--
+   {\displaystyle \mathbb {R} _{+}} .
+
+   La racine énième (ou racine n-ième) d'un réel r positif (r >= 0, n > 0)
+   est l'unique solution réelle positive de l'équation
+
+--
+   {\displaystyle {\sqrt[{n}]{r}}} .
+
+   Remarquons que la racine n-ième de
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>r</mi> </mstyle> </mrow>
+   <annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+   </semantics> :MATH]
+   {\displaystyle r} est aussi l'unique [144]racine positive du polynôme
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msup> <mi>X</mi> <mrow
+--
+   {\displaystyle {\sqrt[{n}]{r}}} .
+
+Racine n-ième d'un nombre réel négatif
+
+   [[145]modifier | [146]modifier le code]
+
+   Le traitement des racines de nombres négatifs n'est pas uniforme. Par
+   exemple, il n'existe pas de racine carrée réelle de -1 puisque pour
+   tout réel
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   encoding="application/x-tex">{\displaystyle x^{2}+1>0}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x^{2}+1>0} , mais la racine cubique de -27 existe et est
+   égale à -3.
+
+--
+   }</annotation> </semantics> :MATH]
+   {\displaystyle \mathbb {R} } donc tout nombre réel admet exactement une
+   racine
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+--
+   <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+   </semantics> :MATH]
+   {\displaystyle n} , la racine énième (ou racine
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mi>n</mi> </mstyle> </mrow>
+--
+   {\displaystyle x} .
+
+   Il s'ensuit que les racines d'ordres impairs de nombres réels négatifs
+   sont négatives.
+
+--
+          {\displaystyle {\sqrt[{n}]{-a}}=-{\sqrt[{n}]{a}}} .
+
+   Le besoin de travailler avec des racines de nombres négatifs a conduit
+   à la mise en place des [148]nombres complexes, mais il y a également
+   dans le domaine des nombres complexes des restrictions pour les
+   racines. Voir ci-dessous.
+
+Les propriétés des racines
+
+   [[149]modifier | [150]modifier le code]
+
+   Les règles de calcul des racines découlent des propriétés des
+   [151]puissances.
+
+--
+   {\displaystyle p={\frac {1}{n}}} .
+
+   Ainsi on peut noter la racine carrée de a ,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+--
+   encoding="application/x-tex">{\displaystyle a^{\frac
+   {1}{2}}}</annotation> </semantics> :MATH]
+   {\displaystyle a^{\frac {1}{2}}} , la racine cubique de a ,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+--
+   encoding="application/x-tex">{\displaystyle a^{\frac
+   {1}{3}}}</annotation> </semantics> :MATH]
+   {\displaystyle a^{\frac {1}{3}}} et la racine n-ième de a ,
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow class="MJX-TeXAtom-ORD">
+--
+          a\right)} pour tout réel a strictement positif.
+
+Fonction racine n-ième
+
+   [[159]modifier | [160]modifier le code]
+   [161][220px-RacineNieme.svg.png] Racine carré et racine cubique comme
+   réciproques des fonctions carré et cube.
+
+--
+   x^{n}}</annotation> </semantics> :MATH]
+   {\displaystyle x\mapsto x^{n}} est une bijection de [+] sur [+] dont
+   l'[162]application réciproque est la fonction racine n-ième. Il est
+   donc loisible de construire sa représentation graphique, à l'aide de
+   celle de la [163]fonction puissance par [164]symétrie d'axe la droite
+--
+
+   Les formules sur la [169]dérivée de la réciproque permettent d'établir
+   que la fonction racine n-ième est dérivable sur l'intervalle
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <mrow> <mo>]</mo> <mrow>
+--
+   Article détaillé : [172]série entière.
+
+   Le radical ou racine peut être représenté par la [173]série de Taylor
+   au point 1, qui s'obtient à partir de la [174]formule du binôme
+   généralisée : pour tout réel h tel que |h| <= 1,
+--
+   [178]nombres de Catalan C[k-1]).
+
+Racines d'un complexe
+
+   [[179]modifier | [180]modifier le code]
+   Article détaillé : [181]Racine d'un nombre complexe.
+
+   Pour tout entier naturel non nul n, une racine n-ième d'un nombre
+   complexe z est un nombre qui, élevé à la puissance donne z,
+   c'est-à-dire une solution de l'équation
+--
+   d'inconnue x.
+
+   Lorsque z est différent de 0, il existe n racines n-ièmes distinctes de
+   z. En effet, les racines n-ièmes d'un complexe z non nul sont aussi les
+   racines du polynôme X^n - z, qui admet bien n solutions dans l'ensemble
+   des nombres complexes d'après le [182]théorème de d'Alembert-Gauss.
+
+   Toutes les racines de n'importe quel nombre, réel ou complexe, peuvent
+   être trouvées avec un simple [183]algorithme. Le nombre doit d'abord
+   être écrit sous la forme
+--
+   {i}}\varphi }}</annotation> </semantics> :MATH]
+   {\displaystyle a{\rm {e}}^{{\rm {i}}\varphi }} (voir la [184]formule
+   d'Euler). Alors, toutes les racines n-ièmes sont données par :
+
+          [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{a}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{a}}} représente la racine n-ième principale
+   de a.
+
+--
+   encoding="application/x-tex">{\displaystyle x^{n}=a}</annotation>
+   </semantics> :MATH]
+   {\displaystyle x^{n}=a} , autrement dit les racines n-ièmes de a, où a
+   est un nombre réel positif, sont données par l'équation simplifiée :
+
+--
+   encoding="application/x-tex">{\displaystyle
+   {\sqrt[{n}]{a}}}</annotation> </semantics> :MATH]
+   {\displaystyle {\sqrt[{n}]{a}}} représente la racine n-ième principale
+   de a.
+
+Racines de l'unité
+
+   [[187]modifier | [188]modifier le code]
+   Article détaillé : [189]Racine de l'unité.
+   Article détaillé : [190]Polynôme cyclotomique.
+
+--
+   encoding="application/x-tex">{\displaystyle z=1}</annotation>
+   </semantics> :MATH]
+   {\displaystyle z=1} , une telle racine s'appelle une racine n-ième de
+   l'unité, et l'ensemble des racines n-ièmes de l'unité, noté
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+   displaystyle="true" scriptlevel="0"> <msub> <mrow
+--
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   {\mathcal {U}}_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {U}}_{n}} , est formé des n racines du
+   polynôme complexe
+
+--
+   {(2n-2)\pi }{n}}}\}}
+
+   On appelle [194]racine n-ième primitive de l'unité tout générateur du
+   groupe cyclique
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   </mrow> <annotation encoding="application/x-tex">{\displaystyle
+   {\mathcal {U}}_{n}}</annotation> </semantics> :MATH]
+   {\displaystyle {\mathcal {U}}_{n}} . Ces racines primitives sont les
+   éléments
+   [MATH: <semantics> <mrow class="MJX-TeXAtom-ORD"> <mstyle
+--
+   [[197]modifier | [198]modifier le code]
+
+   [199]Ludovico Ferrari a démontré que les racines des [200]polynômes du
+   quatrième degré pouvaient, comme pour ceux du deuxième et troisième
+   degré, être calculées par radicaux, c'est-à-dire par un nombre fini
+   d'opérations élémentaires sur les coefficients du polynôme, comportant
+   des [201]calculs de racines n-ièmes. Ceci n'est plus vrai en général
+   pour les [202]équations quintiques ou d'un degré supérieur, comme
+   l'énonce le [203]théorème d'Abel-Ruffini. Par exemple, les solutions de
+--
+
+   Pour résoudre « numériquement » n'importe quelle équation du n-ième
+   degré, voir l'[205]algorithme de recherche de racines.
+
+Racine en typographie
+
+   [[206]modifier | [207]modifier le code]
+--
+   Radical ; 3. Radicande
+
+   En [209]typographie, une racine est composée de trois parties : le
+   radical, l'indice et le radicande.
+     * Le radical est le symbole de la racine,
+     * l'indice est le degré de cette racine,
+     * enfin, le radicande est ce qu'il y a sous le radical.
+
+--
+
+   [[215]modifier | [216]modifier le code]
+     * [217]Algorithme de calcul de la racine n-ième
+     * [218]Racines de fonctions polynomiales
+     * [219]Algorithme de recherche d'un zéro d'une fonction
+     * [220]Algorithme de la potence
+--
+     * (de) Ulrich Felgner, Mathematische Semesterberichte,vol. 52, n^o 1,
+       2005, Springer, p. 1-7, ISSN 0720-728X (Au sujet de l'origine du
+       signe de racine)
+     * (de) Hans Kreul et Harald Ziebarth, Mathematik leicht gemacht,
+       6^e édition, 2006 Verlag Harri Deutsch. Le chapitre complet sur la
+       racine avec des explications, des exemples et des exercices
+       « [223]disponible gratuitement en ligne »^([224]Archive.org o
+       [225]Wikiwix o [226]Archive.is o [227]Google o [228]Que faire ?)
+--
+
+       Fonction algébrique irrationnelle
+     * [238]Fonction puissance / Fonction racine
+
+   [239]Fonction transcendante
+--
+
+   Ce document provient de
+   « [252]https://fr.wikipedia.org/w/index.php?title=Racine_d%27un_nombre&
+   oldid=212823728 ».
+   [253]Catégories:
+     * [254]Analyse réelle
+     * [255]Analyse complexe
+     * [256]Racine nième
+
+   Catégories cachées:
+--
+
+   Visible links:
+   1. file://fr.m.wikipedia.org/wiki/Racine_d%27un_nombre
+   2. file:///w/index.php?title=Racine_d%27un_nombre&action=edit
+   3. file:///w/rest.php/v1/search
+   4. file:///w/index.php?title=Sp%C3%A9cial:Modifications_r%C3%A9centes&feed=atom
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#bodyContent
+   6. file:///wiki/Wikip%C3%A9dia:Accueil_principal
+   7. file:///wiki/Portail:Accueil
+--
+  15. file:///wiki/Sp%C3%A9cial:Recherche
+  16. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  17. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+d%27un+nombre
+  18. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+d%27un+nombre
+  19. https://donate.wikimedia.org/?wmf_source=donate&wmf_medium=sidebar&wmf_campaign=fr.wikipedia.org&uselang=fr
+  20. file:///w/index.php?title=Sp%C3%A9cial:Cr%C3%A9er_un_compte&returnto=Racine+d%27un+nombre
+  21. file:///w/index.php?title=Sp%C3%A9cial:Connexion&returnto=Racine+d%27un+nombre
+  22. file:///wiki/Aide:Premiers_pas
+  23. file:///wiki/Sp%C3%A9cial:Mes_contributions
+--
+  94. https://zh-yue.wikipedia.org/wiki/%E6%A0%B9%E5%BC%8F
+  95. https://www.wikidata.org/wiki/Special:EntityPage/Q601053#sitelinks-wikipedia
+  96. file:///wiki/Racine_d%27un_nombre
+  97. file:///wiki/Discussion:Racine_d%27un_nombre
+  98. file:///wiki/Racine_d%27un_nombre
+  99. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit
+ 100. file:///w/index.php?title=Racine_d%27un_nombre&action=edit
+ 101. file:///w/index.php?title=Racine_d%27un_nombre&action=history
+ 102. file:///wiki/Racine_d%27un_nombre
+ 103. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit
+ 104. file:///w/index.php?title=Racine_d%27un_nombre&action=edit
+ 105. file:///w/index.php?title=Racine_d%27un_nombre&action=history
+ 106. file:///wiki/Sp%C3%A9cial:Pages_li%C3%A9es/Racine_d%27un_nombre
+ 107. file:///wiki/Sp%C3%A9cial:Suivi_des_liens/Racine_d%27un_nombre
+ 108. file:///wiki/Aide:Importer_un_fichier
+ 109. file:///wiki/Sp%C3%A9cial:Pages_sp%C3%A9ciales
+ 110. file:///w/index.php?title=Racine_d%27un_nombre&oldid=212823728
+ 111. file:///w/index.php?title=Racine_d%27un_nombre&action=info
+ 112. file:///w/index.php?title=Sp%C3%A9cial:Citer&page=Racine_d%27un_nombre&id=212823728&wpFormIdentifier=titleform
+ 113. file:///w/index.php?title=Sp%C3%A9cial:UrlShortener&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_d%2527un_nombre
+ 114. file:///w/index.php?title=Sp%C3%A9cial:QrCode&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FRacine_d%2527un_nombre
+ 115. file:///w/index.php?title=Sp%C3%A9cial:Livre&bookcmd=book_creator&referer=Racine+d%27un+nombre
+ 116. file:///w/index.php?title=Sp%C3%A9cial:DownloadAsPdf&page=Racine_d%27un_nombre&action=show-download-screen
+ 117. file:///w/index.php?title=Racine_d%27un_nombre&printable=yes
+ 118. https://fr.wikiversity.org/wiki/Fonction_exponentielle/Fonction_racine_n-i%C3%A8me
+ 119. https://www.wikidata.org/wiki/Special:EntityPage/Q601053
+ 120. file:///wiki/Aide:Homonymie
+ 121. file:///wiki/Racine
+ 122. file:///wiki/Math%C3%A9matiques
+ 123. file:///wiki/Entier_naturel
+ 124. file:///wiki/Nombre_r%C3%A9el
+ 125. file:///wiki/Nombre_complexe
+ 126. file:///wiki/Racine_carr%C3%A9e
+ 127. file:///wiki/Parit%C3%A9_(arithm%C3%A9tique)
+ 128. file:///wiki/Polyn%C3%B4me
+ 129. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=1
+ 130. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=1
+ 131. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=2
+ 132. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=2
+ 133. file:///wiki/Racine_carr%C3%A9e
+ 134. file:///wiki/Racine_carr%C3%A9e
+ 135. file:///wiki/Racine_carr%C3%A9e_de_deux
+ 136. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=3
+ 137. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=3
+ 138. file:///wiki/Racine_cubique
+ 139. file:///wiki/Racine_cubique
+ 140. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=4
+ 141. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=4
+ 142. file:///wiki/Application_(math%C3%A9matiques)
+ 143. file:///wiki/Bijection
+ 144. file:///wiki/Racine_d%27un_polyn%C3%B4me
+ 145. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=5
+ 146. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=5
+ 147. file:///wiki/Parit%C3%A9_(arithm%C3%A9tique)
+ 148. file:///wiki/Nombre_complexe
+ 149. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=6
+ 150. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=6
+ 151. file:///wiki/Puissance_d%27un_nombre
+ 152. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=7
+ 153. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=7
+ 154. file:///wiki/Isaac_Newton
+ 155. file:///wiki/Gottfried_Wilhelm_Leibniz
+ 156. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#cite_note-1
+ 157. file:///wiki/Puissance_d%27un_nombre#Op%C3%A9rations_alg%C3%A9briques_sur_les_puissances_enti%C3%A8res
+ 158. file:///wiki/Fonction_exponentielle
+ 159. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=8
+ 160. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=8
+ 161. file:///wiki/Fichier:RacineNieme.svg
+ 162. file:///wiki/Bijection_r%C3%A9ciproque
+ 163. file:///wiki/Fonction_puissance
+--
+ 168. file:///wiki/Branche_parabolique
+ 169. file:///wiki/Bijection_r%C3%A9ciproque#D%C3%A9rivabilit%C3%A9
+ 170. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=9
+ 171. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=9
+ 172. file:///wiki/S%C3%A9rie_enti%C3%A8re
+ 173. file:///wiki/S%C3%A9rie_de_Taylor
+--
+ 175. file:///wiki/Convergence_normale
+ 176. file:///wiki/Th%C3%A9or%C3%A8me_d%27Eisenstein
+ 177. file:///wiki/Racine_carr%C3%A9e#Fonction_r%C3%A9elle
+ 178. file:///wiki/Nombre_de_Catalan
+ 179. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=10
+ 180. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=10
+ 181. file:///wiki/Racine_d%27un_nombre_complexe
+ 182. file:///wiki/Th%C3%A9or%C3%A8me_de_d%27Alembert-Gauss
+ 183. file:///wiki/Algorithmique
+ 184. file:///wiki/Formule_d%27Euler
+ 185. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=11
+ 186. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=11
+ 187. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=12
+ 188. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=12
+ 189. file:///wiki/Racine_de_l%27unit%C3%A9
+ 190. file:///wiki/Polyn%C3%B4me_cyclotomique
+ 191. file:///wiki/Groupe_(math%C3%A9matiques)
+ 192. file:///wiki/Groupe_cyclique
+ 193. file:///wiki/Nombre_complexe
+ 194. file:///wiki/Racine_primitive_modulo_n
+ 195. file:///wiki/Nombre_premier
+ 196. file:///wiki/Indicatrice_d%27Euler
+ 197. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=13
+ 198. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=13
+ 199. file:///wiki/Ludovico_Ferrari
+ 200. file:///wiki/Polyn%C3%B4me
+ 201. file:///wiki/Algorithme_de_calcul_de_la_racine_n-i%C3%A8me
+ 202. file:///wiki/%C3%89quation_quintique
+ 203. file:///wiki/Th%C3%A9or%C3%A8me_d%27Abel_(alg%C3%A8bre)
+ 204. file:///wiki/%C3%89quation_quintique
+ 205. file:///wiki/Algorithme_de_recherche_d%27un_z%C3%A9ro_d%27une_fonction
+ 206. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=14
+ 207. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=14
+ 208. file:///wiki/Fichier:Structure_of_a_root.svg
+ 209. file:///wiki/Typographie
+ 210. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=15
+ 211. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=15
+ 212. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#cite_ref-1
+ 213. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=16
+ 214. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=16
+ 215. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=17
+ 216. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=17
+ 217. file:///wiki/Algorithme_de_calcul_de_la_racine_n-i%C3%A8me
+ 218. file:///wiki/Fonction_polynomiale#Racines
+ 219. file:///wiki/Algorithme_de_recherche_d%27un_z%C3%A9ro_d%27une_fonction
+ 220. file:///wiki/Algorithme_de_la_potence
+ 221. file:///w/index.php?title=Racine_d%27un_nombre&veaction=edit&section=18
+ 222. file:///w/index.php?title=Racine_d%27un_nombre&action=edit&section=18
+ 223. http://www.ziebarth-net.de/1786_probe.pdf
+ 224. https://web.archive.org/web/*/http://www.ziebarth-net.de/1786_probe.pdf
+--
+ 250. file:///wiki/Portail:Math%C3%A9matiques
+ 251. file:///wiki/Portail:Math%C3%A9matiques
+ 252. https://fr.wikipedia.org/w/index.php?title=Racine_d%27un_nombre&oldid=212823728
+ 253. file:///wiki/Cat%C3%A9gorie:Accueil
+ 254. file:///wiki/Cat%C3%A9gorie:Analyse_r%C3%A9elle
+ 255. file:///wiki/Cat%C3%A9gorie:Analyse_complexe
+ 256. file:///wiki/Cat%C3%A9gorie:Racine_ni%C3%A8me
+ 257. file:///wiki/Cat%C3%A9gorie:Article_contenant_un_lien_mort
+ 258. file:///wiki/Cat%C3%A9gorie:Portail:Math%C3%A9matiques/Articles_li%C3%A9s
+--
+ 266. https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr
+ 267. file:///wiki/Wikip%C3%A9dia:Cr%C3%A9dits_graphiques
+ 268. file:///wiki/Sp%C3%A9cial:Citer/Racine_d%27un_nombre
+ 269. https://wikimediafoundation.org/
+ 270. file:///wiki/501c
+--
+ 277. https://stats.wikimedia.org/#/fr.wikipedia.org
+ 278. https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Cookie_statement
+ 279. file://fr.m.wikipedia.org/w/index.php?title=Racine_d%27un_nombre&mobileaction=toggle_view_mobile
+ 280. https://wikimediafoundation.org/
+ 281. https://www.mediawiki.org/
+
+   Hidden links:
+ 283. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html
+ 284. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Racine_d'un_r%C3%A9el
+ 285. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Racine_carr%C3%A9e
+ 286. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Racine_cubique
+ 287. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Racine_n-i%C3%A8me_d'un_nombre_r%C3%A9el_positif
+ 288. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Racine_n-i%C3%A8me_d'un_nombre_r%C3%A9el_n%C3%A9gatif
+ 289. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Les_propri%C3%A9t%C3%A9s_des_racines
+ 290. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Exposant_fractionnaire
+ 291. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Fonction_racine_n-i%C3%A8me
+ 292. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#D%C3%A9veloppement_en_s%C3%A9rie_enti%C3%A8re
+ 293. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Racines_d'un_complexe
+ 294. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Nombres_r%C3%A9els_positifs
+ 295. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Racines_de_l'unit%C3%A9
+ 296. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#R%C3%A9solution_par_radicaux
+ 297. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Racine_en_typographie
+ 298. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Notes_et_r%C3%A9f%C3%A9rences
+ 299. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Voir_aussi
+ 300. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Articles_connexes
+ 301. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_Racine_d%2527un_nombre.html#Bibliographie

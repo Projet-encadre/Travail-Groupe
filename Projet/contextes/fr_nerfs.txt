@@ -1,0 +1,60 @@
+   Les nerfs rachidiens sont reliés à la moelle épinière à travers les
+   espaces intervertébraux. Chaque nerf est formé de 2 branches courtes
+   (appelées racines nerveuses rachidiennes) : l'une ventrale et l'autre
+   dorsale.
+     * Racine nerveuse motrice (racine nerveuse antérieure) : La racine
+       motrice provient de l'avant de la moelle épinière. Les nerfs
+       moteurs conduisent les signaux produits par le cerveau et la moelle
+       épinière vers d'autres parties de l'organisme, en particulier vers
+       les muscles squelettiques.
+     * Racine nerveuse sensitive (racine nerveuse postérieure) : La racine
+       sensitive entre par le dos de la moelle épinière. Les nerfs
+       sensitifs transportent les informations sensitives (relatives à la
+       posture, à la lumière, au toucher, à la température et à la
+       douleur) provenant de l'organisme jusqu'au cerveau. Les fibres
+       nerveuses sensorielles situées dans chaque racine nerveuse
+       sensitive transportent les informations à partir d'une région
+       spécifique de l'organisme appelée dermatome.
+
+   À leur sortie de la moelle épinière, les racines nerveuses motrices et
+   sensitives correspondantes se réunissent pour former un nerf rachidien.
+
+--
+  20. https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/biolog%C3%ADa-del-sistema-nervioso/nervios
+  21. file:///n3wbr@nds
+  22. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#mainContainer
+  23. file:///fr/accueil
+  24. file:///fr/accueil/health-topics
+--
+  44. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/troubles-de-la-moelle-%C3%A9pini%C3%A8re/pr%C3%A9sentation-des-troubles-de-la-moelle-%C3%A9pini%C3%A8re
+  45. file:///fr/accueil/pages-with-widgets/questionnaires
+  46. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#mobile258BF70F2F694C07AAEA9776CB47ED9D
+  47. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#mobile258BF70F2F694C07AAEA9776CB47ED9D
+  48. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#tablet258BF70F2F694C07AAEA9776CB47ED9D
+  49. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#tablet258BF70F2F694C07AAEA9776CB47ED9D
+  50. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#desktop258BF70F2F694C07AAEA9776CB47ED9D
+  51. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#desktop258BF70F2F694C07AAEA9776CB47ED9D
+  52. file:///fr/accueil/resourcespages/about-the-manuals
+  53. file:///fr/accueil/resourcespages/disclaimer
+--
+   Hidden links:
+  68. file://localhost/fr/accueil
+  69. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html
+  70. file://localhost/fr/accueil/les-faits-en-bref-troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/biologie-du-syst%C3%A8me-nerveux/les-nerfs
+  71. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html
+  72. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html
+
+[USEMAP]
+file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#desktop258BF70F2F694C07AAEA9776CB47ED9D
+   1. https://apps.apple.com/app/le-manuel-msd-grand-public/id1242291244
+   2. https://play.google.com/store/apps/details?id=com.msd.consumerFrench&referrer=utm_source%3DMMWeb%26utm_medium%3Dbanner%26utm_content%3DTopic1Vertical%26utm_campaign%3DWebAppAds
+
+[USEMAP]
+file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#tablet258BF70F2F694C07AAEA9776CB47ED9D
+   1. https://apps.apple.com/app/le-manuel-msd-grand-public/id1242291244
+   2. https://play.google.com/store/apps/details?id=com.msd.consumerFrench&referrer=utm_source%3DMMWeb%26utm_medium%3Dbanner%26utm_content%3DTopic1Vertical%26utm_campaign%3DWebAppAds
+
+[USEMAP]
+file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#mobile258BF70F2F694C07AAEA9776CB47ED9D
+   1. https://apps.apple.com/app/le-manuel-msd-grand-public/id1242291244
+   2. https://play.google.com/store/apps/details?id=com.msd.consumerFrench&referrer=utm_source%3DMMWeb%26utm_medium%3Dbanner%26utm_content%3DTopic1Vertical%26utm_campaign%3DWebAppAds

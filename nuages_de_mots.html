@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Nuages de Mots</title>
+        <link rel="stylesheet"
+            type="text/css"
+            href="assets/css/style.css"/>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                min-height: 100vh;
+                /* background-color: #f4f4f4; */
+                background-color: rgba(226, 145, 99, 0.452);
+            }
+
+            header {
+                margin: 20px 0; /* Espacement au-dessus et en dessous du header */
+            }
+
+            h1 {
+                font-size: 2rem;
+                margin: 0; /* Supprime l'espace par défaut autour du titre */
+            }
+
+            header, h1 {
+                text-align: center;
+            }
+            
+            h2 {
+                text-align: center;
+                margin: 20px 0; /* Espacement au-dessus et en dessous de RACINE */
+            }
+
+            header a {
+                color: aqua;
+                margin-right: 30px; /* Adjust the value to control the space between links */
+            }
+            header a:hover {
+				color: rgb(39, 110, 110);
+            }
+            
+            .image-grid {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr); /* 2 images par ligne */
+                gap: 10px; /* Espacement entre les images */
+                max-width: 25000px; /* La largeur totale */
+                margin: 0 auto; /* Centre la grille */
+            }
+
+            .image-grid img {
+                width: 100%;
+                height: auto; /* Respecter le ratio d'origine */
+                border-radius: 5px; /* Coins arrondis */
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Ombre légère */
+            }
+
+        </style>        
+    </head>
+    <body>
+        <header>
+            <h1 class="Tearoom">Nuages de Mots</h1>
+			<br>
+			<!-- Navigation link back to the home page -->
+			<a href="index.html">Retour à la page d'accueil</a>
+            <!-- Navigation link back to the menu -->
+            <a href="tableaux.html">Tableaux</a>
+		</header>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <main>
+            <h2>RACINE</h2>
+            <br>
+            <br>
+                <div class="image-grid">
+                    <img src="wordcloud/nuage_racine.png" alt="Image du mot 'racine' en français">
+                    <img src="wordcloud/wordcloud_spanish.png" alt="Image du mot 'racine' en espagnol">
+                    <img src="wordcloud/wordcloud-en.png" alt="Image du mot 'racine' en anglais">
+                    <img src="wordcloud/wordcloud_cn.png" alt="Image du mot 'racine' en chinois">
+                </div>
+            <br>
+        </main>
+        <footer>
+
+        </footer>
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+        <script src="assets/js/script.js"></script> 
+    </body>
+</html>

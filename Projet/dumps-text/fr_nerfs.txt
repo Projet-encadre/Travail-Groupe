@@ -1,0 +1,299 @@
+   #[1]alternate [2]alternate [3]alternate [4]alternate [5]alternate
+   [6]alternate [7]alternate [8]alternate [9]alternate [10]alternate
+   [11]alternate [12]alternate [13]alternate [14]alternate [15]alternate
+   [16]alternate [17]alternate [18]alternate [19]alternate [20]alternate
+
+   [21]honeypot link
+
+   [22]skip to main content
+   ( ) Professionnels de la santé (*) Grand public
+   ____________________
+   (BUTTON) Rechercher Rechercher
+   (BUTTON)
+   [yH5BAEAAAAALAAAAAABAAEAAAIBRAA7] [image?url=&amp;w=16&amp;q=75]
+
+   [23]MSD MSD Le Manuel MSDVersion pour le grand public
+
+   (BUTTON)
+
+   [24]SUJETS MÉDICAUX[25] VIVRE EN BONNE
+   SANTÉ[26]SYMPTÔMES[27]URGENCES[28]RESSOURCES[29]COMMENTAIRE[30]À PROPOS
+   DE
+
+   [31]home [32]SUJETS MÉDICAUX[33] VIVRE EN BONNE SANTÉ
+   Search icon
+
+    1. [34]Familles/
+    2. [35]Troubles du cerveau, de la moelle épinière et des nerfs/
+    3. [36]Biologie du système nerveux/
+    4. [37]Nerfs/
+
+     * (BUTTON)
+
+Nerfs
+
+   Par[38]Kenneth Maiese, MD, Rutgers University
+   Vérifié/Révisé janv. 2024
+   AFFICHER LA VERSION PROFESSIONNELLE
+   Les faits en bref
+
+   Le [39]système nerveux périphérique est composé de plus de
+   100 milliards de cellules nerveuses (neurones) qui traversent tout
+   l'organisme et créent des connexions avec le cerveau, d'autres parties
+   de l'organisme, et bien souvent entre elles.
+
+   Les nerfs périphériques sont constitués de faisceaux de fibres
+   nerveuses. Ces fibres sont enveloppées de plusieurs membranes composées
+   d'une substance grasse appelée myéline. Ces membranes forment la gaine
+   de myéline, qui accélère la conduction des influx nerveux le long de la
+   fibre nerveuse. Les nerfs conduisent les influx à différentes vitesses
+   selon le diamètre et la quantité de myéline les entourant.
+
+   Le système nerveux périphérique se compose de 2 parties :
+     * Le système nerveux somatique
+     * Le système nerveux autonome
+
+   Impulsion nerveuse
+   MODÈLE 3D
+
+Système nerveux somatique
+
+   Le système nerveux somatique est constitué de fibres qui relient le
+   [40]cerveau et la [41]moelle épinière aux muscles contrôlés par
+   l'effort volontaire (muscles striés) et aux récepteurs sensitifs
+   présents dans la peau. Ces récepteurs sensitifs sont les extrémités des
+   fibres nerveuses, spécialisées dans la recherche d'informations au sein
+   de l'organisme et autour de ce dernier.
+
+Système nerveux autonome
+
+   Le système autonome relie le tronc cérébral et la moelle épinière aux
+   organes internes et régule les processus physiologiques internes qui ne
+   demandent aucun effort volontaire et dont les personnes n'ont donc
+   normalement pas conscience (voir [42]Présentation du système nerveux
+   autonome). Par exemple, le rythme cardiaque et la puissance des
+   contractions du coeur, la tension artérielle, la fréquence de la
+   respiration et la vitesse de transit des aliments dans le tube
+   digestif.
+
+   Le système nerveux autonome est divisé en 2 parties :
+     * Le système sympathique : Sa principale fonction est de préparer
+       l'organisme à réagir en cas de stress ou d'urgence, pour combattre
+       ou fuir.
+     * Le système parasympathique : Sa principale fonction est de
+       maintenir les fonctions normales de l'organisme pendant les
+       situations ordinaires.
+
+   Ces deux systèmes interagissent entre eux, en général, un système
+   active les actions des organes internes tandis que l'autre les inhibe.
+   Par exemple, l'activité sympathique augmente le pouls, la pression
+   artérielle et la fréquence respiratoire, tandis que l'activité
+   parasympathique les réduit.
+
+   Structure d'une cellule nerveuse
+
+   La cellule nerveuse (neurone) est constituée d'un grand corps
+   cellulaire et de fibres nerveuses, dont un prolongement (axone) qui
+   transmet les impulsions et, en général, de nombreuses extensions
+   (dendrites) qui permettent de recevoir les impulsions. Les impulsions
+   de l'axone traversent une synapse (point de jonction entre deux
+   cellules nerveuses) pour atteindre la dendrite d'une autre cellule.
+
+   Chaque grand axone est entouré d'oligodendrocytes dans le cerveau et la
+   moelle et de cellules de Schwann dans le système nerveux périphérique.
+   Les membranes de ces cellules sont constituées d'une graisse
+   (lipoprotéine) appelée myéline. Les membranes s'enroulent étroitement
+   autour de l'axone pour former une enveloppe à plusieurs couches. Cette
+   gaine de myéline est semblable au matériau isolant d'un fil électrique.
+   Les influx nerveux se propagent beaucoup plus rapidement dans les nerfs
+   pourvus de gaine de myéline que dans ceux qui en sont dénués.
+   Structure d'une cellule nerveuse Structure d'une cellule nerveuse
+
+Nerfs crâniens et nerfs rachidiens
+
+   Les nerfs crâniens relient directement le cerveau et le tronc cérébral
+   aux yeux, aux oreilles, au nez et à la gorge, ainsi qu'à diverses
+   parties de la tête, du cou et du tronc. Il en existe 12 paires (voir
+   [43]Présentation des nerfs crâniens). Les nerfs crâniens transmettent
+   les informations sensorielles, notamment le toucher, la vision, le
+   goût, l'odorat et l'ouïe.
+
+   Les nerfs rachidiens relient la moelle épinière aux autres parties de
+   l'organisme. En général, le cerveau communique avec l'organisme par
+   l'intermédiaire des nerfs rachidiens. Il en existe 31 paires, situées à
+   intervalle le long de la moelle épinière (voir [44]Présentation des
+   troubles de la moelle épinière). Plusieurs nerfs crâniens et la plupart
+   des nerfs rachidiens sont impliqués dans les deux parties somatique et
+   autonome du système nerveux périphérique.
+
+   Les nerfs rachidiens sont reliés à la moelle épinière à travers les
+   espaces intervertébraux. Chaque nerf est formé de 2 branches courtes
+   (appelées racines nerveuses rachidiennes) : l'une ventrale et l'autre
+   dorsale.
+     * Racine nerveuse motrice (racine nerveuse antérieure) : La racine
+       motrice provient de l'avant de la moelle épinière. Les nerfs
+       moteurs conduisent les signaux produits par le cerveau et la moelle
+       épinière vers d'autres parties de l'organisme, en particulier vers
+       les muscles squelettiques.
+     * Racine nerveuse sensitive (racine nerveuse postérieure) : La racine
+       sensitive entre par le dos de la moelle épinière. Les nerfs
+       sensitifs transportent les informations sensitives (relatives à la
+       posture, à la lumière, au toucher, à la température et à la
+       douleur) provenant de l'organisme jusqu'au cerveau. Les fibres
+       nerveuses sensorielles situées dans chaque racine nerveuse
+       sensitive transportent les informations à partir d'une région
+       spécifique de l'organisme appelée dermatome.
+
+   À leur sortie de la moelle épinière, les racines nerveuses motrices et
+   sensitives correspondantes se réunissent pour former un nerf rachidien.
+
+   Certains nerfs rachidiens forment des réseaux de nerfs intriqués entre
+   eux, appelés les plexus nerveux. Dans un plexus, les fibres nerveuses
+   issues des différents nerfs rachidiens sont organisées de telle façon
+   que toutes celles allant ou provenant d'une zone précise de l'organisme
+   soient réunies dans un seul nerf (voir la figure Boîtiers de
+   raccordement des nerfs : les plexus).
+
+   Il existe 2 grands plexus nerveux :
+     * Plexus brachial : trie et réunit les fibres nerveuses qui voyagent
+       vers les bras et les mains
+     * Plexus lombosacré : trie et réunit les fibres nerveuses qui vont
+       dans les jambes et les pieds
+
+   quizzes_lightbulb_red quizzes_lightbulb_red
+   TESTEZ VOS CONNAISSANCES[45]Take a Quiz!
+   [46][USEMAP:yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   [47][USEMAP:image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fmmanual-ssq
+   1ci05%2Fmedia%2Fmanual%2Fmarketing%2Fmobileqr%2Ffr_msd_mobile_con_326.g
+   if&amp;w=750&amp;q=75]
+   [48][USEMAP:yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   [49][USEMAP:image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fmmanual-ssq
+   1ci05%2Fmedia%2Fmanual%2Fmarketing%2Fmobileqr%2Ffr_msd_mobile_con_326.g
+   if&amp;w=750&amp;q=75]
+   [50][USEMAP:yH5BAEAAAAALAAAAAABAAEAAAIBRAA7]
+   [51][USEMAP:image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fmmanual-ssq
+   1ci05%2Fmedia%2Fmanual%2Fmarketing%2Fmobileqr%2Ffr_msd_mobile_qr_con_32
+   6.gif&amp;w=750&amp;q=75]
+
+   [msd_logo_transparent.d622c3c6.png]
+
+   Copyright © 2025 Merck & Co., Inc., Rahway, NJ, États-Unis et ses
+   sociétés affiliées. Tous droits réservés.
+     * [52]À PROPOS DE
+     * [53]Clause de non-responsabilité
+     * [54]Cookie Preferences
+
+   Copyright© 2025Merck & Co., Inc., Rahway, NJ, États-Unis et ses
+   sociétés affiliées. Tous droits réservés.
+
+   IFRAME: [55]https://www.googletagmanager.com/ns.html?id=GTM-5MKXR9
+
+   MSD MSD
+     * [56]À PROPOS DE
+     * [57]Clause de non-responsabilité
+     * [58]Autorisations
+     * [59]Protection des Renseignements Personnels
+     * [60]Cookie Preferences
+     * [61]CONTRIBUTEURS
+     * [62]Conditions d'utilisation
+     * [63]Attribution de licences
+     * [64]Contactez-nous
+     * [65]CONNAISSANCE MÉDICALE MONDIALE
+     * [66]APPLICATIONS MOBILES
+
+   MSD MSD
+
+   Copyright© 2025Merck & Co., Inc., Rahway, NJ, États-Unis et ses
+   sociétés affiliées. Tous droits réservés.
+
+References
+
+   Visible links:
+   1. https://www.msdmanuals.com/home/brain-spinal-cord-and-nerve-disorders/biology-of-the-nervous-system/nerves
+   2. https://www.msdmanuals.com/home/brain-spinal-cord-and-nerve-disorders/biology-of-the-nervous-system/nerves
+   3. https://www.msdmanuals.com/sw/home/brain-spinal-cord-and-nerve-disorders/biology-of-the-nervous-system/nerves
+   4. https://www.msdmanuals.com/hi/home/brain-spinal-cord-and-nerve-disorders/biology-of-the-nervous-system/nerves
+   5. https://www.msdmanuals.cn/home/brain-spinal-cord-and-nerve-disorders/biology-of-the-nervous-system/nerves
+   6. https://www.merckmanuals.com/home/brain-spinal-cord-and-nerve-disorders/biology-of-the-nervous-system/nerves
+   7. https://www.merckmanuals.com/home/brain-spinal-cord-and-nerve-disorders/biology-of-the-nervous-system/nerves
+   8. https://www.msdmanuals.com/fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/biologie-du-syst%C3%A8me-nerveux/nerfs
+   9. https://www.msdmanuals.com/de/heim/st%C3%B6rungen-der-hirn-r%C3%BCckenmarks-und-nervenfunktion/biologie-des-nervensystems/nerven
+  10. https://www.msdmanuals.com/it/casa/disturbi-di-cervello-midollo-spinale-e-nervi/biologia-del-sistema-nervoso/nervi
+  11. https://www.msdmanuals.com/ko/home/%EB-%EC%B2%EC-%EC%A0%EA%B2%BD-%EC%A5%EC%A0/%EC%A0%EA%B2%BD%EA%B3-%EC%EB%AC%BC%ED/%EC%A0%EA%B2%BD
+  12. https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-cerebrais-da-medula-espinal-e-dos-nervos/biologia-do-sistema-nervoso/nervos
+  13. https://www.msdmanuals.com/ru/home/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8-%D1%D0%BF%D0%B8%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BC%D0%BE%D0%B7%D0%B3%D0%B0-%D0%B8-%D0%BD%D0%B5%D1%D0%B2%D0%BD%D0%BE%D0%B9-%D1%D0%B8%D1%D1%D0%B5%D0%BC%D1/%D0%B1%D0%B8%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1-%D0%BD%D0%B5%D1%D0%B2%D0%BD%D0%BE%D0%B9-%D1%D0%B8%D1%D1%D0%B5%D0%BC%D1/%D0%BD%D0%B5%D1%D0%B2%D1
+  14. https://www.msdmanuals.com/es/hogar/enfermedades-cerebrales-medulares-y-nerviosas/biolog%C3%ADa-del-sistema-nervioso/nervios
+  15. https://www.msdmanuals.com/ar/home/%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%A8%D8%A7%D8%AA-%D8%A7%D9%D8%AF%D9%D8%A7%D8%BA-%D9%D8%A7%D9%D8%AD%D8%A8%D9-%D8%A7%D9%D8%B4%D9%D9%D9-%D9%D8%A7%D9%D8%A3%D8%B9%D8%B5%D8%A7%D8%A8/%D8%A8%D9%D9%D9%D9%D9%D9%D8%AC%D9%D8%A7-%D8%A7%D9%D8%AC%D9%D9%D8%A7%D8%B2-%D8%A7%D9%D8%B9%D8%B5%D8%A8%D9%D9/%D8%A7%D9%D8%A3%D8%B9%D8%B5%D9%D8%A7%D8%A8
+  16. https://www.merckmanuals.com/en-ca/home/brain-spinal-cord-and-nerve-disorders/biology-of-the-nervous-system/nerves
+  17. https://www.merckmanuals.com/fr-ca/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/biologie-du-syst%C3%A8me-nerveux/nerfs
+  18. https://www.msdmanuals.com/ja-jp/home/09-%E8%B3-%E8%E9%AB-%E6%AB%E6%A2%A2%E7%A5%E7%B5%E3%AE%E7%E6%B0/%E7%A5%E7%B5%E7%B3%BB%E3%AE%E7%E7%A9%E5%AD%A6/%E7%A5%E7%B5
+  19. https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/biolog%C3%ADa-del-sistema-nervioso/nervios
+  20. https://www.merckmanuals.com/es-us/hogar/enfermedades-cerebrales-medulares-y-nerviosas/biolog%C3%ADa-del-sistema-nervioso/nervios
+  21. file:///n3wbr@nds
+  22. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#mainContainer
+  23. file:///fr/accueil
+  24. file:///fr/accueil/health-topics
+  25. file:///fr/accueil/healthy-living
+  26. file:///fr/accueil/symptoms
+  27. file:///fr/accueil/urgences-et-blessures
+  28. file:///fr/accueil/ressource
+  29. file:///fr/accueil/pages-with-widgets/news-list
+  30. file:///fr/accueil/resourcespages/about-the-manuals
+  31. file:///fr/accueil
+  32. file:///fr/accueil/health-topics
+  33. file:///fr/accueil/healthy-living
+  34. file:///fr/accueil
+  35. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs
+  36. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/biologie-du-syst%C3%A8me-nerveux
+  37. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/biologie-du-syst%C3%A8me-nerveux/nerfs
+  38. file:///fr/home/authors/maiese-kenneth
+  39. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/maladies-des-nerfs-p%C3%A9riph%C3%A9riques-et-maladies-apparent%C3%A9es/pr%C3%A9sentation-du-syst%C3%A8me-nerveux-p%C3%A9riph%C3%A9rique
+  40. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/biologie-du-syst%C3%A8me-nerveux/cerveau
+  41. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/biologie-du-syst%C3%A8me-nerveux/moelle-%C3%A9pini%C3%A8re
+  42. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/troubles-du-syst%C3%A8me-nerveux-autonome/pr%C3%A9sentation-du-syst%C3%A8me-nerveux-autonome
+  43. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/maladies-des-nerfs-cr%C3%A2niens/pr%C3%A9sentation-des-nerfs-cr%C3%A2niens
+  44. file:///fr/accueil/troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/troubles-de-la-moelle-%C3%A9pini%C3%A8re/pr%C3%A9sentation-des-troubles-de-la-moelle-%C3%A9pini%C3%A8re
+  45. file:///fr/accueil/pages-with-widgets/questionnaires
+  46. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#mobile258BF70F2F694C07AAEA9776CB47ED9D
+  47. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#mobile258BF70F2F694C07AAEA9776CB47ED9D
+  48. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#tablet258BF70F2F694C07AAEA9776CB47ED9D
+  49. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#tablet258BF70F2F694C07AAEA9776CB47ED9D
+  50. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#desktop258BF70F2F694C07AAEA9776CB47ED9D
+  51. LYNXIMGMAP:file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#desktop258BF70F2F694C07AAEA9776CB47ED9D
+  52. file:///fr/accueil/resourcespages/about-the-manuals
+  53. file:///fr/accueil/resourcespages/disclaimer
+  54. javascript:void(0)
+  55. https://www.googletagmanager.com/ns.html?id=GTM-5MKXR9
+  56. file:///fr/accueil/resourcespages/about-the-manuals
+  57. file:///fr/accueil/resourcespages/disclaimer
+  58. file:///fr/accueil/content/permissions
+  59. https://www.msdprivacy.com/
+  60. javascript:void(0)
+  61. file:///fr/accueil/authors
+  62. file:///fr/accueil/content/termsofuse
+  63. file:///fr/accueil/content/partnerships
+  64. file:///fr/accueil/content/contact-us
+  65. file:///fr/accueil/resourcespages/global-medical-knowledge
+  66. file:///fr/accueil/resourcespages/mobileapps
+
+   Hidden links:
+  68. file://localhost/fr/accueil
+  69. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html
+  70. file://localhost/fr/accueil/les-faits-en-bref-troubles-du-cerveau-de-la-moelle-%C3%A9pini%C3%A8re-et-des-nerfs/biologie-du-syst%C3%A8me-nerveux/les-nerfs
+  71. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html
+  72. file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html
+
+[USEMAP]
+file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#desktop258BF70F2F694C07AAEA9776CB47ED9D
+   1. https://apps.apple.com/app/le-manuel-msd-grand-public/id1242291244
+   2. https://play.google.com/store/apps/details?id=com.msd.consumerFrench&referrer=utm_source%3DMMWeb%26utm_medium%3Dbanner%26utm_content%3DTopic1Vertical%26utm_campaign%3DWebAppAds
+
+[USEMAP]
+file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#tablet258BF70F2F694C07AAEA9776CB47ED9D
+   1. https://apps.apple.com/app/le-manuel-msd-grand-public/id1242291244
+   2. https://play.google.com/store/apps/details?id=com.msd.consumerFrench&referrer=utm_source%3DMMWeb%26utm_medium%3Dbanner%26utm_content%3DTopic1Vertical%26utm_campaign%3DWebAppAds
+
+[USEMAP]
+file://localhost/Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_nerfs.html#mobile258BF70F2F694C07AAEA9776CB47ED9D
+   1. https://apps.apple.com/app/le-manuel-msd-grand-public/id1242291244
+   2. https://play.google.com/store/apps/details?id=com.msd.consumerFrench&referrer=utm_source%3DMMWeb%26utm_medium%3Dbanner%26utm_content%3DTopic1Vertical%26utm_campaign%3DWebAppAds

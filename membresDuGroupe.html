@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Membres du Groupe</title>
+        <link rel="stylesheet"
+            type="text/css"
+            href="assets/css/style.css"/>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                min-height: 100vh;
+                background-color: rgba(226, 145, 99, 0.452);
+            }
+
+            header {
+                margin: 20px 0; /* Espacement au-dessus et en dessous du header */
+            }
+
+            h1 {
+                font-size: 2rem;
+                margin: 0; /* Supprime l'espace par défaut autour du titre */
+            }
+
+            header, h1 {
+                text-align: center;
+            }
+            
+            h2 {
+                text-align: center;
+                margin: 20px 0; /* Espacement au-dessus et en dessous de RACINE */
+            }
+
+            header a {
+                color: aqua;
+                margin-right: 30px; /* Adjust the value to control the space between links */
+            }
+            header a:hover {
+				color: rgb(39, 110, 110);
+            }
+            
+            .image-grid {
+                display: grid;
+                grid-template-columns: repeat(2, 1fr); /* 2 images par ligne */
+                gap: 10px; /* Espacement entre les images */
+                max-width: 25000px; /* La largeur totale */
+                margin: 0 auto; /* Centre la grille */
+            }
+
+            .image-grid img {
+                width: 100%;
+                height: auto; /* Respecter le ratio d'origine */
+                border-radius: 5px; /* Coins arrondis */
+                box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Ombre légère */
+            }
+
+            .member {
+                display: flex;
+                flex-direction: column; /* Dispose les éléments en colonne (nom au-dessus de l'image) */
+                align-items: center; /* Centre les éléments horizontalement */
+            }
+
+            .member p {
+                margin-bottom: 10px; /* Ajoute un espace entre le texte et l'image */
+                font-weight: bold; /* Rend le texte en gras */
+                font-size: 1rem; /* La taille de la police */
+            }
+
+            .member img {
+                max-width: 100%; /* Assure que les images ne débordent pas */
+                border-radius: 8px; /* Ajoute un arrondi aux coins des images */
+            }
+
+        </style>        
+    </head>
+    <body>
+        <header>
+            <h1>Membres du Groupe</h1>
+			<br>
+			<!-- Navigation link back to the home page -->
+			<a href="index.html">Retour à la page d'accueil</a>
+            <!-- Navigation link back to the menu -->
+            <a href="tableaux.html">Tableaux</a>
+		</header>
+        <br>
+        <br>
+        <br>
+        <main>
+            <h2>RACINE</h2>
+            <br>
+            <br>
+                <div class="image-grid">
+                    <div class="member">
+                        <p>CHENG Dingding 成鼎鼎</p>
+                        <img src="assets/img/dd.jpeg" alt="Image de CHENG Dingding 成鼎鼎">
+                    </div>
+                    <div class="member">
+                        <p>DA SILVA Jean-Charles</p>
+                        <img src="assets/img/jc.jpeg" alt="Image de DA SILVA Jean-Charles">
+                    </div>
+                    <div class="member">
+                        <p>WANG Xiaobo 王曉波</p>
+                        <img src="assets/img/xb.jpg" alt="Image de WANG Xiaobo 王曉波">
+                    </div>
+                    <div class="member">
+                        <p>KULIKOVA Natalia</p>
+                        <img src="assets/img/nk.jpg" alt="Image de KULIKOVA Natalia">
+                    </div>
+                </div>
+            <br>
+        </main>
+        <footer>
+
+        </footer>
+        <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+        <script src="assets/js/script.js"></script> 
+    </body>
+</html>

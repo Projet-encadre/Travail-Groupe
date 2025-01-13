@@ -1,0 +1,852 @@
+   #[1]alternate [2]alternate [3]JSON [4]oEmbed (JSON) [5]oEmbed (XML)
+
+     * [6]Accueil
+     * [7]Présentation
+     * [8]Auteurs
+     * [9]Institutions
+     * [10]Glossaire
+     * [11]Newsletter
+     * [12]Contact
+     * [13]English
+     * [14]ä¸æU96U87 (ä¸åU9B½)
+
+   [15]Encyclopédie de l'environnement
+
+   -HVN-
+   ____________________ search
+
+     * [16]Air
+     * [17]Eau
+     * [18]Sol
+     * [19]Climat
+     * [20]Physique
+     * [21]Vivant
+     * [22]Santé
+     * [23]Société
+
+   [24]Accueil » [25]Vivant » [26]Vivant et facteurs du milieu » Le
+   système racinaire des plantes : de l'ombre à la lumière
+
+Le système racinaire des plantes : de l'ombre à la lumière
+
+   [27]PDF 13-10-2023
+
+   Les racines représentent une cible de choix pour l'amélioration des
+   plantes cultivées pour accompagner la transition vers une agriculture
+   plus frugale et respectueuse de l'environnement. Pourtant, les
+   caractères racinaires ont longtemps été négligés dans les programmes
+   d'amélioration, notamment car la première révolution verte a été basée
+   sur l'utilisation massive d'eau et d'engrais. Les changements globaux
+   incitent désormais à une utilisation plus raisonnée des intrants
+   agricoles afin de réduire la dégradation des sols, la pollution des
+   eaux et de l'air, et l'épuisement des ressources. Répondre aux besoins
+   de production tout en limitant l'utilisation d'eau et d'éléments
+   minéraux est un défi majeur. Quel rôle peuvent jouer les racines,
+   organes nourriciers de la plante, dans le développement d'une
+   agriculture plus durable et résiliente face aux climats actuels et
+   futurs ? Un rôle essentiel, comme le montrent les recherches qui
+   permettent de mieux comprendre leur développement, leurs fonctions,
+   leur diversité et leurs adaptations à l'environnement, les faisant
+   passer de l'ombre à la lumière.
+     * [28]1. Les racines prélèvent l'eau et les nutriments pour la plante
+          + [29]1.1. Architecture et anatomie du système racinaire
+          + [30]1.2. Développement et plasticité du système racinaire
+     * [31]2. Les racines interagissent avec le sol et les communautés
+       microbiennes qui s'y trouvent
+          + [32]2.1. Influence des racines sur les caractéristiques du sol
+          + [33]2.2. Mobilisation des microorganismes par les racines
+     * [34]3. Le système racinaire : une cible pour l'amélioration des
+       plantes
+          + [35]3.1. Diversité et complexité des systèmes racinaires
+          + [36]3.2. Utilité des systèmes racinaires pour l'amélioration
+            variétale
+     * [37]4. Messages à retenir
+
+1. Les racines prélèvent l'eau et les nutriments pour la plante
+
+   Les racines sont les organes des plantes supérieures spécialisés dans
+   l'exploration du sol et le prélèvement de l'eau et des ions minéraux
+   (Lire [38]Nourrir les plantes en polluant moins ?). Elles jouent un
+   rôle primordial pour leur survie et leur développement. Chaque plante
+   possède plusieurs catégories de racines organisées en un système
+   racinaire. Cet ensemble de racines ancre la plante dans le sol et
+   communique avec la ou les tiges, qui portent les feuilles, les fleurs
+   et les fruits. Le système racinaire se développe par la formation
+   répétée de nouvelles racines et leur croissance en longueur. La
+   croissance et la formation des racines dépendent étroitement de
+   l'environnement dans lequel elles se développent. Les racines
+   permettent ainsi à la plante de s'adapter, malgré son immobilité, au
+   caractère hétérogène et variable des ressources et des contraintes de
+   son milieu de vie (Lire [39]La vie fixée des plantes et ses
+   contraintes, [40]La quête inlassable de l'eau par les plantes &
+   [41]Besoins en eau des plantes : comment les satisfaire ?).
+
+1.1. Architecture et anatomie du système racinaire
+
+   [42]racine plante - systeme racinaire - racine pois - racine mais
+   Figure 1. Schéma d'un système racinaire de type « pivotant » chez le
+   pois (Pisum sativum) et de type « fasciculé » chez le maïs (Zea mays)
+   avec leurs différents types de racines. [Source : schéma des auteurs
+   adapté de ref [2], CC BY-NC-ND 4.0]Le système racinaire présente une
+   architecture ramifiée et une anatomie spécialisée qui influencent ses
+   propriétés d'exploration du sol et d'échanges. Lors de la germination,
+   de premières racines dites séminales se développent à partir de
+   l'embryon situé dans la graine. Plus tard, et tout au long de la vie de
+   la plante, d'autres racines dites post-embryonnaires se développent à
+   partir de racines existantes ou de tiges. Il existe une grande
+   variation dans les proportions des différentes catégories de racines
+   qui contribuent au système racinaire, ainsi que dans leur rythme de
+   croissance et de ramification. On observe ainsi une grande diversité
+   des systèmes racinaires.
+
+   Deux grands types de systèmes racinaires peuvent cependant être
+   distingués [43][1]. Le système racinaire « pivotant », retrouvé chez
+   les Angiospermes dicotylédones (comme le colza ou le pois) et des
+   Gymnospermes (telles que le pin), se caractérise le plus souvent par la
+   formation de racines latérales sur une racine séminale principale qui
+   croît dans le sol telle un pivot (Figure 1a) [44][2]. La majorité des
+   Angiospermes monocotylédones (comme le blé ou le riz) possèdent quant à
+   elle un système racinaire de type « fasciculé » qui se caractérise par
+   un bouquet de plusieurs racines séminales et surtout de nombreuses
+   racines dites coronaires relativement équivalentes en taille et se
+   formant à partir de la base des tiges (Figure 1b). Ces racines portent
+   elles-mêmes des racines latérales. Certaines plantes possédant un
+   système racinaire de type « fasciculé » peuvent développer plus d'une
+   centaine de racines coronaires.
+
+   [45]racine maïs - racine plante Figure 2. Organisation anatomique
+   typique d'une coupe transversale de racine de maïs (monocotylédone).
+   [Source : adapté par les auteurs d'une micrographie de Berkshire
+   Community College, Domaine public]L'exploration de la structure interne
+   des racines révèle différents types de tissus organisés en couches
+   concentriques. L'organisation anatomique typique d'une racine jeune
+   contient de l'extérieur vers l'intérieur : l'épiderme racinaire et les
+   poils absorbants qui sont en contact avec le sol, le cortex pouvant
+   contenir des cavités aérifères appelées aérenchymes, l'endoderme, puis,
+   au centre, un ensemble appelé la stèle, qui contient, entre autres, les
+   tissus vasculaires^1 (Figure 2).
+
+   Ces différents tissus racinaires possèdent des propriétés qui
+   permettent à la racine de moduler ses capacités d'échanges avec le
+   sol :
+     * Les poils absorbants permettent notamment d'augmenter drastiquement
+       la surface d'échange de la racine pour faciliter l'acquisition de
+       l'eau et des nutriments.
+     * Des barrières pariétales plus ou moins imperméabilisées entourant
+       les cellules de l'endoderme et du cortex externe régulent le
+       passage de l'eau et des nutriments vers les vaisseaux conducteurs
+       [46][3].
+
+   Les tissus vasculaires sont eux spécialisés dans les échanges entre les
+   racines et les organes aériens :
+     * Les vaisseaux du xylème contiennent la sève brute composée d'eau et
+       d'éléments minéraux qui circule des racines vers les organes
+       aériens.
+     * Les vaisseaux du phloème contiennent la sève élaborée riche en
+       produits de la photosynthèse qui circule des organes aériens vers
+       les racines.
+
+   Chez les espèces pérennes, les racines âgées s'élargissent au fil des
+   années par l'ajout de nouvelles couches de tissus. Ces tissus dits
+   secondaires forment, entre autres, du liège en périphérie et du bois au
+   centre de la racine.
+
+1.2. Développement et plasticité du système racinaire
+
+   [47]racine plante - schema racine plantes Figure 3. Organisation
+   anatomique des zones racinaires impliquées dans la croissance en
+   longueur de la racine (a) et la ramification racinaire (b) chez la
+   plante modèle dicotylédone Arabidopsis thaliana. L'identité des
+   différents tissus racinaires est indiquée par le code couleur. [Source
+   : © IRD Soazig Guyomarc'h. Reproduit avec la permission de l'auteur]La
+   croissance en longueur des racines est assurée par un ensemble de
+   cellules spécialisées localisé à proximité de l'extrémité de la racine
+   en croissance : le méristème [48][4] (Figure 3a). Ce méristème apical
+   racinaire est protégé par une coiffe contenant des cellules sensibles à
+   la gravité terrestre. Les cellules méristématiques peuvent se
+   multiplier par division cellulaire, engager certaines de leurs cellules
+   filles dans la formation de nouveaux tissus racinaires ou au contraire
+   maintenir ces cellules filles à l'état de cellules souches
+   indifférenciées. Ces états multiples sont contrôlés par des processus
+   complexes mettant en jeu de nombreux facteurs tels que des protéines
+   régulatrices et des hormones végétales, dont l'auxine [49][5]. La
+   formation de nouvelles racines implique la formation d'un nouveau
+   méristème racinaire par l'accumulation d'auxine dans certaines cellules
+   de racines ou de tiges existantes (Figure 3b).
+
+   Le développement des racines dans le sol est très sensible à
+   l'environnement. La croissance, le développement et les propriétés
+   fonctionnelles des racines sont influencées par des signaux circulant
+   dans la plante et par la perception d'informations en provenance du
+   sol. Ces modifications du système racinaire en réponse aux conditions
+   changeantes de l'environnement sont cruciales pour l'adaptation de la
+   plante et sont désignées par le terme de plasticité racinaire.
+
+   [50]developpement plastique racines - racines plantes Figure 4.
+   Développement plastique des racines en réponse à la disponibilité en
+   eau (a ; H[2]O) et en phosphore (b ; P) dans le sol. La taille des
+   lettres (pour H[2]O et P) représente des quantités de ces molécules
+   plus ou moins grandes. [Source : © IRD Alexandre Grondin. Reproduit
+   avec la permission de l'auteur]Par exemple, la disponibilité locale en
+   eau peut influencer la vitesse et l'orientation de la croissance de
+   certaines racines. Des chercheurs ont identifié chez le maïs un
+   mécanisme biologique stimulant spécifiquement la formation des racines
+   latérales dans les régions du sol où l'eau est la plus disponible
+   [51][6] (Figure 4a) :
+     * l'auxine s'accumule préférentiellement dans les zones de la racine
+       en contact avec le sol humide et y stimule la formation d'un
+       nouveau méristème racinaire.
+     * l'acide abscissique, hormone de réponse au stress hydrique,
+       s'accumule préférentiellement dans les zones sèches du sol et y
+       réprime la formation des racines latérales.
+
+   Comme pour l'eau, une forte accumulation locale de phosphore et de
+   nitrate dans des sols généralement pauvres induit une prolifération
+   préférentielle de racines latérales dans ces zones [52][7] (Figure 4b).
+
+   Ainsi, le système racinaire de la plante est une structure complexe se
+   développant de façon continue dans le sol en s'y adaptant de façon
+   dynamique. Les caractères adaptatifs de plasticité racinaire sont
+   favorables à la nutrition de la plante dans des conditions où les
+   ressources sont limitées. De plus, par leur activité, ces racines
+   interagissent avec le sol et modifient ses caractéristiques.
+
+2. Les racines interagissent avec le sol et les communautés microbiennes qui
+s'y trouvent
+
+   [53]rhizosphere plantes Figure 5. Effets bénéfiques de la rhizosphère
+   sur la nutrition hydrominérale et la santé des plantes. [Source : © IRD
+   Alexandre Grondin. Reproduit avec la permission de l'auteur]Le sol au
+   contact des racines est désigné par le terme de rhizosphère [54][8]
+   (Figure 5). Cette zone joue un rôle crucial pour la nutrition
+   hydrominérale de la plante et ses caractéristiques sont activement
+   influencées par les racines. En particulier, les racines sécrètent dans
+   cette rhizosphère des molécules spécifiques (ou exsudat) selon un
+   processus appelé exsudation racinaire. Ce phénomène peut représenter un
+   investissement énergétique très important pour la plante : entre 17 et
+   40 % du carbone total produit par la photosynthèse peut ainsi être
+   "exporté" par la plante dans le sol. Ces molécules exsudées peuvent,
+   selon leur nature, changer les propriétés physico-chimiques du sol et
+   améliorer la disponibilité et la mobilité de certains composants. Elles
+   peuvent également influencer la diversité des microorganismes capables
+   d'interagir avec la plante.
+
+2.1. Influence des racines sur les caractéristiques du sol
+
+   Certains nutriments sont présents dans le sol sous une forme chimique
+   inaccessible pour les plantes. L'exsudation racinaire contribue à
+   rendre ces éléments plus mobilisables et absorbables par les racines.
+   Des mécanismes d'acidification du sol par l'exsudation de protons ou de
+   phytosidérophores [55][9] favorisent ainsi l'acquisition du fer chez
+   certaines plantes [56][10]. L'exsudation racinaire est également un
+   processus plastique et dépend de l'environnement dans lequel se
+   développe la racine. Des plantes de lupin blanc se développant dans un
+   sol pauvre en phosphore produisent, par exemple, des clusters de
+   racines courtes et denses appelés « racines protéoïdes »[57] [11]. Ces
+   racines sécrètent de grandes quantités de molécules acides capables
+   d'abaisser le pH du sol, rendant les ions phosphore plus assimilables.
+   Chez cette espèce végétale adaptée aux sols pauvres en nutriments,
+   cette plasticité de l'activité des racines est un mécanisme
+   d'adaptation majeur. Une expérience a pu montrer qu'une plante de lupin
+   se développant sur un sol pauvre en phosphore peut sécréter jusqu'à 25
+   fois plus d'exsudats qu'une plante se développant sur un milieu riche
+   en phosphore [58][12].
+
+   L'exsudation, contribue également à la formation d'un manchon
+   racinaire. Ce manchon correspond à l'agrégation, autour des racines,
+   d'un sol riche en mucilage et autres molécules carbonées. Il participe
+   chez certaines espèces à améliorer l'acquisition de l'eau. Chez le pois
+   chiche, un manchon racinaire important a ainsi été associé à une
+   meilleure capacité de la plante à tolérer le stress hydrique [59][13].
+   Cette agrégation des particules autour des racines pourrait favoriser
+   l'humidité du sol au contact de l'épiderme racinaire et contribuer à
+   maintenir la zone de contact et d'échange entre le sol et la racine en
+   conditions de sécheresse. De plus, ce sol agrégé riche en exsudats
+   représente une source de carbone importante pour les microorganismes
+   susceptibles d'interagir de façon bénéfique avec la plante.
+
+2.2. Mobilisation des microorganismes par les racines
+
+   La rhizosphère est généralement microbiologiquement très active.
+   Certains exsudats racinaires agissant comme des signaux attractifs pour
+   des microorganismes [60][14]. Des molécules de strigolactone [61][15]
+   sécrétées par la plante dans la rhizosphère stimulent ainsi la
+   germination des spores de champignons mycorhiziens à arbuscule. Les
+   molécules produites par le champignon favorisent en retour le
+   déclenchement de processus racinaires qui permettent l'établissement
+   d'une symbiose entre la plante et le champignon (Figure 6). Au cours de
+   cette symbiose, l'exploration d'un volume de sol très important par les
+   hyphes mycéliens du champignon contribuent à l'approvisionnement de la
+   plante en eau, en phosphore et en d'autres éléments minéraux. En
+   retour, le champignon bénéficie des molécules carbonées produites par
+   la photosynthèse de la plante.
+
+   [62]racine maïs - schema racine plante - schema racine maïs Figure 6.
+   Image d'une racine de maïs en interaction avec des champignons
+   endomycorhizien à arbuscules. [Source : © IRD Branly Effa Effa.
+   Reproduit avec la permission de l'auteur]Les Fabacées, ou légumineuses,
+   produisent quant à elles des flavonoïdes qui stimulent, selon des
+   principes semblables, des interactions symbiotiques avec des bactéries
+   du sol fixatrices d'azote (Lire [63]Des plantes qui vivent de l'air du
+   temps). Ces symbioses se caractérisent par la formation de nouveaux
+   organes racinaires, appelés nodosités, où les bactéries sont hébergées
+   et effectuent la transformation de l'azote atmosphérique en une forme
+   d'azote assimilable par la plante. Enfin, d'autres exsudats agissent,
+   au contraire, comme des signaux répulsifs pour des microorganismes
+   pathogènes ou des parasites du sol.
+
+   [64]plantes niebe Figure 7. Plantes de niébé dont les racines poussent
+   dans un milieu pauvre en absence (gauche) ou présence (droite) d'une
+   bactérie symbiotique fixatrice d'azote. [Source : © IRD Clémence
+   Chaintreuil, reproduit avec la permission de l'auteur]En améliorant
+   l'acquisition d'eau et de nutriments par les racines, les
+   microorganismes bénéfiques du sol contribuent à une meilleure
+   croissance des plantes, croissance qui peut se traduire par un meilleur
+   rendement agronomique de la culture (Figure 7). Chez le maïs, la
+   colonisation des racines par un champignon endomycorhizien serait
+   responsable d'environ un tiers de la production de grains au champ
+   [65][16]. Certaines bactéries du sol, en synergie ou non avec des
+   champignons, peuvent également améliorer la tolérance des plantes face
+   à la sécheresse, au stress salin ou la pollution du sol en métaux
+   lourds. De plus, en interagissant avec les racines, ces microorganismes
+   peuvent stimuler le système immunitaire de la plante et améliorer sa
+   protection face aux pathogènes.
+
+   Par leur développement continu et plastique, leur propriétés adaptables
+   et leur actions bénéfiques sur la rhizosphère, les racines favorisent
+   ainsi la nutrition et la santé de la plante. Améliorer les
+   caractéristiques du système racinaire des plantes cultivées permet
+   d'optimiser ces propriétés dans des contextes agronomiques de plus en
+   plus contraints.
+
+3. Le système racinaire : une cible pour l'amélioration des plantes
+
+3.1. Diversité et complexité des systèmes racinaires
+
+   Le développement racinaire d'une même plante se développe et s'adapte
+   de façon dynamique aux conditions environnementales. Une grande
+   diversité dans la façon dont les systèmes racinaires se développent et
+   s'adaptent à des environnements variés peut être observée entre
+   individus d'une même espèce végétale. Cette diversité des systèmes
+   racinaires entre variétés d'une même espèce est le fruit d'une
+   sélection progressive, au fil de l'évolution, de certains caractères
+   adaptatifs contrôlés génétiquement.
+
+   Chez le riz, des caractères d'architecture racinaire distincts ont
+   ainsi été mis en évidence chez des variétés adaptées à des modes de
+   culture différents :
+     * Des variétés adaptées à la culture de type irrigué (où le champ est
+       en permanence recouvert d'eau) présentent un système racinaire
+       colonisant plutôt les couches superficielles du sol ;
+     * Des variétés adaptées à la culture de type pluvial (où l'apport
+       d'eau dépend seulement des pluies intermittentes) développent
+       plutôt un système racinaire en profondeur.
+
+   [66]mil - plante mil - racines mil Figure 8. Racines de la variété de
+   mil IP-8187 (a) et IP-10539 (b) montrant des angles d'insertion
+   racinaire contrastés. [Source : © ISRA/IRD Alexandre Grondin, reproduit
+   avec la permission de l'auteur]Chez le mil, des variations dans l'angle
+   que forment les racines avec les bases de tiges (appelé angle
+   d'insertion ; Figure 8) ont pu être observées entre différentes
+   variétés. Chez le maïs, une grande diversité des caractères anatomiques
+   a également pu être observée entre plantes adaptées à des
+   environnements différents, notamment concernant la formation des
+   aérenchymes [67][17], des cavités aérifères présentes dans le cortex
+   racinaire (voir Figure 2).
+
+   Cette diversité de caractères racinaires entre plantes d'une même
+   espèce peut être exploitée pour l'amélioration variétale. Le transfert
+   par croisement de caractères racinaires bénéfiques d'une variété à une
+   autre représente une stratégie d'amélioration.
+
+   Suivant ce principe, des chercheurs japonais ont pu améliorer la
+   tolérance à la sécheresse de la variété de riz IR64. Cette variété est
+   très productive et ses grains sont de bonne qualité. Néanmoins, elle
+   possède un système racinaire qui se développe en surface et qui ne
+   permet pas à la plante de prélever assez d'eau lorsque les premiers
+   centimètres du sol s'assèchent. A l'inverse, une autre variété de riz,
+   appelée Kinandang Patong, est moins productive mais mieux adaptée à la
+   sécheresse grâce à la capacité de son système racinaire à puiser l'eau
+   en profondeur. Un croisement entre ces deux variétés a permis
+   d'introduire, chez IR64, le caractère "système racinaire profond"
+   [68][18]. Une nouvelle variété de riz combinant les caractéristiques
+   agronomiques d'IR64 au système racinaire profond et à la tolérance à la
+   sécheresse de la variété Kinandang Patong a ainsi été produite.
+
+   [69]racine mil Figure 9. Simulation de la croissance d'une racine de
+   mil dans un sol sableux. Les couleurs indiquent la capacité des racines
+   à conduire l'eau de l'épiderme vers les vaisseaux du xylème. [Source :
+   © IRD/ISRA Sokhatil Ndoye, avec la permission de l'auteur]Les racines
+   restent néanmoins des systèmes complexes, dont le bon fonctionnement
+   dépend de la manière dont les caractéristiques architecturales et
+   anatomiques se combinent et fonctionnent en synergie. Améliorer un
+   caractère sans considérer le fonctionnement global du système racinaire
+   dans son environnement peut avoir des effets néfastes. Le développement
+   de racines profondes par exemple pourra favoriser l'acquisition d'eau
+   lorsque celle-ci est plus abondante en profondeur. Néanmoins, plus de
+   racines en profondeur pourra avoir un effet négatif sur l'acquisition
+   du phosphore. En effet le phosphore qui est un élément essentiel pour
+   la plante s'accumule généralement dans les couches superficielles du
+   sol.
+
+   Des modèles in silico de systèmes racinaires en interaction avec des
+   modèles de sol ont été développés et permettent de simuler la structure
+   et les fonctions de la racine dans son ensemble (Figure 9). Ces modèles
+   facilitent l'identification de caractères racinaires dont la
+   modification aura, en définitive, des effets bénéfiques sur la
+   nutrition et le développement de la plante dans un environnement donné.
+
+3.2. Utilité des systèmes racinaires pour l'amélioration variétale
+
+   Des méthodes performantes permettent aujourd'hui de visualiser et de
+   décrire de façon quantitative les caractéristiques du système racinaire
+   de plantes sans les perturber. Néanmoins, ces données sont généralement
+   collectées en laboratoire dans des conditions reflétant mal les
+   conditions de développement des plantes cultivées au champ. Pour
+   répondre au besoin de caractériser les systèmes racinaires de plantes
+   en conditions agronomiques et faciliter leur prise en compte dans les
+   programmes d'amélioration variétale, plusieurs méthodes d'étude des
+   systèmes racinaires ont été développées.
+
+   [70]racine plante - racines plantes Figure 10. Prélèvements racinaires
+   par la méthode « shovelomics » (a) et images de racines pour l'étude de
+   l'architecture (b) et de l'anatomie (c) ; [Source : © IRD/ISRA/UoN
+   Jimmy Burridge (a, b) et Darren Wells (c), reproduits avec la
+   permission des auteurs].La méthode dite de « shovelomics » [71][19]
+   permet de caractériser l'architecture racinaire de certaines céréales
+   au champ, en excavant mécaniquement le système racinaire de la plante
+   (Figure 10a). La partie principale de système racinaire des plantes
+   peut ainsi être prélevée sur 15-20 centimètres de profondeur avec une
+   simple pelle. Après un lavage rapide, une image des racines est prise
+   pour la mesure de certaines caractéristiques architecturales comme
+   l'angle d'insertion ou la densité des racines latérales (Figure 10b).
+   Bien que d'une précision limitée, ces mesures rapides et relativement
+   accessibles permettent de caractériser certains caractères du système
+   racinaire au champ de façon statistiquement satisfaisante. Par
+   ailleurs, certains des caractères simples mesurés permettent de
+   préjuger d'autres caractères plus complexes, qui leur sont corrélés.
+   L'angle d'insertion des racines notamment est un bon indicateur de la
+   profondeur du système racinaire ; des racines ayant des angles plus
+   aigus ont généralement tendance à se développer plus en profondeur. Des
+   échantillons de racines peuvent également être prélevés et conservés
+   pour des analyses détaillées au laboratoire : des coupes histologiques,
+   ou des analyses par tomographie après ablation laser permettent
+   d'étudier l'organisation anatomique de ces échantillons racinaires
+   [72][20] (Figure 10c).
+
+   En multipliant le nombre d'observations et de données, le développement
+   de ces nouvelles méthodes d'exploration racinaire au champ contribue de
+   façon décisive aux efforts menés pour :
+     * caractériser la diversité des caractères racinaires et leur
+       plasticité
+     * et identifier les régions du génome impliquées dans le contrôle de
+       ces caractères.
+
+4. Messages à retenir
+
+     * Les caractères d'architecture et d'anatomie racinaires influencent
+       la capacité des plantes à acquérir l'eau et les nutriments et à
+       s'adapter à certains stress dont la sécheresse.
+     * Le développement et le fonctionnement du système racinaire
+       répondent de façon dynamique à l'environnement. Ce phénomène appelé
+       plasticité racinaire contribue fortement aux capacités d'adaptation
+       de la plante à certaines contraintes.
+     * L'exsudation de composés carbonés par les racines dans le sol
+       permet de modifier les caractéristiques physiques, chimiques et
+       biologiques de la rhizosphère. Elle facilite l'acquisition de l'eau
+       et des nutriments et intervient dans la mise en place
+       d'interactions symbiotiques avec des microorganismes du sol.
+     * Toutes les plantes n'ont pas le même système racinaire. Il existe
+       une grande diversité, entre espèces et parfois entre plantes d'une
+       même espèce, dans la manière dont les racines se développent,
+       fonctionnent, s'adaptent à l'environnement et interagissent avec le
+       sol. Cette diversité, liée à des différences de patrimoine
+       génétique entre plantes, peut être exploitée en amélioration
+       variétale.
+     * Les recherches visant à améliorer les performances du système
+       racinaire nécessitent la prise en compte de l'ensemble des
+       caractères racinaires dans leur environnement et leur complexité.
+       Pour cela, des méthodes de caractérisation efficaces au champ et
+       les stratégies de modélisation sont utiles.
+     * La sélection variétale ciblant des caractères racinaires favorables
+       a permis d'améliorer les performances de plusieurs espèces
+       d'intérêt agronomique, comme le Ces recherches contribuent à une
+       agriculture plus vertueuse, durable et économe, visant à améliorer
+       la sécurité alimentaire des populations.
+
+     __________________________________________________________________
+
+Références
+
+   Image de couverture. Racines d'arbres (1890), dernier tableau de Van
+   Gogh (1853-1890), Musée Van Gogh, Amsterdam. [Source : Vincent van
+   Gogh, Public domain, via Wikimedia Commons]
+
+   [73][1] Atkinson JA, Rasmussen A, Traini R, Voss U, Sturrock C, Mooney
+   SJ, Wells DM & Bennett MJ. 2014. Branching out in roots: Uncovering
+   form, function, and regulation. Plant Physiology 166, 538-550
+
+   [74][2] Les dessins originaux de systèmes racinaires de pois et de maïs
+   de la figure 1 proviennent de : Kutschera, L.; Lichtenegger, E. &
+   Sobotik, M., Würzelatlas der Kulturpflanzen gemässigter Gebiete mit
+   Arten des Feldgemüsebaues. - Frankfurt am Main : DLG-Verlag, 2009 (2.
+   Aufl. 2018). - 527 p. ; Wageningen University & Research Image
+   Collections; website, Root systems drawing:
+   [75]https://images.wur.nl/digital/collection/coll13/search
+
+   [76][3] Doblas VG, Geldner N & Barberon M. 2017. The endodermis, a
+   tightly controlled barrier for nutrients. Current Opinion in Plant
+   Biology 39, 136-143
+
+   [77][4] Trinh CD, Laplaze L & Guyomarc'h S. 2018. Lateral root
+   formation: Building a meristem de novo. Annual Plant Reviews Online 1,
+   847-890
+
+   [78][5] L'auxine fournit aux cellules une information positionnelle
+   permettant les changements d'identité cellulaire régulant la dynamique
+   de la morphogenèse chez les plantes. Les cellules peuvent lire la
+   concentration de l'auxine non seulement dans l'espace mais également
+   dans le temps.
+   [79]https://www.insb.cnrs.fr/fr/cnrsinfo/lauxine-permet-aux-cellules-de
+   -lire-lespace-et-le-temps
+
+   [80][6] Orman-Ligeza B, Morris EC, Parizot B, et al. 2018. The
+   Xerobranching response represses lateral root formation when roots are
+   not in contact with water. Current Biology 28, 3165-3173.e5
+
+   [81][7] Motte H, Vanneste S & Beeckman T. 2019. Molecular and
+   environmental regulation of root development. Annual Review of Plant
+   Biology 12, 1-24
+
+   [82][8] de la Fuente Cantó C, Simonin M, King E, Moulin L, Bennett MJ,
+   Castrillo G & Laplaze L. 2020. An extended root phenotype: the
+   rhizosphere, its formation and impacts on plant fitness. Plant Journal
+   103, 951-964
+
+   [83][9] Les phytosidérophores sont des molécules de type ligand (ou
+   chélateurs) sécrétées dans la rhizosphère par certaines espèces de
+   plantes de la famille des Poaceae (graminées) en situation de carence
+   en fer, et dont la fonction est de permettre l'assimilation du fer.
+
+   [84][10] Chen YT, Wang Y & Yeh KC. 2017. Role of root exudates in metal
+   acquisition and tolerance. Current Opinion in Plant Biology 39, 66-72
+
+   [85][11] Les racines protéoïdes sont des racines de plantes qui forment
+   des groupes denses de courtes radicelles latérales très rapprochées.
+   Elles peuvent constituer un épais tapis de deux à cinq centimètres
+   d'épaisseur situé juste sous la litière de feuilles mortes. Elles
+   permettent une intense absorption des nutriments du sol, probablement
+   en modifiant chimiquement leur environnement dans le sol pour améliorer
+   la solubilisation des nutriments.
+
+   [86][12] Johnson JF, Allan DL, Vance CP & Weiblen G. 1996. Root carbon
+   dioxide fixation by phosphorus-deficient Lupinus albus. Contribution to
+   organic acid exudation by proteoid roots. Plant Physiology 112, 19-30
+
+   [87][13] Rabbi SMF, Tighe MK, Flavel RJ, Kaiser BN, Guppy CN, Zhang X &
+   Young IM. 2018. Plant roots redesign the rhizosphere to alter the
+   three-dimensional physical architecture and water dynamics. New
+   Phytologist 219, 542-550
+
+   [88][14] Venturi V & Keel C. 2016. Signaling in the rhizosphere. Trends
+   in Plant Science. 11, 4265-4281
+
+   [89][15] Phytohormones dérivées des caroténoïdes, les strigolactones
+   contrôlent la ramification des plantes, entraînent la germination des
+   graines de phanérogames parasites et stimulent la croissance des
+   champignons symbiotiques mycorhiziens.
+
+   [90][16] Ramírez-Flores MR, Perez-Limon S, Li M, Barrales-Gamez B,
+   Albinsky D, Paszkowski U, Olalde-Portugal V & Sawers RJH. 2020. The
+   genetic architecture of host response reveals the importance of
+   arbuscular mycorrhizae to maize cultivation. eLife 9, 1-18
+
+   [91][17] Schneider HM, Klein SP, Hanlon MT, Kaeppler S, Brown KM &
+   Lynch JP. 2020. Genetic control of root anatomical plasticity in maize.
+   Plant Genome 13, 1-14
+
+   [92][18] Uga Y, Sugimoto K & Ogawa S, et al. 2013. Control of root
+   system architecture by DEEPER ROOTING 1 increases rice yield under
+   drought conditions. Nature genetics 45, 1097-102
+
+   [93][19] Développée par le Pr. Jonathan Lynch, cette méthode permet de
+   noter visuellement des caractéristiques architecturales de la couronne
+   racinaire d'une plante sur le terrain, en quelques minutes. Le terme
+   « shovelomics » a été construit à partir du mot « shovel » (bêche en
+   anglais) et « omics » (méthode permettant de générer des données
+   massives et surtout de les analyser et d'en extraire les connaissances
+   nécessaires à une meilleure compréhension du vivant).
+
+   [94][20] Atkinson JA, Pound MP & Bennett MJ, Wells DM. 2019. Uncovering
+   the hidden half of plants using new advances in root phenotyping.
+   Current Opinion in Biotechnology 55, 1-8
+     __________________________________________________________________
+
+   L'Encyclopédie de l'environnement est publiée par l'Association des
+   Encyclopédies de l'Environnement et de l'Énergie ([95]www.a3e.fr),
+   contractuellement liée à l'université Grenoble Alpes et à Grenoble INP,
+   et parrainée par l'Académie des sciences.
+
+   Pour citer cet article : GRONDIN Alexandre, GUYOMARC'H Soazig, LAPLAZE
+   Laurent (13 octobre 2023), Le système racinaire des plantes : de
+   l'ombre à la lumière, Encyclopédie de l'Environnement. Consulté le 11
+   janvier 2025 [en ligne ISSN 2555-0950] url :
+   [96]https://www.encyclopedie-environnement.org/vivant/racines-plantes/.
+
+   Les articles de l'Encyclopédie de l'environnement sont mis à
+   disposition selon les termes de la licence Creative Commons BY-NC-SA
+   qui autorise la reproduction sous réserve de : citer la source, ne pas
+   en faire une utilisation commerciale, partager des conditions initiales
+   à l'identique, reproduire à chaque réutilisation ou distribution la
+   mention de cette licence Creative Commons BY-NC-SA.
+
+Auteur(s)
+
+     * [97]GRONDIN Alexandre, Chargé de Recherche, Unité Mixte de
+       Recherche DIADE, Institut de Recherche pour le Développement,
+       Montpellier
+     * [98]GUYOMARC'H Soazig, Maître de Conférence, Unité Mixte de
+       Recherche DIADE, Université de Montpellier, Montpellier
+     * [99]LAPLAZE Laurent, Directeur de Recherche, Unité Mixte de
+       Recherche DIADE, Institut de Recherche pour le Développement,
+       Montpellier
+
+Plan de l'article
+
+     * [100]1. Les racines prélèvent l'eau et les nutriments pour la
+       plante
+          + [101]1.1. Architecture et anatomie du système racinaire
+          + [102]1.2. Développement et plasticité du système racinaire
+     * [103]2. Les racines interagissent avec le sol et les communautés
+       microbiennes qui s'y trouvent
+          + [104]2.1. Influence des racines sur les caractéristiques du
+            sol
+          + [105]2.2. Mobilisation des microorganismes par les racines
+     * [106]3. Le système racinaire : une cible pour l'amélioration des
+       plantes
+          + [107]3.1. Diversité et complexité des systèmes racinaires
+          + [108]3.2. Utilité des systèmes racinaires pour l'amélioration
+            variétale
+     * [109]4. Messages à retenir
+
+Focus
+
+   Amélioration de l'acquisition du phosphore chez le haricot au
+   Mozambique  [110]...
+
+En savoir plus
+
+    1. Hochholdinger F, Zimmermann R. 2008. Conserved and diverse
+       mechanisms in root development. Current Opinion in Plant Biology
+       11, 70-74
+    2. Dessaux Y, Grandclément C, Faure D. 2016. Engineering the
+       Rhizosphere. Trends in Plant Science 21, 266-278
+    3. Lynch JP, Mooney SJ, Strock CF, Schneider HM. 2021. Future roots
+       for future soils. Plant Cell and Environment, 1-17
+    4. Ndoye MS, Burridge J, Bhosale R, Grondin A, Laplaze L. 2022. Root
+       traits for low input agroecosystems in Africa: lessons from three
+       case studies. Plant Cell and Environment, in press
+    5. [111]Atlas numérisé représentant des systèmes racinaires sur le
+       site de l'université de Wageningen. Cette collection contient 1180
+       dessins réalisés par les botanistes Erwin Lichtenegger (1928-2004)
+       et Lore Kutschera (1917-2008), directeur du Pflanzensoziologisches
+       Institut, Klagenfurt, (maintenant à Bad Goisern, Autriche)
+    6. Choi J, Summers W, Paszkowski U. 2018. Mechanisms underlying
+       establishment of arbuscular mycorrhizal symbioses. Annual Review of
+       Phytopathology 56, 1-26
+    7. Ferguson BJ, Mens C, Hastwell AH, Zhang M, Su H, Jones CH, Chu X,
+       Gresshoff PM. 2019. Legume nodulation: The host controls the party.
+       Plant Cell and Environment 42, 41-51
+
+Vous aimerez aussi
+
+   biodiversité sol
+
+   Sol
+
+[112]La biodiversité des sols
+
+   05-02-2023
+
+   Le sol, un compartiment majeur des écosystèmes terrestres, représente
+   un écosystème très particulier puisqu'il constitue...
+     __________________________________________________________________
+
+   [113]Quentin VINCENT, Docteur en écotoxicologie et écologie des sols,
+   Directeur Scientifique et Technique et co-fondateur de Sol & co.
+   Vandoeuvre-Lès-Nancy.
+   Encyclopedie environnement - nitrates sol - couverture
+
+   Vivant
+
+[114]Les nitrates dans l'environnement
+
+   20-04-2022
+
+   L'origine agricole des fuites de nitrates dans l'environnement n'est
+   plus contestée. Elle résulte du fonctionnement...
+     __________________________________________________________________
+
+   [115]Jean-Claude GERMON, Directeur honoraire de recherche à l'INRA,
+   Centre de Microbiologie du Sol et de l'Environnement, INRA Dijon;
+   Membre de l'Académie d'Agriculture
+
+   Vivant
+
+[116]Comment les plantes supportent-elles un régime salé ?
+
+   17-09-2020
+
+   Des sols peuvent être salinisés naturellement, par exemple à cause des
+   embruns marins. Mais ils...
+     __________________________________________________________________
+
+   [117]Doan Trung LUU, Chercheur CNRS, Laboratoire Biochimie &
+   Physiologie Moléculaire des Plantes, Université Montpellier, CNRS,
+   INRAE, Institut Agro, Montpellier.
+
+   &#xE5D8;
+
+   [118]Logo footer
+
+     * [119]Echosciences
+     * [120]Facebook
+     * [121]Twitter
+     * [122]Linkedin
+     * [123]Mentions légales
+     * [124]Contact
+
+References
+
+   Visible links:
+   1. https://www.encyclopedie-environnement.org/vivant/racines-plantes/
+   2. https://www.encyclopedie-environnement.org/en/life/root-system-plants/
+   3. https://www.encyclopedie-environnement.org/wp-json/wp/v2/posts/16524
+   4. https://www.encyclopedie-environnement.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.encyclopedie-environnement.org%2Fvivant%2Fracines-plantes%2F
+   5. https://www.encyclopedie-environnement.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.encyclopedie-environnement.org%2Fvivant%2Fracines-plantes%2F&format=xml
+   6. https://www.encyclopedie-environnement.org/
+   7. https://www.encyclopedie-environnement.org/presentation/
+   8. https://www.encyclopedie-environnement.org/auteurs/
+   9. https://www.encyclopedie-environnement.org/institutions-3/
+  10. https://www.encyclopedie-environnement.org/glossaire/
+  11. https://www.encyclopedie-environnement.org/newsletter/
+  12. https://www.encyclopedie-environnement.org/contact/
+  13. https://www.encyclopedie-environnement.org/en/life/root-system-plants/
+  14. https://www.encyclopedie-environnement.org/zh/home-2/
+  15. https://www.encyclopedie-environnement.org/
+  16. https://www.encyclopedie-environnement.org/rubrique/air/
+  17. https://www.encyclopedie-environnement.org/rubrique/eau/
+  18. https://www.encyclopedie-environnement.org/rubrique/sol/
+  19. https://www.encyclopedie-environnement.org/rubrique/climat/
+  20. https://www.encyclopedie-environnement.org/rubrique/physique/
+  21. https://www.encyclopedie-environnement.org/rubrique/vivant/
+  22. https://www.encyclopedie-environnement.org/rubrique/sante/
+  23. https://www.encyclopedie-environnement.org/rubrique/societe/
+  24. https://www.encyclopedie-environnement.org/
+  25. https://www.encyclopedie-environnement.org/rubrique/vivant/
+  26. https://www.encyclopedie-environnement.org/rubrique/vivant/
+  27. file:///app/pdf?idpost=16524&idauthor=A-248-247-246&urlimg=https%3A%2F%2Fwww.encyclopedie-environnement.org%2Fapp%2Fuploads%2F2022%2F03%2Fracines-arbres-van-gogh.jpg
+  28. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#1_Les_racines_prelevent_leau_et_les_nutriments_pour_la_plante
+  29. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#11_Architecture_et_anatomie_du_systeme_racinaire
+  30. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#12_Developpement_et_plasticite_du_systeme_racinaire
+  31. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#2_Les_racines_interagissent_avec_le_sol_et_les_communautes_microbiennes_qui_sy_trouvent
+  32. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#21_Influence_des_racines_sur_les_caracteristiques_du_sol
+  33. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#22_Mobilisation_des_microorganismes_par_les_racines
+  34. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#3_Le_systeme_racinaire_une_cible_pour_lamelioration_des_plantes
+  35. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#31_Diversite_et_complexite_des_systemes_racinaires
+  36. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#32_Utilite_des_systemes_racinaires_pour_lamelioration_varietale
+  37. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#4_Messages_a_retenir
+  38. https://www.encyclopedie-environnement.org/vivant/nourrir-plantes-polluant-moins/
+  39. https://www.encyclopedie-environnement.org/vivant/vie-fixee-plantes-contraintes/
+  40. https://www.encyclopedie-environnement.org/vivant/quete-de-eau-par-les-plantes/
+  41. https://www.encyclopedie-environnement.org/vivant/quete-de-eau-par-les-plantes/
+  42. https://www.encyclopedie-environnement.org/app/uploads/2022/03/systeme-racinaire-pois-mais.jpg
+  43. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn1
+  44. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn2
+  45. https://www.encyclopedie-environnement.org/app/uploads/2022/03/schema-racine-mais.jpg
+  46. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn3
+  47. https://www.encyclopedie-environnement.org/app/uploads/2022/03/schema-zones-racinaires2.jpg
+  48. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn4
+  49. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn5
+  50. https://www.encyclopedie-environnement.org/app/uploads/2022/03/developpement-plastique-racines.png
+  51. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn6
+  52. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn7
+  53. https://www.encyclopedie-environnement.org/app/uploads/2022/03/effets-benefiques-rhizosphere-plantes.png
+  54. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn8
+  55. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn9
+  56. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn10
+  57. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn11
+  58. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn12
+  59. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn13
+  60. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn14
+  61. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn15
+  62. https://www.encyclopedie-environnement.org/app/uploads/2022/03/racine-mais.jpg
+  63. https://www.encyclopedie-environnement.org/vivant/plantes-air-du-temps/
+  64. https://www.encyclopedie-environnement.org/app/uploads/2022/03/niebe-plantes.jpg
+  65. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn16
+  66. https://www.encyclopedie-environnement.org/app/uploads/2022/03/racines-mil.jpg
+  67. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn17
+  68. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn18
+  69. https://www.encyclopedie-environnement.org/app/uploads/2022/03/simulation-croissance-racine-mil.jpg
+  70. https://www.encyclopedie-environnement.org/app/uploads/2022/03/prelevements-racines-plantes.jpg
+  71. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn19
+  72. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftn20
+  73. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref1
+  74. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref2
+  75. https://images.wur.nl/digital/collection/coll13/search
+  76. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref3
+  77. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref4
+  78. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref5
+  79. https://www.insb.cnrs.fr/fr/cnrsinfo/lauxine-permet-aux-cellules-de-lire-lespace-et-le-temps
+  80. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref6
+  81. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref7
+  82. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref8
+  83. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref9
+  84. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref10
+  85. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref11
+  86. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref12
+  87. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref13
+  88. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref14
+  89. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref15
+  90. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref16
+  91. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref17
+  92. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref18
+  93. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref19
+  94. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#_ftnref20
+  95. https://www.a3e.fr/
+  96. https://www.encyclopedie-environnement.org/vivant/racines-plantes/
+  97. https://www.encyclopedie-environnement.org/author/grondin_alexandre/
+  98. https://www.encyclopedie-environnement.org/author/guyomarch_soazig/
+  99. https://www.encyclopedie-environnement.org/author/laplaze_laurent/
+ 100. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#1_Les_racines_prelevent_leau_et_les_nutriments_pour_la_plante
+ 101. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#11_Architecture_et_anatomie_du_systeme_racinaire
+ 102. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#12_Developpement_et_plasticite_du_systeme_racinaire
+ 103. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#2_Les_racines_interagissent_avec_le_sol_et_les_communautes_microbiennes_qui_sy_trouvent
+ 104. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#21_Influence_des_racines_sur_les_caracteristiques_du_sol
+ 105. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#22_Mobilisation_des_microorganismes_par_les_racines
+ 106. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#3_Le_systeme_racinaire_une_cible_pour_lamelioration_des_plantes
+ 107. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#31_Diversite_et_complexite_des_systemes_racinaires
+ 108. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#32_Utilite_des_systemes_racinaires_pour_lamelioration_varietale
+ 109. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fr_racines-plantes.html#4_Messages_a_retenir
+ 110. https://www.encyclopedie-environnement.org/zoom/amelioration-acquisition-phosphore-haricot-mozambique/
+ 111. https://images.wur.nl/digital/collection/coll13/search
+ 112. https://www.encyclopedie-environnement.org/sol/biodiversite-sols/
+ 113. https://www.encyclopedie-environnement.org/author/vincent_quentin/
+ 114. https://www.encyclopedie-environnement.org/vivant/les-nitrates-dans-lenvironnement/
+ 115. https://www.encyclopedie-environnement.org/author/jean-claude_germon/
+ 116. https://www.encyclopedie-environnement.org/vivant/comment-plantes-supportent-regime-sale/
+ 117. https://www.encyclopedie-environnement.org/author/luu_doan_trung/
+ 118. https://www.encyclopedie-environnement.org/
+ 119. https://www.echosciences-grenoble.fr/membres/encyclopedie-environnement
+ 120. https://www.facebook.com/EncyclopedieEnvironnement/
+ 121. https://twitter.com/encyc_environm
+ 122. https://www.linkedin.com/in/ren%C3%A9-moreau-135337137/
+ 123. https://www.encyclopedie-environnement.org/mentions-legales/
+ 124. https://www.encyclopedie-environnement.org/contact/
+
+   Hidden links:
+ 126. http://www.communaute-univ-grenoble-alpes.fr/
+ 127. http://www.grenoble-inp.fr/
+ 128. http://www.univ-grenoble-alpes.fr/
+ 129. https://www.academie-sciences.fr/fr/
+ 130. https://www.encyclopedie-environnement.org/zoom/amelioration-acquisition-phosphore-haricot-mozambique/

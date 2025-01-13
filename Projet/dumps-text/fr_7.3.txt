@@ -1,0 +1,100 @@
+   #[1]Start
+
+                           Système de fichiers racine
+
+   [2]Editer en ligne
+
+   Le système de fichiers racine est au sommet de l'arborescence
+   hiérarchique des fichiers. Il contient les fichiers et répertoires
+   critiques pour l'opération système, y compris le répertoire des
+   périphériques et programmes pour l'amorçage du système. Le système de
+   fichiers racine contient également des points de montage dans lesquels
+   des systèmes de fichiers peuvent être montés pour se connecter à la
+   hiérarchie du système de fichiers racine.
+
+   Le diagramme suivant présente plusieurs sous-répertoires du système de
+   fichiers racine.
+   Figure 1 : Système de fichiers racine. Ce diagramme illustre le système
+   de fichiers racine et ses sous-répertoires. Le sous-répertoire /bin
+   pointe vers le répertoire /usr/bin. Le sous-répertoire /lib pointe vers
+   le répertoire /usr/lib. Le sous-répertoire /u pointe vers le répertoire
+   /home .
+
+   La liste suivante fournit des informations sur le contenu de certains
+   sous-répertoires du système de fichiers / (root).
+   Article Descriptif
+   /etc Contient les fichiers de configuration qui varient pour chaque
+   machine. Exemples :
+     * /etc/hosts
+     * /etc/passwd
+
+   Le répertoire /etc contient les fichiers généralement utilisés pour
+   l'administration du système. La plupart des commandes qui se trouvaient
+   auparavant dans le répertoire /etc se trouvent désormais dans le
+   répertoire /usr/sbin. Toutefois, pour des raisons de compatibilité, le
+   répertoire /usr/sbin contient des liens symboliques vers les
+   emplacements de certains fichiers exécutables. Exemples :
+     * /etc/chown est un lien symbolique vers /usr/bin/chown.
+     * /etc/exportvg est un lien symbolique vers /usr/sbin/exportvg.
+
+   /bin Lien symbolique vers le répertoire /usr/bin. Dans les systèmes de
+   fichiers UNIX antérieurs, le répertoire " /bin contenait des commandes
+   utilisateur qui se trouvent désormais dans le répertoire " /usr/bin.
+   /sbin Contient les fichiers nécessaires à l'amorçage de la machine et
+   au montage du système de fichiers /usr. La plupart des commandes
+   utilisées lors de l'amorçage proviennent du système de fichiers RAM de
+   l'image d'amorçage ; par conséquent, très peu de commandes se trouvent
+   dans le répertoire /sbin.
+   /dev Contient des noeuds d'unité pour les fichiers spéciaux pour les
+   périphériques locaux. Le répertoire /dev contient des fichiers spéciaux
+   pour les unités de bande, les imprimantes, les partitions de disque et
+   les terminaux.
+   /tmp Sert de point de montage pour un système de fichiers contenant des
+   fichiers temporaires générés par le système. Le système de fichiers
+   /tmp est un répertoire vide.
+   /var Il sert de point de montage pour les fichiers qui varient sur
+   chaque machine. Le système de fichiers /var est configuré en tant que
+   système de fichiers, car les fichiers qu'il contient ont tendance à
+   augmenter. Pour plus d'informations, voir [3]Système de fichiers/var .
+   /u Lien symbolique vers le répertoire /home.
+   /usr Contient des fichiers qui ne changent pas et peuvent être partagés
+   par des machines telles que les exécutables et la documentation ASCII.
+
+   Les machines autonomes montent la racine d'un système de fichiers local
+   distinct sur le répertoire /usr. Les machines sans disque et celles
+   avec des ressources de disque limitées montent un répertoire à partir
+   d'un serveur distant sur le système de fichiers /usr. Pour plus
+   d'informations sur l'arborescence de fichiers montée sur le répertoire
+   /usr , voir [4]Système de fichiers/usr .
+   /home Sert de point de montage pour un système de fichiers contenant
+   les répertoires home de l'utilisateur. Le système de fichiers /home
+   contient des fichiers et des répertoires par utilisateur.
+
+   Dans une machine autonome, le répertoire /home se trouve dans un
+   système de fichiers distinct dont la racine est montée sur le système
+   de fichiers racine du répertoire /home. Dans un réseau, un serveur peut
+   contenir des fichiers utilisateur accessibles à partir de plusieurs
+   machines. Dans ce cas, la copie serveur du répertoire /home est montée
+   à distance sur un système de fichiers /home local.
+   /export Contient les répertoires et les fichiers sur un serveur qui
+   sont destinés aux clients à distance.
+
+   Voir [5]/export directory pour plus d'informations sur l'arborescence
+   de fichiers qui se trouve sous le répertoire /export .
+   /lib Lien symbolique vers le répertoire /usr/lib. Pour plus
+   d'informations, voir [6]Système de fichiers/usr .
+   /tftpboot Contient des images d'amorçage et des informations d'amorçage
+   pour les clients sans disque.
+
+   Rubrique parent: [7]Organisation et contenu de l'arborescence de
+   fichiers
+
+References
+
+   1. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fs_tree_org.html
+   2. https://oxygen.cnvdal.apps.cirrus.ibm.com/oxygenxml-web-author/app/oxygen.html?url=gitgh%3A%2F%2Fhttps%253A%252F%252Fgithub.ibm.com%252Faix-docs%252F7.3%2Fmain%2Fdevicemanagement%2Ffs_root.dita
+   3. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fs_var.html#fs_var
+   4. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fs_usr.html#fs_usr
+   5. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/exp_dir.html#exp_dir
+   6. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fs_usr.html#fs_usr
+   7. file:///Users/nataliakulikova/projet_racine/Travail-Groupe/Projet/aspirations/fs_tree_org.html
