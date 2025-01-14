@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>Nuages de Mots</title>
+        <title>Membres du Groupe</title>
         <link rel="stylesheet"
             type="text/css"
             href="Projet/assets/css/style.css"/>
@@ -13,7 +13,6 @@
                 margin: 0;
                 padding: 0;
                 min-height: 100vh;
-                /* background-color: #f4f4f4; */
                 background-color: rgba(226, 145, 99, 0.452);
             }
 
@@ -33,6 +32,7 @@
             h2 {
                 text-align: center;
                 margin: 20px 0; /* Espacement au-dessus et en dessous de RACINE */
+                color: #B0B0B0; /* Gris clair */
             }
 
             header a {
@@ -58,34 +58,61 @@
                 box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Ombre légère */
             }
 
+            .member {
+                display: flex;
+                flex-direction: column; /* Dispose les éléments en colonne (nom au-dessus de l'image) */
+                align-items: center; /* Centre les éléments horizontalement */
+            }
+
+            .member p {
+                margin-bottom: 10px; /* Ajoute un espace entre le texte et l'image */
+                font-weight: bold; /* Rend le texte en gras */
+                font-size: 1.5rem; /* La taille de la police */
+                color: brown;
+                text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Ombre grise avec un léger flou */
+            }
+
+            .p2 {
+                color: rgba(204, 7, 7, 0.674);
+                text-shadow: 2px 2px 4px rgba(218, 215, 215, 0.93); /* Ombre gris clair avec un léger flou */
+            }
+
         </style>        
     </head>
     <body>
         <header>
-            <h1>Nuages de Mots</h1>
+            <br>
+            <h1>Tableaux</h1>
 			<br>
 			<!-- Navigation link back to the home page -->
 			<a href="index.html">Retour à la page d'accueil</a>
-            <!-- Navigation link back to the menu -->
-            <a href="Projet/tableaux/tableaux.html">Tableaux</a>
 		</header>
         <br>
         <br>
         <br>
-        <br>
-        <br>
         <main>
-            <br>
             <h2>
                 RACINE (Français) | RAÍZ (Español) | ROOT (English) | 根 (中文)
-            </h2>
+            </h2>            
             <br>
             <br>
                 <div class="image-grid">
-                    <img src="Projet/wordcloud/nuage_racine.png" alt="Image du mot 'racine' en français">
-                    <img src="Projet/wordcloud/wordcloud_spanish.png" alt="Image du mot 'racine' en espagnol">
-                    <img src="Projet/wordcloud/wordcloud-en.png" alt="Image du mot 'racine' en anglais">
-                    <img src="Projet/wordcloud/wordcloud_cn.png" alt="Image du mot 'racine' en chinois">
+                    <div class="member">
+                        <p>Tableau de CHENG Dingding 成鼎鼎</p>
+                        <a href="Projet/tableaux/tableaux.html/tableau_cn.html">Tableaux</a>
+                    </div>
+                    <div class="member">
+                        <p>Tableau de DA SILVA Jean-Charles</p>
+                        <a href="Projet/tableaux/tableau_spanish.html">Tableaux</a>
+                    </div>
+                    <div class="member">
+                        <p class="p2">Tableau de WANG Xiaobo 王曉波</p>
+                        <a href="Projet/tableaux/tableaux.html/tableau_en.html">Tableaux</a>
+                    </div>
+                    <div class="member">
+                        <p class="p2">Tableau de KULIKOVA Natalia</p>
+                        <a href="Projet/tableaux/tableaux.html">Tableaux</a>
+                    </div>
                 </div>
             <br>
         </main>
@@ -93,6 +120,6 @@
 
         </footer>
         <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
-        <script src="Projet/assets/js/script_.js"></script> 
+        <script src="assets/js/script.js"></script> 
     </body>
 </html>

@@ -6,7 +6,7 @@
         <title>Membres du Groupe</title>
         <link rel="stylesheet"
             type="text/css"
-            href="assets/css/style.css"/>
+            href="Projet/assets/css/style.css"/>
         <style>
             body {
                 font-family: Arial, sans-serif;
@@ -32,6 +32,7 @@
             h2 {
                 text-align: center;
                 margin: 20px 0; /* Espacement au-dessus et en dessous de RACINE */
+                color: #B0B0B0; /* Gris clair */
             }
 
             header a {
@@ -66,7 +67,14 @@
             .member p {
                 margin-bottom: 10px; /* Ajoute un espace entre le texte et l'image */
                 font-weight: bold; /* Rend le texte en gras */
-                font-size: 1rem; /* La taille de la police */
+                font-size: 1.5rem; /* La taille de la police */
+                color: brown;
+                text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Ombre grise avec un léger flou */
+            }
+
+            .p2 {
+                color: rgba(204, 7, 7, 0.674);
+                text-shadow: 2px 2px 4px rgba(218, 215, 215, 0.93); /* Ombre gris clair avec un léger flou */
             }
 
             .member img {
@@ -78,36 +86,39 @@
     </head>
     <body>
         <header>
+            <br>
             <h1>Membres du Groupe</h1>
 			<br>
 			<!-- Navigation link back to the home page -->
 			<a href="index.html">Retour à la page d'accueil</a>
             <!-- Navigation link back to the menu -->
-            <a href="tableaux.html">Tableaux</a>
+            <a href="Projet/tableaux/tableaux.html">Tableaux</a>
 		</header>
         <br>
         <br>
         <br>
         <main>
-            <h2>RACINE</h2>
+            <h2>
+                RACINE (Français) | RAÍZ (Español) | ROOT (English) | 根 (中文)
+            </h2>            
             <br>
             <br>
                 <div class="image-grid">
                     <div class="member">
                         <p>CHENG Dingding 成鼎鼎</p>
-                        <img src="assets/img/dd.jpeg" alt="Image de CHENG Dingding 成鼎鼎">
+                        <img src="Projet/assets/img/dd.jpeg" alt="Image de CHENG Dingding 成鼎鼎">
                     </div>
                     <div class="member">
                         <p>DA SILVA Jean-Charles</p>
-                        <img src="assets/img/jc.jpeg" alt="Image de DA SILVA Jean-Charles">
+                        <img src="Projet/assets/img/jc.jpeg" alt="Image de DA SILVA Jean-Charles">
                     </div>
                     <div class="member">
-                        <p>WANG Xiaobo 王曉波</p>
-                        <img src="assets/img/xb.jpg" alt="Image de WANG Xiaobo 王曉波">
+                        <p class="p2">WANG Xiaobo 王曉波</p>
+                        <img src="Projet/assets/img/xb.jpg" alt="Image de WANG Xiaobo 王曉波">
                     </div>
                     <div class="member">
-                        <p>KULIKOVA Natalia</p>
-                        <img src="assets/img/nk.jpg" alt="Image de KULIKOVA Natalia">
+                        <p class="p2">KULIKOVA Natalia</p>
+                        <img src="Projet/assets/img/nk.jpg" alt="Image de KULIKOVA Natalia">
                     </div>
                 </div>
             <br>

@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
     <head>
         <meta charset="UTF-8" />
-        <meta name="description" content="Explore the meaning and origins of English idioms with our interactive and user-friendly website." />
+        <meta name="description" content="Ce projet explore des analyses autour du mot 'racine' en quatre langues : français, espagnol, anglais et chinois." />
         <meta name="author" content="Natalia Kulikova" />
         <meta name="keywords" content="responsive, html, css & js projects, project, web development, frontend projects, nlp" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <link rel="icon" type=image/x-icon href="assets/icons/favicon_io/favicon.ico" />
+        <link rel="icon" type=image/x-icon href="Projet/assets/icons/favicon_io/favicon.ico" />
         
         <!-- Icône pour appareils Apple -->
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -58,7 +58,7 @@
         <!-- CSS personnalisé -->
         <link rel="stylesheet"
 			type="text/css"
-            href="assets/css/style.css" />
+            href="Projet/assets/css/style.css" />
 
         <title>Projet PPE 2024-2025</title>
 
@@ -68,7 +68,7 @@
         <header>
             <nav class="header" id="header">
                 <a href="#home" class="logo">
-                    <img src="assets/logo/vmm_logo.png" alt="English Idiom Explorer Website logo">
+                    <img src="Projet/assets/logo/vmm_logo.png" alt="English Idiom Explorer Website logo">
                 </a>
             </nav>
             <nav class="navbar" id="navBar">
@@ -95,33 +95,36 @@
                             <div class="dropdown-1">
                                 <button id="journal-de-bord" aria-expanded="false" aria-controls="journal-section">
                                     
-                                    <p class="dropdown_button">Zone<br> de Recherche</p>
+                                    <p class="dropdown_button">Journal<br> de Bord</p>
                                 </button>
                                 <div class="expandable-section" id="journal-section" aria-hidden="true">
                                     <p>Défiler pour voir les options…</p>
                                 </div>
                                 <div class="content">
-                                    <a href="#">Français</a>
+                                    <a href="#">Journal de Bord 1</a>
                                     <div class="divider"></div>
-                                    <a href="#">Anglais</a>
+                                    <a href="#">Journal de Bord 2</a>
                                     <div class="divider"></div>
-                                    <a href="#">Chinois</a>
+                                    <a href="#">Journal de Bord 3</a>
                                     <div class="divider"></div>
-                                    <a href="raiz_accueil.html">Espagnol</a>
+                                    <a href="#">Journal de Bord 4</a>
                                 </div>
                             </div>
                         </li>
 
-                        <!-- Site final -->
+                        <!-- Nuages de Mots -->
                         <li>
-                            <a href="#">
-                                <img src="assets/icons/root.png" width="35px" alt="root icon">
-                                Site final
+                            <a href="nuages_de_mots.html">
+                                Nuages de Mots
                             </a>
                         </li>
                         
                         <!-- Nous sommes -->
-                        <li><A href="membresDuGroupe.html">Nous<br> sommes…</a></li>
+                        <li>
+                            <a href="membresDuGroupe.html">
+                            Nous<br> sommes…
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <br>
@@ -131,7 +134,7 @@
             <div class="menu-right">
                 <a href="#footer" class="menu-btn go-down" onclick="window.scrollTo(0, document.body.scrollHeight)">
                     <div class="icon-container">
-                        <img src="assets/icons/bottom.png" width="55px" alt="go-to-bottom icon">
+                        <img src="Projet/assets/icons/bottom.png" width="35px" alt="go-to-bottom icon">
                     </div>
                     <br>
                     <span>Bas de la page</span>
@@ -150,22 +153,22 @@
                 <ul class="other_links">
                     <li>
                         <a href="#" class="expand-link" data-section="project-section" onclick="toggleExpandableSection('project-section')">
-                            <img src="assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 1
+                            <img src="Projet/assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 1
+                        </a>
+                    </li>
+                    <div class="divider"></div>
+                    <li><a href="#Projet/journaux/journal_spanish.html" class="expand-link" data-section="project-section" onclick="toggleExpandableSection('project-section')">
+                        <img src="Projet/assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 2
                         </a>
                     </li>
                     <div class="divider"></div>
                     <li><a href="#" class="expand-link" data-section="project-section" onclick="toggleExpandableSection('project-section')">
-                        <img src="assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 2
+                        <img src="Projet/assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 3
                         </a>
                     </li>
                     <div class="divider"></div>
                     <li><a href="#" class="expand-link" data-section="project-section" onclick="toggleExpandableSection('project-section')">
-                        <img src="assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 3
-                        </a>
-                    </li>
-                    <div class="divider"></div>
-                    <li><a href="#" class="expand-link" data-section="project-section" onclick="toggleExpandableSection('project-section')">
-                        <img src="assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 4
+                        <img src="Projet/assets/icons/root.png" width="35px" alt="root icon"> Journal de Bord 4
                         </a>
                     </li>
                 </ul>
@@ -175,6 +178,14 @@
         <main>
             <section id="home">
                 <h1>Accueil</h1>
+                <br>
+                <h2>
+                    RACINE (Français) | RAÍZ (Español) | ROOT (English) | 根 (中文)
+                </h2>
+                <hr> <!-- Ligne de séparation -->
+                <h3>
+                    Le projet a pour objectif d'analyser l'utilisation du mot "racine" dans plusieurs langues (français, espagnol, anglais, et chinois). En particulier, il s'agit de détecter et de compter les occurrences de ce mot dans divers textes, tout en extrayant des contextes significatifs où il est utilisé.
+                </h3>
                 <p>…</p>
                 <br>
                 <br>
@@ -182,15 +193,62 @@
             
             <section id="about">
                 <h1>À propos du projet</h1>
-                <p>…</p>
+                <br>
+                <h2>Résumé du Projet NLP : Analyse autour du mot "racine"</h2>
+                <hr> <!-- Ligne de séparation -->
+                
+                <h3>Objectif principal :</h3>
+                <p>Ce projet analyse l’utilisation du mot "racine" dans plusieurs langues (français, espagnol, anglais, et chinois) en détectant et comptant ses occurrences dans différents textes, et en extrayant des contextes où il est utilisé.</p>            
+                
             </section>
 
-            <section id="contact" class="expandable-section">
-                <h1>>Qui sommes-nous ?</h1>
-                <p>…</p>
-            </section>
         </main>
         <footer id="footer">
+            <br>
+            <div class="presentation_projet">
+            
+                <h3>Langues ciblées :</h3>
+                <br>
+                <ul>
+                    <li>Français</li>
+                    <li>Espagnol</li>
+                    <li>Anglais</li>
+                    <li>Chinois</li>
+                </ul>
+            
+                <br>
+                <h3>Étapes principales :</h3>
+                <ul>
+                    <li>Téléchargement des pages web et extraction du texte.</li>
+                    <li>Analyse des occurrences du mot "racine".</li>
+                    <li>Extraction des contextes autour de chaque occurrence.</li>
+                    <li>Création de concordances sous forme de tableau HTML.</li>
+                </ul>
+            
+                <h3>Résultats attendus :</h3>
+                <ul>
+                    <li>Comptage des occurrences du mot "racine".</li>
+                    <li>Création de tableaux de concordance pour analyser son usage.</li>
+                </ul>
+            
+                <h3>Technologies utilisées :</h3>
+                <ul>
+                    <li>Linux / MacOS, curl, lynx, grep, Bash scripting.</li>
+                </ul>
+            
+                <h3>Fichiers de sortie :</h3>
+                <ul>
+                    <li>aspirations/ : Fichiers HTML téléchargés.</li>
+                    <li>dumps-text/ : Fichiers texte extraits.</li>
+                    <li>contextes/ : Fichiers texte avec les contextes extraits.</li>
+                    <li>concordances/ : Tables de concordance HTML.</li>
+                </ul>
+            
+                <h3>Conclusion :</h3>
+                <p>Le projet fournit une analyse détaillée du mot "racine" dans différents textes et langues, permettant d'examiner ses significations contextuelles et d'enrichir les recherches en traitement automatique des langues.</p>
+            </div>            
+
+            <br>
             <div class="back-top hide" title="back to top">
                 <br>
                 <nav>
@@ -300,6 +358,6 @@
         <script src="https://cdn.linearicons.com/free/1.0.0/svgembedder.min.js"></script>
         <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
         <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-        <script src="assets/js/script_.js"></script>     
+        <script src="Projet/assets/js/script_.js"></script>     
     </body>
 </html>

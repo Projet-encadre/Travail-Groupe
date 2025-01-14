@@ -58,6 +58,12 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Oswald', sans-serif;
 }
 
+.presentation_projet {
+    color: #000;
+    text-shadow: 2px 2px 4px hwb(51 60% 9%);
+    font-weight: bold;  /* Texte en gras */
+}
+
 /* Classe spéciale pour appliquer la police Aladin */
 .special-heading {
     font-family: 'Aladin', cursive;
@@ -100,7 +106,7 @@ header.sticky {
 
 header.sticky .menu-btn {
     padding: 12px 10px;
-    margin: 7px 2px;
+    margin: 7px -25px;
     position: relative; /* Garde sa position relative pour éviter tout déplacement non voulu */
     top: 0; /* Réinitialise tout décalage vertical */
     transform: translateX(0); /* Empêche tout décalage horizontal */
@@ -127,13 +133,14 @@ header.sticky .dropdown_button {
 .header .logo img {
     position: relative;
     height: 100%; /* Le logo occupe toute la hauteur du header */
-    max-height: 5.8rem; /* Hauteur maximale pour éviter un débordement */
-    max-width: 138px; /* Largeur maximale */
+    max-height: 8rem; /* Hauteur maximale pour éviter un débordement */
+    max-width: 148px; /* Largeur maximale */
     width: 100%; /* Occupe toute la largeur */
     object-fit: contain; /* Garde les proportions du logo */
-    margin: 0; 
+    margin: 3px;
     padding: 0;
     margin-left: -25px; /* Un léger décalage */
+    top: 35px; /* Ajuste la position verticale du logo */
     z-index: 1200; /* Suffisant pour apparaître en haut. */
     cursor: pointer;
 }
@@ -708,7 +715,7 @@ button {
     transform: rotate(-45deg) translate(5px, -5px);
 }
 
-/*------*/
+/* le bouton pour ouvrir le menu de droite */
 #menu-icon 
 {
     z-index: 10001;
@@ -729,7 +736,7 @@ button {
 {
     display: inline-block;
     padding: 10px;
-    margin: 22px 3px;
+    margin: 15px -35px;
     background: linear-gradient(135deg, #e1bac5 0%, var(--dark-sand-color) 100%);
     color: var(--bg-color);
     font-size: 20px;
@@ -1108,7 +1115,7 @@ div:nth-child(2) {
     border-radius: 10px;
 }
 .d {
-    height: 50%;
+    height: 85%;
     width: 100%;
     padding-bottom: 0px;
     color: var(--text-color);
@@ -1120,7 +1127,8 @@ div:nth-child(2) {
     flex-direction: column;
     align-items: center;
     height: 100%;
-    width: 45%;
+    width: 55%;
+    margin-bottom: 20px; /* Ajoute de l'espace avec l'élément suivant */
 }
 .sub1 span {
     margin-bottom: 10px;
